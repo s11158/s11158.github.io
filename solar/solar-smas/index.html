@@ -85,6 +85,10 @@
   nav .links{display:flex;gap:28px;font-size:13.5px;letter-spacing:.03em}
   nav .links a{text-decoration:none;color:var(--muted)}
   nav .links a:hover{color:var(--ink)}
+  .lang{display:inline-flex;border:1px solid var(--line);border-radius:100px;overflow:hidden;font-size:12px;font-weight:700;letter-spacing:.04em}
+  .lang a{padding:6px 12px;text-decoration:none;color:var(--muted)}
+  .lang a.on{background:var(--dark);color:#fff}
+  nav .nav-right{display:flex;align-items:center;gap:16px}
   @media(max-width:860px){nav .links{display:none}}
 
   /* HERO */
@@ -219,7 +223,10 @@
       <a href="#price">Стоимость</a>
       <a href="#faq">Вопросы</a>
     </div>
-    <a href="#booking" class="btn" style="padding:12px 24px">Записаться</a>
+    <div class="nav-right">
+      <div class="lang"><a href="../solar-smas-en/">EN</a><a href="../solar-smas/" class="on">RU</a></div>
+      <a href="#booking" class="btn" style="padding:12px 24px">Записаться</a>
+    </div>
   </div>
 </nav>
 
