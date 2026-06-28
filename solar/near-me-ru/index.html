@@ -160,7 +160,11 @@
   .zone h3{font-size:18px;margin-bottom:6px}
   .zone .ztime{font-size:13px;color:var(--gold);font-weight:700;margin-bottom:14px;display:block}
   .pill-list{display:flex;flex-wrap:wrap;gap:10px}
-  .pill{background:var(--paper);border:1px solid var(--line);border-radius:100px;padding:9px 16px;font-size:14px}
+  .pill{background:var(--paper);border:1px solid var(--line);border-radius:100px;padding:9px 16px;font-size:14px;position:relative;cursor:default;transition:.2s}
+  .pill[data-t]{cursor:help}
+  .pill[data-t]:hover,.pill[data-t]:focus{border-color:var(--gold);background:var(--gold-soft);outline:none}
+  .pill[data-t]:hover::after,.pill[data-t]:focus::after{content:attr(data-t);position:absolute;left:50%;bottom:calc(100% + 9px);transform:translateX(-50%);background:var(--dark);color:#fff;font-size:12px;font-weight:600;letter-spacing:.01em;white-space:nowrap;padding:7px 11px;border-radius:9px;z-index:30;box-shadow:0 8px 22px -8px rgba(0,0,0,.45);pointer-events:none}
+  .pill[data-t]:hover::before,.pill[data-t]:focus::before{content:"";position:absolute;left:50%;bottom:calc(100% + 4px);transform:translateX(-50%);border:5px solid transparent;border-top-color:var(--dark);z-index:30;pointer-events:none}
 
   .dark-band{background:var(--dark);color:#efe9df}
   .dark-band h2{color:#fff}
@@ -319,10 +323,10 @@
       <h3>Центральный Дубай</h3>
       <span class="ztime">выезжаем быстрее всего · часто в тот же день</span>
       <div class="pill-list">
-        <span class="pill">Downtown Dubai</span><span class="pill">Business Bay</span><span class="pill">DIFC</span><span class="pill">Zabeel</span>
-        <span class="pill">City Walk</span><span class="pill">Al Wasl</span><span class="pill">Jumeirah 1</span><span class="pill">Jumeirah 2</span>
-        <span class="pill">Jumeirah 3</span><span class="pill">Meydan</span><span class="pill">Nad Al Sheba</span><span class="pill">Sobha Hartland / MBR City</span>
-        <span class="pill">Al Jaddaf</span><span class="pill">Dubai Healthcare City</span><span class="pill">Design District (d3)</span><span class="pill">Dubai Creek Harbour</span><span class="pill">Ras Al Khor</span>
+        <span class="pill" tabindex="0" data-t="≈ 10–15 мин в пути">Downtown Dubai</span><span class="pill" tabindex="0" data-t="≈ 10–13 мин в пути">Business Bay</span><span class="pill" tabindex="0" data-t="≈ 15–20 мин в пути">DIFC</span><span class="pill" tabindex="0" data-t="≈ 12–16 мин в пути">Zabeel</span>
+        <span class="pill" tabindex="0" data-t="≈ 13–17 мин в пути">City Walk</span><span class="pill" tabindex="0" data-t="≈ 15–18 мин в пути">Al Wasl</span><span class="pill" tabindex="0" data-t="≈ 15–18 мин в пути">Jumeirah 1</span><span class="pill" tabindex="0" data-t="≈ 17–20 мин в пути">Jumeirah 2</span>
+        <span class="pill" tabindex="0" data-t="≈ 18–22 мин в пути">Jumeirah 3</span><span class="pill" tabindex="0" data-t="≈ 5–8 мин в пути">Meydan</span><span class="pill" tabindex="0" data-t="≈ 5–8 мин в пути">Nad Al Sheba</span><span class="pill" tabindex="0" data-t="мы здесь · 0–5 мин">Sobha Hartland / MBR City</span>
+        <span class="pill" tabindex="0" data-t="≈ 8–10 мин в пути">Al Jaddaf</span><span class="pill" tabindex="0" data-t="≈ 8–12 мин в пути">Dubai Healthcare City</span><span class="pill" tabindex="0" data-t="≈ 9–11 мин в пути">Design District (d3)</span><span class="pill" tabindex="0" data-t="≈ 12–16 мин в пути">Dubai Creek Harbour</span><span class="pill" tabindex="0" data-t="≈ 6–8 мин в пути">Ras Al Khor</span>
       </div>
     </div>
 
@@ -330,10 +334,10 @@
       <h3>Новый Дубай · Марина и побережье</h3>
       <span class="ztime">регулярные выезды · согласуем удобное окно</span>
       <div class="pill-list">
-        <span class="pill">Dubai Marina</span><span class="pill">JBR</span><span class="pill">Bluewaters</span><span class="pill">Palm Jumeirah</span>
-        <span class="pill">JLT</span><span class="pill">Emirates Hills</span><span class="pill">The Meadows</span><span class="pill">The Springs</span>
-        <span class="pill">The Lakes</span><span class="pill">Jumeirah Islands</span><span class="pill">The Greens &amp; Views</span><span class="pill">Barsha Heights (Tecom)</span>
-        <span class="pill">Media &amp; Internet City</span><span class="pill">Al Barsha</span><span class="pill">Umm Suqeim</span>
+        <span class="pill" tabindex="0" data-t="≈ 25–35 мин в пути">Dubai Marina</span><span class="pill" tabindex="0" data-t="≈ 28–38 мин в пути">JBR</span><span class="pill" tabindex="0" data-t="≈ 28–38 мин в пути">Bluewaters</span><span class="pill" tabindex="0" data-t="≈ 25–35 мин в пути">Palm Jumeirah</span>
+        <span class="pill" tabindex="0" data-t="≈ 25–32 мин в пути">JLT</span><span class="pill" tabindex="0" data-t="≈ 22–30 мин в пути">Emirates Hills</span><span class="pill" tabindex="0" data-t="≈ 22–30 мин в пути">The Meadows</span><span class="pill" tabindex="0" data-t="≈ 22–30 мин в пути">The Springs</span>
+        <span class="pill" tabindex="0" data-t="≈ 22–30 мин в пути">The Lakes</span><span class="pill" tabindex="0" data-t="≈ 25–33 мин в пути">Jumeirah Islands</span><span class="pill" tabindex="0" data-t="≈ 22–28 мин в пути">The Greens &amp; Views</span><span class="pill" tabindex="0" data-t="≈ 22–28 мин в пути">Barsha Heights (Tecom)</span>
+        <span class="pill" tabindex="0" data-t="≈ 25–32 мин в пути">Media &amp; Internet City</span><span class="pill" tabindex="0" data-t="≈ 20–28 мин в пути">Al Barsha</span><span class="pill" tabindex="0" data-t="≈ 20–26 мин в пути">Umm Suqeim</span>
       </div>
     </div>
 
@@ -341,9 +345,9 @@
       <h3>Загородные комьюнити</h3>
       <span class="ztime">выезжаем по записи</span>
       <div class="pill-list">
-        <span class="pill">Dubai Hills Estate</span><span class="pill">Arjan</span><span class="pill">Al Furjan</span><span class="pill">Discovery Gardens</span>
-        <span class="pill">JVC</span><span class="pill">JVT</span><span class="pill">Motor City</span><span class="pill">Dubai Sports City</span>
-        <span class="pill">Studio City</span><span class="pill">Damac Hills</span><span class="pill">Mudon</span><span class="pill">Town Square</span><span class="pill">Remraam</span>
+        <span class="pill" tabindex="0" data-t="≈ 15–22 мин в пути">Dubai Hills Estate</span><span class="pill" tabindex="0" data-t="≈ 20–28 мин в пути">Arjan</span><span class="pill" tabindex="0" data-t="≈ 28–35 мин в пути">Al Furjan</span><span class="pill" tabindex="0" data-t="≈ 28–35 мин в пути">Discovery Gardens</span>
+        <span class="pill" tabindex="0" data-t="≈ 22–30 мин в пути">JVC</span><span class="pill" tabindex="0" data-t="≈ 24–32 мин в пути">JVT</span><span class="pill" tabindex="0" data-t="≈ 22–30 мин в пути">Motor City</span><span class="pill" tabindex="0" data-t="≈ 24–32 мин в пути">Dubai Sports City</span>
+        <span class="pill" tabindex="0" data-t="≈ 24–32 мин в пути">Studio City</span><span class="pill" tabindex="0" data-t="≈ 28–35 мин в пути">Damac Hills</span><span class="pill" tabindex="0" data-t="≈ 28–35 мин в пути">Mudon</span><span class="pill" tabindex="0" data-t="≈ 28–38 мин в пути">Town Square</span><span class="pill" tabindex="0" data-t="≈ 30–40 мин в пути">Remraam</span>
       </div>
     </div>
 
@@ -351,8 +355,8 @@
       <h3>Восточный и старый Дубай</h3>
       <span class="ztime">выезжаем по записи</span>
       <div class="pill-list">
-        <span class="pill">Mirdif</span><span class="pill">Dubai Silicon Oasis</span><span class="pill">Academic City</span><span class="pill">Dubai Festival City</span>
-        <span class="pill">International City</span><span class="pill">Deira</span><span class="pill">Bur Dubai</span><span class="pill">Al Karama</span><span class="pill">Oud Metha</span>
+        <span class="pill" tabindex="0" data-t="≈ 15–22 мин в пути">Mirdif</span><span class="pill" tabindex="0" data-t="≈ 15–22 мин в пути">Dubai Silicon Oasis</span><span class="pill" tabindex="0" data-t="≈ 18–25 мин в пути">Academic City</span><span class="pill" tabindex="0" data-t="≈ 12–18 мин в пути">Dubai Festival City</span>
+        <span class="pill" tabindex="0" data-t="≈ 15–22 мин в пути">International City</span><span class="pill" tabindex="0" data-t="≈ 18–25 мин в пути">Deira</span><span class="pill" tabindex="0" data-t="≈ 15–20 мин в пути">Bur Dubai</span><span class="pill" tabindex="0" data-t="≈ 14–18 мин в пути">Al Karama</span><span class="pill" tabindex="0" data-t="≈ 12–16 мин в пути">Oud Metha</span>
       </div>
     </div>
 
