@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Калькулятор подбора персонала в Дубае — TLNT</title>
+<meta name="description" content="Узнайте ориентир по зарплате, стоимости и сроку подбора сотрудника в Дубае. Бесплатно, за 1 минуту.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Nunito+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{--accent:#c8a878;background:#fbf8f3;color:#4a443d;font-family:'Nunito Sans',sans-serif;font-size:17px;line-height:1.6;-webkit-font-smoothing:antialiased}
+  h1,h2,h3{font-family:'Cormorant Garamond',serif;font-weight:500;line-height:1.1;color:#3f3a33}
+  em{font-style:italic;color:var(--accent)}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:680px;margin:0 auto;padding:0 22px}
+  nav{border-bottom:1px solid #ece4d8;background:rgba(251,248,243,.85);backdrop-filter:blur(12px);position:sticky;top:0;z-index:10}
+  nav .wrap{display:flex;align-items:center;justify-content:space-between;height:64px}
+  .logo{font-family:'Cormorant Garamond',serif;font-size:26px;font-weight:600;letter-spacing:.18em}
+  .logo b{color:var(--accent)}
+  nav a.back{font-size:14px;color:#7c7468;font-weight:600}
+  header{text-align:center;padding:54px 0 30px;background:radial-gradient(120% 80% at 50% 0%,#f6e3df 0%,#f8eee6 35%,#fbf8f3 70%)}
+  header .eyebrow{font-size:11.5px;letter-spacing:.24em;text-transform:uppercase;color:var(--accent);font-weight:700;margin-bottom:16px}
+  header h1{font-size:clamp(32px,5.5vw,46px);margin-bottom:14px;text-wrap:balance}
+  header p{color:#7c7468;font-size:17px;max-width:480px;margin:0 auto}
+  .card{background:#fff;border:1px solid #ece4d8;border-radius:24px;box-shadow:0 14px 44px rgba(150,120,90,.09);padding:clamp(26px,4vw,40px);margin:34px 0}
+  label{display:block;font-size:13px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:#9a9082;margin:0 0 10px}
+  select,.seg{width:100%;font-family:inherit}
+  select{font-size:17px;padding:15px 16px;border:1.5px solid #e6dccc;border-radius:14px;background:#fdfbf7;color:#3f3a33;cursor:pointer;appearance:none;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='20' height='20' viewBox='0 0 24 24' fill='none' stroke='%23c8a878' stroke-width='2'%3E%3Cpath d='M6 9l6 6 6-6'/%3E%3C/svg%3E");background-repeat:no-repeat;background-position:right 14px center}
+  .seg{display:flex;gap:8px;margin-top:0}
+  .seg button{flex:1;padding:13px 8px;border:1.5px solid #e6dccc;border-radius:14px;background:#fdfbf7;color:#7c7468;font-family:inherit;font-size:14.5px;font-weight:600;cursor:pointer;transition:.18s}
+  .seg button.on{background:#f6e3df;border-color:var(--accent);color:#7a5a3c}
+  .field{margin-bottom:24px}
+  .result{margin-top:8px}
+  .rgrid{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:18px}
+  @media(max-width:480px){.rgrid{grid-template-columns:1fr}}
+  .rbox{background:#f7efe2;border-radius:16px;padding:20px}
+  .rbox.sage{background:#e8f0e6}
+  .rbox .k{font-size:12.5px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;color:#9a8a6e;margin-bottom:8px}
+  .rbox.sage .k{color:#789072}
+  .rbox .v{font-family:'Cormorant Garamond',serif;font-size:clamp(26px,4.5vw,34px);color:#3f3a33;line-height:1.05}
+  .rbox .sub{font-size:13px;color:#8a8175;margin-top:5px}
+  .note{font-size:13px;color:#a79e90;text-align:center;margin-top:6px}
+  .cta{display:flex;align-items:center;justify-content:center;gap:9px;background:var(--accent);color:#fff;font-weight:700;font-size:16px;padding:16px;border-radius:100px;width:100%;margin-top:20px;box-shadow:0 10px 24px rgba(200,168,120,.3);border:none;cursor:pointer;font-family:inherit}
+  .cta:hover{background:#bb9968}
+  .trust{display:flex;justify-content:center;gap:10px 26px;flex-wrap:wrap;color:#8a8175;font-size:14px;margin:6px 0 40px}
+  .trust span{display:flex;align-items:center;gap:7px}
+  .dot{width:6px;height:6px;border-radius:50%;background:var(--accent)}
+  footer{border-top:1px solid #ece4d8;padding:30px 0;text-align:center;color:#a79e90;font-size:13px}
+</style>
+</head>
+<body>
+<nav><div class="wrap"><div class="logo"><b>TLNT</b></div><a class="back" href="../">← На главную</a></div></nav>
+
+<header>
+  <div class="wrap">
+    <div class="eyebrow">Бесплатно · 1 минута</div>
+    <h1>Сколько стоит нанять <em>сотрудника в Дубае</em></h1>
+    <p>Выберите позицию — покажем ориентир по зарплате, стоимости подбора и сроку. Без обязательств.</p>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="trust">
+    <span><span class="dot"></span>Срок ~2 недели</span>
+    <span><span class="dot"></span>Гарантия замены 2 месяца</span>
+    <span><span class="dot"></span>Оплата 50/50</span>
+  </div>
+
+  <div class="card">
+    <div class="field">
+      <label for="pos">Какую позицию ищете?</label>
+      <select id="pos">
+        <option value="admin">Администратор салона</option>
+        <option value="nail">Мастер маникюра</option>
+        <option value="estet">Косметолог-эстетист</option>
+        <option value="doctor">Врач-косметолог (DHA)</option>
+        <option value="spa">Массажист / SPA-терапевт</option>
+        <option value="hair">Парикмахер-стилист</option>
+        <option value="salonmgr">Управляющий салона</option>
+        <option value="clinicmgr">Управляющий клиники</option>
+        <option value="pa">Личный ассистент</option>
+      </select>
+    </div>
+    <div class="field">
+      <label>Уровень специалиста</label>
+      <div class="seg" id="seg">
+        <button data-lvl="0" class="on">Начинающий</button>
+        <button data-lvl="1">Опытный</button>
+        <button data-lvl="2">Сильный</button>
+      </div>
+    </div>
+
+    <div class="result">
+      <div class="rgrid">
+        <div class="rbox"><div class="k">Зарплата сотрудника</div><div class="v" id="salary">—</div><div class="sub">AED в месяц · ориентир по рынку</div></div>
+        <div class="rbox sage"><div class="k">Стоимость подбора</div><div class="v" id="fee">—</div><div class="sub">наш гонорар = 1 оклад</div></div>
+      </div>
+      <div class="rbox" style="background:#fdfbf7;border:1px solid #ece4d8"><div class="k">Срок подбора</div><div class="v" id="term">~2 недели</div><div class="sub" id="termsub">первых кандидатов покажем в первые дни</div></div>
+      <button class="cta" id="cta">Получить точный расчёт в WhatsApp</button>
+      <div class="note">Это ориентир. Точную вилку и срок назовём бесплатно на коротком созвоне.</div>
+    </div>
+  </div>
+</div>
+
+<footer>tlnt.ae · бережный подбор персонала в ОАЭ</footer>
+
+<script>
+  var WA = "971585783353";
+  var DATA = {
+    admin:    {n:"Администратор салона",      s:[3500,4500,6000],   t:"~2 недели"},
+    nail:     {n:"Мастер маникюра",           s:[3000,4500,6500],   t:"~2 недели"},
+    estet:    {n:"Косметолог-эстетист",       s:[4000,6500,9000],   t:"~2 недели"},
+    doctor:   {n:"Врач-косметолог (DHA)",     s:[15000,22000,35000],t:"2–4 недели"},
+    spa:      {n:"Массажист / SPA-терапевт",  s:[3500,5000,7000],   t:"~2 недели"},
+    hair:     {n:"Парикмахер-стилист",        s:[4000,6500,9000],   t:"~2 недели"},
+    salonmgr: {n:"Управляющий салона",        s:[8000,12000,18000], t:"2–3 недели"},
+    clinicmgr:{n:"Управляющий клиники",       s:[12000,18000,28000],t:"2–4 недели"},
+    pa:       {n:"Личный ассистент",          s:[5000,8000,12000],  t:"~2 недели"}
+  };
+  var lvl = 0;
+  function fmt(n){ return n.toLocaleString("ru-RU"); }
+  function render(){
+    var d = DATA[document.getElementById("pos").value];
+    var sal = d.s[lvl];
+    document.getElementById("salary").textContent = fmt(sal);
+    document.getElementById("fee").textContent = fmt(sal) + " AED";
+    document.getElementById("term").textContent = d.t;
+  }
+  document.getElementById("pos").addEventListener("change", render);
+  document.querySelectorAll("#seg button").forEach(function(b){
+    b.addEventListener("click", function(){
+      document.querySelectorAll("#seg button").forEach(function(x){x.classList.remove("on")});
+      b.classList.add("on"); lvl = +b.dataset.lvl; render();
+    });
+  });
+  document.getElementById("cta").addEventListener("click", function(){
+    var d = DATA[document.getElementById("pos").value];
+    var lvlName = ["начинающий","опытный","сильный"][lvl];
+    var msg = "Здравствуйте! Хочу подобрать сотрудника: " + d.n + " (" + lvlName + "). Можно точный расчёт по зарплате и срокам?";
+    window.open("https://wa.me/" + WA + "?text=" + encodeURIComponent(msg), "_blank");
+  });
+  render();
+</script>
+</body>
+</html>
