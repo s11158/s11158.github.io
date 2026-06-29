@@ -1,6 +1,6 @@
 (function () {
   var PHONE = "971585783353";
-  var WA_URL = "https://wa.me/" + PHONE;
+  var WA_URL = "https://wa.me/" + PHONE + "?text=" + encodeURIComponent("Добрый день, ");
   var TG_URL = "https://t.me/+" + PHONE;
   var WORKER = "https://tlnt-lead-bot.b3gg.workers.dev";
 
