@@ -34,6 +34,24 @@
     '<a class="wa" href="' + WA_URL + '" target="_blank" rel="noopener" aria-label="Написать в WhatsApp">' + WA_SVG + "</a>";
   document.body.appendChild(box);
 
+  // ---- structured data (schema.org) ----
+  try {
+    var ld = {
+      "@context": "https://schema.org",
+      "@type": "EmploymentAgency",
+      "name": "TLNT",
+      "url": "https://tlnt.ae",
+      "telephone": "+971585783353",
+      "description": "Turnkey staff recruitment for businesses in Dubai and the UAE — beauty, medical, management and personal staff.",
+      "areaServed": { "@type": "Country", "name": "United Arab Emirates" },
+      "knowsLanguage": ["ru", "en"]
+    };
+    var ls = document.createElement("script");
+    ls.type = "application/ld+json";
+    ls.text = JSON.stringify(ld);
+    document.head.appendChild(ls);
+  } catch (e) {}
+
   // ---- click tracking (one ping per channel+page per session) ----
   function track(ch) {
     try {
