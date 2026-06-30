@@ -76,11 +76,13 @@
       var payload = JSON.stringify({ type: "click", channel: ch, page: location.pathname });
       navigator.sendBeacon(WORKER, new Blob([payload], { type: "text/plain" }));
       try { if (window.fbq) fbq("track", "Lead", { content_name: ch }); } catch (e) {}
+      try { if (window.gtag) gtag("event", "conversion", { send_to: "AW-18241263216/suk6CJf-ksgcEPCsjvpD" }); } catch (e) {}
     } catch (e) {}
   }
   // fire Lead on lead-form submit too
   document.addEventListener("submit", function () {
     try { if (window.fbq) fbq("track", "Lead", { content_name: "form" }); } catch (e) {}
+    try { if (window.gtag) gtag("event", "conversion", { send_to: "AW-18241263216/suk6CJf-ksgcEPCsjvpD" }); } catch (e) {}
   }, true);
   document.addEventListener(
     "click",
