@@ -14,6 +14,15 @@
     gtag("config", "AW-18241263216");
   } catch (e) {}
 
+  // ---- Cloudflare Web Analytics ----
+  try {
+    var cf = document.createElement("script");
+    cf.defer = true;
+    cf.src = "https://static.cloudflareinsights.com/beacon.min.js";
+    cf.setAttribute("data-cf-beacon", '{"token": "d83e13984a6f48269e27fb3b111092dc"}');
+    document.head.appendChild(cf);
+  } catch (e) {}
+
   var PHONE = "971585783353";
   var WA_URL = "https://wa.me/" + PHONE + "?text=" + encodeURIComponent("Добрый день, ");
   var TG_URL = "https://t.me/+" + PHONE;
