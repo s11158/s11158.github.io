@@ -3,6 +3,17 @@
   !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
   try { fbq('init', '1742307803770070'); fbq('track', 'PageView'); } catch (e) {}
 
+  // ---- Google tag (gtag.js) ----
+  try {
+    var gt = document.createElement("script");
+    gt.async = true; gt.src = "https://www.googletagmanager.com/gtag/js?id=AW-18241263216";
+    document.head.appendChild(gt);
+    window.dataLayer = window.dataLayer || [];
+    window.gtag = window.gtag || function () { window.dataLayer.push(arguments); };
+    gtag("js", new Date());
+    gtag("config", "AW-18241263216");
+  } catch (e) {}
+
   var PHONE = "971585783353";
   var WA_URL = "https://wa.me/" + PHONE + "?text=" + encodeURIComponent("Добрый день, ");
   var TG_URL = "https://t.me/+" + PHONE;
