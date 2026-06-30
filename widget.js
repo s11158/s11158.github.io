@@ -1,4 +1,8 @@
 (function () {
+  // ---- Meta Pixel ----
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+  try { fbq('init', '1742307803770070'); fbq('track', 'PageView'); } catch (e) {}
+
   var PHONE = "971585783353";
   var WA_URL = "https://wa.me/" + PHONE + "?text=" + encodeURIComponent("Добрый день, ");
   var TG_URL = "https://t.me/+" + PHONE;
@@ -60,8 +64,13 @@
       sessionStorage.setItem(key, "1");
       var payload = JSON.stringify({ type: "click", channel: ch, page: location.pathname });
       navigator.sendBeacon(WORKER, new Blob([payload], { type: "text/plain" }));
+      try { if (window.fbq) fbq("track", "Lead", { content_name: ch }); } catch (e) {}
     } catch (e) {}
   }
+  // fire Lead on lead-form submit too
+  document.addEventListener("submit", function () {
+    try { if (window.fbq) fbq("track", "Lead", { content_name: "form" }); } catch (e) {}
+  }, true);
   document.addEventListener(
     "click",
     function (e) {
