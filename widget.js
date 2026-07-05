@@ -79,6 +79,59 @@
     '<a class="wa" href="' + WA_URL + '" target="_blank" rel="noopener" aria-label="Написать в WhatsApp">' + WA_SVG + "</a>";
   document.body.appendChild(box);
 
+  // ---- inject lead form + sticky mobile CTA on pages that lack them ----
+  function tlntInput(n, ph) {
+    return '<input name="' + n + '" placeholder="' + ph + '" aria-label="' + ph +
+      '" style="padding:14px 16px;border:1px solid #e6dccc;border-radius:12px;font-size:15px;font-family:inherit;background:#fff;color:#3f3a33">';
+  }
+  try {
+    var hasForm = !!document.querySelector("form");
+    var hasMcta = !!document.querySelector(".tlnt-mcta");
+    if (!hasForm) {
+      var sec = document.createElement("section");
+      sec.id = "tlnt-lead";
+      sec.style.cssText = "background:radial-gradient(120% 130% at 50% 0%,#f6e3df 0%,#f4ece2 50%,#fbf8f3 85%);padding:56px 22px;text-align:center";
+      sec.innerHTML =
+        '<div style="max-width:520px;margin:0 auto">' +
+        '<h2 style="font-family:\'Cormorant Garamond\',serif;font-weight:500;font-size:clamp(28px,4vw,40px);color:#3f3a33;margin:0 0 10px">Расскажите, кого вы ищете</h2>' +
+        '<p style="color:#6b6155;margin:0 0 22px">Ответим в течение дня, без спама и обязательств.</p>' +
+        '<form id="tlnt-lf" style="display:flex;flex-direction:column;gap:12px;text-align:left">' +
+        tlntInput("lname", "Ваше имя") +
+        tlntInput("lpos", "Кого ищете? Напр. администратор салона") +
+        tlntInput("lcontact", "Ваш WhatsApp / телефон / Telegram") +
+        '<button type="submit" id="tlnt-lb" style="background:#986e35;color:#fff;font-weight:700;font-size:16px;padding:15px;border:none;border-radius:100px;cursor:pointer;font-family:inherit;box-shadow:0 10px 24px rgba(152,110,53,.28)">Отправить заявку</button>' +
+        '<p style="text-align:center;font-size:13px;line-height:1.6;color:#7a7266;margin:2px 0 0">Ответим в течение дня. Удобнее напрямую? <a href="' + WA_URL + '" style="color:#986e35;font-weight:600">WhatsApp</a> · <a href="' + TG_URL + '" style="color:#986e35;font-weight:600">Telegram</a></p>' +
+        "</form>" +
+        '<div id="tlnt-ok" style="display:none;padding:16px 0"><div style="font-family:\'Cormorant Garamond\',serif;font-size:28px;color:#3f3a33;margin-bottom:6px">Спасибо! 🤍</div><div style="color:#6b6155;font-size:15px">Заявка получена — свяжемся с вами в течение дня.</div></div>' +
+        "</div>";
+      var ft = document.querySelector("footer");
+      if (ft && ft.parentNode) ft.parentNode.insertBefore(sec, ft);
+      else document.body.appendChild(sec);
+      var lf = document.getElementById("tlnt-lf");
+      lf.addEventListener("submit", function (e) {
+        e.preventDefault();
+        var b = document.getElementById("tlnt-lb");
+        b.disabled = true; b.textContent = "Отправляем…";
+        var payload = JSON.stringify({ name: lf.lname.value, position: lf.lpos.value, contact: lf.lcontact.value, message: "страница: " + location.pathname, from: SRC });
+        fetch(WORKER, { method: "POST", headers: { "Content-Type": "application/json" }, body: payload })
+          .then(function (r) { return r.json(); })
+          .then(function (d) { if (!d || !d.ok) throw 0; lf.style.display = "none"; document.getElementById("tlnt-ok").style.display = "block"; })
+          .catch(function () { b.disabled = false; b.textContent = "Отправить заявку"; alert("Не получилось отправить. Напишите, пожалуйста, в WhatsApp."); });
+      });
+    }
+    if (!hasMcta) {
+      var bar = document.createElement("div");
+      bar.style.cssText = "position:fixed;left:0;right:0;bottom:0;z-index:9998;background:rgba(251,248,243,.96);backdrop-filter:blur(8px);border-top:1px solid #ece4d8;padding:10px 14px;justify-content:center;gap:10px";
+      var anchor = document.getElementById("tlnt-lead") ? "#tlnt-lead" : (WA_URL);
+      bar.innerHTML = '<a href="' + anchor + '" style="flex:1;max-width:420px;text-align:center;background:#986e35;color:#fff;font-weight:700;padding:13px;border-radius:100px;text-decoration:none">Оставить заявку</a>';
+      document.body.appendChild(bar);
+      var mq = window.matchMedia("(max-width:820px)");
+      function tlntMctaUpd() { bar.style.display = mq.matches ? "flex" : "none"; document.body.style.paddingBottom = mq.matches ? "66px" : ""; }
+      tlntMctaUpd();
+      try { mq.addEventListener("change", tlntMctaUpd); } catch (e) { mq.addListener(tlntMctaUpd); }
+    }
+  } catch (e) {}
+
   // ---- structured data now lives STATICALLY in each page <head> (not JS-injected) ----
 
   // ---- click tracking (one ping per channel+page per session) ----
