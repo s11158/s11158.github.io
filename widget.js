@@ -28,6 +28,26 @@
   var TG_URL = "https://t.me/+" + PHONE;
   var WORKER = "https://tlnt-lead-bot.b3gg.workers.dev";
 
+  // ---- source attribution (?from= / utm_source), persisted per session ----
+  var SRC = "";
+  try {
+    var qs = new URLSearchParams(location.search);
+    SRC = (qs.get("from") || qs.get("utm_source") || "").slice(0, 60);
+    if (SRC) { try { sessionStorage.setItem("tlnt_src", SRC); } catch (e) {} }
+    else { try { SRC = sessionStorage.getItem("tlnt_src") || ""; } catch (e) {} }
+  } catch (e) {}
+  // one "visit" ping per source per session, so seeded visits are logged even без клика
+  try {
+    if (SRC) {
+      var vkey = "tlnt_vis_" + SRC;
+      if (!sessionStorage.getItem(vkey)) {
+        sessionStorage.setItem(vkey, "1");
+        var vp = JSON.stringify({ type: "visit", from: SRC, page: location.pathname });
+        navigator.sendBeacon(WORKER, new Blob([vp], { type: "text/plain" }));
+      }
+    }
+  } catch (e) {}
+
   // ---- styles ----
   var css =
     ".tlnt-fab{position:fixed;right:20px;bottom:24px;z-index:9999;display:flex;flex-direction:column;gap:12px}" +
@@ -82,7 +102,7 @@
       var key = "tlnt_clk_" + ch + "_" + location.pathname;
       if (sessionStorage.getItem(key)) return;
       sessionStorage.setItem(key, "1");
-      var payload = JSON.stringify({ type: "click", channel: ch, page: location.pathname });
+      var payload = JSON.stringify({ type: "click", channel: ch, page: location.pathname, from: SRC });
       navigator.sendBeacon(WORKER, new Blob([payload], { type: "text/plain" }));
       try { if (window.fbq) fbq("track", "Lead", { content_name: ch }); } catch (e) {}
       try { if (window.gtag) gtag("event", "conversion", { send_to: "AW-18241263216/suk6CJf-ksgcEPCsjvpD" }); } catch (e) {}
