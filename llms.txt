@@ -1,0 +1,49 @@
+# TLNT
+
+> TLNT — кадровое агентство полного цикла для русскоязычного бизнеса в ОАЭ (Дубай и Абу-Даби). Подбираем персонал под ключ для салонов красоты, эстетических и медицинских клиник, а также управленческих и ассистентских ролей. Средний срок закрытия вакансии — около 2 недель. Гарантия бесплатной замены — 2 месяца. Вознаграждение равно одному месячному окладу подобранного сотрудника, оплата 50/50. Работаем дистанционно, помогаем не только найти, но и оформить, ввести в работу и удержать сотрудника.
+
+Основано на реальном опыте подбора для бьюти- и медицинского бизнеса в ОАЭ. Ориентировано на владельцев бизнеса (работодателей), а не на соискателей. Контент двуязычный: русский (основной) и английский (`/en/`).
+
+## Услуги и условия
+- [Услуги и цены (машиночитаемо)](https://tlnt.ae/services.md): вознаграждение = 1 месячный оклад, гарантия замены 2 месяца, срок ~2 недели, оплата 50/50
+- [Калькулятор стоимости подбора](https://tlnt.ae/calculator/): оценка вознаграждения по вакансии
+- [Мини-аудит найма](https://tlnt.ae/mini-audit/): быстрый бесплатный разбор вакансии
+- [Аудит команды](https://tlnt.ae/team-audit/): разбор команды и процессов найма
+- [Консультация](https://tlnt.ae/consultation/): бесплатная консультация по подбору
+- [О компании](https://tlnt.ae/about/): кто мы, опыт, клиенты
+
+## Кого подбираем (позиции)
+- [Администратор салона](https://tlnt.ae/salon-administrator/)
+- [Управляющий салоном](https://tlnt.ae/salon-manager/)
+- [Управляющий клиникой](https://tlnt.ae/clinic-manager/)
+- [Мастер маникюра](https://tlnt.ae/nail-technician/)
+- [Косметолог-эстетист](https://tlnt.ae/esthetician/)
+- [Врач-косметолог / эстетическая медицина](https://tlnt.ae/aesthetic-doctor/)
+- [Врач общей практики (GP)](https://tlnt.ae/gp-doctor/)
+- [Массажист](https://tlnt.ae/massage-therapist/)
+- [Парикмахер-стилист](https://tlnt.ae/hair-stylist/)
+- [Личный ассистент](https://tlnt.ae/personal-assistant/)
+
+## Гайды: наём и оформление в Дубае
+- [Как нанять сотрудника в Дубае](https://tlnt.ae/guides/how-to-hire-staff-dubai/)
+- [Рабочая виза и оформление при найме](https://tlnt.ae/guides/work-visa-hiring-dubai/)
+- [Сколько стоит нанять сотрудника в Дубае](https://tlnt.ae/guides/cost-of-hiring-dubai/)
+- [Трудовой договор в ОАЭ](https://tlnt.ae/guides/employment-contract-dubai/)
+- [Где искать персонал в Дубае](https://tlnt.ae/guides/where-to-find-staff-dubai/)
+- [Ошибки при найме в Дубае](https://tlnt.ae/guides/hiring-mistakes-dubai/)
+
+## Гайды: медицина и лицензирование (DHA/DHCC)
+- [Лицензия DHA для врача в Дубае](https://tlnt.ae/guides/dha-license-doctor-dubai/)
+- [DataFlow для врача в Дубае](https://tlnt.ae/guides/dataflow-doctor-dubai/)
+- [Зарплаты врачей в Дубае](https://tlnt.ae/guides/doctor-salaries-dubai/)
+- [Лицензированный vs нелицензированный врач](https://tlnt.ae/guides/licensed-vs-unlicensed-doctor/)
+- [Косметолог: врач или эстетист?](https://tlnt.ae/guides/cosmetologist-doctor-or-esthetician/)
+
+## English
+- [English homepage](https://tlnt.ae/en/)
+- [About](https://tlnt.ae/en/about/)
+
+## Контакты
+- WhatsApp: https://wa.me/971585783353
+- Telegram: https://t.me/+971585783353
+- Сайт: https://tlnt.ae
