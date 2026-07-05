@@ -59,7 +59,8 @@
     "@keyframes tlntPulse{0%{box-shadow:0 8px 22px rgba(0,0,0,.18),0 0 0 0 rgba(37,211,102,.5)}" +
     "70%{box-shadow:0 8px 22px rgba(0,0,0,.18),0 0 0 14px rgba(37,211,102,0)}" +
     "100%{box-shadow:0 8px 22px rgba(0,0,0,.18),0 0 0 0 rgba(37,211,102,0)}}" +
-    "@media(max-width:820px){.tlnt-fab{bottom:90px;right:16px}}";
+    "@media(max-width:820px){.tlnt-fab{bottom:90px;right:16px}}" +
+    "a:focus-visible,button:focus-visible,input:focus-visible,textarea:focus-visible,summary:focus-visible{outline:2px solid #9a7038;outline-offset:2px;border-radius:3px}";
   var st = document.createElement("style");
   st.textContent = css;
   document.head.appendChild(st);
@@ -78,23 +79,7 @@
     '<a class="wa" href="' + WA_URL + '" target="_blank" rel="noopener" aria-label="Написать в WhatsApp">' + WA_SVG + "</a>";
   document.body.appendChild(box);
 
-  // ---- structured data (schema.org) ----
-  try {
-    var ld = {
-      "@context": "https://schema.org",
-      "@type": "EmploymentAgency",
-      "name": "TLNT",
-      "url": "https://tlnt.ae",
-      "telephone": "+971585783353",
-      "description": "Turnkey staff recruitment for businesses in Dubai and the UAE — beauty, medical, management and personal staff.",
-      "areaServed": { "@type": "Country", "name": "United Arab Emirates" },
-      "knowsLanguage": ["ru", "en"]
-    };
-    var ls = document.createElement("script");
-    ls.type = "application/ld+json";
-    ls.text = JSON.stringify(ld);
-    document.head.appendChild(ls);
-  } catch (e) {}
+  // ---- structured data now lives STATICALLY in each page <head> (not JS-injected) ----
 
   // ---- click tracking (one ping per channel+page per session) ----
   function track(ch) {
