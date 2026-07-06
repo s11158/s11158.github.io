@@ -166,10 +166,9 @@
   // ---- scroll-reveal animations + smooth anchor scroll (progressive, respects reduced-motion) ----
   try {
     var animCss =
-      "html{scroll-behavior:smooth}" +
       ".tlnt-reveal{opacity:0;transform:translateY(22px);transition:opacity .75s cubic-bezier(.2,.65,.2,1),transform .75s cubic-bezier(.2,.65,.2,1)}" +
       ".tlnt-reveal.tlnt-in{opacity:1;transform:none}" +
-      "@media(prefers-reduced-motion:reduce){.tlnt-reveal{opacity:1!important;transform:none!important;transition:none!important}html{scroll-behavior:auto}}";
+      "@media(prefers-reduced-motion:reduce){.tlnt-reveal{opacity:1!important;transform:none!important;transition:none!important}}";
     var as = document.createElement("style");
     as.textContent = animCss;
     document.head.appendChild(as);
