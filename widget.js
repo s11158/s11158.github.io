@@ -162,4 +162,34 @@
     },
     true
   );
+
+  // ---- scroll-reveal animations + smooth anchor scroll (progressive, respects reduced-motion) ----
+  try {
+    var animCss =
+      "html{scroll-behavior:smooth}" +
+      ".tlnt-reveal{opacity:0;transform:translateY(22px);transition:opacity .75s cubic-bezier(.2,.65,.2,1),transform .75s cubic-bezier(.2,.65,.2,1)}" +
+      ".tlnt-reveal.tlnt-in{opacity:1;transform:none}" +
+      "@media(prefers-reduced-motion:reduce){.tlnt-reveal{opacity:1!important;transform:none!important;transition:none!important}html{scroll-behavior:auto}}";
+    var as = document.createElement("style");
+    as.textContent = animCss;
+    document.head.appendChild(as);
+
+    if ("IntersectionObserver" in window &&
+        !(window.matchMedia && window.matchMedia("(prefers-reduced-motion:reduce)").matches)) {
+      var vh = window.innerHeight || 800;
+      var io = new IntersectionObserver(function (entries) {
+        entries.forEach(function (en) {
+          if (en.isIntersecting) { en.target.classList.add("tlnt-in"); io.unobserve(en.target); }
+        });
+      }, { threshold: 0.06, rootMargin: "0px 0px -48px 0px" });
+      var nodes = document.querySelectorAll("section, article, footer");
+      Array.prototype.forEach.call(nodes, function (el) {
+        var r = el.getBoundingClientRect();
+        // leave above-the-fold content visible immediately (no flash), animate the rest on scroll
+        if (r.top < vh * 0.88) return;
+        el.classList.add("tlnt-reveal");
+        io.observe(el);
+      });
+    }
+  } catch (e) {}
 })();
