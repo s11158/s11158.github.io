@@ -80,6 +80,20 @@
     .tlnt-tk{border-left:none;border-top:1px solid #f0e8db}
     .tlnt-tk:first-child{border-top:none}
   }
+
+  .tlnt-dot{color:var(--accent)}
+  ::selection{background:rgba(152,110,53,.22)}
+  @media(prefers-reduced-motion:no-preference){
+    .tlnt-hero-in>*{opacity:0;transform:translateY(14px);animation:tlntUp .7s cubic-bezier(.2,.65,.2,1) forwards}
+    .tlnt-hero-in>*:nth-child(1){animation-delay:.05s}
+    .tlnt-hero-in>*:nth-child(2){animation-delay:.15s}
+    .tlnt-hero-in>*:nth-child(3){animation-delay:.25s}
+    .tlnt-hero-in>*:nth-child(4){animation-delay:.33s}
+    .tlnt-hero-in>*:nth-child(5){animation-delay:.41s}
+    .tlnt-hero-in>*:nth-child(6){animation-delay:.5s}
+    .tlnt-hero-in>*:nth-child(7){animation-delay:.58s}
+    @keyframes tlntUp{to{opacity:1;transform:none}}
+  }
 </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "EmploymentAgency", "name": "TLNT", "url": "https://tlnt.ae", "telephone": "+971585783353", "description": "Подбор персонала под ключ для русскоязычного бизнеса в Дубае и ОАЭ — бьюти, медицина, управление и линейный персонал.", "areaServed": {"@type": "Country", "name": "United Arab Emirates"}, "knowsLanguage": ["ru", "en"]}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": "ru", "mainEntity": [{"@type": "Question", "name": "Сколько стоит подбор?", "acceptedAnswer": {"@type": "Answer", "text": "Наше вознаграждение — один месячный оклад подобранного сотрудника, без пугающих сумм заранее. Оплата мягкая: 50% на старте и 50%, когда сотрудник вышел на работу. На первый заказ — скидка 15%, на несколько вакансий сразу — до 20%."}}, {"@type": "Question", "name": "Что входит в гарантию?", "acceptedAnswer": {"@type": "Answer", "text": "Первые два месяца после выхода сотрудника. Если человек не подошёл или просто не сложилось — спокойно подберём замену за свой счёт."}}, {"@type": "Question", "name": "Мы небольшой бизнес, нам подойдёт?", "acceptedAnswer": {"@type": "Answer", "text": "Да, мы как раз для тех, у кого нет своего HR-отдела. Вы просто рассказываете, кого ищете, — подбор, оформление, мотивацию и ввод в работу берём на себя."}}, {"@type": "Question", "name": "А если позиция редкая или узкая?", "acceptedAnswer": {"@type": "Answer", "text": "Беремся. У нас живая база проверенных кандидатов и опыт в разных профилях — от врачей и управляющих до личного персонала. Под редкую задачу ищем точечно."}}, {"@type": "Question", "name": "Работаете только с русскоязычными?", "acceptedAnswer": {"@type": "Answer", "text": "Мы специализируемся на русскоязычном бизнесе в Дубае и Абу-Даби. Кандидатов подбираем под ваши требования — язык и нюансы обсуждаем на старте."}}, {"@type": "Question", "name": "За какой срок реально закрыть вакансию?", "acceptedAnswer": {"@type": "Answer", "text": "В среднем около двух недель. Точные сроки зависят от позиции — назовём их честно уже на первом созвоне."}}]}</script>
@@ -106,7 +120,7 @@
   <header id="top" style="position:relative;background:radial-gradient(120% 80% at 88% 0%, #f6e3df 0%, #f8eee6 30%, #fbf8f3 62%);overflow:hidden">
     <div style="position:absolute;top:-120px;left:-100px;width:340px;height:340px;border-radius:50%;background:#eef3ea;filter:blur(12px);opacity:.65"></div>
     <div style="position:relative;max-width:1240px;margin:0 auto;padding:clamp(48px,6vw,84px) 32px clamp(56px,7vw,88px);display:grid;grid-template-columns:repeat(auto-fit,minmax(330px,1fr));gap:clamp(40px,5vw,72px);align-items:center">
-      <div>
+      <div class="tlnt-hero-in">
         <div style="display:flex;align-items:center;gap:14px;margin-bottom:26px">
           <span style="width:34px;height:1px;background:var(--accent);opacity:.6"></span>
           <span style="font:700 11.5px/1 'Nunito Sans',sans-serif;letter-spacing:.26em;text-transform:uppercase;color:var(--accent)">Подбор персонала под ключ · ОАЭ</span>
@@ -171,7 +185,7 @@
           <span style="width:26px;height:1px;background:#d8cebd"></span>
           <span style="font:700 11px/1 'Nunito Sans',sans-serif;letter-spacing:.24em;text-transform:uppercase;color:#7a7266">Мы понимаем</span>
         </div>
-        <h2 style="font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(34px,4.6vw,54px);line-height:1.06;color:#3f3a33;margin:0;text-wrap:balance">Найм не должен <em style="font-style:italic;color:var(--accent)">отнимать ваши силы</em></h2>
+        <h2 style="font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(34px,4.6vw,54px);line-height:1.06;color:#3f3a33;margin:0;text-wrap:balance">Найм не должен <em style="font-style:italic;color:var(--accent)">отнимать ваши силы</em><span class="tlnt-dot">.</span></h2>
         <p style="color:#6b6155;font-size:16.5px;line-height:1.7;margin:22px 0 0;max-width:380px">Мы снимаем с вас рутину и тревогу найма. Не продаём услугу — берём на себя головную боль, чтобы у вас остались только спокойные решения.</p>
         <p style="color:#6b6155;font-size:15px;line-height:1.6;margin:18px 0 0;max-width:380px;background:#f7ede9;border-radius:14px;padding:14px 18px">Каждая неделя с открытой вакансией — это упущенная выручка и перегруз команды. Мы сокращаем это ожидание в среднем до&nbsp;~2&nbsp;недель.</p>
       </div>
@@ -200,7 +214,7 @@
           <span style="width:26px;height:1px;background:#d8cebd"></span>
           <span style="font:700 11px/1 'Nunito Sans',sans-serif;letter-spacing:.24em;text-transform:uppercase;color:#7a7266">Под ключ</span>
         </div>
-        <h2 style="font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(34px,4.6vw,54px);line-height:1.06;color:#3f3a33;margin:0;text-wrap:balance">Берём на себя <em style="font-style:italic;color:var(--accent)">больше, чем подбор</em></h2>
+        <h2 style="font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(34px,4.6vw,54px);line-height:1.06;color:#3f3a33;margin:0;text-wrap:balance">Берём на себя <em style="font-style:italic;color:var(--accent)">больше, чем подбор</em><span class="tlnt-dot">.</span></h2>
         <p style="color:#6b6155;font-size:16.5px;line-height:1.7;margin:16px 0 0">Пять шагов, которые обычно ложатся на собственника, — мы проходим за вас.</p>
         <p style="color:#6b6155;font-size:16.5px;line-height:1.7;margin:12px 0 0"><b style="color:#5f5648">Мы не поток.</b> Берём ограниченное число вакансий в месяц и ведём каждую лично — поэтому знаем ваших кандидатов, а не просто пересылаем резюме.</p>
       </div>
@@ -246,7 +260,7 @@
         <span style="width:26px;height:1px;background:#d8cebd"></span>
         <span style="font:700 11px/1 'Nunito Sans',sans-serif;letter-spacing:.24em;text-transform:uppercase;color:#7a7266">Как мы работаем</span>
       </div>
-      <h2 style="font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(34px,4.6vw,54px);line-height:1.06;color:#3f3a33;margin:0 0 clamp(44px,5vw,60px);text-wrap:balance;max-width:680px">Четыре спокойных шага, <em style="font-style:italic;color:var(--accent)">остальное на нас</em></h2>
+      <h2 style="font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(34px,4.6vw,54px);line-height:1.06;color:#3f3a33;margin:0 0 clamp(44px,5vw,60px);text-wrap:balance;max-width:680px">Четыре спокойных шага, <em style="font-style:italic;color:var(--accent)">остальное на нас</em><span class="tlnt-dot">.</span></h2>
       <div class="tlnt-steps">
         <div style="position:relative;padding-top:40px">
           <span style="position:absolute;top:-5px;left:0;width:10px;height:10px;border-radius:50%;background:var(--accent)"></span>
@@ -284,7 +298,7 @@
           <span style="width:26px;height:1px;background:#d8cebd"></span>
           <span style="font:700 11px/1 'Nunito Sans',sans-serif;letter-spacing:.24em;text-transform:uppercase;color:#7a7266">Стоимость</span>
         </div>
-        <h2 style="font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(34px,4.6vw,54px);line-height:1.06;color:#3f3a33;margin:0;text-wrap:balance">Прозрачно и <em style="font-style:italic;color:var(--accent)">по-честному</em></h2>
+        <h2 style="font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(34px,4.6vw,54px);line-height:1.06;color:#3f3a33;margin:0;text-wrap:balance">Прозрачно и <em style="font-style:italic;color:var(--accent)">по-честному</em><span class="tlnt-dot">.</span></h2>
         <p style="color:#6b6155;font-size:16px;margin:14px 0 0">Без предоплаты целиком и без пугающих фиксированных сумм.</p>
       </div>
       <div class="tlnt-pricing">
@@ -320,7 +334,7 @@
           <span style="width:26px;height:1px;background:#d8cebd"></span>
           <span style="font:700 11px/1 'Nunito Sans',sans-serif;letter-spacing:.24em;text-transform:uppercase;color:#7a7266">Направления</span>
         </div>
-        <h2 style="font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(34px,4.6vw,54px);line-height:1.06;color:#3f3a33;margin:0;text-wrap:balance">Кого мы <em style="font-style:italic;color:var(--accent)">подбираем чаще всего</em></h2>
+        <h2 style="font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(34px,4.6vw,54px);line-height:1.06;color:#3f3a33;margin:0;text-wrap:balance">Кого мы <em style="font-style:italic;color:var(--accent)">подбираем чаще всего</em><span class="tlnt-dot">.</span></h2>
       </div>
       <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:0 56px">
         <div style="display:flex;gap:22px;padding:28px 0;border-top:1px solid #e6dccc"><span style="font-family:'Cormorant Garamond',serif;font-size:18px;font-style:italic;color:#cdb79c;flex:none;width:24px">01</span><div style="flex:none"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3c3 4 5 6.6 5 9.2a5 5 0 0 1-10 0C7 9.6 9 7 12 3z"/></svg></div><div><h3 style="font-family:'Cormorant Garamond',serif;font-weight:600;font-size:21px;color:#3f3a33;margin:0">Медэстетика и beauty</h3><p style="margin:6px 0 0;color:#6b6155;font-size:14.5px;line-height:1.55">Косметологи, врачи, стилисты, мастера. Понимаем требования лицензирования DHA.</p></div></div>
@@ -340,7 +354,7 @@
         <span style="width:26px;height:1px;background:#d8cebd"></span>
         <span style="font:700 11px/1 'Nunito Sans',sans-serif;letter-spacing:.24em;text-transform:uppercase;color:#7a7266">Истории</span>
       </div>
-      <h2 style="font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(34px,4.6vw,54px);line-height:1.06;color:#3f3a33;margin:0 0 clamp(40px,5vw,54px);text-wrap:balance;max-width:640px">Как это <em style="font-style:italic;color:var(--accent)">обычно проходит</em></h2>
+      <h2 style="font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(34px,4.6vw,54px);line-height:1.06;color:#3f3a33;margin:0 0 clamp(40px,5vw,54px);text-wrap:balance;max-width:640px">Как это <em style="font-style:italic;color:var(--accent)">обычно проходит</em><span class="tlnt-dot">.</span></h2>
       <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(290px,1fr));gap:26px">
         <div>
           <div style="position:relative;aspect-ratio:5/4;border-radius:20px;overflow:hidden;box-shadow:0 14px 40px rgba(150,120,90,.1);background:#f6e3df url('/card-peach.png') center/cover"><div class="tlnt-ph"><svg width="44" height="44" viewBox="0 0 24 24" fill="none" stroke="#c6ac9b" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="6" cy="6" r="3"/><circle cx="6" cy="18" r="3"/><path d="M20 4L8.12 15.88"/><path d="M14.47 14.48L20 20"/><path d="M8.12 8.12L12 12"/></svg></div></div>
@@ -378,7 +392,7 @@
             <span style="width:26px;height:1px;background:#c4d3bd"></span>
             <span style="font:700 11px/1 'Nunito Sans',sans-serif;letter-spacing:.24em;text-transform:uppercase;color:#7c9476">Гарантия</span>
           </div>
-          <h2 style="font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(32px,4.4vw,50px);line-height:1.06;color:#3f3a33;margin:0;text-wrap:balance">Не подошёл — <em style="font-style:italic;color:var(--accent)">заменим бесплатно</em></h2>
+          <h2 style="font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(32px,4.4vw,50px);line-height:1.06;color:#3f3a33;margin:0;text-wrap:balance">Не подошёл — <em style="font-style:italic;color:var(--accent)">заменим бесплатно</em><span class="tlnt-dot">.</span></h2>
           <p style="max-width:480px;margin:18px 0 0;color:#566050;font-size:16.5px;line-height:1.7">Если в течение двух месяцев человек оказался не тем, кем представлялся на собеседовании, или просто не сложилось на деле — мы спокойно подберём замену за свой счёт. Риск на нас.</p>
         </div>
         <div style="text-align:center">
@@ -419,7 +433,7 @@
           <span style="width:26px;height:1px;background:#d8cebd"></span>
           <span style="font:700 11px/1 'Nunito Sans',sans-serif;letter-spacing:.24em;text-transform:uppercase;color:#7a7266">Вопросы</span>
         </div>
-        <h2 style="font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(34px,4.6vw,54px);line-height:1.06;color:#3f3a33;margin:0;text-wrap:balance">Коротко о <em style="font-style:italic;color:var(--accent)">главном</em></h2>
+        <h2 style="font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(34px,4.6vw,54px);line-height:1.06;color:#3f3a33;margin:0;text-wrap:balance">Коротко о <em style="font-style:italic;color:var(--accent)">главном</em><span class="tlnt-dot">.</span></h2>
         <p style="color:#6b6155;font-size:16px;margin:18px 0 0;max-width:300px">Не нашли ответ? Напишите — спокойно подскажем на первом созвоне.</p>
       </div>
       <div>
