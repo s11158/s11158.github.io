@@ -15,64 +15,146 @@
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Nunito+Sans:wght@400;600;700&display=swap" rel="stylesheet">
 <style>
   *{box-sizing:border-box;margin:0;padding:0}
-  body{min-height:100vh;display:grid;place-items:center;background:radial-gradient(120% 80% at 50% 0%,#f6e3df 0%,#f8eee6 34%,#fbf8f3 66%);font-family:'Nunito Sans',sans-serif;color:#4a443d;padding:24px}
-  .card{width:100%;max-width:560px;background:#fff;border-radius:26px;box-shadow:0 24px 60px rgba(150,120,90,.14);padding:clamp(30px,5vw,48px);text-align:center}
-  h1{font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(30px,5vw,42px);color:#3f3a33;margin-bottom:8px}
-  h1 b{color:#986e35;font-weight:500}
-  p.sub{color:#6b6155;font-size:15px;margin-bottom:26px}
-  form{display:flex;flex-direction:column;gap:12px}
-  input{padding:15px 18px;border:1px solid #e6dccc;border-radius:14px;font-size:15px;font-family:inherit;color:#3f3a33;background:#fdfbf7;width:100%}
-  input:focus-visible{outline:2px solid #986e35;outline-offset:2px}
-  button{background:#986e35;color:#fff;font-weight:700;font-size:16px;padding:15px;border:none;border-radius:100px;cursor:pointer;font-family:inherit;box-shadow:0 10px 24px rgba(152,110,53,.28);transition:transform .2s}
-  button:hover{transform:translateY(-2px)}
-  button:disabled{opacity:.6;cursor:wait;transform:none}
-  .out{display:none;margin-top:22px;padding:18px;background:#f7ede9;border-radius:16px}
-  .out a{font-family:'Cormorant Garamond',serif;font-size:26px;color:#986e35;font-weight:600;text-decoration:none;word-break:break-all}
-  .copy{margin-top:12px;background:#3f3a33;box-shadow:none;font-size:14px;padding:11px 24px}
-  .err{display:none;margin-top:16px;color:#a05a3c;font-size:14px}
-  .foot{margin-top:26px;font-size:12.5px;color:#a79e90}
-  .foot a{color:#986e35;text-decoration:none}
+  :root{--accent:#986e35;--ink:#3f3a33;--body:#6b6155;--line:#e6dccc}
+  html,body{min-height:100%}
+  body{display:flex;flex-direction:column;align-items:center;background:radial-gradient(120% 80% at 50% 0%,#f6e3df 0%,#f8eee6 34%,#fbf8f3 66%);font-family:'Nunito Sans',sans-serif;color:var(--body);padding:0 20px;position:relative;overflow-x:hidden}
+  ::selection{background:rgba(152,110,53,.22)}
+  a:focus-visible,button:focus-visible,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px;border-radius:4px}
+
+  header{width:100%;max-width:760px;display:flex;align-items:center;justify-content:space-between;padding:26px 2px}
+  .logo{font-family:'Cormorant Garamond',serif;font-size:26px;font-weight:600;letter-spacing:.18em;color:var(--ink);text-decoration:none}
+  .logo b{color:var(--accent);font-weight:600}
+  .loc{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:#a79e90}
+
+  main{width:100%;max-width:600px;margin:clamp(10px,4vh,40px) 0 40px;position:relative;z-index:1}
+  .card{background:rgba(255,255,255,.78);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border:1px solid rgba(255,255,255,.7);border-radius:28px;box-shadow:0 28px 70px rgba(150,120,90,.16);padding:clamp(30px,5vw,50px)}
+  h1{font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(32px,5.4vw,46px);color:var(--ink);line-height:1.08;margin-bottom:10px;text-wrap:balance}
+  h1 b{color:var(--accent);font-weight:500}
+  .sub{font-size:15px;line-height:1.6;margin-bottom:30px}
+
+  label{display:block;font-size:12.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#8a7f6f;margin:0 0 8px 4px}
+  .field{margin-bottom:18px}
+  input{width:100%;padding:15px 18px;border:1px solid var(--line);border-radius:14px;font-size:16px;font-family:inherit;color:var(--ink);background:#fdfbf7;transition:border-color .25s}
+  input:hover{border-color:#d5c6ac}
+  .hint{display:flex;align-items:center;gap:6px;font-size:13px;color:#a79e90;margin:7px 4px 0;min-height:18px}
+  .hint b{color:var(--accent);font-weight:600;word-break:break-all}
+
+  button{cursor:pointer;font-family:inherit}
+  .go{width:100%;display:inline-flex;align-items:center;justify-content:center;gap:10px;background:var(--accent);color:#fff;font-weight:700;font-size:16px;padding:16px;border:none;border-radius:100px;box-shadow:0 12px 28px rgba(152,110,53,.3);transition:transform .25s,box-shadow .25s;margin-top:6px}
+  .go:hover{transform:translateY(-2px);box-shadow:0 16px 34px rgba(152,110,53,.36)}
+  .go:disabled{opacity:.6;cursor:wait;transform:none}
+
+  .out{display:none;margin-top:26px;padding:24px;background:linear-gradient(150deg,#f7ede9,#f4ece2);border-radius:20px;text-align:center}
+  .out .lbl{font-size:11.5px;letter-spacing:.2em;text-transform:uppercase;color:#a08c6d;margin-bottom:8px}
+  .out a{font-family:'Cormorant Garamond',serif;font-size:clamp(24px,4vw,32px);color:var(--accent);font-weight:600;text-decoration:none;word-break:break-all;line-height:1.2}
+  .row{display:flex;gap:10px;justify-content:center;margin-top:16px;flex-wrap:wrap}
+  .btn2{display:inline-flex;align-items:center;gap:8px;background:var(--ink);color:#fff;font-weight:700;font-size:14px;padding:11px 22px;border:none;border-radius:100px;transition:transform .2s}
+  .btn2:hover{transform:translateY(-1px)}
+  .btn2.ghost{background:transparent;color:var(--ink);border:1.5px solid #d8cebd}
+
+  .err{display:none;margin-top:16px;padding:13px 18px;background:#f8e9e4;border-radius:12px;color:#a05a3c;font-size:14px;line-height:1.5}
+
+  .care{margin-top:26px;text-align:center;font-size:13.5px;color:#a79e90}
+  .care a{color:var(--accent);font-weight:600;text-decoration:none}
+
+  .sky{position:fixed;left:0;right:0;bottom:0;width:100%;opacity:.12;pointer-events:none;user-select:none;z-index:0}
+
+  @media(prefers-reduced-motion:no-preference){
+    .card{animation:up .7s cubic-bezier(.2,.65,.2,1) both}
+    .out.show{display:block;animation:up .5s cubic-bezier(.2,.65,.2,1) both}
+    @keyframes up{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+  }
+  @media(prefers-reduced-motion:reduce){.out.show{display:block}}
 </style>
 </head>
 <body>
-<div class="card">
-  <h1>Короткая ссылка<b>.</b></h1>
-  <p class="sub">Вставьте длинную ссылку — получите короткую вида <b style="color:#986e35">tlnt.ae/x7</b></p>
-  <form id="f">
-    <input id="u" placeholder="https://…" aria-label="Длинная ссылка" required>
-    <button id="b" type="submit">Сократить</button>
-  </form>
-  <div class="out" id="out">
-    <a id="short" href="#" target="_blank" rel="noopener"></a>
-    <div><button type="button" class="copy" id="copy">Скопировать</button></div>
+<header>
+  <a class="logo" href="/">TLNT<b>.</b></a>
+  <span class="loc">Дубай · Абу-Даби</span>
+</header>
+
+<main>
+  <div class="card">
+    <h1>Короткая ссылка<b>.</b></h1>
+    <p class="sub">Длинный адрес превращается в аккуратный <b style="color:var(--accent)">tlnt.ae/x7</b> — или в именной, если дать ссылке название.</p>
+
+    <form id="f" novalidate>
+      <div class="field">
+        <label for="u">Длинная ссылка</label>
+        <input id="u" type="url" inputmode="url" autocomplete="off" placeholder="https://…" required>
+      </div>
+      <div class="field">
+        <label for="a">Название <span style="font-weight:400;text-transform:none;letter-spacing:0;color:#b3a893">— необязательно</span></label>
+        <input id="a" type="text" autocomplete="off" maxlength="60" placeholder="Напр.: Текст с правками">
+        <div class="hint" id="prev" aria-live="polite"></div>
+      </div>
+      <button class="go" id="b" type="submit">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg>
+        Сократить
+      </button>
+    </form>
+
+    <div class="out" id="out" role="status">
+      <div class="lbl">Ваша короткая ссылка</div>
+      <a id="short" href="#" target="_blank" rel="noopener"></a>
+      <div class="row">
+        <button type="button" class="btn2" id="copy">
+          <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+          Скопировать
+        </button>
+        <button type="button" class="btn2 ghost" id="again">Ещё одну</button>
+      </div>
+    </div>
+
+    <div class="err" id="err" role="alert"></div>
   </div>
-  <div class="err" id="err"></div>
-  <div class="foot">tlnt.ae · <a href="/">на главную</a></div>
-</div>
+
+  <p class="care">Остались вопросы? <a href="https://wa.me/971585783353?text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%2C%20">Напишите</a> — поможем разобраться.</p>
+</main>
+
+<img class="sky" src="/skyline-wide.png" alt="" aria-hidden="true">
+
 <script>
-const f=document.getElementById("f"),u=document.getElementById("u"),b=document.getElementById("b"),
-      out=document.getElementById("out"),sh=document.getElementById("short"),err=document.getElementById("err"),
-      cp=document.getElementById("copy");
+const $=id=>document.getElementById(id);
+const f=$("f"),u=$("u"),a=$("a"),b=$("b"),out=$("out"),sh=$("short"),err=$("err"),cp=$("copy"),ag=$("again"),prev=$("prev");
+
+const TR={"а":"a","б":"b","в":"v","г":"g","д":"d","е":"e","ё":"e","ж":"zh","з":"z","и":"i","й":"y","к":"k","л":"l","м":"m","н":"n","о":"o","п":"p","р":"r","с":"s","т":"t","у":"u","ф":"f","х":"h","ц":"ts","ч":"ch","ш":"sh","щ":"sch","ъ":"","ы":"y","ь":"","э":"e","ю":"yu","я":"ya"};
+function slug(s){s=s.toLowerCase();let o="";for(const c of s){if(/[a-z0-9]/.test(c))o+=c;else if(TR[c]!==undefined)o+=TR[c];else if(c===" "||c==="-"||c==="_"||c===".")o+="_"}return o.replace(/_+/g,"_").replace(/^_+|_+$/g,"").slice(0,40)}
+
+a.addEventListener("input",()=>{
+  const s=slug(a.value);
+  prev.innerHTML = s.length>=2 ? 'Получится: <b>tlnt.ae/s/'+s+'</b>' : (a.value.trim()? 'Название слишком короткое' : '');
+});
+
 const ERRORS={empty:"Пустая ссылка",invalid_url:"Не похоже на ссылку — проверьте адрес",bad_scheme:"Поддерживаются только http/https",
-              too_long:"Слишком длинная ссылка (макс. 2048)",self_link:"Это уже короткая ссылка 🙂",rate_limited:"Лимит на сегодня исчерпан — попробуйте завтра"};
+  too_long:"Слишком длинная ссылка (макс. 2048)",self_link:"Это уже короткая ссылка",bad_alias:"Название слишком короткое или длинное",
+  alias_taken:"Такое название уже занято — попробуйте другое",rate_limited:"Лимит на сегодня исчерпан — попробуйте завтра"};
+
 f.addEventListener("submit",async e=>{
-  e.preventDefault(); err.style.display="none"; out.style.display="none";
-  b.disabled=true; b.textContent="Сокращаем…";
+  e.preventDefault();
+  err.style.display="none"; out.classList.remove("show"); out.style.display="none";
+  b.disabled=true; const t=b.innerHTML; b.textContent="Сокращаем…";
   try{
-    const r=await fetch("/api/shorten",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({url:u.value})});
+    const body={url:u.value};
+    if(slug(a.value).length>=2) body.alias=a.value;
+    const r=await fetch("/api/shorten",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
     const d=await r.json();
     if(d.error) throw d.error;
     sh.textContent=d.short.replace(/^https?:\/\//,""); sh.href=d.short;
-    out.style.display="block";
+    out.style.display="block"; out.classList.add("show");
   }catch(x){
-    err.textContent=ERRORS[x]||"Сервис ещё настраивается — попробуйте чуть позже";
+    err.textContent=ERRORS[x]||"Сервис сейчас недоступен — попробуйте чуть позже";
     err.style.display="block";
-  }finally{ b.disabled=false; b.textContent="Сократить"; }
+  }finally{ b.disabled=false; b.innerHTML=t; }
 });
+
 cp.addEventListener("click",async()=>{
-  try{ await navigator.clipboard.writeText(sh.href); cp.textContent="Скопировано ✓";
-       setTimeout(()=>cp.textContent="Скопировать",1600); }catch(e){}
+  try{ await navigator.clipboard.writeText(sh.href);
+    cp.innerHTML='<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6L9 17l-5-5"/></svg> Скопировано';
+    setTimeout(()=>{cp.innerHTML='<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg> Скопировать'},1800);
+  }catch(e){}
 });
+ag.addEventListener("click",()=>{ u.value=""; a.value=""; prev.textContent=""; out.classList.remove("show"); out.style.display="none"; u.focus(); });
 </script>
 </body>
 </html>
