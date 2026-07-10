@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="color-scheme" content="light">
+<meta name="theme-color" content="#fbf8f3">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>TLNT.ae — короткие ссылки</title>
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" href="/favicon-onlight.png" media="(prefers-color-scheme: light)">
+<link rel="icon" type="image/png" href="/favicon-ondark.png" media="(prefers-color-scheme: dark)">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Nunito+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{min-height:100vh;display:grid;place-items:center;background:radial-gradient(120% 80% at 50% 0%,#f6e3df 0%,#f8eee6 34%,#fbf8f3 66%);font-family:'Nunito Sans',sans-serif;color:#4a443d;padding:24px}
+  .card{width:100%;max-width:560px;background:#fff;border-radius:26px;box-shadow:0 24px 60px rgba(150,120,90,.14);padding:clamp(30px,5vw,48px);text-align:center}
+  h1{font-family:'Cormorant Garamond',serif;font-weight:500;font-size:clamp(30px,5vw,42px);color:#3f3a33;margin-bottom:8px}
+  h1 b{color:#986e35;font-weight:500}
+  p.sub{color:#6b6155;font-size:15px;margin-bottom:26px}
+  form{display:flex;flex-direction:column;gap:12px}
+  input{padding:15px 18px;border:1px solid #e6dccc;border-radius:14px;font-size:15px;font-family:inherit;color:#3f3a33;background:#fdfbf7;width:100%}
+  input:focus-visible{outline:2px solid #986e35;outline-offset:2px}
+  button{background:#986e35;color:#fff;font-weight:700;font-size:16px;padding:15px;border:none;border-radius:100px;cursor:pointer;font-family:inherit;box-shadow:0 10px 24px rgba(152,110,53,.28);transition:transform .2s}
+  button:hover{transform:translateY(-2px)}
+  button:disabled{opacity:.6;cursor:wait;transform:none}
+  .out{display:none;margin-top:22px;padding:18px;background:#f7ede9;border-radius:16px}
+  .out a{font-family:'Cormorant Garamond',serif;font-size:26px;color:#986e35;font-weight:600;text-decoration:none;word-break:break-all}
+  .copy{margin-top:12px;background:#3f3a33;box-shadow:none;font-size:14px;padding:11px 24px}
+  .err{display:none;margin-top:16px;color:#a05a3c;font-size:14px}
+  .foot{margin-top:26px;font-size:12.5px;color:#a79e90}
+  .foot a{color:#986e35;text-decoration:none}
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>Короткая ссылка<b>.</b></h1>
+  <p class="sub">Вставьте длинную ссылку — получите короткую вида <b style="color:#986e35">tlnt.ae/x7</b></p>
+  <form id="f">
+    <input id="u" placeholder="https://…" aria-label="Длинная ссылка" required>
+    <button id="b" type="submit">Сократить</button>
+  </form>
+  <div class="out" id="out">
+    <a id="short" href="#" target="_blank" rel="noopener"></a>
+    <div><button type="button" class="copy" id="copy">Скопировать</button></div>
+  </div>
+  <div class="err" id="err"></div>
+  <div class="foot">tlnt.ae · <a href="/">на главную</a></div>
+</div>
+<script>
+const f=document.getElementById("f"),u=document.getElementById("u"),b=document.getElementById("b"),
+      out=document.getElementById("out"),sh=document.getElementById("short"),err=document.getElementById("err"),
+      cp=document.getElementById("copy");
+const ERRORS={empty:"Пустая ссылка",invalid_url:"Не похоже на ссылку — проверьте адрес",bad_scheme:"Поддерживаются только http/https",
+              too_long:"Слишком длинная ссылка (макс. 2048)",self_link:"Это уже короткая ссылка 🙂",rate_limited:"Лимит на сегодня исчерпан — попробуйте завтра"};
+f.addEventListener("submit",async e=>{
+  e.preventDefault(); err.style.display="none"; out.style.display="none";
+  b.disabled=true; b.textContent="Сокращаем…";
+  try{
+    const r=await fetch("/api/shorten",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({url:u.value})});
+    const d=await r.json();
+    if(d.error) throw d.error;
+    sh.textContent=d.short.replace(/^https?:\/\//,""); sh.href=d.short;
+    out.style.display="block";
+  }catch(x){
+    err.textContent=ERRORS[x]||"Сервис ещё настраивается — попробуйте чуть позже";
+    err.style.display="block";
+  }finally{ b.disabled=false; b.textContent="Сократить"; }
+});
+cp.addEventListener("click",async()=>{
+  try{ await navigator.clipboard.writeText(sh.href); cp.textContent="Скопировано ✓";
+       setTimeout(()=>cp.textContent="Скопировать",1600); }catch(e){}
+});
+</script>
+</body>
+</html>
