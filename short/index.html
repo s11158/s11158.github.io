@@ -40,15 +40,14 @@
   .sub{font-size:15px;line-height:1.6;margin-bottom:30px}
 
   label{display:block;font-size:12.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:#8a7f6f;margin:0 0 8px 4px}
-  .field{margin-bottom:18px}
+  .field{margin-bottom:30px}
   input{width:100%;padding:15px 18px;border:1px solid var(--line);border-radius:14px;font-size:16px;font-family:inherit;color:var(--ink);background:#fdfbf7;transition:border-color .25s}
   input:hover{border-color:#d5c6ac}
-  .hint{display:none;margin:12px 0 0;padding:16px 18px;background:linear-gradient(150deg,#f7ede9,#f4ece2);border-radius:16px;text-align:center}
-  .hint.show{display:block}
+  .hint{display:block;margin:4px 0 0;padding:16px 18px;background:linear-gradient(150deg,#f7ede9,#f4ece2);border-radius:16px;text-align:center}
   .hint .hl{font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:#a08c6d;margin-bottom:6px}
   .hint b{display:block;font-family:'Cormorant Garamond',serif;font-size:clamp(22px,3.6vw,30px);font-weight:700;color:var(--accent);word-break:break-all;line-height:1.15}
   .hint .hs{font-size:12.5px;color:#b3a893;margin-top:6px}
-  @media(prefers-reduced-motion:no-preference){.hint.show{animation:up .4s cubic-bezier(.2,.65,.2,1) both}}
+  
 
   button{cursor:pointer;font-family:inherit}
   .go{width:100%;display:inline-flex;align-items:center;justify-content:center;gap:10px;background:var(--accent);color:#fff;font-weight:700;font-size:16px;padding:16px;border:none;border-radius:100px;box-shadow:0 12px 28px rgba(152,110,53,.3);transition:transform .25s,box-shadow .25s;margin-top:6px}
@@ -167,18 +166,19 @@ const f=$("f"),u=$("u"),a=$("a"),b=$("b"),out=$("out"),sh=$("short"),err=$("err"
 const TR={"а":"a","б":"b","в":"v","г":"g","д":"d","е":"e","ё":"e","ж":"zh","з":"z","и":"i","й":"y","к":"k","л":"l","м":"m","н":"n","о":"o","п":"p","р":"r","с":"s","т":"t","у":"u","ф":"f","х":"h","ц":"ts","ч":"ch","ш":"sh","щ":"sch","ъ":"","ы":"y","ь":"","э":"e","ю":"yu","я":"ya"};
 function slug(s){s=s.toLowerCase();let o="";for(const c of s){if(/[a-z0-9]/.test(c))o+=c;else if(TR[c]!==undefined)o+=TR[c];else if(c===" "||c==="-"||c==="_"||c===".")o+="_"}return o.replace(/_+/g,"_").replace(/^_+|_+$/g,"").slice(0,40)}
 
-a.addEventListener("input",()=>{
+function renderPreview(){
   const s=slug(a.value);
   if(s.length>=2){
     prev.innerHTML='<div class="hl">Ваша ссылка будет выглядеть так</div><b>tlnt.ae/s/'+s+'</b><div class="hs">нажмите «Сократить», чтобы закрепить её</div>';
-    prev.classList.add("show");
   }else if(a.value.trim()){
-    prev.innerHTML='<div class="hs">Название слишком короткое — нужно хотя бы 2 символа</div>';
-    prev.classList.add("show");
+    prev.innerHTML='<div class="hl">Ваша ссылка будет выглядеть так</div><b>tlnt.ae/s/…</b><div class="hs">название слишком короткое — нужно хотя бы 2 символа</div>';
   }else{
-    prev.classList.remove("show"); prev.innerHTML="";
+    prev.innerHTML='<div class="hl">Ваша ссылка будет выглядеть так</div><b>tlnt.ae/<span style="opacity:.75">x7</span></b><div class="hs">ультра-короткий код выдастся автоматически — или дайте ссылке название</div>';
   }
-});
+}
+a.addEventListener("input",renderPreview);
+u.addEventListener("input",renderPreview);
+renderPreview();
 
 const ERRORS={empty:"Пустая ссылка",invalid_url:"Не похоже на ссылку — проверьте адрес",bad_scheme:"Поддерживаются только http/https",
   too_long:"Слишком длинная ссылка (макс. 2048)",self_link:"Это уже короткая ссылка",bad_alias:"Название слишком короткое или длинное",
