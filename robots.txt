@@ -1,5 +1,7 @@
 User-agent: *
 Allow: /
 Disallow: /go/
+Disallow: /s/
+Disallow: /short/
 
 Sitemap: https://tlnt.ae/sitemap.xml
