@@ -43,8 +43,12 @@
   .field{margin-bottom:18px}
   input{width:100%;padding:15px 18px;border:1px solid var(--line);border-radius:14px;font-size:16px;font-family:inherit;color:var(--ink);background:#fdfbf7;transition:border-color .25s}
   input:hover{border-color:#d5c6ac}
-  .hint{display:flex;align-items:center;gap:6px;font-size:13px;color:#a79e90;margin:7px 4px 0;min-height:18px}
-  .hint b{color:var(--accent);font-weight:600;word-break:break-all}
+  .hint{display:none;margin:12px 0 0;padding:16px 18px;background:linear-gradient(150deg,#f7ede9,#f4ece2);border-radius:16px;text-align:center}
+  .hint.show{display:block}
+  .hint .hl{font-size:11px;letter-spacing:.2em;text-transform:uppercase;color:#a08c6d;margin-bottom:6px}
+  .hint b{display:block;font-family:'Cormorant Garamond',serif;font-size:clamp(22px,3.6vw,30px);font-weight:600;color:var(--accent);word-break:break-all;line-height:1.15}
+  .hint .hs{font-size:12.5px;color:#b3a893;margin-top:6px}
+  @media(prefers-reduced-motion:no-preference){.hint.show{animation:up .4s cubic-bezier(.2,.65,.2,1) both}}
 
   button{cursor:pointer;font-family:inherit}
   .go{width:100%;display:inline-flex;align-items:center;justify-content:center;gap:10px;background:var(--accent);color:#fff;font-weight:700;font-size:16px;padding:16px;border:none;border-radius:100px;box-shadow:0 12px 28px rgba(152,110,53,.3);transition:transform .25s,box-shadow .25s;margin-top:6px}
@@ -165,7 +169,15 @@ function slug(s){s=s.toLowerCase();let o="";for(const c of s){if(/[a-z0-9]/.test
 
 a.addEventListener("input",()=>{
   const s=slug(a.value);
-  prev.innerHTML = s.length>=2 ? 'Получится: <b>tlnt.ae/s/'+s+'</b>' : (a.value.trim()? 'Название слишком короткое' : '');
+  if(s.length>=2){
+    prev.innerHTML='<div class="hl">Ваша ссылка будет выглядеть так</div><b>tlnt.ae/s/'+s+'</b><div class="hs">нажмите «Сократить», чтобы закрепить её</div>';
+    prev.classList.add("show");
+  }else if(a.value.trim()){
+    prev.innerHTML='<div class="hs">Название слишком короткое — нужно хотя бы 2 символа</div>';
+    prev.classList.add("show");
+  }else{
+    prev.classList.remove("show"); prev.innerHTML="";
+  }
 });
 
 const ERRORS={empty:"Пустая ссылка",invalid_url:"Не похоже на ссылку — проверьте адрес",bad_scheme:"Поддерживаются только http/https",
