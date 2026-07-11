@@ -36,13 +36,31 @@
     if (SRC) { try { sessionStorage.setItem("tlnt_src", SRC); } catch (e) {} }
     else { try { SRC = sessionStorage.getItem("tlnt_src") || ""; } catch (e) {} }
   } catch (e) {}
+
+  // ---- Google click id (gclid/gbraid/wbraid) capture — for offline conversion import ----
+  var GCLID = "";
+  try {
+    var gq = new URLSearchParams(location.search);
+    var gid = (gq.get("gclid") || gq.get("gbraid") || gq.get("wbraid") || "").slice(0, 120);
+    if (gid) {
+      GCLID = gid;
+      try { localStorage.setItem("tlnt_gclid", JSON.stringify({ v: GCLID, t: Date.now() })); } catch (e) {}
+    } else {
+      try {
+        var gsaved = JSON.parse(localStorage.getItem("tlnt_gclid") || "null");
+        if (gsaved && gsaved.v && (Date.now() - gsaved.t) < 90 * 864e5) GCLID = gsaved.v; // 90-day click window
+      } catch (e) {}
+    }
+  } catch (e) {}
+  try { window.TLNT_GCLID = GCLID; window.TLNT_SRC = SRC; } catch (e) {}
+
   // one "visit" ping per source per session, so seeded visits are logged even без клика
   try {
     if (SRC) {
       var vkey = "tlnt_vis_" + SRC;
       if (!sessionStorage.getItem(vkey)) {
         sessionStorage.setItem(vkey, "1");
-        var vp = JSON.stringify({ type: "visit", from: SRC, page: location.pathname });
+        var vp = JSON.stringify({ type: "visit", from: SRC, page: location.pathname, gclid: GCLID });
         navigator.sendBeacon(WORKER, new Blob([vp], { type: "text/plain" }));
       }
     }
@@ -112,7 +130,7 @@
         e.preventDefault();
         var b = document.getElementById("tlnt-lb");
         b.disabled = true; b.textContent = "Отправляем…";
-        var payload = JSON.stringify({ name: lf.lname.value, position: lf.lpos.value, contact: lf.lcontact.value, message: "страница: " + location.pathname, from: SRC });
+        var payload = JSON.stringify({ name: lf.lname.value, position: lf.lpos.value, contact: lf.lcontact.value, message: "страница: " + location.pathname, from: SRC, gclid: GCLID });
         fetch(WORKER, { method: "POST", headers: { "Content-Type": "application/json" }, body: payload })
           .then(function (r) { return r.json(); })
           .then(function (d) { if (!d || !d.ok) throw 0; lf.style.display = "none"; document.getElementById("tlnt-ok").style.display = "block"; })
@@ -140,14 +158,34 @@
       var key = "tlnt_clk_" + ch + "_" + location.pathname;
       if (sessionStorage.getItem(key)) return;
       sessionStorage.setItem(key, "1");
-      var payload = JSON.stringify({ type: "click", channel: ch, page: location.pathname, from: SRC });
+      var payload = JSON.stringify({ type: "click", channel: ch, page: location.pathname, from: SRC, gclid: GCLID });
       navigator.sendBeacon(WORKER, new Blob([payload], { type: "text/plain" }));
       try { if (window.fbq) fbq("track", "Lead", { content_name: ch }); } catch (e) {}
       try { if (window.gtag) gtag("event", "conversion", { send_to: "AW-18241263216/suk6CJf-ksgcEPCsjvpD" }); } catch (e) {}
     } catch (e) {}
   }
-  // fire Lead on lead-form submit too
-  document.addEventListener("submit", function () {
+  // fire Lead on lead-form submit too — with Enhanced Conversions (hashed phone/email)
+  document.addEventListener("submit", function (e) {
+    // Enhanced Conversions: hand the Google tag the user-provided contact so it can hash & match
+    try {
+      var form = e && e.target;
+      if (form && form.querySelector && window.gtag) {
+        var pick = function (sel) { var el = form.querySelector(sel); return el ? (el.value || "").trim() : ""; };
+        var contact = pick("[name=fcontact]") || pick("[name=lcontact]") || pick("[name*=contact]") || pick("input[type=tel]") || "";
+        var ud = {};
+        if (contact.indexOf("@") > -1) {
+          ud.email = contact.toLowerCase();
+        } else {
+          var d = contact.replace(/\D/g, ""), ph = "";
+          if (d.length === 9 && d[0] === "5") ph = "+971" + d;                       // 5XXXXXXXX
+          else if (d.length === 10 && d.slice(0, 2) === "05") ph = "+971" + d.slice(1); // 05XXXXXXXX
+          else if (d.length === 12 && d.slice(0, 3) === "971") ph = "+" + d;          // 9715XXXXXXXX
+          else if (contact.charAt(0) === "+" && d) ph = "+" + d;                       // already E.164
+          if (ph) ud.phone_number = ph;
+        }
+        if (ud.email || ud.phone_number) gtag("set", "user_data", ud);
+      }
+    } catch (e) {}
     try { if (window.fbq) fbq("track", "Lead", { content_name: "form" }); } catch (e) {}
     try { if (window.gtag) gtag("event", "conversion", { send_to: "AW-18241263216/suk6CJf-ksgcEPCsjvpD" }); } catch (e) {}
   }, true);
