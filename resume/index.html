@@ -152,7 +152,14 @@
   <div class="eyebrow"><span class="num">03</span><span class="ln"></span><span class="tt">Контакты</span></div>
   <h2>Контакты<span class="dot">.</span></h2>
   <label for="c_name">Имя и фамилия</label><input id="c_name" autocomplete="name" placeholder="Анна Иванова">
-  <label for="c_wa">WhatsApp</label><input id="c_wa" inputmode="tel" autocomplete="tel" placeholder="+971 5x xxx xxxx">
+  <div class="two">
+    <div><label for="c_phone">Телефон</label><input id="c_phone" inputmode="tel" autocomplete="tel" placeholder="+971 5x xxx xxxx"></div>
+    <div><label for="c_wa">WhatsApp</label><input id="c_wa" inputmode="tel" placeholder="тот же или другой"></div>
+  </div>
+  <div class="two">
+    <div><label for="c_tg">Telegram <span style="font-weight:400;text-transform:none;color:#b3a893">—&nbsp;необяз.</span></label><input id="c_tg" autocomplete="off" placeholder="@username"></div>
+    <div><label for="c_ig">Instagram <span style="font-weight:400;text-transform:none;color:#b3a893">—&nbsp;портфолио</span></label><input id="c_ig" autocomplete="off" placeholder="@ваш_профиль"></div>
+  </div>
   <label for="c_email">Email <span style="font-weight:400;text-transform:none;color:#b3a893">— необязательно</span></label><input id="c_email" inputmode="email" autocomplete="email" placeholder="anna@example.com">
   <label>Где вы находитесь</label><div class="chips" data-single="c_city"></div>
 </section>
@@ -348,7 +355,7 @@ S.xp = S.xp||[]; S.skills = S.skills||[]; S.langs = S.langs||[];
 function save(){ localStorage.setItem("tlnt_resume", JSON.stringify(S)); updateBar(); }
 const $=q=>document.querySelector(q), $$=q=>[...document.querySelectorAll(q)];
 function pct(){
-  let p=0; if(S.role)p+=10; if(S.photo)p+=10; if(S.name)p+=8; if(S.wa)p+=12;
+  let p=0; if(S.role)p+=10; if(S.photo)p+=10; if(S.name)p+=8; if(S.wa||S.phone)p+=12;
   if(S.u_visa)p+=15; if(S.xp&&S.xp.length)p+=20; if(S.skills&&S.skills.length>=4)p+=10;
   if(S.langs&&S.langs.length)p+=8; if(S.about)p+=7; return Math.min(100,p);
 }
@@ -392,7 +399,7 @@ chips($('[data-multi="l_langs"]'), LANGS, "l_langs", true);
 chips($('[data-single="l_salary"]'), SALARY, "l_salary", false);
 if(S.role && ROLECAT[S.role]==="Медицина") $("#dhawrap").style.display="block";
 /* text binds */
-[["c_name","name"],["c_wa","wa"],["c_email","email"],["u_nat","nat"],["e_main","edu"],["e_courses","courses"],["a_text","about"]].forEach(([id,key])=>{
+[["c_name","name"],["c_phone","phone"],["c_wa","wa"],["c_tg","tg"],["c_ig","ig"],["c_email","email"],["u_nat","nat"],["e_main","edu"],["e_courses","courses"],["a_text","about"]].forEach(([id,key])=>{
   const el=$("#"+id); el.value=S[key]||"";
   el.addEventListener("input",()=>{ S[key]=el.value; save(); });
 });
@@ -491,7 +498,9 @@ function refreshAbout(){
 function esc(s){return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;")}
 function docHTML(){
   const meta=[S.c_city, S.nat?("Гражданство: "+S.nat):"", S.u_visa, S.u_avail, S.l_salary?("Зарплата: "+S.l_salary):""].filter(Boolean).join(" · ");
-  const contacts=[S.wa?("WhatsApp: "+S.wa):"", S.email].filter(Boolean).join(" · ");
+  const tg=S.tg?("Telegram: "+(S.tg.startsWith("@")?S.tg:"@"+S.tg)):"";
+  const ig=S.ig?("Instagram: "+(S.ig.startsWith("@")?S.ig:"@"+S.ig)):"";
+  const contacts=[S.phone?("Тел: "+S.phone):"", S.wa?("WhatsApp: "+S.wa):"", tg, ig, S.email].filter(Boolean).join(" · ");
   let xp="";
   (S.xp||[]).forEach(x=>{ if(!(x.t||x.c)) return;
     xp+=`<div class="dxp"><div class="t">${esc(x.t)}${x.c?" — "+esc(x.c):""}</div><div class="d">${esc(x.d)}</div>`+
@@ -526,16 +535,17 @@ function partialLead(stage){
   if(sentStages[stage] || !(S.wa||S.email)) return; sentStages[stage]=1;
   try{ navigator.sendBeacon(WORKER, new Blob([JSON.stringify({
     name:S.name||"—", position:"КАНДИДАТ ("+stage+"): "+(S.roleName||S.role||"—"),
-    contact:(S.wa||"")+" "+(S.email||""), message:"конструктор резюме, "+pct()+"% готово"
+    contact:(S.wa||S.phone||"")+" "+(S.tg||"")+" "+(S.email||""), message:"конструктор резюме, "+pct()+"% готово"
   })],{type:"text/plain"})); }catch(e){}
 }
 $("#c_wa").addEventListener("blur",()=>partialLead("contacts"));
+$("#c_phone").addEventListener("blur",()=>partialLead("contacts"));
 $("#send").onclick=()=>{
   const b=$("#send"); b.disabled=true; b.textContent="Отправляем…";
   const sum=[S.roleName,S.seniority,S.u_visa,S.u_avail,"навыки: "+(S.skills||[]).slice(0,6).join(", ")].filter(Boolean).join(" | ");
   fetch(WORKER,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({
     name:S.name||"—", position:"КАНДИДАТ (резюме готово): "+(S.roleName||"—"),
-    contact:(S.wa||"")+" "+(S.email||""), message:sum.slice(0,950)})})
+    contact:(S.wa||S.phone||"")+" "+(S.tg||"")+" "+(S.email||""), message:sum.slice(0,950)})})
   .then(r=>r.json()).then(d=>{ if(!d||!d.ok)throw 0; b.textContent="Отправлено — мы на связи 🤍"; })
   .catch(()=>{ b.disabled=false; b.textContent="Отправить резюме в TLNT — подберём вакансию"; alert("Не получилось — напишите нам в WhatsApp: +971 58 578 3353"); });
 };
