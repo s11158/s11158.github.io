@@ -262,7 +262,7 @@ function swapNode(n, dict){
   }
 }
 function walk(dict){
-  document.querySelectorAll("h1,h2,h3,p,label,button,span,div.cat,div.plabel span,a").forEach(el=>{
+  document.querySelectorAll("h1,h2,h3,p,label,button,span,em,b,i,div.cat,div.plabel span,a").forEach(el=>{
     [...el.childNodes].forEach(n=>{ if(n.nodeType===3) swapNode(n, dict); });
   });
   // chips / cards / variants are pure-text buttons
