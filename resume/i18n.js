@@ -238,10 +238,10 @@ const UI = {
 "Языки":"Languages","Желаемая зарплата":"Desired salary","Необязательно — но с ней предложений больше.":"Optional — but you get more offers with it.",
 "Мы собрали варианты из ваших ответов — выберите и поправьте под себя. Этот блок обязательный: работодатели читают его первым.":"We assembled options from your answers — pick one and adjust. Employers read this first.",
 "Ваш текст":"Your text","Ваше резюме":"Your CV",
-"Скачать PDF — бесплатно":"Download PDF — free","Скачать PDF (English)":"Download PDF (English)",
+"Скачать резюме PDF — русская + английская версии":"Download CV PDF — Russian + English versions","Готовим файлы…":"Preparing files…","Готово! Оба PDF в загрузках 🤍":"Done! Both PDFs are in your downloads",
 "Отправить резюме в TLNT — подберём вакансию":"Send CV to TLNT — we'll match you with a job",
 "Включить меня в базу кандидатов TLNT — предлагать подходящие вакансии в Дубае":"Add me to the TLNT candidate base — offer me matching jobs in Dubai",
-"Без подписок · без водяных знаков · PDF ваш навсегда":"No subscriptions · no watermarks · the PDF is yours forever",
+"Бесплатно · без водяных знаков · оба файла сразу в загрузки · копия уходит рекрутерам TLNT — подберём вам вакансию":"Free · no watermarks · both files download instantly · a copy goes to TLNT recruiters — we will match you with a job",
 "Посмотреть резюме":"Preview CV","Закрыть":"Close","Резюме заполняется по мере ответов":"Your CV builds up as you answer",
 "Должность":"Job title","Компания, город":"Company, city","Годы":"Years","Обязанности — протыкайте подходящие":"Duties — tap the ones that fit",
 "Настройте кадр":"Adjust the frame","Двигайте фото пальцем и приближайте ползунком — в кадре останетесь только вы.":"Drag the photo and zoom with the slider — only you stay in the frame.",
@@ -330,17 +330,6 @@ window.docHTMLen = function(){
     ((S.langs&&S.langs.length)?'<h3>Languages</h3><div>'+S.langs.map(l=>escE(tr(l))).join(" · ")+'</div>':"")+
     '<div class="dfoot">made with tlnt.ae — staff recruitment in Dubai</div></div>';
 };
-/* add EN download button after RU one */
-(function(){
-  const dl = document.getElementById("dl");
-  if(!dl) return;
-  const en = document.createElement("button");
-  en.type="button"; en.className="go"; en.id="dlen";
-  en.style.background="#3f3a33";
-  en.textContent="Скачать PDF (English)";
-  dl.parentNode.insertBefore(en, dl.nextSibling);
-  en.onclick = ()=>{ document.getElementById("printhost").innerHTML = window.docHTMLen(); window.print(); };
-})();
 
 applyLang();
 })();

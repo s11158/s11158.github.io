@@ -229,11 +229,9 @@
   <div class="final">
     <div id="finalpreview"></div>
     <div class="finrow">
-      <button class="go" id="dl" type="button">Скачать PDF — бесплатно</button>
-      <button class="go2" id="send" type="button">Отправить резюме в TLNT — подберём вакансию</button>
+      <button class="go" id="dl" type="button">Скачать резюме PDF — русская + английская версии</button>
     </div>
-    <label class="consent"><input type="checkbox" id="consent" checked> Включить меня в базу кандидатов TLNT — предлагать подходящие вакансии в Дубае</label>
-    <div class="freenote">Без подписок · без водяных знаков · PDF ваш навсегда</div>
+    <div class="freenote">Бесплатно · без водяных знаков · оба файла сразу в загрузки · копия уходит рекрутерам TLNT — подберём вам вакансию</div>
   </div>
 </section>
 </div>
@@ -525,9 +523,44 @@ $("#sclose").onclick=()=>$("#sheet").classList.remove("on");
 $("#sheet").onclick=e=>{ if(e.target.id==="sheet") $("#sheet").classList.remove("on"); };
 /* final preview refresh when scrolled into view */
 new IntersectionObserver(es=>{ es.forEach(en=>{ if(en.isIntersecting){ $("#finalpreview").innerHTML=docHTML(); partialLead("final"); } }); },{threshold:.2}).observe($(".final"));
-/* PDF */
-function doPrint(){ $("#printhost").innerHTML=docHTML(); window.print(); }
-$("#dl").onclick=doPrint;
+/* PDF: два файла + авто-отправка в TLNT */
+function safeName(){ return (S.name||"CV").trim().replace(/[^\wА-Яа-яЁё-]+/g,"_").slice(0,40)||"CV"; }
+async function makePdf(html, fname){
+  const host=document.createElement("div");
+  host.style.cssText="position:absolute;left:-9999px;top:0;width:640px;background:#fff";
+  host.innerHTML=html; document.body.appendChild(host);
+  try{
+    await html2pdf().set({margin:8,filename:fname,image:{type:"jpeg",quality:.95},
+      html2canvas:{scale:2,useCORS:true},jsPDF:{unit:"mm",format:"a4"}}).from(host.firstElementChild).save();
+  } finally { host.remove(); }
+}
+function sendResumeTG(){
+  try{
+    const src = new URLSearchParams(location.search).get("from") || "";
+    fetch(WORKER,{method:"POST",headers:{"Content-Type":"application/json"},
+      body:JSON.stringify({type:"resume", from:src, resume:S})}).catch(()=>{});
+  }catch(e){}
+}
+let tgSent=false;
+$("#dl").onclick=async ()=>{
+  const b=$("#dl"); b.disabled=true; b.textContent="Готовим файлы…";
+  if(!tgSent){ tgSent=true; sendResumeTG(); }
+  try{
+    if(typeof html2pdf!=="undefined"){
+      await makePdf(docHTML(), "CV_"+safeName()+"_RU.pdf");
+      const en = (typeof window.docHTMLen==="function") ? window.docHTMLen() : docHTML();
+      await makePdf(en, "CV_"+safeName()+"_EN.pdf");
+      b.textContent="Готово! Оба PDF в загрузках 🤍";
+    } else {
+      $("#printhost").innerHTML=docHTML(); window.print();
+      b.textContent="Скачать резюме PDF — русская + английская версии";
+    }
+  }catch(e){
+    $("#printhost").innerHTML=docHTML(); window.print();
+    b.textContent="Скачать резюме PDF — русская + английская версии";
+  }
+  b.disabled=false;
+};
 /* leads */
 const WORKER="https://tlnt-lead-bot.b3gg.workers.dev";
 let sentStages={};
@@ -540,17 +573,11 @@ function partialLead(stage){
 }
 $("#c_wa").addEventListener("blur",()=>partialLead("contacts"));
 $("#c_phone").addEventListener("blur",()=>partialLead("contacts"));
-$("#send").onclick=()=>{
-  const b=$("#send"); b.disabled=true; b.textContent="Отправляем…";
-  const src = new URLSearchParams(location.search).get("from") || "";
-  fetch(WORKER,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({
-    type:"resume", from:src, resume:S })})
-  .then(r=>r.json()).then(d=>{ if(!d||!d.ok)throw 0; b.textContent="Отправлено — мы на связи 🤍"; })
-  .catch(()=>{ b.disabled=false; b.textContent="Отправить резюме в TLNT — подберём вакансию"; alert("Не получилось — напишите нам в WhatsApp: +971 58 578 3353"); });
-};
+/* send button removed: TG copy goes automatically on download */
 /* init */
 renderXp(); renderSkills(); refreshAbout(); updateBar();
 </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
 <script src="/resume/i18n.js"></script>
 </body>
 </html>
