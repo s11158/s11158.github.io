@@ -542,10 +542,9 @@ $("#c_wa").addEventListener("blur",()=>partialLead("contacts"));
 $("#c_phone").addEventListener("blur",()=>partialLead("contacts"));
 $("#send").onclick=()=>{
   const b=$("#send"); b.disabled=true; b.textContent="Отправляем…";
-  const sum=[S.roleName,S.seniority,S.u_visa,S.u_avail,"навыки: "+(S.skills||[]).slice(0,6).join(", ")].filter(Boolean).join(" | ");
+  const src = new URLSearchParams(location.search).get("from") || "";
   fetch(WORKER,{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({
-    name:S.name||"—", position:"КАНДИДАТ (резюме готово): "+(S.roleName||"—"),
-    contact:(S.wa||S.phone||"")+" "+(S.tg||"")+" "+(S.email||""), message:sum.slice(0,950)})})
+    type:"resume", from:src, resume:S })})
   .then(r=>r.json()).then(d=>{ if(!d||!d.ok)throw 0; b.textContent="Отправлено — мы на связи 🤍"; })
   .catch(()=>{ b.disabled=false; b.textContent="Отправить резюме в TLNT — подберём вакансию"; alert("Не получилось — напишите нам в WhatsApp: +971 58 578 3353"); });
 };
