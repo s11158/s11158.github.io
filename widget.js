@@ -153,6 +153,9 @@
   // ---- structured data now lives STATICALLY in each page <head> (not JS-injected) ----
 
   // ---- click tracking (one ping per channel+page per session) ----
+  // candidate-facing pages (/candidates, /cv, /resume): job seekers, NOT employer leads —
+  // keep the Telegram beacon but never fire ad-platform conversions from them
+  var IS_CANDIDATE_PAGE = /^\/(en\/)?(candidates|cv|resume)(\/|$)/.test(location.pathname);
   function track(ch) {
     try {
       var key = "tlnt_clk_" + ch + "_" + location.pathname;
@@ -160,12 +163,14 @@
       sessionStorage.setItem(key, "1");
       var payload = JSON.stringify({ type: "click", channel: ch, page: location.pathname, from: SRC, gclid: GCLID });
       navigator.sendBeacon(WORKER, new Blob([payload], { type: "text/plain" }));
+      if (IS_CANDIDATE_PAGE) return;
       try { if (window.fbq) fbq("track", "Lead", { content_name: ch }); } catch (e) {}
       try { if (window.gtag) gtag("event", "conversion", { send_to: "AW-18241263216/suk6CJf-ksgcEPCsjvpD" }); } catch (e) {}
     } catch (e) {}
   }
   // fire Lead on lead-form submit too — with Enhanced Conversions (hashed phone/email)
   document.addEventListener("submit", function (e) {
+    if (IS_CANDIDATE_PAGE) return; // job-seeker forms are not employer leads
     // Enhanced Conversions: hand the Google tag the user-provided contact so it can hash & match
     try {
       var form = e && e.target;
