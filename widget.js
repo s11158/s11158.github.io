@@ -156,6 +156,101 @@
   // candidate-facing pages (/candidates, /cv, /resume): job seekers, NOT employer leads —
   // keep the Telegram beacon but never fire ad-platform conversions from them
   var IS_CANDIDATE_PAGE = /^\/(en\/)?(candidates|cv|resume)(\/|$)/.test(location.pathname);
+
+  // ---- lead qualification: employer or job seeker? ----
+  // Job seekers converting on employer forms inflated Google Ads conversions ~2-3x and
+  // trained Smart Bidding on the wrong audience. One required question splits the traffic:
+  // employers submit as before, job seekers are sent to /candidates/ without firing a conversion.
+  var IS_EN = /^\/en(\/|$)/.test(location.pathname);
+  var ROLE_T = IS_EN ? {
+    q: "Who are you?", employer: "I'm hiring", candidate: "I'm looking for a job",
+    hint: "Please choose one option — it takes a second.",
+    title: "You're in the right place — just one page over",
+    text: "We recruit staff for companies, so we can't hire you ourselves. Send your CV through our candidates page: it goes straight into our database and reaches employers.",
+    cta: "Go to the candidates page", back: "I actually need to hire someone", href: "/en/candidates/"
+  } : {
+    q: "Вы ищете сотрудника или работу?", employer: "Ищу сотрудника", candidate: "Ищу работу",
+    hint: "Выберите, пожалуйста, один вариант — это займёт секунду.",
+    title: "Вы почти там — вам на соседнюю страницу",
+    text: "Мы подбираем сотрудников для компаний, поэтому сами вас не нанимаем. Отправьте резюме на странице для соискателей: оттуда оно попадает в нашу базу и доходит до работодателей.",
+    cta: "Перейти на страницу для соискателей", back: "Нет, мне нужен сотрудник", href: "/candidates/"
+  };
+
+  function roleValue(form) {
+    try {
+      var el = form && form.querySelector && form.querySelector("[name=tlnt_role]");
+      return el ? el.value : "";
+    } catch (e) { return ""; }
+  }
+
+  function addRoleGate(form) {
+    if (!form || form.querySelector("[name=tlnt_role]")) return;
+    var wrap = document.createElement("div");
+    wrap.style.cssText = "display:flex;flex-direction:column;gap:9px;margin-bottom:2px";
+    var btnCss = "flex:1;padding:13px 10px;border:1.5px solid #e6dccc;border-radius:14px;background:#fdfbf7;" +
+      "font-family:inherit;font-size:15px;font-weight:600;color:#6b6155;cursor:pointer;transition:.18s;line-height:1.3";
+    wrap.innerHTML =
+      '<span style="font-size:13.5px;color:#7a7266">' + ROLE_T.q + '</span>' +
+      '<div style="display:flex;gap:10px">' +
+      '<button type="button" data-role="employer" style="' + btnCss + '">' + ROLE_T.employer + '</button>' +
+      '<button type="button" data-role="candidate" style="' + btnCss + '">' + ROLE_T.candidate + '</button>' +
+      '</div>' +
+      '<input type="hidden" name="tlnt_role" value="">' +
+      '<span data-role-hint style="display:none;font-size:13px;color:#b4553f"></span>';
+    form.insertBefore(wrap, form.firstChild);
+
+    var hidden = wrap.querySelector("[name=tlnt_role]");
+    var hint = wrap.querySelector("[data-role-hint]");
+    var buttons = wrap.querySelectorAll("button[data-role]");
+
+    for (var i = 0; i < buttons.length; i++) {
+      buttons[i].addEventListener("click", function () {
+        var role = this.getAttribute("data-role");
+        hidden.value = role;
+        hint.style.display = "none";
+        for (var j = 0; j < buttons.length; j++) {
+          var on = buttons[j] === this;
+          buttons[j].style.borderColor = on ? "#986e35" : "#e6dccc";
+          buttons[j].style.background = on ? "#986e35" : "#fdfbf7";
+          buttons[j].style.color = on ? "#fff" : "#6b6155";
+        }
+        if (role === "candidate") showCandidateBlock(form);
+      });
+    }
+  }
+
+  function showCandidateBlock(form) {
+    if (form.parentNode.querySelector("[data-tlnt-candidate]")) return;
+    var box = document.createElement("div");
+    box.setAttribute("data-tlnt-candidate", "1");
+    box.style.cssText = "background:#fdfbf7;border:1.5px solid #e6dccc;border-radius:16px;padding:22px;text-align:left";
+    box.innerHTML =
+      '<div style="font-family:\'Cormorant Garamond\',serif;font-size:24px;color:#3f3a33;margin-bottom:8px">' + ROLE_T.title + '</div>' +
+      '<p style="font-size:15px;color:#6b6155;line-height:1.6;margin:0 0 18px">' + ROLE_T.text + '</p>' +
+      '<a href="' + ROLE_T.href + '" style="display:inline-block;background:#986e35;color:#fff;font-weight:700;font-size:15px;' +
+      'padding:13px 24px;border-radius:100px;text-decoration:none">' + ROLE_T.cta + '</a>' +
+      '<button type="button" data-role-back style="display:block;margin-top:14px;background:none;border:none;padding:0;' +
+      'font-family:inherit;font-size:13.5px;color:#7a7266;text-decoration:underline;cursor:pointer">' + ROLE_T.back + '</button>';
+    form.style.display = "none";
+    form.parentNode.insertBefore(box, form.nextSibling);
+    box.querySelector("[data-role-back]").addEventListener("click", function () {
+      box.parentNode.removeChild(box);
+      form.style.display = "";
+      var employer = form.querySelector('button[data-role="employer"]');
+      if (employer) employer.click();
+    });
+  }
+
+  try {
+    if (!IS_CANDIDATE_PAGE) {
+      var leadForms = document.querySelectorAll("form");
+      for (var fi = 0; fi < leadForms.length; fi++) {
+        var f = leadForms[fi];
+        if (f.querySelector("[name=fpos], [name=lpos]")) addRoleGate(f);
+      }
+    }
+  } catch (e) {}
+
   function track(ch) {
     try {
       var key = "tlnt_clk_" + ch + "_" + location.pathname;
@@ -171,6 +266,26 @@
   // fire Lead on lead-form submit too — with Enhanced Conversions (hashed phone/email)
   document.addEventListener("submit", function (e) {
     if (IS_CANDIDATE_PAGE) return; // job-seeker forms are not employer leads
+
+    // qualification gate — runs in capture phase, so it can stop the form's own submit handler.
+    // Any failure here must fall through to the normal submit rather than block a real lead.
+    try {
+      var gated = e && e.target && e.target.querySelector && e.target.querySelector("[name=tlnt_role]");
+      if (gated) {
+        var role = roleValue(e.target);
+        if (!role) {
+          e.preventDefault(); e.stopPropagation();
+          var h = e.target.querySelector("[data-role-hint]");
+          if (h) { h.textContent = ROLE_T.hint; h.style.display = "block"; }
+          return;
+        }
+        if (role === "candidate") {
+          e.preventDefault(); e.stopPropagation();
+          showCandidateBlock(e.target);
+          return; // job seeker: no employer lead, no ad conversion
+        }
+      }
+    } catch (err) {}
     // Enhanced Conversions: hand the Google tag the user-provided contact so it can hash & match
     try {
       var form = e && e.target;
