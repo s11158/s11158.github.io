@@ -207,6 +207,22 @@
       buttons[i].addEventListener("click", function () {
         var role = this.getAttribute("data-role");
         hidden.value = role;
+        // remember the choice for the session: messenger clicks must not fire an
+        // employer conversion once the visitor told us they are a job seeker
+        try { sessionStorage.setItem("tlnt_role_sel", role); } catch (e) {}
+        // Secondary (non-bidding) conversions — they turn the gate into a traffic-quality
+        // meter: the employer share per campaign is readable in days, not quarters.
+        // Fired once per session so a visitor toggling the buttons is not counted twice.
+        try {
+          if (!sessionStorage.getItem("tlnt_role_sent_" + role) && window.gtag) {
+            sessionStorage.setItem("tlnt_role_sent_" + role, "1");
+            gtag("event", "conversion", {
+              send_to: role === "employer"
+                ? "AW-18241263216/HQq8CLi59NQcEPCsjvpD"
+                : "AW-18241263216/aD2aCLu59NQcEPCsjvpD"
+            });
+          }
+        } catch (e) {}
         hint.style.display = "none";
         for (var j = 0; j < buttons.length; j++) {
           var on = buttons[j] === this;
@@ -259,6 +275,9 @@
       var payload = JSON.stringify({ type: "click", channel: ch, page: location.pathname, from: SRC, gclid: GCLID });
       navigator.sendBeacon(WORKER, new Blob([payload], { type: "text/plain" }));
       if (IS_CANDIDATE_PAGE) return;
+      // visitor already identified as a job seeker in the role gate — keep the beacon
+      // (we still want the contact) but never report it to the ad platforms as a lead
+      try { if (sessionStorage.getItem("tlnt_role_sel") === "candidate") return; } catch (e) {}
       try { if (window.fbq) fbq("track", "Lead", { content_name: ch }); } catch (e) {}
       try { if (window.gtag) gtag("event", "conversion", { send_to: "AW-18241263216/suk6CJf-ksgcEPCsjvpD" }); } catch (e) {}
     } catch (e) {}
