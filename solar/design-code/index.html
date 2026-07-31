@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="robots" content="noindex, nofollow">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SOLAR Design Code — фирменный стиль для страниц</title>
+<link rel="stylesheet" href="solar-skin.css">
+<style>
+  .swatch-row{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:14px}
+  .swatch{border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;background:#fff}
+  .swatch .chip{height:64px}
+  .swatch .meta{padding:10px 12px;font-size:12px;line-height:1.5}
+  .swatch .meta b{display:block;font-family:'Geist',monospace;font-weight:600;color:var(--ink)}
+  .spec{font-size:12.5px;color:var(--muted);background:var(--gold-soft);border:1px solid var(--card-tint);
+    border-radius:var(--radius);padding:10px 14px;margin:10px 0 26px;font-family:Consolas,monospace}
+  .demo{border:1px dashed var(--card-tint);border-radius:var(--radius);padding:26px;margin-bottom:10px;background:#fff}
+</style>
+</head>
+<body>
+
+<nav class="solar">
+  <div class="wrap">
+    <a href="#top" class="logo"><img src="https://static.tildacdn.net/tild3939-3234-4365-b239-373261353164/image_1.png" alt="SOLAR"></a>
+    <div class="links">
+      <a href="#colors">Палитра</a><a href="#type">Типографика</a><a href="#buttons">Кнопки</a>
+      <a href="#cards">Карточки</a><a href="#sections">Секции</a><a href="#rules">Правила</a>
+    </div>
+    <a href="#rules" class="btn" style="padding:12px 24px">Как собрать страницу</a>
+  </div>
+</nav>
+
+<header class="hero" id="top" style="padding:70px 0 50px">
+  <div class="wrap">
+    <div class="eyebrow">SOLAR Design Code · v1 · снят с живого solar-beauty.ae</div>
+    <h1 style="font-size:40px;margin:6px 0 18px">Фирменный стиль SOLAR для новых страниц</h1>
+    <p class="body" style="max-width:70ch">Всё на этой странице — реальные токены боевого сайта: те же файлы шрифтов с Tilda CDN проекта, точная палитра, фирменные кнопки и карточки. Собирайте страницу из этих блоков — и она будет неотличима от solar-beauty.ae. CSS лежит рядом: <a href="solar-skin.css" style="color:var(--gold2);font-weight:600">solar-skin.css</a>.</p>
+  </div>
+</header>
+
+<section class="block" id="colors">
+  <div class="wrap">
+    <div class="section-head"><div class="eyebrow">Палитра</div><h2>Цвета — только эти</h2></div>
+    <div class="swatch-row">
+      <div class="swatch"><div class="chip" style="background:#4b1e35"></div><div class="meta"><b>#4b1e35</b>плам — заголовки, тёмные ленты, подвал</div></div>
+      <div class="swatch"><div class="chip" style="background:#60384b"></div><div class="meta"><b>#60384b</b>вторичный текст, светлый плам</div></div>
+      <div class="swatch"><div class="chip" style="background:#383135"></div><div class="meta"><b>#383135</b>длинные абзацы</div></div>
+      <div class="swatch"><div class="chip" style="background:#bda07a"></div><div class="meta"><b>#bda07a</b>золото — кнопки, акценты</div></div>
+      <div class="swatch"><div class="chip" style="background:#c18e52"></div><div class="meta"><b>#c18e52</b>тёмное золото — hover, ярлыки</div></div>
+      <div class="swatch"><div class="chip" style="background:#faf8f5;border-bottom:1px solid #ede3db"></div><div class="meta"><b>#faf8f5</b>фон страницы (крем)</div></div>
+      <div class="swatch"><div class="chip" style="background:#f4ede7"></div><div class="meta"><b>#f4ede7</b>бежевые подложки секций</div></div>
+      <div class="swatch"><div class="chip" style="background:#ebdfd2"></div><div class="meta"><b>#ebdfd2</b>тонированные карточки</div></div>
+      <div class="swatch"><div class="chip" style="background:#ede3db"></div><div class="meta"><b>#ede3db</b>линии и рамки</div></div>
+      <div class="swatch"><div class="chip" style="background:#f9eddd"></div><div class="meta"><b>#f9eddd</b>светлый текст на пламе</div></div>
+    </div>
+  </div>
+</section>
+
+<section class="block tint" id="type">
+  <div class="wrap">
+    <div class="section-head"><div class="eyebrow">Типографика</div><h2>Два шрифта, тонкие заголовки</h2></div>
+    <div class="demo">
+      <div class="eyebrow">Ярлык-eyebrow · Geist 600 · 11.5px · разрядка .2em · #c18e52</div>
+      <h1 style="font-size:44px;margin-bottom:8px">H1 · SerifPro 400 · 44px</h1>
+      <h2 style="font-size:30px;margin-bottom:8px">H2 · SerifPro 400 · 30px</h2>
+      <h3 style="font-size:19px;margin-bottom:16px">H3 · SerifPro 400 · 19–21px</h3>
+      <p class="body">Абзац · Geist 400 · 16px · #383135 · межстрочный 1.65. <strong>Выделения — плам.</strong> Вторичный текст — #60384b.</p>
+    </div>
+    <div class="spec">Заголовки: font-family:'SerifPro' · font-weight:400 (никогда 600/700 — тонкость это фирменный знак!) · цвет #4b1e35<br>Текст: font-family:'Geist' · 400 · 16px. Файлы шрифтов — с Tilda CDN проекта SOLAR (см. solar-skin.css)</div>
+  </div>
+</section>
+
+<section class="block" id="buttons">
+  <div class="wrap">
+    <div class="section-head"><div class="eyebrow">Кнопки</div><h2>Золото, прямые углы, serif</h2></div>
+    <div class="demo" style="display:flex;gap:14px;flex-wrap:wrap;align-items:center">
+      <a href="#" class="btn" onclick="return false">Основная кнопка</a>
+      <a href="#" class="btn btn-light" onclick="return false">Вторичная кнопка</a>
+      <a href="#" class="btn-wa" onclick="return false"><svg viewBox="0 0 24 24"><path d="M.057 24l1.687-6.163a11.867 11.867 0 01-1.587-5.946C.157 5.335 5.495 0 12.05 0a11.82 11.82 0 018.413 3.488 11.82 11.82 0 013.48 8.414c-.003 6.557-5.338 11.892-11.893 11.892a11.9 11.9 0 01-5.688-1.448L.057 24zm6.597-3.807c1.676.995 3.276 1.591 5.392 1.592 5.448 0 9.886-4.434 9.889-9.885.002-5.462-4.415-9.89-9.881-9.892-5.452 0-9.887 4.434-9.889 9.884a9.86 9.86 0 001.51 5.26l-.999 3.648 3.477-.911zm11.387-5.464c-.074-.124-.272-.198-.57-.347-.297-.149-1.758-.868-2.031-.967-.272-.099-.47-.149-.669.149-.198.297-.768.967-.941 1.165-.173.198-.347.223-.644.074-.297-.149-1.255-.462-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.297-.347.446-.521.151-.172.2-.296.3-.495.099-.198.05-.372-.025-.521-.075-.148-.669-1.611-.916-2.206-.242-.579-.487-.501-.669-.51l-.57-.01c-.198 0-.52.074-.792.372s-1.04 1.016-1.04 2.479 1.065 2.876 1.213 3.074c.149.198 2.095 3.2 5.076 4.487.709.306 1.263.489 1.694.626.712.226 1.36.194 1.872.118.571-.085 1.758-.719 2.006-1.413.247-.694.247-1.289.173-1.413z"/></svg>WhatsApp</a>
+    </div>
+    <div class="spec">.btn: фон #bda07a · текст #fff · SerifPro 600 16px · радиус 3px · hover #c18e52. Никаких «пилюль» со скруглением 100px.</div>
+  </div>
+</section>
+
+<section class="block tint" id="cards">
+  <div class="wrap">
+    <div class="section-head"><div class="eyebrow">Карточки</div><h2>Белые, с тонкой рамкой</h2></div>
+    <div class="cards cols-3" style="margin-bottom:20px">
+      <div class="card"><div class="num">1</div><h3>Нумерованная карточка</h3><p>Белый фон, рамка #ede3db, радиус 3px. Номер — SerifPro на подложке #ebdfd2.</p></div>
+      <div class="card"><div class="num">2</div><h3>Заголовок SerifPro 400</h3><p>Текст карточки — Geist 14.5px, вторичный цвет #60384b.</p></div>
+      <div class="card"><div class="num">3</div><h3>Без теней</h3><p>Глубину дают рамки и подложки, а не box-shadow.</p></div>
+    </div>
+    <div class="cards cols-2">
+      <div class="dcard">
+        <div class="place">Ярлык-локация · #c18e52</div>
+        <h3>Карточка района / направления</h3>
+        <p>С золотой кромкой слева (3px, #bda07a). Для списков районов, услуг, преимуществ.</p>
+        <p class="near">Подпись-примечание · 13px · #60384b</p>
+      </div>
+      <div class="dcard">
+        <div class="place">SOLAR · Sobha Hartland</div>
+        <h3>Живой пример</h3>
+        <p>Ровно такие карточки — на странице «рядом со мной» и на боевом сайте.</p>
+        <p class="near">≈ 10–15 мин · Downtown · DIFC</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="block" id="sections">
+  <div class="wrap">
+    <div class="section-head"><div class="eyebrow">Секции и ленты</div><h2>Ритм страницы</h2></div>
+    <p class="body">Секции — <b>padding 74px 0</b>, разделитель — линия #ede3db сверху. Чередование фонов: крем #faf8f5 → беж #f4ede7 (класс <b>.tint</b>) → крем. Тёмные акценты — плам:</p>
+  </div>
+  <section class="block dark-band" style="margin-top:26px">
+    <div class="wrap">
+      <div class="section-head"><div class="eyebrow" style="color:#c9a9b8">Тёмная лента</div><h2>Плам #4b1e35, цифры SerifPro</h2></div>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:26px">
+        <div class="stat"><b>10+</b><span>подпись — Geist 14px #c9a9b8</span></div>
+        <div class="stat"><b>EN·RU·AR</b><span>золотая линия сверху — 1px #bda07a</span></div>
+        <div class="stat"><b>2 часа</b><span>цифры — SerifPro 400 32px</span></div>
+      </div>
+    </div>
+  </section>
+  <div class="wrap" style="margin-top:26px">
+    <details open><summary>FAQ-аккордеон — вопрос SerifPro 18px</summary><p>Ответ — Geist 15px #383135. Плюс/минус — тонкий, золотой #c18e52.</p></details>
+    <div class="cta-band" style="margin-top:26px">
+      <h2>CTA-лента — плам-градиент</h2>
+      <p>linear-gradient(150deg, #60384b, #4b1e35 55%, #3a1729). Поля формы — полупрозрачный крем, радиус 3px.</p>
+      <a href="#" class="btn" onclick="return false">Записаться</a>
+    </div>
+  </div>
+</section>
+
+<section class="block tint" id="rules">
+  <div class="wrap">
+    <div class="section-head"><div class="eyebrow">Правила</div><h2>Как собрать страницу «не отличить»</h2></div>
+    <div class="cards cols-2">
+      <div class="card"><h3>1 · Начните с каркаса</h3><p>Скопируйте &lt;style&gt; с любой страницы /solar/ (или подключите solar-skin.css), шапку с логотипом и подвал. Логотип — картинка image_1.png с Tilda CDN, в подвале — белая (filter:invert).</p></div>
+      <div class="card"><h3>2 · Только эти токены</h3><p>Цвета — из палитры выше, ничего «на глаз». Заголовки SerifPro 400 (не жирные!), текст Geist. Углы 3px везде.</p></div>
+      <div class="card"><h3>3 · Фирменные детали</h3><p>Eyebrow-ярлык над каждым H1/H2. Золотые кнопки с serif-шрифтом. Карточки без теней. Тёмные блоки — только плам, не чёрный и не коричневый.</p></div>
+      <div class="card"><h3>4 · Проверка</h3><p>Откройте рядом solar-beauty.ae: шрифт заголовков, цвет кнопок и фон должны совпадать один в один. Прототип — на tlnt.ae/solar/ (noindex), в Tilda переносим после одобрения.</p></div>
+    </div>
+  </div>
+</section>
+
+<footer class="solar">
+  <div class="wrap">
+    <div>
+      <a href="#top" class="logo"><img src="https://static.tildacdn.net/tild3939-3234-4365-b239-373261353164/image_1.png" alt="SOLAR"></a>
+      <p style="margin-top:10px">SOLAR Design Code · v1 · июль 2026</p>
+    </div>
+    <div style="max-width:54ch">
+      <p>Файлы: solar-skin.css (рядом) · документ SOLAR_дизайн-код.md (Downloads) · трансформеры _reskin.py / _btnfix.py</p>
+      <p class="disclaimer">Внутренняя страница для команды. Токены сняты с боевого solar-beauty.ae; при редизайне боевого сайта обновить здесь.</p>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
