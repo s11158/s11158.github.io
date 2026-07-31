@@ -41,7 +41,7 @@
 html{scroll-behavior:smooth}
 body{font-family:'Geist',Arial,sans-serif;color:var(--body);background:var(--bg);
   line-height:1.65;font-size:16px;-webkit-font-smoothing:antialiased}
-h1,h2,h3{font-family:'SerifPro',Georgia,serif;font-weight:400;line-height:1.25;color:var(--ink)}
+h1,h2,h3{font-family:'SerifPro',Georgia,serif;font-weight:300;line-height:1.25;color:var(--ink)}
 /* Вес 400 обязателен: тонкий спокойный serif — главный опознавательный знак SOLAR */
 .wrap{max-width:var(--maxw);margin:0 auto;padding:0 24px}
 a{color:inherit}
