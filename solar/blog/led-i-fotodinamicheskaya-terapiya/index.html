@@ -22,25 +22,34 @@
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Светотерапия безопасна?", "acceptedAnswer": {"@type": "Answer", "text": "Да, это неинвазивный и безболезненный метод без УФ-излучения. Противопоказания уточняются на консультации."}}, {"@type": "Question", "name": "Когда виден эффект?", "acceptedAnswer": {"@type": "Answer", "text": "Сияние — сразу после сеанса; по акне и розацеа результат накопительный, курсом."}}, {"@type": "Question", "name": "Можно совмещать с другими процедурами?", "acceptedAnswer": {"@type": "Answer", "text": "Да, LED/ФДТ хорошо сочетается с чисткой, HydraFacial и RF — усиливает восстановление кожи."}}]}
 </script>
 <style>
-  :root{--bg:#faf7f2;--paper:#fff;--ink:#1c1a17;--muted:#6f6a62;--line:#e8e1d6;--gold:#b8893f;--gold-soft:#f3ead9;--dark:#16140f;--radius:18px;--maxw:1160px}
+  /* ===== SOLAR brand fonts (same CDN files as solar-beauty.ae) ===== */
+  @font-face{font-family:'SerifPro';src:url('https://static.tildacdn.net/tild3636-6363-4232-a461-653734356134/SourceSerifPro-Light.woff') format('woff');font-weight:300;font-display:swap}
+  @font-face{font-family:'SerifPro';src:url('https://static.tildacdn.net/tild6562-6266-4932-b233-326537346566/SourceSerifPro-Regul.woff') format('woff');font-weight:400;font-display:swap}
+  @font-face{font-family:'SerifPro';src:url('https://static.tildacdn.net/tild6232-6433-4262-a534-626164306232/SourceSerifPro-SemiB.woff') format('woff');font-weight:600;font-display:swap}
+  @font-face{font-family:'Geist';src:url('https://static.tildacdn.net/tild6636-6631-4133-b230-326266646261/Geist-Light.woff') format('woff');font-weight:300;font-display:swap}
+  @font-face{font-family:'Geist';src:url('https://static.tildacdn.net/tild6331-6538-4836-b337-303438643866/Geist-Regular.woff') format('woff');font-weight:400;font-display:swap}
+  @font-face{font-family:'Geist';src:url('https://static.tildacdn.net/tild6235-3638-4261-b832-656336376665/Geist-Medium.woff') format('woff');font-weight:500;font-display:swap}
+  @font-face{font-family:'Geist';src:url('https://static.tildacdn.net/tild6666-3362-4536-a534-396631303135/Geist-SemiBold.woff') format('woff');font-weight:600;font-display:swap}
+
+  :root{--bg:#faf8f5;--paper:#fff;--ink:#4b1e35;--muted:#60384b;--line:#ede3db;--gold:#bda07a;--gold-soft:#f4ede7;--dark:#4b1e35;--radius:3px;--maxw:1160px}
   *{box-sizing:border-box;margin:0;padding:0}
   html{scroll-behavior:smooth}
-  body{font-family:"Helvetica Neue",-apple-system,Segoe UI,Roboto,Arial,sans-serif;color:var(--ink);background:var(--bg);line-height:1.7;font-size:17px;-webkit-font-smoothing:antialiased}
-  h1,h2,h3{font-family:Georgia,"Times New Roman",serif;font-weight:600;line-height:1.2;letter-spacing:-.01em}
+  body{font-family:'Geist',Arial,sans-serif;color:var(--ink);background:var(--bg);line-height:1.7;font-size:17px;-webkit-font-smoothing:antialiased}
+  h1,h2,h3{font-family:'SerifPro',Georgia,serif;font-weight:400;line-height:1.2;letter-spacing:-.01em}
   .wrap{max-width:var(--maxw);margin:0 auto;padding:0 24px}
   .narrow{max-width:760px}
   a{color:inherit}
-  .eyebrow{font-family:"Helvetica Neue",sans-serif;font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:700;margin-bottom:16px}
-  .btn{display:inline-block;background:var(--dark);color:#fff;padding:15px 30px;border-radius:100px;text-decoration:none;font-size:14.5px;letter-spacing:.04em;font-weight:600;transition:.25s;border:1px solid var(--dark)}
+  .eyebrow{font-family:'Geist',Arial,sans-serif;font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:700;margin-bottom:16px}
+  .btn{display:inline-block;background:var(--dark);color:#fff;padding:15px 30px;border-radius:3px;text-decoration:none;font-size:14.5px;letter-spacing:.04em;font-weight:600;transition:.25s;border:1px solid var(--dark)}
   .btn:hover{background:transparent;color:var(--dark)}
   .btn-light{background:transparent;color:var(--dark);border:1px solid var(--ink)}
   .btn-light:hover{background:var(--dark);color:#fff}
-  .btn-wa{display:inline-flex;align-items:center;justify-content:center;gap:9px;background:#25D366;color:#fff;border:1px solid #25D366;padding:14px 24px;border-radius:100px;text-decoration:none;font-size:14.5px;font-weight:600;transition:.25s;line-height:1.2}
+  .btn-wa{display:inline-flex;align-items:center;justify-content:center;gap:9px;background:#25D366;color:#fff;border:1px solid #25D366;padding:14px 24px;border-radius:3px;text-decoration:none;font-size:14.5px;font-weight:600;transition:.25s;line-height:1.2}
   .btn-wa:hover{background:#1da851;border-color:#1da851}
   .btn-wa svg{flex:none;width:19px;height:19px;fill:currentColor}
   nav{position:sticky;top:0;z-index:50;background:rgba(250,247,242,.9);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
   nav .wrap{display:flex;align-items:center;justify-content:space-between;height:70px}
-  .logo{font-family:Georgia,serif;font-size:24px;letter-spacing:.32em;font-weight:600;text-decoration:none}
+  .logo{font-family:'SerifPro',Georgia,serif;font-size:24px;letter-spacing:.32em;font-weight:600;text-decoration:none}
   .logo span{color:var(--gold)}
   nav .links{display:flex;gap:24px;font-size:13.5px;letter-spacing:.03em}
   nav .links a{text-decoration:none;color:var(--muted)}
@@ -51,7 +60,7 @@
   .art-head{padding:26px 0 40px;border-bottom:1px solid var(--line)}
   .art-head h1{font-size:40px;margin:12px 0 18px}
   .art-head .lead{font-size:20px;color:var(--muted)}
-  .art-meta{font-size:13px;color:#9a948a;margin-top:22px;letter-spacing:.02em}
+  .art-meta{font-size:13px;color:#9b7d8d;margin-top:22px;letter-spacing:.02em}
   @media(max-width:640px){.art-head h1{font-size:29px}}
   article{padding:44px 0 20px}
   article h2{font-size:27px;margin:40px 0 14px}
@@ -60,17 +69,17 @@
   article ul,article ol{margin:0 0 20px 22px}
   article li{margin-bottom:9px;color:#312f2a}
   article strong{color:var(--ink)}
-  .lead-in{font-size:19px;color:#42403a}
-  .callout{background:var(--gold-soft);border:1px solid #e7d6b6;border-left:4px solid var(--gold);border-radius:14px;padding:24px 28px;margin:34px 0}
+  .lead-in{font-size:19px;color:#383135}
+  .callout{background:var(--gold-soft);border:1px solid #ebdfd2;border-left:4px solid var(--gold);border-radius:14px;padding:24px 28px;margin:34px 0}
   .callout p{margin:0 0 14px}
   .callout a.btn{margin-top:2px}
   table.cmp{width:100%;border-collapse:collapse;margin:22px 0;font-size:15px;background:var(--paper);border:1px solid var(--line);border-radius:12px;overflow:hidden}
   table.cmp th,table.cmp td{text-align:left;padding:13px 16px;border-bottom:1px solid var(--line)}
-  table.cmp th{background:var(--gold-soft);font-family:Georgia,serif;font-weight:600}
+  table.cmp th{background:var(--gold-soft);font-family:'SerifPro',Georgia,serif;font-weight:600}
   table.cmp tr:last-child td{border-bottom:none}
-  .cta-band{background:linear-gradient(135deg,#1c1a14,#332b1d);color:#fff;border-radius:24px;padding:52px 44px;text-align:center;margin:40px 0}
+  .cta-band{background:linear-gradient(135deg,#60384b,#3a1729);color:#fff;border-radius:24px;padding:52px 44px;text-align:center;margin:40px 0}
   .cta-band h2{color:#fff;font-size:29px;margin:0 0 14px}
-  .cta-band p{color:#c9c0b0;max-width:52ch;margin:0 auto 26px}
+  .cta-band p{color:#d8bcc9;max-width:52ch;margin:0 auto 26px}
   .cta-band .btn{background:#fff;color:var(--dark);border-color:#fff}
   .cta-band .btn:hover{background:transparent;color:#fff}
   .cta-row{display:flex;gap:14px;justify-content:center;flex-wrap:wrap}
@@ -84,12 +93,14 @@
   footer{padding:46px 0;border-top:1px solid var(--line);color:var(--muted);font-size:14px}
   footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
   footer a{color:var(--gold);text-decoration:none}
-  .disclaimer{font-size:12.5px;color:#9a948a;margin-top:12px;max-width:92ch}
+  .disclaimer{font-size:12.5px;color:#9b7d8d;margin-top:12px;max-width:92ch}
+
+  /* solar-btn-override */.btn{background:var(--gold);border-color:var(--gold);color:#fff;font-family:'SerifPro',Georgia,serif;font-weight:600}.btn:hover{background:#c18e52;border-color:#c18e52;color:#fff}.btn-light{background:transparent;color:var(--ink);border-color:var(--ink)}.btn-light:hover{background:var(--ink);color:#fff}
 </style>
 </head>
 <body>
 <nav><div class="wrap">
-  <a href="../../aesthetic-clinic/" class="logo">S<span>O</span>LAR</a>
+  <a href="../../aesthetic-clinic/" class="logo"><img src="https://static.tildacdn.net/tild3939-3234-4365-b239-373261353164/image_1.png" alt="SOLAR" style="height:28px;vertical-align:middle;display:inline-block"></a>
   <div class="links"><a href="../">Статьи</a><a href="../../aesthetic-clinic/">Услуги</a><a href="../../heleo4-led/">Фотодинамическая терапия HELEO4</a></div>
   <a href="https://wa.me/971507345432" target="_blank" rel="noopener" class="btn" style="padding:12px 24px">WhatsApp</a>
 </div></nav>
@@ -151,7 +162,7 @@
 </div>
 
 <footer><div class="wrap">
-  <div><a href="../../aesthetic-clinic/" class="logo" style="font-size:20px">S<span>O</span>LAR</a>
+  <div><a href="../../aesthetic-clinic/" class="logo" style="font-size:20px"><img src="https://static.tildacdn.net/tild3939-3234-4365-b239-373261353164/image_1.png" alt="SOLAR" style="height:28px;vertical-align:middle;display:inline-block"></a>
     <p style="margin-top:10px;color:var(--muted)">Beauty &amp; Aesthetics Clinic · Sobha Hartland, MBR City, Dubai</p>
     <p style="margin-top:6px"><a href="../">Все статьи</a> · <a href="../../aesthetic-clinic/">Все услуги</a></p></div>
   <div style="max-width:52ch"><p style="color:var(--muted)">Запись и консультация — WhatsApp <a href="https://wa.me/971507345432">+971 50 734 5432</a>.</p>

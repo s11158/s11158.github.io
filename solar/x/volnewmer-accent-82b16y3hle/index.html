@@ -9,6 +9,15 @@
 </head>
 <body>
 <style>
+  /* ===== SOLAR brand fonts (same CDN files as solar-beauty.ae) ===== */
+  @font-face{font-family:'SerifPro';src:url('https://static.tildacdn.net/tild3636-6363-4232-a461-653734356134/SourceSerifPro-Light.woff') format('woff');font-weight:300;font-display:swap}
+  @font-face{font-family:'SerifPro';src:url('https://static.tildacdn.net/tild6562-6266-4932-b233-326537346566/SourceSerifPro-Regul.woff') format('woff');font-weight:400;font-display:swap}
+  @font-face{font-family:'SerifPro';src:url('https://static.tildacdn.net/tild6232-6433-4262-a534-626164306232/SourceSerifPro-SemiB.woff') format('woff');font-weight:600;font-display:swap}
+  @font-face{font-family:'Geist';src:url('https://static.tildacdn.net/tild6636-6631-4133-b230-326266646261/Geist-Light.woff') format('woff');font-weight:300;font-display:swap}
+  @font-face{font-family:'Geist';src:url('https://static.tildacdn.net/tild6331-6538-4836-b337-303438643866/Geist-Regular.woff') format('woff');font-weight:400;font-display:swap}
+  @font-face{font-family:'Geist';src:url('https://static.tildacdn.net/tild6235-3638-4261-b832-656336376665/Geist-Medium.woff') format('woff');font-weight:500;font-display:swap}
+  @font-face{font-family:'Geist';src:url('https://static.tildacdn.net/tild6666-3362-4536-a534-396631303135/Geist-SemiBold.woff') format('woff');font-weight:600;font-display:swap}
+
   :root{
     --plum:#4B1E35; --gold:#B8844A; --coral:#FF8562; --cream:#FAF8F5;
     --bg:var(--cream); --ink:#33121f; --ink-soft:#6d4a58; --card:#ffffff;
@@ -32,7 +41,7 @@
   header.hero{ background:var(--plum); color:#faf3ee; padding:64px 24px 56px; }
   .hero-inner{ max-width:760px; margin:0 auto; }
   .brand{ font-size:12px; letter-spacing:.35em; text-transform:uppercase; color:var(--coral); margin-bottom:28px; }
-  h1,h2,h3{ font-family:Georgia,"Times New Roman",serif; font-weight:600; text-wrap:balance; }
+  h1,h2,h3{ font-family:'SerifPro',Georgia,serif; font-weight:600; text-wrap:balance; }
   h1{ font-size:clamp(30px,5vw,44px); line-height:1.15; margin:0 0 18px; }
   .hero p.lede{ font-size:18px; color:#e8cdbf; max-width:56ch; margin:0; }
 
@@ -74,6 +83,8 @@
   footer{ border-top:1px solid var(--line); margin-top:64px; padding-top:24px; font-size:13px; color:var(--ink-soft); }
   footer p{ max-width:none; }
   a{ color:var(--gold); }
+
+  /* solar-btn-override */.btn{background:var(--gold);border-color:var(--gold);color:#fff;font-family:'SerifPro',Georgia,serif;font-weight:600}.btn:hover{background:#c18e52;border-color:#c18e52;color:#fff}.btn-light{background:transparent;color:var(--ink);border-color:var(--ink)}.btn-light:hover{background:var(--ink);color:#fff}
 </style>
 
 <header class="hero">

@@ -18,24 +18,33 @@
 {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Где находится клиника SOLAR?", "acceptedAnswer": {"@type": "Answer", "text": "В Sobha Hartland, MBR City — в центре Дубая, в 10 минутах от Business Bay, Downtown, Meydan и Dubai Creek Harbour, с удобной парковкой."}}, {"@type": "Question", "name": "Какие процедуры вы делаете?", "acceptedAnswer": {"@type": "Answer", "text": "SMAS-лифтинг Ultraformer MPT, RF-микронидлинг Virtue RF, LED-терапия HELEO4, лазерная эпиляция, HydraFacial, ботокс и другие инъекции — всё в одной клинике."}}, {"@type": "Question", "name": "На каких языках говорит команда?", "acceptedAnswer": {"@type": "Answer", "text": "Английский, русский и арабский."}}, {"@type": "Question", "name": "Как записаться?", "acceptedAnswer": {"@type": "Answer", "text": "Напишите в WhatsApp на +971 50 734 5432 или выберите нужную процедуру и запишитесь со страницы. Первая консультация бесплатна."}}]}
 </script>
 <style>
-  :root{--bg:#faf7f2;--paper:#fff;--ink:#1c1a17;--muted:#6f6a62;--line:#e8e1d6;--gold:#b8893f;--gold-soft:#f3ead9;--dark:#16140f;--radius:18px;--maxw:1160px}
+  /* ===== SOLAR brand fonts (same CDN files as solar-beauty.ae) ===== */
+  @font-face{font-family:'SerifPro';src:url('https://static.tildacdn.net/tild3636-6363-4232-a461-653734356134/SourceSerifPro-Light.woff') format('woff');font-weight:300;font-display:swap}
+  @font-face{font-family:'SerifPro';src:url('https://static.tildacdn.net/tild6562-6266-4932-b233-326537346566/SourceSerifPro-Regul.woff') format('woff');font-weight:400;font-display:swap}
+  @font-face{font-family:'SerifPro';src:url('https://static.tildacdn.net/tild6232-6433-4262-a534-626164306232/SourceSerifPro-SemiB.woff') format('woff');font-weight:600;font-display:swap}
+  @font-face{font-family:'Geist';src:url('https://static.tildacdn.net/tild6636-6631-4133-b230-326266646261/Geist-Light.woff') format('woff');font-weight:300;font-display:swap}
+  @font-face{font-family:'Geist';src:url('https://static.tildacdn.net/tild6331-6538-4836-b337-303438643866/Geist-Regular.woff') format('woff');font-weight:400;font-display:swap}
+  @font-face{font-family:'Geist';src:url('https://static.tildacdn.net/tild6235-3638-4261-b832-656336376665/Geist-Medium.woff') format('woff');font-weight:500;font-display:swap}
+  @font-face{font-family:'Geist';src:url('https://static.tildacdn.net/tild6666-3362-4536-a534-396631303135/Geist-SemiBold.woff') format('woff');font-weight:600;font-display:swap}
+
+  :root{--bg:#faf8f5;--paper:#fff;--ink:#4b1e35;--muted:#60384b;--line:#ede3db;--gold:#bda07a;--gold-soft:#f4ede7;--dark:#4b1e35;--radius:3px;--maxw:1160px}
   *{box-sizing:border-box;margin:0;padding:0}
   html{scroll-behavior:smooth}
-  body{font-family:"Helvetica Neue",-apple-system,Segoe UI,Roboto,Arial,sans-serif;color:var(--ink);background:var(--bg);line-height:1.65;font-size:17px;-webkit-font-smoothing:antialiased}
-  h1,h2,h3{font-family:Georgia,"Times New Roman",serif;font-weight:600;line-height:1.18;letter-spacing:-.01em}
+  body{font-family:'Geist',Arial,sans-serif;color:var(--ink);background:var(--bg);line-height:1.65;font-size:17px;-webkit-font-smoothing:antialiased}
+  h1,h2,h3{font-family:'SerifPro',Georgia,serif;font-weight:400;line-height:1.18;letter-spacing:-.01em}
   .wrap{max-width:var(--maxw);margin:0 auto;padding:0 24px}
   a{color:inherit}
-  .eyebrow{font-family:"Helvetica Neue",sans-serif;font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:700;margin-bottom:18px}
-  .btn{display:inline-block;background:var(--dark);color:#fff;padding:16px 34px;border-radius:100px;text-decoration:none;font-size:14.5px;letter-spacing:.04em;font-weight:600;transition:.25s;border:1px solid var(--dark)}
+  .eyebrow{font-family:'Geist',Arial,sans-serif;font-size:12.5px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font-weight:700;margin-bottom:18px}
+  .btn{display:inline-block;background:var(--dark);color:#fff;padding:16px 34px;border-radius:3px;text-decoration:none;font-size:14.5px;letter-spacing:.04em;font-weight:600;transition:.25s;border:1px solid var(--dark)}
   .btn:hover{background:transparent;color:var(--dark)}
   .btn-light{background:transparent;color:var(--dark);border:1px solid var(--ink)}
   .btn-light:hover{background:var(--dark);color:#fff}
-  .btn-wa{display:inline-flex;align-items:center;justify-content:center;gap:9px;background:#25D366;color:#fff;border:1px solid #25D366;padding:14px 22px;border-radius:100px;text-decoration:none;font-size:14px;letter-spacing:.02em;font-weight:600;transition:.25s;line-height:1.2;text-align:center}
+  .btn-wa{display:inline-flex;align-items:center;justify-content:center;gap:9px;background:#25D366;color:#fff;border:1px solid #25D366;padding:14px 22px;border-radius:3px;text-decoration:none;font-size:14px;letter-spacing:.02em;font-weight:600;transition:.25s;line-height:1.2;text-align:center}
   .btn-wa:hover{background:#1da851;border-color:#1da851}
   .btn-wa svg{flex:none;width:19px;height:19px;fill:currentColor}
   nav{position:sticky;top:0;z-index:50;background:rgba(250,247,242,.86);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
   nav .wrap{display:flex;align-items:center;justify-content:space-between;height:70px}
-  .logo{font-family:Georgia,serif;font-size:24px;letter-spacing:.32em;font-weight:600;text-decoration:none}
+  .logo{font-family:'SerifPro',Georgia,serif;font-size:24px;letter-spacing:.32em;font-weight:600;text-decoration:none}
   .logo span{color:var(--gold)}
   nav .links{display:flex;gap:24px;font-size:13.5px;letter-spacing:.03em}
   nav .links a{text-decoration:none;color:var(--muted)}
@@ -48,16 +57,16 @@
   .hero-cta{display:flex;gap:14px;flex-wrap:wrap;align-items:center}
   .hero-visual{aspect-ratio:4/5;border-radius:var(--radius);background:linear-gradient(150deg,#efe4d2,#d9c4a6 60%,#c9ad84);display:flex;align-items:flex-end;padding:26px;box-shadow:0 30px 60px -30px rgba(120,90,40,.5)}
   .hero-visual .tag{background:rgba(255,255,255,.9);border-radius:12px;padding:14px 18px;font-size:13px}
-  .hero-visual .tag b{display:block;font-size:20px;font-family:Georgia,serif;margin-bottom:4px}
+  .hero-visual .tag b{display:block;font-size:20px;font-family:'SerifPro',Georgia,serif;margin-bottom:4px}
   .trust{display:flex;gap:30px;margin-top:34px;flex-wrap:wrap}
   .trust div{font-size:13px;color:var(--muted)}
-  .trust b{display:block;font-family:Georgia,serif;font-size:25px;color:var(--ink);font-weight:600}
+  .trust b{display:block;font-family:'SerifPro',Georgia,serif;font-size:25px;color:var(--ink);font-weight:600}
   @media(max-width:860px){.hero-grid{grid-template-columns:1fr}.hero h1{font-size:33px}.hero-visual{display:none}}
   section.block{padding:72px 0;border-top:1px solid var(--line)}
   .section-head{max-width:64ch;margin-bottom:38px}
   .section-head h2{font-size:33px;margin:4px 0 16px}
   .section-head p{color:var(--muted);font-size:18px}
-  p.body{color:#42403a;margin-bottom:18px}
+  p.body{color:#383135;margin-bottom:18px}
   .cards{display:grid;gap:22px}
   .cols-3{grid-template-columns:repeat(3,1fr)}
   .cols-2{grid-template-columns:repeat(2,1fr)}
@@ -65,16 +74,16 @@
   .card{background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);padding:28px;display:flex;flex-direction:column}
   .card h3{font-size:19px;margin-bottom:9px}
   .card p{font-size:15px;color:var(--muted);flex:1}
-  .card .num{font-family:Georgia,serif;font-size:15px;color:var(--gold);font-weight:700;border:1.5px solid var(--gold-soft);background:var(--gold-soft);width:42px;height:42px;border-radius:50%;display:flex;align-items:center;justify-content:center;margin-bottom:18px}
+  .card .num{font-family:'SerifPro',Georgia,serif;font-size:15px;color:var(--gold);font-weight:700;border:1.5px solid var(--gold-soft);background:var(--gold-soft);width:42px;height:42px;border-radius:50%;display:flex;align-items:center;justify-content:center;margin-bottom:18px}
   .card .more{margin-top:16px;font-size:13.5px;font-weight:600;color:var(--ink);text-decoration:none;letter-spacing:.02em}
   .card .more:hover{color:var(--gold)}
   .pill-list{display:flex;flex-wrap:wrap;gap:12px;margin-top:6px}
-  .pill{background:var(--paper);border:1px solid var(--line);border-radius:100px;padding:11px 20px;font-size:14.5px}
+  .pill{background:var(--paper);border:1px solid var(--line);border-radius:3px;padding:11px 20px;font-size:14.5px}
   .steps{counter-reset:s;display:grid;gap:0}
   .step{display:grid;grid-template-columns:72px 1fr;gap:22px;padding:26px 0;border-bottom:1px solid var(--line);position:relative}
   .step:last-child{border-bottom:none}
   .step:not(:last-child)::after{content:"";position:absolute;left:27px;top:30px;bottom:-2px;width:2px;background:rgba(184,137,63,.28);z-index:0}
-  .step .n{counter-increment:s;position:relative;z-index:1;width:56px;height:56px;border-radius:50%;background:var(--gold-soft);border:1.5px solid var(--gold);color:var(--gold);font-family:Georgia,serif;font-size:21px;display:flex;align-items:center;justify-content:center}
+  .step .n{counter-increment:s;position:relative;z-index:1;width:56px;height:56px;border-radius:50%;background:var(--gold-soft);border:1.5px solid var(--gold);color:var(--gold);font-family:'SerifPro',Georgia,serif;font-size:21px;display:flex;align-items:center;justify-content:center}
   .step .n::before{content:"0" counter(s)}
   .step h3{font-size:19px;margin-bottom:6px;padding-top:15px}
   .step p{color:var(--muted);font-size:15.5px}
@@ -82,35 +91,37 @@
   @media(max-width:860px){.price-grid{grid-template-columns:1fr}}
   .price{background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);padding:30px;position:relative}
   .price.feat{border-color:var(--gold);box-shadow:0 18px 40px -24px rgba(184,137,63,.5)}
-  .price .badge{position:absolute;top:-12px;left:30px;background:var(--gold);color:#fff;font-size:11px;letter-spacing:.12em;text-transform:uppercase;padding:5px 14px;border-radius:100px;font-weight:700}
+  .price .badge{position:absolute;top:-12px;left:30px;background:var(--gold);color:#fff;font-size:11px;letter-spacing:.12em;text-transform:uppercase;padding:5px 14px;border-radius:3px;font-weight:700}
   .price h3{font-size:19px;margin-bottom:6px}
-  .price .amt{font-family:Georgia,serif;font-size:32px;margin:14px 0 4px}
+  .price .amt{font-family:'SerifPro',Georgia,serif;font-size:32px;margin:14px 0 4px}
   .price .amt small{font-size:15px;color:var(--muted)}
   .price ul{list-style:none;margin:18px 0 22px}
   .price li{font-size:14.5px;color:var(--muted);padding:7px 0 7px 26px;position:relative}
   .price li::before{content:"—";position:absolute;left:0;color:var(--gold)}
   details{background:var(--paper);border:1px solid var(--line);border-radius:14px;margin-bottom:14px;padding:4px 24px}
-  summary{cursor:pointer;list-style:none;padding:22px 0;font-family:Georgia,serif;font-size:18.5px;display:flex;justify-content:space-between;align-items:center;gap:20px}
+  summary{cursor:pointer;list-style:none;padding:22px 0;font-family:'SerifPro',Georgia,serif;font-size:18.5px;display:flex;justify-content:space-between;align-items:center;gap:20px}
   summary::-webkit-details-marker{display:none}
   summary::after{content:"+";color:var(--gold);font-size:26px;font-family:sans-serif;flex:none}
   details[open] summary::after{content:"–"}
-  details p{padding:0 0 24px;color:#42403a;font-size:15.5px}
-  .cta-band{background:linear-gradient(135deg,#1c1a14,#332b1d);color:#fff;border-radius:24px;padding:60px 50px;text-align:center;margin:0 auto}
+  details p{padding:0 0 24px;color:#383135;font-size:15.5px}
+  .cta-band{background:linear-gradient(135deg,#60384b,#3a1729);color:#fff;border-radius:24px;padding:60px 50px;text-align:center;margin:0 auto}
   .cta-band h2{color:#fff;font-size:33px;margin-bottom:14px}
-  .cta-band p{color:#c9c0b0;max-width:54ch;margin:0 auto 30px}
+  .cta-band p{color:#d8bcc9;max-width:54ch;margin:0 auto 30px}
   .form-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:560px;margin:0 auto}
   .form-grid input,.form-grid textarea{width:100%;padding:15px 18px;border:1px solid rgba(255,255,255,.25);background:rgba(255,255,255,.06);border-radius:12px;color:#fff;font-size:15px;font-family:inherit}
-  .form-grid input::placeholder,.form-grid textarea::placeholder{color:#a59c8c}
+  .form-grid input::placeholder,.form-grid textarea::placeholder{color:#c9a9b8}
   .form-grid .full{grid-column:1/-1}
   @media(max-width:600px){.form-grid{grid-template-columns:1fr}}
   footer{padding:50px 0;border-top:1px solid var(--line);color:var(--muted);font-size:14px}
   footer .wrap{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
-  .disclaimer{font-size:12.5px;color:#9a948a;margin-top:14px;max-width:90ch}
+  .disclaimer{font-size:12.5px;color:#9b7d8d;margin-top:14px;max-width:90ch}
+
+  /* solar-btn-override */.btn{background:var(--gold);border-color:var(--gold);color:#fff;font-family:'SerifPro',Georgia,serif;font-weight:600}.btn:hover{background:#c18e52;border-color:#c18e52;color:#fff}.btn-light{background:transparent;color:var(--ink);border-color:var(--ink)}.btn-light:hover{background:var(--ink);color:#fff}
 </style>
 </head>
 <body>
 <nav><div class="wrap">
-  <a href="#top" class="logo">S<span>O</span>LAR</a>
+  <a href="#top" class="logo"><img src="https://static.tildacdn.net/tild3939-3234-4365-b239-373261353164/image_1.png" alt="SOLAR" style="height:28px;vertical-align:middle;display:inline-block"></a>
   <div class="links"><a href="#services">Услуги</a><a href="#why">Почему SOLAR</a><a href="#areas">Районы</a><a href="#faq">FAQ</a></div>
   <div style="display:flex;align-items:center;gap:16px"><a href="../aesthetic-clinic-en/" style="text-decoration:none;font-size:13px;letter-spacing:.06em;color:var(--muted);font-weight:600"><span style="color:var(--ink)">RU</span>&nbsp;/&nbsp;EN</a>
     <a href="https://wa.me/971507345432" target="_blank" rel="noopener" class="btn" style="padding:12px 24px">WhatsApp</a></div>
@@ -161,7 +172,7 @@
 </div></div></section>
 
 <footer><div class="wrap">
-  <div><a href="#top" class="logo" style="font-size:20px">S<span>O</span>LAR</a>
+  <div><a href="#top" class="logo" style="font-size:20px"><img src="https://static.tildacdn.net/tild3939-3234-4365-b239-373261353164/image_1.png" alt="SOLAR" style="height:28px;vertical-align:middle;display:inline-block"></a>
     <p style="margin-top:10px">Beauty &amp; Aesthetics Clinic · Sobha Hartland, MBR City, Dubai</p>
     <p style="margin-top:6px"><a href="../aesthetic-clinic-en/" style="color:var(--gold);text-decoration:none">English version</a></p></div>
   <div style="max-width:54ch"><p>SMAS-лифтинг · RF-микронидлинг Virtue RF · LED-терапия HELEO4 · Лазерная эпиляция · HydraFacial · Ботокс</p>
