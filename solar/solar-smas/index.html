@@ -62,7 +62,7 @@
 
   :root{
     --bg:#faf8f5; --paper:#ffffff; --ink:#4b1e35; --muted:#60384b;
-    --line:#ede3db; --gold:#bda07a; --gold-soft:#f4ede7; --dark:#4b1e35;
+    --line:#ede3db; --gold:#bda07a; --gold-soft:#f4ede7; --dark:#210312;
     --radius:3px; --maxw:1160px;
   }
   *{box-sizing:border-box;margin:0;padding:0}
@@ -107,7 +107,7 @@
   .hero p.lead{font-size:19px;color:var(--muted);max-width:33ch;margin-bottom:32px}
   .hero-cta{display:flex;gap:14px;flex-wrap:wrap;align-items:center}
   .hero-visual{aspect-ratio:4/5;border-radius:var(--radius);
-    background:linear-gradient(150deg,#efe4d2,#d9c4a6 60%,#c9ad84);
+    background:#ecddcc;
     display:flex;align-items:flex-end;padding:26px;position:relative;
     box-shadow:0 30px 60px -30px rgba(120,90,40,.5)}
   .hero-visual .tag{background:rgba(255,255,255,.9);border-radius:12px;padding:14px 18px;font-size:13px}
@@ -139,11 +139,11 @@
   /* EVIDENCE */
   .evidence{background:var(--dark);color:#f9eddd}
   .evidence h2{color:#fff}
-  .evidence .section-head p{color:#c9a9b8}
+  .evidence .section-head p{color:#f9eddd}
   .stat-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:26px;margin-top:8px}
   .stat{border-top:2px solid var(--gold);padding-top:18px}
   .stat b{font-family:'SerifPro',Georgia,serif;font-size:44px;color:#fff;display:block;line-height:1}
-  .stat span{font-size:14px;color:#c9a9b8;display:block;margin-top:10px}
+  .stat span{font-size:14px;color:#f9eddd;display:block;margin-top:10px}
   .stat small{font-size:11.5px;color:#857d6f;display:block;margin-top:8px;letter-spacing:.02em}
   @media(max-width:860px){.stat-grid{grid-template-columns:1fr 1fr}.stat b{font-size:36px}}
   .refs{margin-top:46px;font-size:12.5px;color:#857d6f;border-top:1px solid #2c2920;padding-top:20px}
@@ -199,10 +199,10 @@
   details p{padding:0 0 24px;color:#383135;font-size:15.5px}
 
   /* CTA band */
-  .cta-band{background:linear-gradient(135deg,#60384b,#3a1729);color:#fff;border-radius:24px;
+  .cta-band{background:#bda07a;color:#fff;border-radius:24px;
     padding:60px 50px;text-align:center;margin:0 auto}
   .cta-band h2{color:#fff;font-size:36px;margin-bottom:14px}
-  .cta-band p{color:#d8bcc9;max-width:50ch;margin:0 auto 30px}
+  .cta-band p{color:#f9eddd;max-width:50ch;margin:0 auto 30px}
   .cta-band .btn{background:var(--gold);border-color:var(--gold)}
   .cta-band .btn:hover{background:#fff;color:var(--dark);border-color:#fff}
 
@@ -210,7 +210,7 @@
   .form-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;max-width:560px;margin:0 auto}
   .form-grid input,.form-grid textarea{width:100%;padding:15px 18px;border:1px solid rgba(255,255,255,.25);
     background:rgba(255,255,255,.06);border-radius:12px;color:#fff;font-size:15px;font-family:inherit}
-  .form-grid input::placeholder,.form-grid textarea::placeholder{color:#c9a9b8}
+  .form-grid input::placeholder,.form-grid textarea::placeholder{color:#f9eddd}
   .form-grid .full{grid-column:1/-1}
   @media(max-width:600px){.form-grid{grid-template-columns:1fr}}
 
@@ -335,11 +335,11 @@
     <div class="cards cols-2" style="margin-top:48px">
       <div class="card" style="background:#211e18;border-color:#2c2920">
         <h3 style="color:#fff">Второй подбородок</h3>
-        <p style="color:#c9a9b8">В исследовании 30 пациентов 25–60 лет одна процедура HIFU картриджами 4,5 и 6,0 мм в MP-режиме значимо уменьшила жировой слой под подбородком (CR-SMFRS): доля «небольшого слоя» выросла с 10 до 16 человек, «очень толстый слой» сократился с 2 до 1. Улучшение видно сразу.</p>
+        <p style="color:#f9eddd">В исследовании 30 пациентов 25–60 лет одна процедура HIFU картриджами 4,5 и 6,0 мм в MP-режиме значимо уменьшила жировой слой под подбородком (CR-SMFRS): доля «небольшого слоя» выросла с 10 до 16 человек, «очень толстый слой» сократился с 2 до 1. Улучшение видно сразу.</p>
       </div>
       <div class="card" style="background:#211e18;border-color:#2c2920">
         <h3 style="color:#fff">Качество и сияние кожи</h3>
-        <p style="color:#c9a9b8">В исследовании HIFU в сочетании с топическим средством (глутатион + гиалуроновая кислота) мелкие морщины уменьшились с 6,25 до 3,10 мм, гиперпигментация — с 3,50 до 2,10, увлажнённость выросла с 28 до 55 после курса. Без осложнений.</p>
+        <p style="color:#f9eddd">В исследовании HIFU в сочетании с топическим средством (глутатион + гиалуроновая кислота) мелкие морщины уменьшились с 6,25 до 3,10 мм, гиперпигментация — с 3,50 до 2,10, увлажнённость выросла с 28 до 55 после курса. Без осложнений.</p>
       </div>
     </div>
 
@@ -506,7 +506,7 @@
         <input class="full" type="text" placeholder="Удобные дата и время (необязательно)">
         <textarea class="full" rows="2" placeholder="Комментарий"></textarea>
         <div class="full"><button type="submit" class="btn" style="width:100%">Записаться на консультацию</button></div>
-        <p class="full" style="color:#d8bcc9;font-size:13px;text-align:center"><b></b></p>
+        <p class="full" style="color:#f9eddd;font-size:13px;text-align:center"><b></b></p>
       </form>
     </div>
   </div>

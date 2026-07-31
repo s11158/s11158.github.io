@@ -42,16 +42,21 @@
   <div class="wrap">
     <div class="section-head"><div class="eyebrow">Палитра</div><h2>Цвета — только эти</h2></div>
     <div class="swatch-row">
-      <div class="swatch"><div class="chip" style="background:#4b1e35"></div><div class="meta"><b>#4b1e35</b>плам — заголовки, тёмные ленты, подвал</div></div>
-      <div class="swatch"><div class="chip" style="background:#60384b"></div><div class="meta"><b>#60384b</b>вторичный текст, светлый плам</div></div>
+      <div class="swatch"><div class="chip" style="background:#4b1e35"></div><div class="meta"><b>#4b1e35</b>плам — ТОЛЬКО текст и заголовки, никогда не фон</div></div>
+      <div class="swatch"><div class="chip" style="background:#60384b"></div><div class="meta"><b>#60384b</b>вторичный текст</div></div>
       <div class="swatch"><div class="chip" style="background:#383135"></div><div class="meta"><b>#383135</b>длинные абзацы</div></div>
-      <div class="swatch"><div class="chip" style="background:#bda07a"></div><div class="meta"><b>#bda07a</b>золото — кнопки, акценты</div></div>
+      <div class="swatch"><div class="chip" style="background:#bda07a"></div><div class="meta"><b>#bda07a</b>золото — кнопки, акцентные ленты (плоские)</div></div>
+      <div class="swatch"><div class="chip" style="background:#b8844a"></div><div class="meta"><b>#b8844a</b>глубокое золото — акцентные плашки</div></div>
       <div class="swatch"><div class="chip" style="background:#c18e52"></div><div class="meta"><b>#c18e52</b>тёмное золото — hover, ярлыки</div></div>
+      <div class="swatch"><div class="chip" style="background:#f7f3ee;border-bottom:1px solid #ede3db"></div><div class="meta"><b>#f7f3ee</b>тёплый крем — фоны секций</div></div>
       <div class="swatch"><div class="chip" style="background:#faf8f5;border-bottom:1px solid #ede3db"></div><div class="meta"><b>#faf8f5</b>фон страницы (крем)</div></div>
-      <div class="swatch"><div class="chip" style="background:#f4ede7"></div><div class="meta"><b>#f4ede7</b>бежевые подложки секций</div></div>
+      <div class="swatch"><div class="chip" style="background:#f4ede7"></div><div class="meta"><b>#f4ede7</b>бежевые подложки секций (основное чередование)</div></div>
+      <div class="swatch"><div class="chip" style="background:#ecddcc"></div><div class="meta"><b>#ecddcc</b>глубокий беж — ПОДВАЛ (он светлый!)</div></div>
       <div class="swatch"><div class="chip" style="background:#ebdfd2"></div><div class="meta"><b>#ebdfd2</b>тонированные карточки</div></div>
       <div class="swatch"><div class="chip" style="background:#ede3db"></div><div class="meta"><b>#ede3db</b>линии и рамки</div></div>
-      <div class="swatch"><div class="chip" style="background:#f9eddd"></div><div class="meta"><b>#f9eddd</b>светлый текст на пламе</div></div>
+      <div class="swatch"><div class="chip" style="background:#f9eddd"></div><div class="meta"><b>#f9eddd</b>светлый текст на золоте и тёмном</div></div>
+      <div class="swatch"><div class="chip" style="background:#210312"></div><div class="meta"><b>#210312</b>редкие тёмные ленты (почти чёрный)</div></div>
+      <div class="swatch"><div class="chip" style="background:#9b597b"></div><div class="meta"><b>#9b597b</b>светлый плам — мелкие акценты</div></div>
     </div>
   </div>
 </section>
@@ -110,13 +115,13 @@
 <section class="block" id="sections">
   <div class="wrap">
     <div class="section-head"><div class="eyebrow">Секции и ленты</div><h2>Ритм страницы</h2></div>
-    <p class="body">Секции — <b>padding 74px 0</b>, разделитель — линия #ede3db сверху. Чередование фонов: крем #faf8f5 → беж #f4ede7 (класс <b>.tint</b>) → крем. Тёмные акценты — плам:</p>
+    <p class="body">Секции — <b>padding 74px 0</b>, разделитель — линия #ede3db сверху. Чередование фонов: крем #faf8f5 → беж #f4ede7 (класс <b>.tint</b>) → крем. Акцентные ленты — плоское золото; тёмная — редкая, почти чёрная:</p>
   </div>
   <section class="block dark-band" style="margin-top:26px">
     <div class="wrap">
-      <div class="section-head"><div class="eyebrow" style="color:#c9a9b8">Тёмная лента</div><h2>Плам #4b1e35, цифры SerifPro</h2></div>
+      <div class="section-head"><div class="eyebrow" style="color:#f9eddd">Тёмная лента — используется редко</div><h2>Почти чёрный #210312, цифры SerifPro</h2></div>
       <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:26px">
-        <div class="stat"><b>10+</b><span>подпись — Geist 14px #c9a9b8</span></div>
+        <div class="stat"><b>10+</b><span>подпись — Geist 14px #f9eddd</span></div>
         <div class="stat"><b>EN·RU·AR</b><span>золотая линия сверху — 1px #bda07a</span></div>
         <div class="stat"><b>2 часа</b><span>цифры — SerifPro 400 32px</span></div>
       </div>
@@ -125,9 +130,9 @@
   <div class="wrap" style="margin-top:26px">
     <details open><summary>FAQ-аккордеон — вопрос SerifPro 18px</summary><p>Ответ — Geist 15px #383135. Плюс/минус — тонкий, золотой #c18e52.</p></details>
     <div class="cta-band" style="margin-top:26px">
-      <h2>CTA-лента — плам-градиент</h2>
-      <p>linear-gradient(150deg, #60384b, #4b1e35 55%, #3a1729). Поля формы — полупрозрачный крем, радиус 3px.</p>
-      <a href="#" class="btn" onclick="return false">Записаться</a>
+      <h2>CTA-лента — плоское золото #bda07a</h2>
+      <p>Без градиентов — у SOLAR все заливки плоские. Текст белый и крем #f9eddd, поля формы — полупрозрачный крем, радиус 3px.</p>
+      <a href="#" class="btn btn-light" style="border-color:#fff;color:#fff" onclick="return false">Записаться</a>
     </div>
   </div>
 </section>
@@ -138,7 +143,7 @@
     <div class="cards cols-2">
       <div class="card"><h3>1 · Начните с каркаса</h3><p>Скопируйте &lt;style&gt; с любой страницы /solar/ (или подключите solar-skin.css), шапку с логотипом и подвал. Логотип — картинка image_1.png с Tilda CDN, в подвале — белая (filter:invert).</p></div>
       <div class="card"><h3>2 · Только эти токены</h3><p>Цвета — из палитры выше, ничего «на глаз». Заголовки SerifPro 400 (не жирные!), текст Geist. Углы 3px везде.</p></div>
-      <div class="card"><h3>3 · Фирменные детали</h3><p>Eyebrow-ярлык над каждым H1/H2. Золотые кнопки с serif-шрифтом. Карточки без теней. Тёмные блоки — только плам, не чёрный и не коричневый.</p></div>
+      <div class="card"><h3>3 · Фирменные детали</h3><p>Eyebrow-ярлык над каждым H1/H2. Золотые кнопки с serif-шрифтом. Карточки без теней, заливки плоские (без градиентов). Плам — только цвет текста; акцентные ленты золотые, подвал светлый #ecddcc.</p></div>
       <div class="card"><h3>4 · Проверка</h3><p>Откройте рядом solar-beauty.ae: шрифт заголовков, цвет кнопок и фон должны совпадать один в один. Прототип — на tlnt.ae/solar/ (noindex), в Tilda переносим после одобрения.</p></div>
     </div>
   </div>
