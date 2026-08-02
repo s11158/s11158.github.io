@@ -359,23 +359,39 @@
   // pasted into 24 pages, so adding a channel is a one-line change.
   try {
     var EN = (document.documentElement.getAttribute("lang") || "ru").toLowerCase().indexOf("en") === 0;
+    // Brand glyphs, single-path each so they scale cleanly and cost no requests.
+    var IC = {
+      wa: "M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.71.306 1.263.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347M12.05 21.785h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884",
+      tg: "M21.8 4.3 2.9 11.6c-.9.35-.9.86-.16 1.09l4.84 1.51 1.87 5.72c.23.63.11.88.77.88.51 0 .74-.23 1.02-.51l2.32-2.26 4.83 3.57c.89.49 1.53.24 1.75-.82l3.17-14.93c.32-1.3-.5-1.89-1.51-1.55zM7.9 14.06 18.4 7.44c.52-.32 1-.15.6.2l-8.98 8.1-.35 3.72-1.77-5.4z",
+      ig: "M12 2.16c3.2 0 3.58.01 4.85.07 1.17.05 1.8.25 2.23.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.36 1.06.41 2.23.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.05 1.17-.25 1.8-.41 2.23-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.16-1.06.36-2.23.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.05-1.8-.25-2.23-.41a3.8 3.8 0 0 1-1.38-.9 3.8 3.8 0 0 1-.9-1.38c-.16-.42-.36-1.06-.41-2.23C2.17 15.58 2.16 15.2 2.16 12s.01-3.58.07-4.85c.05-1.17.25-1.8.41-2.23.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.06-.36 2.23-.41 1.27-.06 1.65-.07 4.85-.07zM12 6.85A5.15 5.15 0 1 0 17.15 12 5.15 5.15 0 0 0 12 6.85zm0 8.49A3.34 3.34 0 1 1 15.34 12 3.34 3.34 0 0 1 12 15.34zm6.54-8.69a1.2 1.2 0 1 1-1.2-1.2 1.2 1.2 0 0 1 1.2 1.2z",
+      li: "M4.98 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5zM3 9h4v12H3zM9 9h3.8v1.65h.05c.53-1 1.83-2.05 3.77-2.05 4.03 0 4.78 2.65 4.78 6.1V21h-4v-5.5c0-1.31-.02-3-1.83-3-1.83 0-2.11 1.43-2.11 2.9V21H9z",
+      fb: "M22 12.06C22 6.5 17.52 2 12 2S2 6.5 2 12.06c0 5.02 3.66 9.18 8.44 9.94v-7.03H7.9v-2.91h2.54V9.85c0-2.52 1.49-3.91 3.77-3.91 1.09 0 2.24.2 2.24.2v2.46h-1.26c-1.24 0-1.63.78-1.63 1.57v1.89h2.78l-.44 2.91h-2.34V22c4.78-.76 8.44-4.92 8.44-9.94z",
+      ml: "M4 4h16a2 2 0 0 1 2 2v12a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V6a2 2 0 0 1 2-2zm8 7.2 8-4.8H4l8 4.8zM4 18h16V9.1l-8 4.8-8-4.8V18z",
+      ph: "M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.2.4 2.4.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1C10.6 21 3 13.4 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1l-2.3 2.2z"
+    };
     var CHANNELS = [
-      { t: "WhatsApp",  h: WA_URL },
-      { t: "Telegram",  h: TG_URL },
-      { t: "Instagram", h: "https://www.instagram.com/tlnt.ae/" },
-      { t: "LinkedIn",  h: "https://www.linkedin.com/in/staskochukov" },
-      { t: "Facebook",  h: "https://www.facebook.com/profile.php?id=61592691063350" },
-      { t: "stas@tlnt.ae", h: "mailto:stas@tlnt.ae" },
-      { t: "+971 58 578 3353", h: "tel:+971585783353" }
+      { t: "WhatsApp",         h: WA_URL,  i: "wa", c: "#25D366" },
+      { t: "Telegram",         h: TG_URL,  i: "tg", c: "#229ED9" },
+      { t: "Instagram",        h: "https://www.instagram.com/tlnt.ae/", i: "ig", c: "#E1306C" },
+      { t: "LinkedIn",         h: "https://www.linkedin.com/in/staskochukov", i: "li", c: "#0A66C2" },
+      { t: "Facebook",         h: "https://www.facebook.com/profile.php?id=61592691063350", i: "fb", c: "#1877F2" },
+      { t: "stas@tlnt.ae",     h: "mailto:stas@tlnt.ae", i: "ml", c: "#986e35" },
+      { t: "+971 58 578 3353", h: "tel:+971585783353",   i: "ph", c: "#986e35" }
     ];
 
     var soCss =
-      ".tlnt-so{max-width:1240px;margin:0 auto;padding:26px 22px 4px;text-align:center}" +
-      ".tlnt-so-t{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:#a79e90;margin-bottom:14px}" +
-      ".tlnt-so-l{display:flex;flex-wrap:wrap;justify-content:center;gap:9px}" +
-      ".tlnt-so-l a{display:inline-block;padding:8px 16px;border:1px solid #e6dccc;border-radius:100px;" +
-      "font-size:14px;font-weight:600;color:#6b6155;text-decoration:none;background:#fdfbf7;transition:.18s}" +
-      ".tlnt-so-l a:hover{border-color:#986e35;color:#986e35}";
+      ".tlnt-so{max-width:1240px;margin:0 auto;padding:30px 22px 6px;text-align:center}" +
+      ".tlnt-so-t{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:#a79e90;margin-bottom:18px}" +
+      ".tlnt-so-l{display:flex;flex-wrap:wrap;justify-content:center;gap:14px 18px}" +
+      ".tlnt-so-l a{display:flex;flex-direction:column;align-items:center;gap:7px;width:76px;" +
+      "text-decoration:none;color:#8a8175;font-size:12px;font-weight:600;line-height:1.25;word-break:break-word}" +
+      ".tlnt-so-i{width:46px;height:46px;border-radius:15px;background:#fdfbf7;border:1px solid #e6dccc;" +
+      "display:flex;align-items:center;justify-content:center;transition:transform .18s,box-shadow .18s,border-color .18s}" +
+      ".tlnt-so-i svg{width:23px;height:23px;display:block}" +
+      ".tlnt-so-l a:hover .tlnt-so-i{transform:translateY(-3px);border-color:transparent;box-shadow:0 10px 22px rgba(90,70,45,.18)}" +
+      ".tlnt-so-l a:hover{color:#4b463f}" +
+      "@media(max-width:420px){.tlnt-so-l{gap:12px}.tlnt-so-l a{width:64px;font-size:11px}" +
+      ".tlnt-so-i{width:42px;height:42px;border-radius:13px}}";
     var ss = document.createElement("style");
     ss.textContent = soCss;
     document.head.appendChild(ss);
@@ -391,7 +407,9 @@
       for (var i = 0; i < CHANNELS.length; i++) {
         var c = CHANNELS[i];
         var ext = c.h.indexOf("http") === 0 ? ' target="_blank" rel="noopener"' : "";
-        html += '<a href="' + c.h + '"' + ext + '>' + c.t + "</a>";
+        html += '<a href="' + c.h + '"' + ext + ' aria-label="' + c.t + '">' +
+          '<span class="tlnt-so-i"><svg viewBox="0 0 24 24" fill="' + c.c + '" aria-hidden="true">' +
+          '<path d="' + IC[c.i] + '"/></svg></span><span>' + c.t + "</span></a>";
       }
       box.innerHTML = html + "</div>";
       foot.parentNode.insertBefore(box, foot);
