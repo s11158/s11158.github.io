@@ -347,9 +347,56 @@
       var h = a.getAttribute("href") || "";
       if (h.indexOf("wa.me") > -1 || h.indexOf("api.whatsapp") > -1) track("whatsapp");
       else if (h.indexOf("t.me") > -1 || h.indexOf("telegram.me") > -1) track("telegram");
+      else if (h.indexOf("instagram.com") > -1) track("instagram");
+      else if (h.indexOf("linkedin.com") > -1) track("linkedin");
+      else if (h.indexOf("facebook.com") > -1) track("facebook");
     },
     true
   );
+
+  // ---- "we're reachable everywhere" strip in the footer ----
+  // One place for every channel we actually answer on. Injected here rather than
+  // pasted into 24 pages, so adding a channel is a one-line change.
+  try {
+    var EN = (document.documentElement.getAttribute("lang") || "ru").toLowerCase().indexOf("en") === 0;
+    var CHANNELS = [
+      { t: "WhatsApp",  h: WA_URL },
+      { t: "Telegram",  h: TG_URL },
+      { t: "Instagram", h: "https://www.instagram.com/tlnt.ae/" },
+      { t: "LinkedIn",  h: "https://www.linkedin.com/in/staskochukov" },
+      { t: "Facebook",  h: "https://www.facebook.com/profile.php?id=61592691063350" },
+      { t: "stas@tlnt.ae", h: "mailto:stas@tlnt.ae" },
+      { t: "+971 58 578 3353", h: "tel:+971585783353" }
+    ];
+
+    var soCss =
+      ".tlnt-so{max-width:1240px;margin:0 auto;padding:26px 22px 4px;text-align:center}" +
+      ".tlnt-so-t{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:#a79e90;margin-bottom:14px}" +
+      ".tlnt-so-l{display:flex;flex-wrap:wrap;justify-content:center;gap:9px}" +
+      ".tlnt-so-l a{display:inline-block;padding:8px 16px;border:1px solid #e6dccc;border-radius:100px;" +
+      "font-size:14px;font-weight:600;color:#6b6155;text-decoration:none;background:#fdfbf7;transition:.18s}" +
+      ".tlnt-so-l a:hover{border-color:#986e35;color:#986e35}";
+    var ss = document.createElement("style");
+    ss.textContent = soCss;
+    document.head.appendChild(ss);
+
+    var foots = document.querySelectorAll("footer");
+    var foot = foots.length ? foots[foots.length - 1] : null;
+    if (foot && !document.querySelector(".tlnt-so")) {
+      var box = document.createElement("div");
+      box.className = "tlnt-so";
+      var html = '<div class="tlnt-so-t">' +
+        (EN ? "Reach us wherever you like" : "Мы на связи там, где удобно вам") +
+        '</div><div class="tlnt-so-l">';
+      for (var i = 0; i < CHANNELS.length; i++) {
+        var c = CHANNELS[i];
+        var ext = c.h.indexOf("http") === 0 ? ' target="_blank" rel="noopener"' : "";
+        html += '<a href="' + c.h + '"' + ext + '>' + c.t + "</a>";
+      }
+      box.innerHTML = html + "</div>";
+      foot.parentNode.insertBefore(box, foot);
+    }
+  } catch (e) {}
 
   // ---- scroll-reveal animations + smooth anchor scroll (progressive, respects reduced-motion) ----
   try {
