@@ -56,6 +56,21 @@
   .go:disabled{opacity:.6;cursor:wait}
   .fine{text-align:center;font-size:13px;color:#a79e90;margin-top:10px}
   .fine a{color:var(--accent);font-weight:600;text-decoration:none}
+  .two-ways{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  @media(max-width:660px){.two-ways{grid-template-columns:1fr}}
+  .way{background:#fdfbf7;border:1px solid var(--line);border-radius:18px;padding:22px;display:flex;flex-direction:column}
+  .way-alt{background:#f9f3ea;border-color:#e4d5bd}
+  .way-t{font-family:'Cormorant Garamond',serif;font-size:22px;font-weight:600;color:var(--ink);margin-bottom:8px}
+  .way-p{font-size:14.5px;color:#7a7266;line-height:1.6;margin:0 0 18px;flex:1}
+  .way-btn{display:inline-block;text-align:center;background:var(--accent);color:#fff;font-weight:700;font-size:15px;font-family:inherit;
+    padding:13px 22px;border:none;border-radius:100px;text-decoration:none;cursor:pointer;box-shadow:0 10px 24px rgba(152,110,53,.24)}
+  .drop{border:2px dashed #d9c8ae;border-radius:18px;background:#fdfbf7;padding:30px 20px;text-align:center;cursor:pointer;transition:.2s}
+  .drop:hover,.drop.over{border-color:var(--accent);background:#f9f3ea}
+  .drop-in strong{display:block;font-size:16px;color:var(--ink);margin-bottom:5px}
+  .drop-in span{font-size:13.5px;color:#a79e90}
+  .drop.has{border-style:solid;border-color:var(--accent)}
+  .chk{display:flex;align-items:flex-start;gap:10px;font-size:14.5px;color:#6b6155;text-transform:none;letter-spacing:0;font-weight:400;margin:0 0 4px}
+  .chk input{width:auto;margin:2px 0 0}
   .okmsg{display:none;text-align:center;padding:12px 0}
   .okmsg .big{font-family:'Cormorant Garamond',serif;font-size:27px;color:var(--ink);margin-bottom:6px}
   .care{max-width:760px;margin:0 auto;padding:6px 22px 34px;text-align:center;font-size:15px;color:#8a8175}
@@ -83,10 +98,45 @@
     <li>We add you to our base and offer matching vacancies as they appear</li>
     <li>When it's a match — we introduce you to the employer and help you start</li>
   </ul>
-  <div class="lead-card" style="text-align:center;padding:26px">
-  <h2 style="margin-top:0">No polished CV yet?<span class="dot"> Build one in 5 minutes.</span></h2>
-  <p style="margin-bottom:16px">Free builder: ready-made phrases, visa & language fields, instant PDF.</p>
-  <a href="/resume/" style="display:inline-block;background:var(--accent);color:#fff;font-weight:700;padding:14px 30px;border-radius:100px;text-decoration:none;box-shadow:0 10px 24px rgba(152,110,53,.28)">Build my CV</a>
+  <div class="lead-card" style="padding:clamp(24px,4vw,36px)">
+  <h2 style="margin-top:0;text-align:center">Your CV, whichever way suits you<span class="dot">.</span></h2>
+  <p style="text-align:center;margin-bottom:24px;color:#7a7266">Both are free and lead to the same base.</p>
+
+  <div class="two-ways">
+    <div class="way">
+      <div class="way-t">No CV yet</div>
+      <p class="way-p">We'll build one in 5 minutes: ready-made phrases, visa and language fields, instant PDF.</p>
+      <a href="/resume/" class="way-btn">Build my CV</a>
+    </div>
+    <div class="way way-alt">
+      <div class="way-t">I already have a CV</div>
+      <p class="way-p">Upload the file — it goes straight into our base. If you like, we'll polish it for free: rewrite the wording and lay it out in one clean style.</p>
+      <button type="button" class="way-btn" id="upBtn">Upload my CV</button>
+    </div>
+  </div>
+
+  <form id="uf" style="display:none;margin-top:26px;border-top:1px solid var(--line);padding-top:24px">
+    <div class="drop" id="drop">
+      <input type="file" id="uFile" accept=".pdf,.doc,.docx,.jpg,.jpeg,.png,.webp,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,image/*" hidden>
+      <div class="drop-in" id="dropIn">
+        <strong>Drag your file here</strong>
+        <span>or click to choose · PDF, Word, photo · up to 8 MB</span>
+      </div>
+    </div>
+    <div class="fld" style="margin-top:20px"><label for="uName">Your name</label><input id="uName" autocomplete="name"></div>
+    <div class="fld"><label for="uRole">Your profession?</label><input id="uRole" placeholder="E.g.: nail technician"></div>
+    <div class="fld"><label for="uContact">WhatsApp / phone / Telegram</label><input id="uContact" autocomplete="tel"></div>
+    <label class="chk"><input type="checkbox" id="uImprove" checked> Please polish my CV — free of charge</label>
+    <input type="text" id="uGotcha" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px" aria-hidden="true">
+    <button class="go" id="uSubmit" type="submit" style="margin-top:18px">Send my CV</button>
+    <p class="fine" id="uNote">Only our team sees your file. We never charge candidates.</p>
+  </form>
+
+  <div class="okmsg" id="uOk">
+    <div class="big">We've got your CV 🤍</div>
+    <div>It's in our base — we'll offer vacancies as soon as one matches.</div>
+    <p style="margin-top:14px;font-size:14px;color:#7a7266">Your file link:<br><a id="uLink" href="#" target="_blank" rel="noopener" style="color:var(--accent);font-weight:600;word-break:break-all"></a></p>
+  </div>
 </div>
 <div class="note">We never charge candidates. Your data is not published — only our team sees it.</div>
   <h2>Most wanted roles<span class="dot">.</span></h2>
@@ -120,6 +170,85 @@ document.getElementById("lf").addEventListener("submit",function(e){
     document.getElementById("lf").style.display="none";document.getElementById("ok").style.display="block";})
   .catch(()=>{b.disabled=false;alert("Не получилось отправить — напишите нам в WhatsApp, пожалуйста.");});
 });
+
+// ---- CV upload ----
+(function(){
+  var MAX = 8*1024*1024;
+  var OK_EXT = ["pdf","doc","docx","jpg","jpeg","png","webp"];
+  var uf=document.getElementById("uf"), drop=document.getElementById("drop"),
+      inp=document.getElementById("uFile"), dropIn=document.getElementById("dropIn"),
+      note=document.getElementById("uNote"), btn=document.getElementById("uSubmit");
+  var chosen=null;
+
+  document.getElementById("upBtn").addEventListener("click",function(){
+    uf.style.display="block";
+    uf.scrollIntoView({behavior:"smooth",block:"center"});
+  });
+
+  function show(f){
+    chosen=f;
+    drop.classList.add("has");
+    dropIn.innerHTML='<strong>'+f.name.replace(/[<>&]/g,"")+'</strong><span>'+
+      (f.size/1048576).toFixed(1)+' MB · click to choose another</span>';
+  }
+  function pick(f){
+    if(!f) return;
+    var ext=(f.name.split(".").pop()||"").toLowerCase();
+    if(OK_EXT.indexOf(ext)<0){ alert("We can't accept this format. PDF, Word or a photo will do."); return; }
+    if(f.size>MAX){ alert("The file is over 8 MB. Please compress it or send a PDF."); return; }
+    show(f);
+  }
+
+  drop.addEventListener("click",function(){ inp.click(); });
+  inp.addEventListener("change",function(){ pick(inp.files[0]); });
+  ["dragenter","dragover"].forEach(function(ev){
+    drop.addEventListener(ev,function(e){ e.preventDefault(); drop.classList.add("over"); });
+  });
+  ["dragleave","drop"].forEach(function(ev){
+    drop.addEventListener(ev,function(e){ e.preventDefault(); drop.classList.remove("over"); });
+  });
+  drop.addEventListener("drop",function(e){
+    if(e.dataTransfer && e.dataTransfer.files) pick(e.dataTransfer.files[0]);
+  });
+
+  uf.addEventListener("submit",function(e){
+    e.preventDefault();
+    if(!chosen){ alert("Please choose your CV file."); return; }
+    var contact=document.getElementById("uContact").value.trim();
+    if(!contact){ alert("Please leave a contact — otherwise we can't reply."); return; }
+
+    btn.disabled=true; btn.textContent="Sending…";
+    note.textContent="Please keep the page open — the file is uploading.";
+
+    var fd=new FormData();
+    fd.append("file",chosen);
+    fd.append("name",document.getElementById("uName").value);
+    fd.append("role",document.getElementById("uRole").value);
+    fd.append("contact",contact);
+    fd.append("improve",document.getElementById("uImprove").checked?"1":"0");
+    fd.append("from",location.pathname+location.search);
+    fd.append("_gotcha",document.getElementById("uGotcha").value);
+
+    fetch("https://tlnt-lead-bot.b3gg.workers.dev/cv",{method:"POST",body:fd})
+      .then(function(r){ return r.json(); })
+      .then(function(d){
+        if(!d||!d.ok) throw 0;
+        uf.style.display="none";
+        document.querySelector(".two-ways").style.display="none";
+        var a=document.getElementById("uLink");
+        a.href=d.url; a.textContent=d.url;
+        document.getElementById("uOk").style.display="block";
+        // Uploading a CV is a job seeker, never an employer lead — tell the ad
+        // platforms so they stop optimising towards this audience.
+        try{ sessionStorage.setItem("tlnt_role_sel","candidate"); }catch(err){}
+        try{ if(window.fbq) fbq("trackCustom","CVUploaded"); }catch(err){}
+      })
+      .catch(function(){
+        btn.disabled=false; btn.textContent="Send my CV";
+        note.textContent="Upload failed. Please try again or send the file over WhatsApp.";
+      });
+  });
+})();
 </script>
 </div></article>
 <div class="care"><p>Questions left? <a href="https://wa.me/971585783353" style="color:var(--accent);font-weight:600">Message us</a> — we'll help you figure it out.</p></div>
