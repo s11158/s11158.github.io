@@ -56,6 +56,21 @@
   .go:disabled{opacity:.6;cursor:wait}
   .fine{text-align:center;font-size:13px;color:#a79e90;margin-top:10px}
   .fine a{color:var(--accent);font-weight:600;text-decoration:none}
+  .two-ways{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+  @media(max-width:660px){.two-ways{grid-template-columns:1fr}}
+  .way{background:#fdfbf7;border:1px solid var(--line);border-radius:18px;padding:22px;display:flex;flex-direction:column}
+  .way-alt{background:#f9f3ea;border-color:#e4d5bd}
+  .way-t{font-family:'Cormorant Garamond',serif;font-size:22px;font-weight:600;color:var(--ink);margin-bottom:8px}
+  .way-p{font-size:14.5px;color:#7a7266;line-height:1.6;margin:0 0 18px;flex:1}
+  .way-btn{display:inline-block;text-align:center;background:var(--accent);color:#fff;font-weight:700;font-size:15px;font-family:inherit;
+    padding:13px 22px;border:none;border-radius:100px;text-decoration:none;cursor:pointer;box-shadow:0 10px 24px rgba(152,110,53,.24)}
+  .drop{border:2px dashed #d9c8ae;border-radius:18px;background:#fdfbf7;padding:30px 20px;text-align:center;cursor:pointer;transition:.2s}
+  .drop:hover,.drop.over{border-color:var(--accent);background:#f9f3ea}
+  .drop-in strong{display:block;font-size:16px;color:var(--ink);margin-bottom:5px}
+  .drop-in span{font-size:13.5px;color:#a79e90}
+  .drop.has{border-style:solid;border-color:var(--accent)}
+  .chk{display:flex;align-items:flex-start;gap:10px;font-size:14.5px;color:#6b6155;text-transform:none;letter-spacing:0;font-weight:400;margin:0 0 4px}
+  .chk input{width:auto;margin:2px 0 0}
   .okmsg{display:none;text-align:center;padding:12px 0}
   .okmsg .big{font-family:'Cormorant Garamond',serif;font-size:27px;color:var(--ink);margin-bottom:6px}
   .care{max-width:760px;margin:0 auto;padding:6px 22px 34px;text-align:center;font-size:15px;color:#8a8175}
@@ -83,10 +98,45 @@
     <li>Мы включаем вас в базу и предлагаем подходящие вакансии, когда они появляются</li>
     <li>Если совпало — знакомим с работодателем и помогаем с выходом</li>
   </ul>
-  <div class="lead-card" style="text-align:center;padding:26px">
-  <h2 style="margin-top:0">Нет красивого резюме?<span class="dot"> Сделаем за 5 минут.</span></h2>
-  <p style="margin-bottom:16px">Бесплатный конструктор: готовые формулировки, поля для визы и языков, PDF сразу.</p>
-  <a href="/resume/" style="display:inline-block;background:var(--accent);color:#fff;font-weight:700;padding:14px 30px;border-radius:100px;text-decoration:none;box-shadow:0 10px 24px rgba(152,110,53,.28)">Создать резюме</a>
+  <div class="lead-card" style="padding:clamp(24px,4vw,36px)">
+  <h2 style="margin-top:0;text-align:center">Резюме — как вам удобнее<span class="dot">.</span></h2>
+  <p style="text-align:center;margin-bottom:24px;color:#7a7266">Оба пути бесплатны и ведут в одну базу.</p>
+
+  <div class="two-ways">
+    <div class="way">
+      <div class="way-t">Резюме ещё нет</div>
+      <p class="way-p">Соберём за 5 минут в конструкторе: готовые формулировки, поля для визы и языков, PDF сразу.</p>
+      <a href="/resume/" class="way-btn">Создать резюме</a>
+    </div>
+    <div class="way way-alt">
+      <div class="way-t">Резюме уже есть</div>
+      <p class="way-p">Загрузите файл — он сразу попадёт в нашу базу. Если хотите, бесплатно приведём его в порядок: перепишем формулировки и оформим в едином виде.</p>
+      <button type="button" class="way-btn" id="upBtn">Загрузить резюме</button>
+    </div>
+  </div>
+
+  <form id="uf" style="display:none;margin-top:26px;border-top:1px solid var(--line);padding-top:24px">
+    <div class="drop" id="drop">
+      <input type="file" id="uFile" accept=".pdf,.doc,.docx,.jpg,.jpeg,.png,.webp,application/pdf,application/msword,application/vnd.openxmlformats-officedocument.wordprocessingml.document,image/*" hidden>
+      <div class="drop-in" id="dropIn">
+        <strong>Перетащите файл сюда</strong>
+        <span>или нажмите, чтобы выбрать · PDF, Word, фото · до 8 МБ</span>
+      </div>
+    </div>
+    <div class="fld" style="margin-top:20px"><label for="uName">Ваше имя</label><input id="uName" autocomplete="name"></div>
+    <div class="fld"><label for="uRole">Кем вы работаете?</label><input id="uRole" placeholder="Напр.: мастер маникюра"></div>
+    <div class="fld"><label for="uContact">WhatsApp / телефон / Telegram</label><input id="uContact" autocomplete="tel"></div>
+    <label class="chk"><input type="checkbox" id="uImprove" checked> Приведите моё резюме в порядок — бесплатно</label>
+    <input type="text" id="uGotcha" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px" aria-hidden="true">
+    <button class="go" id="uSubmit" type="submit" style="margin-top:18px">Отправить резюме</button>
+    <p class="fine" id="uNote">Файл видит только наша команда. Мы ничего не берём с кандидатов.</p>
+  </form>
+
+  <div class="okmsg" id="uOk">
+    <div class="big">Резюме у нас 🤍</div>
+    <div>Оно уже в базе — предложим вакансии, как только появится подходящая.</div>
+    <p style="margin-top:14px;font-size:14px;color:#7a7266">Ваша ссылка на файл:<br><a id="uLink" href="#" target="_blank" rel="noopener" style="color:var(--accent);font-weight:600;word-break:break-all"></a></p>
+  </div>
 </div>
 <div class="note">Мы ничего не берём с кандидатов. Ваши данные не публикуются — их видит только наша команда.</div>
   <h2>Кого чаще всего ищут<span class="dot">.</span></h2>
@@ -120,6 +170,85 @@ document.getElementById("lf").addEventListener("submit",function(e){
     document.getElementById("lf").style.display="none";document.getElementById("ok").style.display="block";})
   .catch(()=>{b.disabled=false;alert("Не получилось отправить — напишите нам в WhatsApp, пожалуйста.");});
 });
+
+// ---- CV upload ----
+(function(){
+  var MAX = 8*1024*1024;
+  var OK_EXT = ["pdf","doc","docx","jpg","jpeg","png","webp"];
+  var uf=document.getElementById("uf"), drop=document.getElementById("drop"),
+      inp=document.getElementById("uFile"), dropIn=document.getElementById("dropIn"),
+      note=document.getElementById("uNote"), btn=document.getElementById("uSubmit");
+  var chosen=null;
+
+  document.getElementById("upBtn").addEventListener("click",function(){
+    uf.style.display="block";
+    uf.scrollIntoView({behavior:"smooth",block:"center"});
+  });
+
+  function show(f){
+    chosen=f;
+    drop.classList.add("has");
+    dropIn.innerHTML='<strong>'+f.name.replace(/[<>&]/g,"")+'</strong><span>'+
+      (f.size/1048576).toFixed(1)+' МБ · нажмите, чтобы выбрать другой</span>';
+  }
+  function pick(f){
+    if(!f) return;
+    var ext=(f.name.split(".").pop()||"").toLowerCase();
+    if(OK_EXT.indexOf(ext)<0){ alert("Такой формат мы не примем. Подойдут PDF, Word или фото."); return; }
+    if(f.size>MAX){ alert("Файл больше 8 МБ. Сожмите его или пришлите PDF."); return; }
+    show(f);
+  }
+
+  drop.addEventListener("click",function(){ inp.click(); });
+  inp.addEventListener("change",function(){ pick(inp.files[0]); });
+  ["dragenter","dragover"].forEach(function(ev){
+    drop.addEventListener(ev,function(e){ e.preventDefault(); drop.classList.add("over"); });
+  });
+  ["dragleave","drop"].forEach(function(ev){
+    drop.addEventListener(ev,function(e){ e.preventDefault(); drop.classList.remove("over"); });
+  });
+  drop.addEventListener("drop",function(e){
+    if(e.dataTransfer && e.dataTransfer.files) pick(e.dataTransfer.files[0]);
+  });
+
+  uf.addEventListener("submit",function(e){
+    e.preventDefault();
+    if(!chosen){ alert("Выберите файл резюме, пожалуйста."); return; }
+    var contact=document.getElementById("uContact").value.trim();
+    if(!contact){ alert("Оставьте контакт — иначе мы не сможем ответить."); return; }
+
+    btn.disabled=true; btn.textContent="Отправляем…";
+    note.textContent="Не закрывайте страницу — файл загружается.";
+
+    var fd=new FormData();
+    fd.append("file",chosen);
+    fd.append("name",document.getElementById("uName").value);
+    fd.append("role",document.getElementById("uRole").value);
+    fd.append("contact",contact);
+    fd.append("improve",document.getElementById("uImprove").checked?"1":"0");
+    fd.append("from",location.pathname+location.search);
+    fd.append("_gotcha",document.getElementById("uGotcha").value);
+
+    fetch("https://tlnt-lead-bot.b3gg.workers.dev/cv",{method:"POST",body:fd})
+      .then(function(r){ return r.json(); })
+      .then(function(d){
+        if(!d||!d.ok) throw 0;
+        uf.style.display="none";
+        document.querySelector(".two-ways").style.display="none";
+        var a=document.getElementById("uLink");
+        a.href=d.url; a.textContent=d.url;
+        document.getElementById("uOk").style.display="block";
+        // Uploading a CV is a job seeker, never an employer lead — tell the ad
+        // platforms so they stop optimising towards this audience.
+        try{ sessionStorage.setItem("tlnt_role_sel","candidate"); }catch(err){}
+        try{ if(window.fbq) fbq("trackCustom","CVUploaded"); }catch(err){}
+      })
+      .catch(function(){
+        btn.disabled=false; btn.textContent="Отправить резюме";
+        note.textContent="Не получилось загрузить. Попробуйте ещё раз или пришлите файл в WhatsApp.";
+      });
+  });
+})();
 </script>
 </div></article>
 <div class="care"><p>Остались вопросы? <a href="https://wa.me/971585783353?text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%2C%20" style="color:var(--accent);font-weight:600">Напишите</a> — поможем разобраться.</p></div>
