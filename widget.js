@@ -1,7 +1,10 @@
 (function () {
   // ---- Meta Pixel ----
   !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
-  try { fbq('init', '1742307803770070'); fbq('track', 'PageView'); } catch (e) {}
+  // 1911110180275408 — dataset "TLNT.ae Pixel" in the tlnt.ae portfolio (1494093171973370).
+  // Replaced 1742307803770070 on 2026-08-02: the old pixel lived in portfolio 216952248957641,
+  // which Meta flagged as Russian and which can no longer take payments, so its data is unusable.
+  try { fbq('init', '1911110180275408'); fbq('track', 'PageView'); } catch (e) {}
 
   // ---- Google tag (gtag.js) ----
   try {
@@ -221,6 +224,14 @@
                 ? "AW-18241263216/HQq8CLi59NQcEPCsjvpD"
                 : "AW-18241263216/aD2aCLu59NQcEPCsjvpD"
             });
+          }
+        } catch (e) {}
+        // Same signal for Meta: without it the pixel only sees clicks, and Meta will
+        // happily optimise towards job seekers because they are cheaper and far more numerous.
+        try {
+          if (!sessionStorage.getItem("tlnt_role_fb_" + role) && window.fbq) {
+            sessionStorage.setItem("tlnt_role_fb_" + role, "1");
+            fbq("trackCustom", role === "employer" ? "RoleEmployer" : "RoleCandidate");
           }
         } catch (e) {}
         hint.style.display = "none";
