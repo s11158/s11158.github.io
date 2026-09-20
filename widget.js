@@ -26,7 +26,7 @@
     document.head.appendChild(cf);
   } catch (e) {}
 
-  var PHONE = "971585783353";
+  var PHONE = "971509851420";
   var WA_URL = "https://wa.me/" + PHONE + "?text=" + encodeURIComponent("Добрый день, ");
   var TG_URL = "https://t.me/+" + PHONE;
   var WORKER = "https://tlnt-lead-bot.b3gg.workers.dev";
@@ -376,7 +376,7 @@
       { t: "LinkedIn",         h: "https://www.linkedin.com/in/staskochukov", i: "li", c: "#0A66C2" },
       { t: "Facebook",         h: "https://www.facebook.com/profile.php?id=61592691063350", i: "fb", c: "#1877F2" },
       { t: "stas@tlnt.ae",     h: "mailto:stas@tlnt.ae", i: "ml", c: "#986e35" },
-      { t: "+971 58 578 3353", h: "tel:+971585783353",   i: "ph", c: "#986e35" }
+      { t: "+971 50 985 1420", h: "tel:+971509851420",   i: "ph", c: "#986e35" }
     ];
 
     var soCss =
