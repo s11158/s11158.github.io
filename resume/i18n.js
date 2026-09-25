@@ -249,7 +249,7 @@ const UI = {
 };
 const UIrev = {}; Object.keys(UI).forEach(k=>UIrev[UI[k]]=k);
 
-let lang = window.TLNT_RESUME_LANG || localStorage.getItem("tlnt_resume_lang") || "ru";
+let lang = window.TLNT_RESUME_LANG || "ru"; /* the URL decides: /en/resume/ sets the preset */
 
 /* translate first text node of an element */
 function swapNode(n, dict){
@@ -284,7 +284,25 @@ function applyLang(){
 const _renderXp = window.renderXp, _renderSkills = window.renderSkills, _refreshAbout = window.refreshAbout;
 window.renderXp = function(){ _renderXp(); if(lang==="en") applyLang(); };
 window.renderSkills = function(){ _renderSkills(); if(lang==="en") applyLang(); };
-window.refreshAbout = function(){ _refreshAbout(); if(lang==="en") applyLang(); };
+window.refreshAbout = function(){ _refreshAbout(); if(lang==="en"){ aboutEn(); applyLang(); } };
+/* English "About me" variants, same logic as the Russian ones */
+function aboutEn(){
+  const box = document.getElementById("aboutvars"); if(!box) return;
+  const roleEn = tr(S.roleName||"") || "Specialist"; const sen = S.seniority||"";
+  const noexp = sen==="Нет опыта";
+  const sk = (S.skills||[]).slice(0,3).map(tr).join(", ");
+  const visa = tr(S.u_visa||""), av = tr(S.u_avail||"");
+  const eng = (S.langs||[]).some(l=>l.includes("Английский")||l.includes("English"));
+  const v = [
+    roleEn + (sen==="Опыт 3+ лет"?" with 3+ years of experience":sen==="Опыт 1-3 года"?" with 1-3 years of experience":"") + ". " + (sk?sk+". ":"") + (visa?visa+". ":"") + (av?("Availability: "+av+"."):""),
+    "I take real responsibility for my work and my clients, " + (noexp?"learn fast and want to grow in the profession":"keep a high standard of service and protect my employer's reputation") + ". " + (eng?"Fluent in English.":"Actively improving my English.") + " Looking for a stable job in Dubai.",
+    (noexp?"Entry-level specialist, highly motivated to work in Dubai and ready to learn.":"I love my profession: clients and employers come back to me for years. Careful with details and time.") + (visa?" "+visa+".":"")
+  ];
+  box.innerHTML = "";
+  v.forEach(txt=>{ const c=document.createElement("div"); c.className="vcard"+(S.about===txt?" sel":""); c.textContent=txt;
+    c.onclick=()=>{ S.about=txt; save(); const a=document.getElementById("a_text"); if(a) a.value=txt; document.querySelectorAll(".vcard").forEach(x=>x.classList.remove("sel")); c.classList.add("sel"); };
+    box.appendChild(c); });
+}
 
 /* toggle button in nav */
 (function(){
@@ -293,7 +311,7 @@ window.refreshAbout = function(){ _refreshAbout(); if(lang==="en") applyLang(); 
   b.id="langbtn"; b.type="button";
   b.style.cssText="margin-left:10px;background:transparent;border:1.5px solid #d8cebd;color:#3f3a33;font-weight:700;font-size:14px;padding:7px 16px;border-radius:100px;cursor:pointer;font-family:inherit";
   b.textContent = lang==="ru" ? "EN" : "RU";
-  b.onclick = ()=>{ lang = lang==="ru" ? "en" : "ru"; localStorage.setItem("tlnt_resume_lang", lang); location.reload(); };
+  b.onclick = ()=>{ const nl = lang==="ru" ? "en" : "ru"; localStorage.setItem("tlnt_resume_lang", nl); location.href = nl==="en" ? "/en/resume/" : "/resume/"; };
   nav.appendChild(b);
 })();
 
