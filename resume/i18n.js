@@ -249,7 +249,7 @@ const UI = {
 };
 const UIrev = {}; Object.keys(UI).forEach(k=>UIrev[UI[k]]=k);
 
-let lang = localStorage.getItem("tlnt_resume_lang") || "ru";
+let lang = window.TLNT_RESUME_LANG || localStorage.getItem("tlnt_resume_lang") || "ru";
 
 /* translate first text node of an element */
 function swapNode(n, dict){
