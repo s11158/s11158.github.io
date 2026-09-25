@@ -1,6 +1,6 @@
 # TLNT
 
-> TLNT — кадровое агентство полного цикла для русскоязычного бизнеса в ОАЭ (Дубай и Абу-Даби). Подбираем персонал под ключ для салонов красоты, эстетических и медицинских клиник, а также управленческих и ассистентских ролей. Средний срок закрытия вакансии — около 2 недель. Гарантия бесплатной замены — 2 месяца. Вознаграждение равно одному месячному окладу подобранного сотрудника, оплата 50/50. Работаем дистанционно, помогаем не только найти, но и оформить, ввести в работу и удержать сотрудника.
+> TLNT - кадровое агентство полного цикла для русскоязычного бизнеса в ОАЭ (Дубай и Абу-Даби). Подбираем персонал под ключ для салонов красоты, эстетических и медицинских клиник, а также управленческих и ассистентских ролей. Средний срок закрытия вакансии - около 2 недель. Гарантия бесплатной замены - 2 месяца. Вознаграждение равно одному месячному окладу подобранного сотрудника, оплата 50/50. Работаем дистанционно, помогаем не только найти, но и оформить, ввести в работу и удержать сотрудника.
 
 Основано на реальном опыте подбора для бьюти- и медицинского бизнеса в ОАЭ. Ориентировано на владельцев бизнеса (работодателей), а не на соискателей. Контент двуязычный: русский (основной) и английский (`/en/`).
 
@@ -124,6 +124,26 @@
 - [Customer Service Agent recruitment in Dubai (EN)](https://tlnt.ae/en/customer-service-agent/)
 
 ## More pages (roles and guides, EN and RU)
+- [How to Open a Clinic in Dubai: DHA Facility Licence Step by Step](https://tlnt.ae/en/guides/open-clinic-dubai-dha-facility-licence/)
+- [Как открыть клинику в Дубае: лицензия DHA пошагово](https://tlnt.ae/guides/kak-otkryt-kliniku-dubai-licenziya-dha/)
+- [DHA Licence Types: GP, Specialist, Consultant, Nurse, Allied Health](https://tlnt.ae/en/guides/dha-licence-types-gp-specialist-consultant/)
+- [Типы лицензий DHA: GP, специалист, консультант, медсестра](https://tlnt.ae/guides/tipy-licenziy-dha-vrach-specialist-konsultant/)
+- [DHA vs DOH vs MOHAP: Which Health Authority Licenses Where](https://tlnt.ae/en/guides/dha-vs-doh-vs-mohap/)
+- [DHA, DOH или MOHAP: какая медицинская лицензия где действует](https://tlnt.ae/guides/dha-doh-mohap-kakaya-licenziya-gde/)
+- [Medical Malpractice Insurance in Dubai: What Clinics Must Know](https://tlnt.ae/en/guides/medical-malpractice-insurance-dubai/)
+- [Страховка от врачебных ошибок в Дубае: что нужно знать клинике](https://tlnt.ae/guides/strahovka-ot-vrachebnyh-oshibok-dubai/)
+- [Doctor Relocation to Dubai Step by Step: Licence, Job, Visa, Family](https://tlnt.ae/en/guides/doctor-relocation-dubai/)
+- [Переезд врача в Дубай пошагово: лицензия, работа, виза, семья](https://tlnt.ae/guides/pereezd-vracha-v-dubai/)
+- [DataFlow Verification for DHA: Documents, Delays, Preparation](https://tlnt.ae/en/guides/dataflow-primary-source-verification/)
+- [Проверка DataFlow для DHA: документы, задержки, подготовка](https://tlnt.ae/guides/dataflow-dokumenty-sroki-podgotovka/)
+- [DHA Assessment and Prometric Exam: Who Sits It, Exemptions, Prep](https://tlnt.ae/en/guides/dha-assessment-prometric-exam/)
+- [Экзамен DHA и Prometric: кто сдаёт, освобождение, подготовка](https://tlnt.ae/guides/ekzamen-dha-prometric-assessment/)
+- [DHA Licence for a GP With a Russian or CIS Medical Degree](https://tlnt.ae/en/guides/dha-licence-gp-russian-cis-degree/)
+- [Лицензия DHA для врача с дипломом России и СНГ: как получить](https://tlnt.ae/guides/licenziya-dha-terapevt-diplom-rossii-sng/)
+- [Aesthetic Clinic vs Beauty Salon in Dubai: What Needs a DHA Licence](https://tlnt.ae/en/guides/aesthetic-clinic-vs-beauty-salon-dubai/)
+- [Эстетическая клиника или салон красоты в Дубае: где нужна лицензия DHA](https://tlnt.ae/guides/esteticheskaya-klinika-ili-salon-krasoty-dubai/)
+- [Cost of Opening a Clinic in Dubai: Budget Structure Line by Line](https://tlnt.ae/en/guides/cost-of-opening-clinic-dubai/)
+- [Сколько стоит открыть клинику в Дубае: структура бюджета](https://tlnt.ae/guides/skolko-stoit-otkryt-kliniku-dubai/)
 - [Buying an Existing Clinic in Dubai: Clinic-Specific Due Diligence](https://tlnt.ae/en/guides/buying-clinic-dubai-due-diligence/)
 - [Покупка готовой клиники в Дубае: что проверить именно в клинике](https://tlnt.ae/guides/pokupka-kliniki-dubai-proverka/)
 - [Clinic Staffing Plan in Dubai: Roles, Ratios, Who to Hire First](https://tlnt.ae/en/guides/clinic-staffing-plan-dubai/)

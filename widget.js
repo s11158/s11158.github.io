@@ -1,7 +1,7 @@
 (function () {
   // ---- Meta Pixel ----
   !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
-  // 1911110180275408 — dataset "TLNT.ae Pixel" in the tlnt.ae portfolio (1494093171973370).
+  // 1911110180275408 - dataset "TLNT.ae Pixel" in the tlnt.ae portfolio (1494093171973370).
   // Replaced 1742307803770070 on 2026-08-02: the old pixel lived in portfolio 216952248957641,
   // which Meta flagged as Russian and which can no longer take payments, so its data is unusable.
   try { fbq('init', '1911110180275408'); fbq('track', 'PageView'); } catch (e) {}
@@ -40,7 +40,7 @@
     else { try { SRC = sessionStorage.getItem("tlnt_src") || ""; } catch (e) {} }
   } catch (e) {}
 
-  // ---- Google click id (gclid/gbraid/wbraid) capture — for offline conversion import ----
+  // ---- Google click id (gclid/gbraid/wbraid) capture - for offline conversion import ----
   var GCLID = "";
   try {
     var gq = new URLSearchParams(location.search);
@@ -158,7 +158,7 @@
   // ---- structured data now lives STATICALLY in each page <head> (not JS-injected) ----
 
   // ---- click tracking (one ping per channel+page per session) ----
-  // candidate-facing pages (/candidates, /cv, /resume): job seekers, NOT employer leads —
+  // candidate-facing pages (/candidates, /cv, /resume): job seekers, NOT employer leads -
   // keep the Telegram beacon but never fire ad-platform conversions from them
   var IS_CANDIDATE_PAGE = /^\/(en\/)?(candidates|cv|resume)(\/|$)/.test(location.pathname);
 
@@ -169,14 +169,14 @@
   var IS_EN = /^\/en(\/|$)/.test(location.pathname);
   var ROLE_T = IS_EN ? {
     q: "Who are you?", employer: "I'm hiring", candidate: "I'm looking for a job",
-    hint: "Please choose one option — it takes a second.",
-    title: "You're in the right place — just one page over",
+    hint: "Please choose one option - it takes a second.",
+    title: "You're in the right place - just one page over",
     text: "We recruit staff for companies, so we can't hire you ourselves. Send your CV through our candidates page: it goes straight into our database and reaches employers.",
     cta: "Go to the candidates page", back: "I actually need to hire someone", href: "/en/candidates/"
   } : {
     q: "Вы ищете сотрудника или работу?", employer: "Ищу сотрудника", candidate: "Ищу работу",
-    hint: "Выберите, пожалуйста, один вариант — это займёт секунду.",
-    title: "Вы почти там — вам на соседнюю страницу",
+    hint: "Выберите, пожалуйста, один вариант - это займёт секунду.",
+    title: "Вы почти там - вам на соседнюю страницу",
     text: "Мы подбираем сотрудников для компаний, поэтому сами вас не нанимаем. Отправьте резюме на странице для соискателей: оттуда оно попадает в нашу базу и доходит до работодателей.",
     cta: "Перейти на страницу для соискателей", back: "Нет, мне нужен сотрудник", href: "/candidates/"
   };
@@ -215,7 +215,7 @@
         // remember the choice for the session: messenger clicks must not fire an
         // employer conversion once the visitor told us they are a job seeker
         try { sessionStorage.setItem("tlnt_role_sel", role); } catch (e) {}
-        // Secondary (non-bidding) conversions — they turn the gate into a traffic-quality
+        // Secondary (non-bidding) conversions - they turn the gate into a traffic-quality
         // meter: the employer share per campaign is readable in days, not quarters.
         // Fired once per session so a visitor toggling the buttons is not counted twice.
         try {
@@ -288,18 +288,18 @@
       var payload = JSON.stringify({ type: "click", channel: ch, page: location.pathname, from: SRC, gclid: GCLID });
       navigator.sendBeacon(WORKER, new Blob([payload], { type: "text/plain" }));
       if (IS_CANDIDATE_PAGE) return;
-      // visitor already identified as a job seeker in the role gate — keep the beacon
+      // visitor already identified as a job seeker in the role gate - keep the beacon
       // (we still want the contact) but never report it to the ad platforms as a lead
       try { if (sessionStorage.getItem("tlnt_role_sel") === "candidate") return; } catch (e) {}
       try { if (window.fbq) fbq("track", "Lead", { content_name: ch }); } catch (e) {}
       try { if (window.gtag) gtag("event", "conversion", { send_to: "AW-18241263216/suk6CJf-ksgcEPCsjvpD" }); } catch (e) {}
     } catch (e) {}
   }
-  // fire Lead on lead-form submit too — with Enhanced Conversions (hashed phone/email)
+  // fire Lead on lead-form submit too - with Enhanced Conversions (hashed phone/email)
   document.addEventListener("submit", function (e) {
     if (IS_CANDIDATE_PAGE) return; // job-seeker forms are not employer leads
 
-    // qualification gate — runs in capture phase, so it can stop the form's own submit handler.
+    // qualification gate - runs in capture phase, so it can stop the form's own submit handler.
     // Any failure here must fall through to the normal submit rather than block a real lead.
     try {
       var gated = e && e.target && e.target.querySelector && e.target.querySelector("[name=tlnt_role]");

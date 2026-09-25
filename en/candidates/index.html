@@ -5,8 +5,8 @@
 <meta name="color-scheme" content="light">
 <meta name="theme-color" content="#fbf8f3">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>TLNT.ae — CV — jobs in Dubai</title>
-<meta name="description" content="Jobs in Dubai for beauty masters, administrators, doctors and assistants. Leave a contact — we'll offer matching vacancies. Free for candidates.">
+<title>TLNT.ae - CV - jobs in Dubai</title>
+<meta name="description" content="Jobs in Dubai for beauty masters, administrators, doctors and assistants. Leave a contact - we'll offer matching vacancies. Free for candidates.">
 <link rel="canonical" href="https://tlnt.ae/en/candidates/">
 <link rel="alternate" hreflang="ru" href="https://tlnt.ae/candidates/">
 <link rel="alternate" hreflang="en" href="https://tlnt.ae/en/candidates/">
@@ -98,7 +98,7 @@
   <ul class="tick">
     <li>You leave a contact and tell us your profession</li>
     <li>We add you to our base and offer matching vacancies as they appear</li>
-    <li>When it's a match — we introduce you to the employer and help you start</li>
+    <li>When it's a match - we introduce you to the employer and help you start</li>
   </ul>
   <div class="lead-card" style="padding:clamp(24px,4vw,36px)">
   <h2 style="margin-top:0;text-align:center">Your CV, whichever way suits you<span class="dot">.</span></h2>
@@ -112,7 +112,7 @@
     </div>
     <div class="way way-alt">
       <div class="way-t">I already have a CV</div>
-      <p class="way-p">Upload the file — it goes straight into our base. If you like, we'll polish it for free: rewrite the wording and lay it out in one clean style.</p>
+      <p class="way-p">Upload the file - it goes straight into our base. If you like, we'll polish it for free: rewrite the wording and lay it out in one clean style.</p>
       <button type="button" class="way-btn" id="upBtn">Upload my CV</button>
     </div>
   </div>
@@ -128,7 +128,7 @@
     <div class="fld" style="margin-top:20px"><label for="uName">Your name</label><input id="uName" autocomplete="name"></div>
     <div class="fld"><label for="uRole">Your profession?</label><input id="uRole" placeholder="E.g.: nail technician"></div>
     <div class="fld"><label for="uContact">WhatsApp / phone / Telegram</label><input id="uContact" autocomplete="tel" required minlength="5"></div>
-    <label class="chk"><input type="checkbox" id="uImprove" checked> Please polish my CV — free of charge</label>
+    <label class="chk"><input type="checkbox" id="uImprove" checked> Please polish my CV - free of charge</label>
     <input type="text" id="uGotcha" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px" aria-hidden="true">
     <button class="go" id="uSubmit" type="submit" style="margin-top:18px">Send my CV</button>
     <p class="fine" id="uNote">Only our team sees your file. We never charge candidates.</p>
@@ -136,11 +136,11 @@
 
   <div class="okmsg" id="uOk">
     <div class="big">We've got your CV 🤍</div>
-    <div>It's in our base — we'll offer vacancies as soon as one matches.</div>
+    <div>It's in our base - we'll offer vacancies as soon as one matches.</div>
     <p style="margin-top:14px;font-size:14px;color:#7a7266">Your file link:<br><a id="uLink" href="#" target="_blank" rel="noopener" style="color:var(--accent);font-weight:600;word-break:break-all"></a></p>
   </div>
 </div>
-<div class="note">We never charge candidates. Your data is not published — only our team sees it.</div>
+<div class="note">We never charge candidates. Your data is not published - only our team sees it.</div>
   <h2>Most wanted roles<span class="dot">.</span></h2>
   <ul class="tick">
     <li>Nail technicians, hair stylists, estheticians, massage therapists</li>
@@ -149,7 +149,7 @@
     <li>Personal assistants and household staff</li>
   </ul>
   <div class="lead-card" id="contact">
-  <h2 style="margin-top:0">Leave your contact — we'll include you in our search<span class="dot">.</span></h2>
+  <h2 style="margin-top:0">Leave your contact - we'll include you in our search<span class="dot">.</span></h2>
   <form id="lf">
     <div class="fld"><label for="fn">Your name</label><input id="fn" autocomplete="name"></div>
     <div class="fld"><label for="fp">Your profession?</label><input id="fp" placeholder="Your profession? E.g.: nail technician"></div>
@@ -158,7 +158,7 @@
     <button class="go" id="lb" type="submit">Send</button>
     <p class="fine">We reply within a day, no spam. Prefer direct? <a href="https://wa.me/971509851420">WhatsApp</a></p>
   </form>
-  <div class="okmsg" id="ok"><div class="big">Thank you!</div><div>Received — we'll get back to you within a day.</div></div>
+  <div class="okmsg" id="ok"><div class="big">Thank you!</div><div>Received - we'll get back to you within a day.</div></div>
 </div>
 <script>
 document.getElementById("lf").addEventListener("submit",function(e){
@@ -170,7 +170,7 @@ document.getElementById("lf").addEventListener("submit",function(e){
       message:document.getElementById("fm").value+" | стр: "+location.pathname+location.search})})
   .then(r=>r.json()).then(d=>{if(!d||!d.ok)throw 0;
     document.getElementById("lf").style.display="none";document.getElementById("ok").style.display="block";})
-  .catch(()=>{b.disabled=false;alert("Не получилось отправить — напишите нам в WhatsApp, пожалуйста.");});
+  .catch(()=>{b.disabled=false;alert("Не получилось отправить - напишите нам в WhatsApp, пожалуйста.");});
 });
 
 // ---- CV upload ----
@@ -217,10 +217,10 @@ document.getElementById("lf").addEventListener("submit",function(e){
     e.preventDefault();
     if(!chosen){ alert("Please choose your CV file."); return; }
     var contact=document.getElementById("uContact").value.trim();
-    if(!contact){ alert("Please leave a contact — otherwise we can't reply."); return; }
+    if(!contact){ alert("Please leave a contact - otherwise we can't reply."); return; }
 
     btn.disabled=true; btn.textContent="Sending…";
-    note.textContent="Please keep the page open — the file is uploading.";
+    note.textContent="Please keep the page open - the file is uploading.";
 
     var fd=new FormData();
     fd.append("file",chosen);
@@ -240,7 +240,7 @@ document.getElementById("lf").addEventListener("submit",function(e){
         var a=document.getElementById("uLink");
         a.href=d.url; a.textContent=d.url;
         document.getElementById("uOk").style.display="block";
-        // Uploading a CV is a job seeker, never an employer lead — tell the ad
+        // Uploading a CV is a job seeker, never an employer lead - tell the ad
         // platforms so they stop optimising towards this audience.
         try{ sessionStorage.setItem("tlnt_role_sel","candidate"); }catch(err){}
         try{ if(window.fbq) fbq("trackCustom","CVUploaded"); }catch(err){}
@@ -253,8 +253,8 @@ document.getElementById("lf").addEventListener("submit",function(e){
 })();
 </script>
 </div></article>
-<div class="care"><p>Questions left? <a href="https://wa.me/971509851420" style="color:var(--accent);font-weight:600">Message us</a> — we'll help you figure it out.</p></div>
+<div class="care"><p>Questions left? <a href="https://wa.me/971509851420" style="color:var(--accent);font-weight:600">Message us</a> - we'll help you figure it out.</p></div>
 <footer>© TLNT · tlnt.ae · made with care in Dubai</footer>
-<script src="/widget.js?v=20260925"></script>
+<script src="/widget.js?v=20260926"></script>
 </body>
 </html>

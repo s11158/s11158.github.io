@@ -1,4 +1,4 @@
-/* TLNT resume builder — RU/EN toggle + English PDF (chips map 1:1) */
+/* TLNT resume builder - RU/EN toggle + English PDF (chips map 1:1) */
 (function(){
 "use strict";
 /* ===== chip/data translations (RU -> EN) ===== */
@@ -17,36 +17,36 @@ const T = {
 // cats
 "Салон красоты":"Beauty salon","Медицина":"Medical","Бизнес и офис":"Business & office","Личный персонал":"Household staff","Другое":"Other",
 // seniority / city / visa / avail / dha / langs / salary
-"Нет опыта":"No experience yet","Опыт 1–3 года":"1–3 years of experience","Опыт 3+ лет":"3+ years of experience",
+"Нет опыта":"No experience yet","Опыт 1-3 года":"1-3 years of experience","Опыт 3+ лет":"3+ years of experience",
 "Дубай":"Dubai","Абу-Даби":"Abu Dhabi","Другой эмират":"Other emirate","Пока не в ОАЭ":"Not in the UAE yet",
-"Резидентская виза — transferable":"Residence visa — transferable","Виза супруга/супруги — NOC есть":"Spouse visa — NOC available",
+"Резидентская виза - transferable":"Residence visa - transferable","Виза супруга/супруги - NOC есть":"Spouse visa - NOC available",
 "Туристическая виза":"Visit visa","Отмена визы в процессе":"Visa cancellation in progress","Freelance / own visa":"Freelance / own visa",
-"Вне ОАЭ — готова к переезду":"Outside the UAE — ready to relocate",
-"Могу выйти сразу":"Available immediately","Через 1–2 недели":"Available in 1–2 weeks","Через месяц":"Available in 1 month","После оформления визы":"Upon visa processing",
-"Действующая лицензия DHA":"Active DHA license","DHA в процессе — DataFlow пройден":"DHA in progress — DataFlow completed",
-"Лицензия MOH/DOH":"MOH/DOH license","Без лицензии — готова получать":"No license yet — ready to obtain",
-"Русский — родной":"Russian — native","Английский — разговорный":"English — conversational","Английский — свободный":"English — fluent",
-"Арабский — базовый":"Arabic — basic","Украинский — родной":"Ukrainian — native","Хинди/урду — разговорный":"Hindi/Urdu — conversational",
+"Вне ОАЭ - готова к переезду":"Outside the UAE - ready to relocate",
+"Могу выйти сразу":"Available immediately","Через 1-2 недели":"Available in 1-2 weeks","Через месяц":"Available in 1 month","После оформления визы":"Upon visa processing",
+"Действующая лицензия DHA":"Active DHA license","DHA в процессе - DataFlow пройден":"DHA in progress - DataFlow completed",
+"Лицензия MOH/DOH":"MOH/DOH license","Без лицензии - готова получать":"No license yet - ready to obtain",
+"Русский - родной":"Russian - native","Английский - разговорный":"English - conversational","Английский - свободный":"English - fluent",
+"Арабский - базовый":"Arabic - basic","Украинский - родной":"Ukrainian - native","Хинди/урду - разговорный":"Hindi/Urdu - conversational",
 "от 3 500 AED":"from AED 3,500","от 5 000 AED":"from AED 5,000","от 7 000 AED":"from AED 7,000","от 10 000 AED":"from AED 10,000","от 15 000 AED":"from AED 15,000",
 "Фикс + % от услуг":"Base + % of services","Обсуждаемо":"Negotiable",
 // duties: beauty
 "Маникюр и педикюр: классический, аппаратный, комбинированный":"Manicure & pedicure: classic, e-file, combined",
 "Покрытие гель-лаком, укрепление, дизайн любой сложности":"Gel polish, strengthening, nail art of any complexity",
 "Наращивание (гель, верхние формы)":"Extensions (gel, dual forms)",
-"Принимала 6–8 клиентов в день, вела свою запись":"Served 6–8 clients daily, managed own bookings",
+"Принимала 6-8 клиентов в день, вела свою запись":"Served 6-8 clients daily, managed own bookings",
 "Стерилизация инструментов по стандартам Dubai Municipality":"Tool sterilization per Dubai Municipality standards",
-"База постоянных клиентов — возвращаемость выше 60%":"Loyal client base — 60%+ return rate",
+"База постоянных клиентов - возвращаемость выше 60%":"Loyal client base - 60%+ return rate",
 "Чистки, пилинги, уходовые процедуры лица":"Facials: cleansing, peels, skincare treatments",
 "Аппараты: HydraFacial, RF-лифтинг, микротоки":"Devices: HydraFacial, RF-lifting, microcurrents",
 "Подбор протокола под тип кожи, ведение карты клиента":"Protocols tailored to skin type, client records",
 "Консультации и продажа домашнего ухода":"Consultations and home-care sales",
 "До 10 процедур в день":"Up to 10 treatments daily",
 "Опыт с европейской, арабской и азиатской клиентурой":"Experience with European, Arab and Asian clientele",
-"Наращивание ресниц: классика, 2D–5D, mega volume":"Lash extensions: classic, 2D–5D, mega volume",
+"Наращивание ресниц: классика, 2D-5D, mega volume":"Lash extensions: classic, 2D-5D, mega volume",
 "Ламинирование ресниц и бровей, окрашивание":"Lash & brow lamination, tinting",
 "Коррекция и архитектура бровей (воск, пинцет)":"Brow shaping & architecture (wax, tweezers)",
-"4–6 клиентов в день по записи":"4–6 clients daily by appointment",
-"Вела Instagram с работами — приводила новых клиентов":"Ran a portfolio Instagram — attracted new clients",
+"4-6 клиентов в день по записи":"4-6 clients daily by appointment",
+"Вела Instagram с работами - приводила новых клиентов":"Ran a portfolio Instagram - attracted new clients",
 "Женские и мужские стрижки, укладки":"Women's and men's cuts, styling",
 "Окрашивание: сложные техники, блонд, AirTouch":"Coloring: advanced techniques, blonde, AirTouch",
 "Кератин, ботокс, восстановление волос":"Keratin, botox, hair repair treatments",
@@ -60,13 +60,13 @@ const T = {
 "Классический, лимфодренажный, антицеллюлитный массаж":"Classic, lymphatic drainage, anti-cellulite massage",
 "СПА-программы и обёртывания":"SPA programs and body wraps",
 "Подбор программы под запрос клиента":"Programs tailored to client needs",
-"До 6–8 сеансов в день":"Up to 6–8 sessions daily",
+"До 6-8 сеансов в день":"Up to 6-8 sessions daily",
 "Сертификаты по массажу, знание анатомии":"Massage certificates, anatomy knowledge",
 "Запись клиентов: телефон, WhatsApp, Instagram, CRM (Fresha/Altegio)":"Bookings via phone, WhatsApp, Instagram, CRM (Fresha/Altegio)",
 "Встреча гостей, координация расписания мастеров":"Guest welcome, coordinating specialists' schedules",
 "Касса, отчётность, онлайн-оплаты":"Cash desk, reporting, online payments",
 "Переписка и отзывы на английском":"Correspondence and reviews in English",
-"Решение конфликтных ситуаций — удержание клиентов":"Conflict resolution — client retention",
+"Решение конфликтных ситуаций - удержание клиентов":"Conflict resolution - client retention",
 "Учёт материалов и заказы у поставщиков":"Inventory and supplier orders",
 "Операционное управление салоном":"Salon operations management",
 "Найм, обучение и мотивация команды":"Hiring, training and motivating the team",
@@ -94,7 +94,7 @@ const T = {
 "Лазерная эпиляция (Candela GentleLase, Soprano)":"Laser hair removal (Candela GentleLase, Soprano)",
 "Настройка параметров под фототип кожи":"Settings adjusted to skin phototype",
 "Консультации и тест-процедуры":"Consultations and patch tests",
-"10–12 клиентов в день":"10–12 clients daily",
+"10-12 клиентов в день":"10-12 clients daily",
 "Строгое соблюдение протоколов безопасности":"Strict safety protocol compliance",
 "Запись пациентов и координация расписания врачей":"Patient booking and doctors' schedule coordination",
 "Работа с кассой, страховыми и оплатами":"Cash desk, insurance and payments",
@@ -218,34 +218,34 @@ const tr = s => T[s] || s;
 
 /* ===== UI strings (RU -> EN), applied by matching first text node ===== */
 const UI = {
-"Красивое резюме для работы в Дубае — ":"A beautiful CV for a job in Dubai — ","за 5 минут":"in 5 minutes",
+"Красивое резюме для работы в Дубае - ":"A beautiful CV for a job in Dubai - ","за 5 минут":"in 5 minutes",
 "Идите вниз и просто выбирайте готовые ответы. Бесплатно, без подписок, PDF сразу и без водяных знаков.":"Scroll down and just tap ready-made answers. Free, no subscriptions, instant PDF, no watermarks.",
 "Бесплатно · без регистрации":"Free · no sign-up",
 "Профессия":"Profession","Фото":"Photo","Контакты":"Contacts","Статус в ОАЭ":"UAE status","Опыт":"Experience",
 "Образование":"Education","Навыки":"Skills","Языки и зарплата":"Languages & salary","О себе":"About you","Готово":"Done",
 "Кем вы работаете":"What is your profession","Ваш опыт":"Your experience",
-"Фото.":"Photo.","В ОАЭ фото ожидается для клиентских ролей. После загрузки можно приблизить и сдвинуть кадр — лишнее останется за рамкой.":"In the UAE a photo is expected for client-facing roles. After upload you can zoom and reposition — everything else stays outside the frame.",
+"Фото.":"Photo.","В ОАЭ фото ожидается для клиентских ролей. После загрузки можно приблизить и сдвинуть кадр - лишнее останется за рамкой.":"In the UAE a photo is expected for client-facing roles. After upload you can zoom and reposition - everything else stays outside the frame.",
 "Загрузить фото":"Upload photo","JPG или PNG · потом обрежем и отцентруем":"JPG or PNG · crop & center next",
 "Контакты.":"Contacts.","Имя и фамилия":"Full name","Телефон":"Phone","Email ":"Email ",
 "Где вы находитесь":"Where are you now","Ваш статус в ОАЭ":"Your UAE status",
-"Первое, о чём спрашивает работодатель в Дубае — ответим прямо в шапке резюме.":"The first thing a Dubai employer asks — we answer it right in the CV header.",
+"Первое, о чём спрашивает работодатель в Дубае - ответим прямо в шапке резюме.":"The first thing a Dubai employer asks - we answer it right in the CV header.",
 "Виза":"Visa","Когда можете выйти":"When can you start","Гражданство":"Nationality",
-"Опыт работы":"Work experience","Последнее место — первым. Обязанности не пишите — протыкайте готовые.":"Latest job first. Don't type duties — tap the ready-made ones.",
+"Опыт работы":"Work experience","Последнее место - первым. Обязанности не пишите - протыкайте готовые.":"Latest job first. Don't type duties - tap the ready-made ones.",
 "+ Добавить место работы":"+ Add a job","Образование и курсы":"Education & courses",
 "Курсы и сертификаты":"Courses & certificates","Медицинская лицензия":"Medical license",
-"Выберите 6–12. Подсказки подстроились под вашу профессию.":"Pick 6–12. Suggestions adapted to your profession.",
+"Выберите 6-12. Подсказки подстроились под вашу профессию.":"Pick 6-12. Suggestions adapted to your profession.",
 "Свой навык":"Your own skill","Напишите и нажмите Enter":"Type and press Enter",
-"Языки":"Languages","Желаемая зарплата":"Desired salary","Необязательно — но с ней предложений больше.":"Optional — but you get more offers with it.",
-"Мы собрали варианты из ваших ответов — выберите и поправьте под себя. Этот блок обязательный: работодатели читают его первым.":"We assembled options from your answers — pick one and adjust. Employers read this first.",
+"Языки":"Languages","Желаемая зарплата":"Desired salary","Необязательно - но с ней предложений больше.":"Optional - but you get more offers with it.",
+"Мы собрали варианты из ваших ответов - выберите и поправьте под себя. Этот блок обязательный: работодатели читают его первым.":"We assembled options from your answers - pick one and adjust. Employers read this first.",
 "Ваш текст":"Your text","Ваше резюме":"Your CV",
-"Скачать резюме PDF — русская + английская версии":"Download CV PDF — Russian + English versions","Готовим файлы…":"Preparing files…","Готово! Оба PDF в загрузках 🤍":"Done! Both PDFs are in your downloads",
-"Отправить резюме в TLNT — подберём вакансию":"Send CV to TLNT — we'll match you with a job",
-"Включить меня в базу кандидатов TLNT — предлагать подходящие вакансии в Дубае":"Add me to the TLNT candidate base — offer me matching jobs in Dubai",
-"Бесплатно · без водяных знаков · оба файла сразу в загрузки · копия уходит рекрутерам TLNT — подберём вам вакансию":"Free · no watermarks · both files download instantly · a copy goes to TLNT recruiters — we will match you with a job",
+"Скачать резюме PDF - русская + английская версии":"Download CV PDF - Russian + English versions","Готовим файлы…":"Preparing files…","Готово! Оба PDF в загрузках 🤍":"Done! Both PDFs are in your downloads",
+"Отправить резюме в TLNT - подберём вакансию":"Send CV to TLNT - we'll match you with a job",
+"Включить меня в базу кандидатов TLNT - предлагать подходящие вакансии в Дубае":"Add me to the TLNT candidate base - offer me matching jobs in Dubai",
+"Бесплатно · без водяных знаков · оба файла сразу в загрузки · копия уходит рекрутерам TLNT - подберём вам вакансию":"Free · no watermarks · both files download instantly · a copy goes to TLNT recruiters - we will match you with a job",
 "Посмотреть резюме":"Preview CV","Закрыть":"Close","Резюме заполняется по мере ответов":"Your CV builds up as you answer",
-"Должность":"Job title","Компания, город":"Company, city","Годы":"Years","Обязанности — протыкайте подходящие":"Duties — tap the ones that fit",
-"Настройте кадр":"Adjust the frame","Двигайте фото пальцем и приближайте ползунком — в кадре останетесь только вы.":"Drag the photo and zoom with the slider — only you stay in the frame.",
-"Отмена":"Cancel","Готово!":"Done!","— необязательно":"— optional","— необяз.":"— optional","— портфолио":"— portfolio"
+"Должность":"Job title","Компания, город":"Company, city","Годы":"Years","Обязанности - протыкайте подходящие":"Duties - tap the ones that fit",
+"Настройте кадр":"Adjust the frame","Двигайте фото пальцем и приближайте ползунком - в кадре останетесь только вы.":"Drag the photo and zoom with the slider - only you stay in the frame.",
+"Отмена":"Cancel","Готово!":"Done!","- необязательно":"- optional","- необяз.":"- optional","- портфолио":"- portfolio"
 };
 const UIrev = {}; Object.keys(UI).forEach(k=>UIrev[UI[k]]=k);
 
@@ -308,14 +308,14 @@ window.docHTMLen = function(){
   const meta=[tr(S.c_city||""), S.nat?("Nationality: "+escE(S.nat)):"", tr(S.u_visa||""), tr(S.u_avail||""), S.l_salary?("Salary: "+tr(S.l_salary)):""].filter(Boolean).join(" · ");
   let xp="";
   (S.xp||[]).forEach(x=>{ if(!(x.t||x.c)) return;
-    xp+='<div class="dxp"><div class="t">'+escE(tr(x.t))+(x.c?" — "+escE(x.c):"")+'</div><div class="d">'+escE(x.d)+"</div>"+
+    xp+='<div class="dxp"><div class="t">'+escE(tr(x.t))+(x.c?" - "+escE(x.c):"")+'</div><div class="d">'+escE(x.d)+"</div>"+
       ((x.duties&&x.duties.length)?("<ul>"+x.duties.map(d=>"<li>"+escE(tr(d))+"</li>").join("")+"</ul>"):"")+"</div>"; });
   const dha=S.e_dha?('<div>'+escE(tr(S.e_dha))+'</div>'):"";
   /* about: template-match RU auto variant -> EN twin, else keep as-is */
   let about = S.about||"";
   const sen=S.seniority||"", sk=(S.skills||[]).slice(0,3).map(tr).join(", "), visa=tr(S.u_visa||""), av=tr(S.u_avail||"");
   if(about){
-    about = roleEn + (sen==="Опыт 3+ лет"?" with 3+ years of experience":sen==="Опыт 1–3 года"?" with 1–3 years of experience":"") + ". " +
+    about = roleEn + (sen==="Опыт 3+ лет"?" with 3+ years of experience":sen==="Опыт 1-3 года"?" with 1-3 years of experience":"") + ". " +
       (sk?sk+". ":"") + (visa?visa+". ":"") + (av?("Availability: "+av+"."):"");
   }
   return '<div class="doc">'+
@@ -328,7 +328,7 @@ window.docHTMLen = function(){
     ((S.skills&&S.skills.length)?'<h3>Skills</h3><div>'+S.skills.map(s=>escE(tr(s))).join(" · ")+'</div>':"")+
     ((S.edu||S.courses||dha)?'<h3>Education</h3>'+(S.edu?'<div>'+escE(S.edu)+'</div>':"")+(S.courses?'<div>'+escE(S.courses)+'</div>':"")+dha:"")+
     ((S.langs&&S.langs.length)?'<h3>Languages</h3><div>'+S.langs.map(l=>escE(tr(l))).join(" · ")+'</div>':"")+
-    '<div class="dfoot">made with tlnt.ae — staff recruitment in Dubai</div></div>';
+    '<div class="dfoot">made with tlnt.ae - staff recruitment in Dubai</div></div>';
 };
 
 applyLang();

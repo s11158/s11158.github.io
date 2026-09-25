@@ -6,7 +6,7 @@
 <meta name="theme-color" content="#fbf8f3">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="robots" content="noindex, nofollow">
-<title>TLNT.ae — короткие ссылки</title>
+<title>TLNT.ae - короткие ссылки</title>
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" href="/favicon-onlight.png" media="(prefers-color-scheme: light)">
 <link rel="icon" type="image/png" href="/favicon-ondark.png" media="(prefers-color-scheme: dark)">
@@ -105,7 +105,7 @@
 <main>
   <div class="card">
     <h1>Короткая ссылка<b>.</b></h1>
-    <p class="sub">Длинный адрес превращается в аккуратный <b style="color:var(--accent)">tlnt.ae/x7</b> — или в именной, если дать ссылке название.</p>
+    <p class="sub">Длинный адрес превращается в аккуратный <b style="color:var(--accent)">tlnt.ae/x7</b> - или в именной, если дать ссылке название.</p>
 
     <form id="f" novalidate>
       <div class="field">
@@ -113,7 +113,7 @@
         <input id="u" type="url" inputmode="url" autocomplete="off" placeholder="https://…" required>
       </div>
       <div class="field">
-        <label for="a">Название <span style="font-weight:400;text-transform:none;letter-spacing:0;color:#b3a893">— необязательно</span></label>
+        <label for="a">Название <span style="font-weight:400;text-transform:none;letter-spacing:0;color:#b3a893">- необязательно</span></label>
         <input id="a" type="text" autocomplete="off" maxlength="60" placeholder="Напр.: Текст с правками">
         <div class="hint" id="prev" aria-live="polite"></div>
       </div>
@@ -138,7 +138,7 @@
     <div class="err" id="err" role="alert"></div>
   </div>
 
-  <p class="care">Остались вопросы? <a href="https://wa.me/971509851420?text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%2C%20">Напишите</a> — поможем разобраться.</p>
+  <p class="care">Остались вопросы? <a href="https://wa.me/971509851420?text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%2C%20">Напишите</a> - поможем разобраться.</p>
 </main>
 
 <footer>
@@ -172,18 +172,18 @@ function renderPreview(){
   if(s.length>=2){
     prev.innerHTML='<div class="hl">Ваша ссылка будет выглядеть так</div><b>tlnt.ae/s/'+s+'</b><div class="hs">нажмите «Сократить», чтобы закрепить её</div>';
   }else if(a.value.trim()){
-    prev.innerHTML='<div class="hl">Ваша ссылка будет выглядеть так</div><b>tlnt.ae/s/…</b><div class="hs">название слишком короткое — нужно хотя бы 2 символа</div>';
+    prev.innerHTML='<div class="hl">Ваша ссылка будет выглядеть так</div><b>tlnt.ae/s/…</b><div class="hs">название слишком короткое - нужно хотя бы 2 символа</div>';
   }else{
-    prev.innerHTML='<div class="hl">Ваша ссылка будет выглядеть так</div><b>tlnt.ae/<span style="opacity:.75">x7</span></b><div class="hs">ультра-короткий код выдастся автоматически — или дайте ссылке название</div>';
+    prev.innerHTML='<div class="hl">Ваша ссылка будет выглядеть так</div><b>tlnt.ae/<span style="opacity:.75">x7</span></b><div class="hs">ультра-короткий код выдастся автоматически - или дайте ссылке название</div>';
   }
 }
 a.addEventListener("input",renderPreview);
 u.addEventListener("input",renderPreview);
 renderPreview();
 
-const ERRORS={empty:"Пустая ссылка",invalid_url:"Не похоже на ссылку — проверьте адрес",bad_scheme:"Поддерживаются только http/https",
+const ERRORS={empty:"Пустая ссылка",invalid_url:"Не похоже на ссылку - проверьте адрес",bad_scheme:"Поддерживаются только http/https",
   too_long:"Слишком длинная ссылка (макс. 2048)",self_link:"Это уже короткая ссылка",bad_alias:"Название слишком короткое или длинное",
-  alias_taken:"Такое название уже занято — попробуйте другое",rate_limited:"Лимит на сегодня исчерпан — попробуйте завтра"};
+  alias_taken:"Такое название уже занято - попробуйте другое",rate_limited:"Лимит на сегодня исчерпан - попробуйте завтра"};
 
 f.addEventListener("submit",async e=>{
   e.preventDefault();
@@ -198,7 +198,7 @@ f.addEventListener("submit",async e=>{
     sh.textContent=d.short.replace(/^https?:\/\//,""); sh.href=d.short;
     out.style.display="block"; out.classList.add("show");
   }catch(x){
-    err.textContent=ERRORS[x]||"Сервис сейчас недоступен — попробуйте чуть позже";
+    err.textContent=ERRORS[x]||"Сервис сейчас недоступен - попробуйте чуть позже";
     err.style.display="block";
   }finally{ b.disabled=false; b.innerHTML=t; }
 });
