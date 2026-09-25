@@ -447,3 +447,17 @@
     }
   } catch (e) {}
 })();
+
+/* site menu link */
+(function () {
+  try {
+    var menu = document.getElementById("sitenav"); if (!menu) return;
+    var nav = document.querySelector("nav"); if (!nav || nav.id === "sitenav") return;
+    var box = nav.querySelector(".navr") || nav.querySelector(".in") || nav.querySelector(".wrap") || nav;
+    var en = /^\/en(\/|$)/.test(location.pathname);
+    var a = document.createElement("a");
+    a.href = "#sitenav"; a.textContent = en ? "Menu" : "Меню";
+    a.style.cssText = "margin-left:10px;font-size:13px;font-weight:700;color:#986e35;border:1px solid #e6dccc;border-radius:100px;padding:4px 12px;text-decoration:none;white-space:nowrap";
+    box.appendChild(a);
+  } catch (e) {}
+})();
