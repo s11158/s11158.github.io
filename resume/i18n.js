@@ -349,5 +349,6 @@ window.docHTMLen = function(){
     '<div class="dfoot">made with tlnt.ae - staff recruitment in Dubai</div></div>';
 };
 
+if(lang==="en") aboutEn();
 applyLang();
 })();
