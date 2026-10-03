@@ -215,6 +215,7 @@ const T = {
 "Сервис-стандарты":"Service standards","Телефонный этикет":"Phone etiquette","Телефонный этикет EN":"Phone etiquette (EN)"
 };
 const tr = s => T[s] || s;
+window.tlntTr = tr;   // the English page prefills job titles in English
 
 /* ===== UI strings (RU -> EN), applied by matching first text node ===== */
 const UI = {
@@ -286,18 +287,21 @@ window.renderXp = function(){ _renderXp(); if(lang==="en") applyLang(); };
 window.renderSkills = function(){ _renderSkills(); if(lang==="en") applyLang(); };
 window.refreshAbout = function(){ _refreshAbout(); if(lang==="en"){ aboutEn(); applyLang(); } };
 /* English "About me" variants, same logic as the Russian ones */
-function aboutEn(){
-  const box = document.getElementById("aboutvars"); if(!box) return;
-  const roleEn = tr(S.roleName||"") || "Specialist"; const sen = S.seniority||"";
+function enVariants(st){
+  const roleEn = tr(st.roleName||"") || "Specialist"; const sen = st.seniority||"";
   const noexp = sen==="Нет опыта";
-  const sk = (S.skills||[]).slice(0,3).map(tr).join(", ");
-  const visa = tr(S.u_visa||""), av = tr(S.u_avail||"");
-  const eng = (S.langs||[]).some(l=>l.includes("Английский")||l.includes("English"));
-  const v = [
+  const sk = (st.skills||[]).slice(0,3).map(tr).join(", ");
+  const visa = tr(st.u_visa||""), av = tr(st.u_avail||"");
+  const eng = (st.langs||[]).some(l=>l.includes("Английский")||l.includes("English"));
+  return [
     roleEn + (sen==="Опыт 3+ лет"?" with 3+ years of experience":sen==="Опыт 1-3 года"?" with 1-3 years of experience":"") + ". " + (sk?sk+". ":"") + (visa?visa+". ":"") + (av?("Availability: "+av+"."):""),
     "I take real responsibility for my work and my clients, " + (noexp?"learn fast and want to grow in the profession":"keep a high standard of service and protect my employer's reputation") + ". " + (eng?"Fluent in English.":"Actively improving my English.") + " Looking for a stable job in Dubai.",
     (noexp?"Entry-level specialist, highly motivated to work in Dubai and ready to learn.":"I love my profession: clients and employers come back to me for years. Careful with details and time.") + (visa?" "+visa+".":"")
   ];
+}
+function aboutEn(){
+  const box = document.getElementById("aboutvars"); if(!box) return;
+  const v = enVariants(S);
   box.innerHTML = "";
   v.forEach(txt=>{ const c=document.createElement("div"); c.className="vcard"+(S.about===txt?" sel":""); c.textContent=txt;
     c.onclick=()=>{ S.about=txt; save(); const a=document.getElementById("a_text"); if(a) a.value=txt; document.querySelectorAll(".vcard").forEach(x=>x.classList.remove("sel")); c.classList.add("sel"); };
@@ -329,12 +333,13 @@ window.docHTMLen = function(){
     xp+='<div class="dxp"><div class="t">'+escE(tr(x.t))+(x.c?" - "+escE(x.c):"")+'</div><div class="d">'+escE(x.d)+"</div>"+
       ((x.duties&&x.duties.length)?("<ul>"+x.duties.map(d=>"<li>"+escE(tr(d))+"</li>").join("")+"</ul>"):"")+"</div>"; });
   const dha=S.e_dha?('<div>'+escE(tr(S.e_dha))+'</div>'):"";
-  /* about: template-match RU auto variant -> EN twin, else keep as-is */
+  /* about: a chosen RU auto variant -> its EN twin (same position); English text (typed or an EN variant)
+     is kept as the candidate wrote it; only Russian free text, which we cannot translate here, falls back to variant 1 */
   let about = S.about||"";
-  const sen=S.seniority||"", sk=(S.skills||[]).slice(0,3).map(tr).join(", "), visa=tr(S.u_visa||""), av=tr(S.u_avail||"");
-  if(about){
-    about = roleEn + (sen==="Опыт 3+ лет"?" with 3+ years of experience":sen==="Опыт 1-3 года"?" with 1-3 years of experience":"") + ". " +
-      (sk?sk+". ":"") + (visa?visa+". ":"") + (av?("Availability: "+av+"."):"");
+  if(about && /[а-яё]/i.test(about)){
+    const cards = [...document.querySelectorAll("#aboutvars .vcard")].map(c=>c.textContent);
+    const ev = enVariants(S), i = cards.indexOf(about);
+    about = ev[i>=0 && i<ev.length ? i : 0];
   }
   return '<div class="doc">'+
     '<div class="dhead">'+(S.photo?'<img src="'+S.photo+'" alt="">':"")+

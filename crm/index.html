@@ -31,6 +31,7 @@
   .logo{font-family:'Cormorant Garamond',serif;font-size:25px;font-weight:600;letter-spacing:.18em;color:var(--ink);text-decoration:none}
   .logo b{color:var(--accent)}
   .nlinks{display:flex;align-items:center;gap:18px;flex-wrap:wrap}
+  @media(max-width:640px){.nlinks a:not(.lang){display:none}}   /* the bar is 64px high: on phones keep logo, language and Menu only */
   .nlinks a{font-size:14px;font-weight:600;color:var(--body);text-decoration:none}
   .nlinks a:hover{color:var(--accent)}
   .nlinks a.cta{background:var(--accent);color:#fff;font-weight:700;padding:9px 20px;border-radius:100px}
@@ -97,9 +98,9 @@
   <div class="lead-card" id="contact">
   <h2 style="margin-top:0">Расскажите о вашей задаче<span class="dot">.</span></h2>
   <form id="lf">
-    <div class="fld"><label for="fn">Ваше имя</label><input id="fn" autocomplete="name"></div>
+    <div class="fld"><label for="fn">Ваше имя</label><input id="fn" autocomplete="name" required></div>
     <div class="fld"><label for="fp">Что за бизнес?</label><input id="fp" placeholder="Что за бизнес? Напр.: клиника, 2 филиала"></div>
-    <div class="fld"><label for="fc">Ваш WhatsApp / телефон / Telegram</label><input id="fc" autocomplete="tel"></div>
+    <div class="fld"><label for="fc">Ваш WhatsApp / телефон / Telegram</label><input id="fc" autocomplete="tel" required minlength="5"></div>
     <div class="fld"><label for="fm">Пара слов (необязательно)</label><textarea id="fm"></textarea></div>
     <button class="go" id="lb" type="submit">Отправить</button>
     <p class="fine">Ответим в течение дня, без спама. Удобнее напрямую? <a href="https://wa.me/971509851420?text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%2C%20">WhatsApp</a></p>
@@ -108,15 +109,16 @@
 </div>
 <script>
 document.getElementById("lf").addEventListener("submit",function(e){
-  e.preventDefault();var b=document.getElementById("lb");b.disabled=true;
+  e.preventDefault();var b=document.getElementById("lb");b.disabled=true;b.textContent="Отправляем…";
   fetch("https://tlnt-lead-bot.b3gg.workers.dev",{method:"POST",headers:{"Content-Type":"application/json"},
     body:JSON.stringify({name:document.getElementById("fn").value,
       position:"CRM: "+document.getElementById("fp").value,
       contact:document.getElementById("fc").value,
-      message:document.getElementById("fm").value+" | стр: "+location.pathname+location.search})})
+      message:document.getElementById("fm").value+" | стр: "+location.pathname+location.search,
+      from:window.TLNT_SRC||"",gclid:window.TLNT_GCLID||""})})
   .then(r=>r.json()).then(d=>{if(!d||!d.ok)throw 0;
     document.getElementById("lf").style.display="none";document.getElementById("ok").style.display="block";})
-  .catch(()=>{b.disabled=false;alert("Не получилось отправить - напишите нам в WhatsApp, пожалуйста.");});
+  .catch(()=>{b.disabled=false;b.textContent="Отправить";alert("Не получилось отправить - напишите нам в WhatsApp, пожалуйста.");});
 });
 </script>
 </div></article>

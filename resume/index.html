@@ -354,6 +354,7 @@ const SKILLS_ROLE = {
 /* ============ STATE ============ */
 const S = JSON.parse(localStorage.getItem("tlnt_resume")||"{}");
 S.xp = S.xp||[]; S.skills = S.skills||[]; S.langs = S.langs||[];
+if(S.l_langs && S.l_langs.length && !S.langs.length){ S.langs = S.l_langs; } delete S.l_langs;   // chips used to save under l_langs
 function save(){ localStorage.setItem("tlnt_resume", JSON.stringify(S)); updateBar(); }
 const $=q=>document.querySelector(q), $$=q=>[...document.querySelectorAll(q)];
 function pct(){
@@ -397,7 +398,7 @@ chips($('[data-single="c_city"]'), CITY, "c_city", false);
 chips($('[data-single="u_visa"]'), VISA, "u_visa", false);
 chips($('[data-single="u_avail"]'), AVAIL, "u_avail", false);
 chips($('[data-single="e_dha"]'), DHA, "e_dha", false);
-chips($('[data-multi="l_langs"]'), LANGS, "l_langs", true);
+chips($('[data-multi="l_langs"]'), LANGS, "langs", true);
 chips($('[data-single="l_salary"]'), SALARY, "l_salary", false);
 if(S.role && ROLECAT[S.role]==="Медицина") $("#dhawrap").style.display="block";
 /* text binds */
@@ -461,7 +462,8 @@ function renderXp(){
       <label>Обязанности - протыкайте подходящие</label><div class="chips xduty"></div>`;
     d.querySelector(".del").onclick=()=>{ if(confirm("Удалить это место работы?")){ S.xp.splice(i,1); save(); renderXp(); } };
     ["t","c","d"].forEach(k=>{ const inp=d.querySelector(".x_"+k); inp.addEventListener("input",()=>{ x[k]=inp.value; save(); }); });
-    const bank=(DUTIES[S.role||"other"]||DUTIES.other);
+    x.duties=x.duties||[];
+    const bank=[...new Set([...(DUTIES[S.role||"other"]||DUTIES.other), ...x.duties])];   // keep chips for duties picked under a previous role, so they can be removed
     const dst=d.querySelector(".xduty"); x.duties=x.duties||[];
     bank.forEach(txt=>{ const b=document.createElement("button"); b.type="button"; b.className="chip"+(x.duties.includes(txt)?" sel":""); b.textContent=txt;
       b.onclick=()=>{ const j=x.duties.indexOf(txt); j>-1?x.duties.splice(j,1):x.duties.push(txt); b.classList.toggle("sel"); save(); };

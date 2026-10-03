@@ -67,7 +67,8 @@
   }
 
   // ---- Пиксель Meta ----
-  if (cfg.meta) {
+  // если пиксель уже поднял другой скрипт сайта (widget.js на tlnt.ae), второй init дал бы двойной PageView
+  if (cfg.meta && !window.fbq) {
     !function (f, b, e, v, n, t, s2) {
       if (f.fbq) return;
       n = f.fbq = function () { n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments); };
@@ -84,7 +85,8 @@
     try { if (window.ym && cfg.ym) ym(+cfg.ym, 'reachGoal', name, params); } catch (e) {}
     try { if (window.gtag) gtag('event', name, params || {}); } catch (e) {}
     try { if (window._tmr) _tmr.push({ id: cfg.tmr, type: 'reachGoal', goal: name }); } catch (e) {}
-    try { if (window.fbq && name === 'lead') fbq('track', 'Lead'); } catch (e) {}
+    // TLNT_OWN_LEAD: сайт сам отправляет Meta Lead только по настоящим заявкам работодателей
+    try { if (window.fbq && name === 'lead' && !window.TLNT_OWN_LEAD) fbq('track', 'Lead'); } catch (e) {}
   }
   window.trackGoal = goal;
 
@@ -109,6 +111,8 @@
 
   document.addEventListener('submit', function (e) {
     goal('form_submit', { form: (e.target && (e.target.id || e.target.name)) || 'form' });
+    // не заявка: служебные формы (data-no-lead); на tlnt.ae цель 'lead' ставит widget.js после проверки "работодатель"
+    if (window.TLNT_OWN_LEAD || (e.target && e.target.hasAttribute && e.target.hasAttribute('data-no-lead'))) return;
     goal('lead');
   }, true);
 

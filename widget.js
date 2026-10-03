@@ -1,4 +1,14 @@
 (function () {
+  // tlnt.ae still answers on plain http, but the lead worker only accepts the https origin (CORS),
+  // so every form on an http:// page failed with "Не получилось отправить". Move visitors to https.
+  if (location.protocol === "http:" && /(^|\.)tlnt\.ae$/.test(location.hostname)) {
+    location.replace("https://" + location.host + location.pathname + location.search + location.hash);
+    return;
+  }
+  // this widget fires Meta Lead itself (employer leads only); tells the shared a.js not to fire its own
+  window.TLNT_OWN_LEAD = true;
+  var PAGE_EN = /^\/en(\/|$)/.test(location.pathname);
+
   // ---- Meta Pixel ----
   !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
   // 1911110180275408 - dataset "TLNT.ae Pixel" in the tlnt.ae portfolio (1494093171973370).
@@ -27,7 +37,7 @@
   } catch (e) {}
 
   var PHONE = "971509851420";
-  var WA_URL = "https://wa.me/" + PHONE + "?text=" + encodeURIComponent("Добрый день, ");
+  var WA_URL = "https://wa.me/" + PHONE + "?text=" + encodeURIComponent(PAGE_EN ? "Hello, " : "Добрый день, ");
   var TG_URL = "https://t.me/+" + PHONE;
   var WORKER = "https://tlnt-lead-bot.b3gg.workers.dev";
 
@@ -96,14 +106,15 @@
   var box = document.createElement("div");
   box.className = "tlnt-fab";
   box.innerHTML =
-    '<a class="tg" href="' + TG_URL + '" target="_blank" rel="noopener" aria-label="Написать в Telegram">' + TG_SVG + "</a>" +
-    '<a class="wa" href="' + WA_URL + '" target="_blank" rel="noopener" aria-label="Написать в WhatsApp">' + WA_SVG + "</a>";
+    '<a class="tg" href="' + TG_URL + '" target="_blank" rel="noopener" aria-label="' + (PAGE_EN ? "Message us on Telegram" : "Написать в Telegram") + '">' + TG_SVG + "</a>" +
+    '<a class="wa" href="' + WA_URL + '" target="_blank" rel="noopener" aria-label="' + (PAGE_EN ? "Message us on WhatsApp" : "Написать в WhatsApp") + '">' + WA_SVG + "</a>";
   document.body.appendChild(box);
 
   // ---- inject lead form + sticky mobile CTA on pages that lack them ----
-  function tlntInput(n, ph) {
-    return '<input name="' + n + '" placeholder="' + ph + '" aria-label="' + ph +
-      '" style="padding:14px 16px;border:1px solid #e6dccc;border-radius:12px;font-size:15px;font-family:inherit;background:#fff;color:#3f3a33">';
+  // name and contact are required: a lead without a contact reached Telegram as "Контакт: -" and nobody could reply
+  function tlntInput(n, ph, extra) {
+    return '<input name="' + n + '" placeholder="' + ph + '" aria-label="' + ph + '"' + (extra || "") +
+      ' style="padding:14px 16px;border:1px solid #e6dccc;border-radius:12px;font-size:15px;font-family:inherit;background:#fff;color:#3f3a33">';
   }
   try {
     var LEAD_EN = /^\/en(\/|$)/.test(location.pathname);
@@ -119,9 +130,9 @@
         '<h2 style="font-family:\'Cormorant Garamond\',serif;font-weight:500;font-size:clamp(28px,4vw,40px);color:#3f3a33;margin:0 0 10px">' + LT("Расскажите, кого вы ищете", "Tell us who you are hiring") + '</h2>' +
         '<p style="color:#6b6155;margin:0 0 22px">' + LT("Ответим в течение дня, без спама и обязательств.", "We reply within a day. No spam, no obligations.") + '</p>' +
         '<form id="tlnt-lf" style="display:flex;flex-direction:column;gap:12px;text-align:left">' +
-        tlntInput("lname", LT("Ваше имя", "Your name")) +
+        tlntInput("lname", LT("Ваше имя", "Your name"), ' required autocomplete="name"') +
         tlntInput("lpos", LT("Кого ищете? Напр. администратор салона", "Who are you hiring? e.g. clinic receptionist")) +
-        tlntInput("lcontact", LT("Ваш WhatsApp / телефон / Telegram", "Your WhatsApp / phone / Telegram")) +
+        tlntInput("lcontact", LT("Ваш WhatsApp / телефон / Telegram", "Your WhatsApp / phone / Telegram"), ' required minlength="5" autocomplete="tel"') +
         '<button type="submit" id="tlnt-lb" style="background:#986e35;color:#fff;font-weight:700;font-size:16px;padding:15px;border:none;border-radius:100px;cursor:pointer;font-family:inherit;box-shadow:0 10px 24px rgba(152,110,53,.28)">' + LT("Отправить заявку", "Send request") + '</button>' +
         '<p style="text-align:center;font-size:13px;line-height:1.6;color:#7a7266;margin:2px 0 0">' + LT("Ответим в течение дня. Удобнее напрямую?", "We reply within a day. Prefer to message directly?") + ' <a href="' + WA_URL + '" style="color:#986e35;font-weight:600">WhatsApp</a> · <a href="' + TG_URL + '" style="color:#986e35;font-weight:600">Telegram</a></p>' +
         "</form>" +
@@ -160,7 +171,8 @@
   // ---- click tracking (one ping per channel+page per session) ----
   // candidate-facing pages (/candidates, /cv, /resume): job seekers, NOT employer leads -
   // keep the Telegram beacon but never fire ad-platform conversions from them
-  var IS_CANDIDATE_PAGE = /^\/(en\/)?(candidates|cv|resume)(\/|$)/.test(location.pathname);
+  // vacancy lists are for job seekers too: their "reply via WhatsApp" taps are not employer leads
+  var IS_CANDIDATE_PAGE = /^\/(en\/)?(candidates|cv|resume|vakansii|vacancies)(\/|$)/.test(location.pathname);
 
   // ---- lead qualification: employer or job seeker? ----
   // Job seekers converting on employer forms inflated Google Ads conversions ~2-3x and
@@ -340,6 +352,7 @@
     } catch (e) {}
     try { if (window.fbq) fbq("track", "Lead", { content_name: "form" }); } catch (e) {}
     try { if (window.gtag) gtag("event", "conversion", { send_to: "AW-18241263216/suk6CJf-ksgcEPCsjvpD" }); } catch (e) {}
+    try { if (window.trackGoal) window.trackGoal("lead"); } catch (e) {}   // Metrika/GA4 goal, only for real employer leads
   }, true);
   document.addEventListener(
     "click",
