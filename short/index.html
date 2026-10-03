@@ -170,7 +170,7 @@ function slug(s){s=s.toLowerCase();let o="";for(const c of s){if(/[a-z0-9]/.test
 function renderPreview(){
   const s=slug(a.value);
   if(s.length>=2){
-    prev.innerHTML='<div class="hl">Ваша ссылка будет выглядеть так</div><b>tlnt.ae/s/'+s+'</b><div class="hs">нажмите «Сократить», чтобы закрепить её</div>';
+    prev.innerHTML='<div class="hl">Ваша ссылка будет выглядеть так</div><b>tlnt.ae/s/'+s+'</b><div class="hs">нажмите "Сократить", чтобы закрепить её</div>';
   }else if(a.value.trim()){
     prev.innerHTML='<div class="hl">Ваша ссылка будет выглядеть так</div><b>tlnt.ae/s/…</b><div class="hs">название слишком короткое - нужно хотя бы 2 символа</div>';
   }else{
