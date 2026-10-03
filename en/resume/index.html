@@ -191,7 +191,7 @@
 <section class="block">
   <div class="eyebrow"><span class="num">06</span><span class="ln"></span><span class="tt">Education</span></div>
   <h2>Education &amp; courses<span class="dot">.</span></h2>
-  <label for="e_main">Education</label><input id="e_main" placeholder="Напр.: Колледж, специальность «Косметология», 2018">
+  <label for="e_main">Education</label><input id="e_main" placeholder="Напр.: Колледж, специальность &quot;Косметология&quot;, 2018">
   <label for="e_courses">Courses &amp; certificates</label><textarea id="e_courses" placeholder="Напр.: Курс аппаратной косметологии, 2023"></textarea>
   <div id="dhawrap" style="display:none">
     <label>Medical license</label><div class="chips" data-single="e_dha"></div>
@@ -535,7 +535,7 @@ async function makePdf(html, fname){
   host.innerHTML=html; document.body.appendChild(host);
   try{
     await html2pdf().set({margin:8,filename:fname,image:{type:"jpeg",quality:.95},
-      html2canvas:{scale:2,useCORS:true},jsPDF:{unit:"mm",format:"a4"}}).from(host.firstElementChild).save();
+      html2canvas:{scale:2,useCORS:true,scrollX:0,scrollY:0},jsPDF:{unit:"mm",format:"a4"}}).from(host.firstElementChild).save();   // scroll 0: the button sits at the page bottom, without it html2canvas renders a blank white sheet
   } finally { host.remove(); }
 }
 function sendResumeTG(){
