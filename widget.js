@@ -134,7 +134,7 @@
         tlntInput("lpos", LT("Кого ищете? Напр. администратор салона", "Who are you hiring? e.g. clinic receptionist")) +
         tlntInput("lcontact", LT("Ваш WhatsApp / телефон / Telegram", "Your WhatsApp / phone / Telegram"), ' required minlength="5" autocomplete="tel"') +
         '<button type="submit" id="tlnt-lb" style="background:#986e35;color:#fff;font-weight:700;font-size:16px;padding:15px;border:none;border-radius:100px;cursor:pointer;font-family:inherit;box-shadow:0 10px 24px rgba(152,110,53,.28)">' + LT("Отправить заявку", "Send request") + '</button>' +
-        '<p style="text-align:center;font-size:13px;line-height:1.6;color:#7a7266;margin:2px 0 0">' + LT("Ответим в течение дня. Удобнее напрямую?", "We reply within a day. Prefer to message directly?") + ' <a href="' + WA_URL + '" style="color:#986e35;font-weight:600">WhatsApp</a> · <a href="' + TG_URL + '" style="color:#986e35;font-weight:600">Telegram</a></p>' +
+        '<p style="text-align:center;font-size:13px;line-height:1.6;color:#7a7266;margin:2px 0 0">' + LT("Ответим в течение дня. Удобнее напрямую?", "We reply within a day. Prefer to message directly?") + ' <a href="' + WA_URL + '" style="color:#986e35;font-weight:600">WhatsApp</a> · <a href="' + TG_URL + '" style="color:#986e35;font-weight:600">Telegram</a> · <a href="mailto:cv@tlnt.ae" style="color:#986e35;font-weight:600">cv@tlnt.ae</a></p>' +
         "</form>" +
         '<div id="tlnt-ok" style="display:none;padding:16px 0"><div style="font-family:\'Cormorant Garamond\',serif;font-size:28px;color:#3f3a33;margin-bottom:6px">' + LT("Спасибо! 🤍", "Thank you! 🤍") + '</div><div style="color:#6b6155;font-size:15px">' + LT("Заявка получена - свяжемся с вами в течение дня.", "Request received - we will be in touch within a day.") + '</div></div>' +
         "</div>";
@@ -390,7 +390,7 @@
       { t: "Instagram",        h: "https://www.instagram.com/tlnt.ae/", i: "ig", c: "#E1306C" },
       { t: "LinkedIn",         h: "https://www.linkedin.com/in/staskochukov", i: "li", c: "#0A66C2" },
       { t: "Facebook",         h: "https://www.facebook.com/profile.php?id=61592691063350", i: "fb", c: "#1877F2" },
-      { t: "stas@tlnt.ae",     h: "mailto:stas@tlnt.ae", i: "ml", c: "#986e35" },
+      { t: "cv@tlnt.ae",       h: "mailto:cv@tlnt.ae",   i: "ml", c: "#986e35" },
       { t: "+971 50 985 1420", h: "tel:+971509851420",   i: "ph", c: "#986e35" }
     ];
 

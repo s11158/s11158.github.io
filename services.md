@@ -36,4 +36,7 @@ TLNT - кадровое агентство полного цикла для ру
 ## Контакты
 - WhatsApp: https://wa.me/971509851420
 - Telegram: https://t.me/+971509851420
+- Email: cv@tlnt.ae
+- Instagram: https://www.instagram.com/tlnt.ae/
+- Персональные данные, партнёрство и другие вопросы: stas@tlnt.ae
 - Сайт: https://tlnt.ae
