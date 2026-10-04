@@ -351,7 +351,7 @@ window.docHTMLen = function(){
     ((S.skills&&S.skills.length)?'<h3>Skills</h3><div>'+S.skills.map(s=>escE(tr(s))).join(" · ")+'</div>':"")+
     ((S.edu||S.courses||dha)?'<h3>Education</h3>'+(S.edu?'<div>'+escE(S.edu)+'</div>':"")+(S.courses?'<div>'+escE(S.courses)+'</div>':"")+dha:"")+
     ((S.langs&&S.langs.length)?'<h3>Languages</h3><div>'+S.langs.map(l=>escE(tr(l))).join(" · ")+'</div>':"")+
-    '<div class="dfoot">made with tlnt.ae - staff recruitment in Dubai</div></div>';
+    '<div class="dfoot">made with tlnt.ae - hiring consultancy in Dubai</div></div>';
 };
 
 if(lang==="en") aboutEn();

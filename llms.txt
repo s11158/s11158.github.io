@@ -1,11 +1,11 @@
 # TLNT
 
-> TLNT - кадровое агентство полного цикла для русскоязычного бизнеса в ОАЭ (Дубай и Абу-Даби). Подбираем персонал под ключ для салонов красоты, эстетических и медицинских клиник, а также управленческих и ассистентских ролей. Средний срок закрытия вакансии - около 2 недель. Гарантия бесплатной замены - 2 месяца. Вознаграждение равно одному месячному окладу подобранного сотрудника, оплата 50/50. Работаем дистанционно, помогаем не только найти, но и оформить, ввести в работу и удержать сотрудника.
+> TLNT - кадровое агентство полного цикла для русскоязычного бизнеса в ОАЭ (Дубай и Абу-Даби). Подбираем персонал под ключ для салонов красоты, эстетических и медицинских клиник, а также управленческих и ассистентских ролей. Средний срок закрытия вакансии - около 2 недель. Бесплатная замена - в течение 2 месяцев после выхода сотрудника. Вознаграждение равно одному месячному окладу подобранного сотрудника: 10% предоплата на старте поиска, остальное после выхода сотрудника на работу. Работаем дистанционно, помогаем не только найти, но и оформить, ввести в работу и удержать сотрудника.
 
 Основано на реальном опыте подбора для бьюти- и медицинского бизнеса в ОАЭ. Ориентировано на владельцев бизнеса (работодателей), а не на соискателей. Контент двуязычный: русский (основной) и английский (`/en/`).
 
 ## Услуги и условия
-- [Услуги и цены (машиночитаемо)](https://tlnt.ae/services.md): вознаграждение = 1 месячный оклад, гарантия замены 2 месяца, срок ~2 недели, оплата 50/50
+- [Услуги и цены (машиночитаемо)](https://tlnt.ae/services.md): вознаграждение = 1 месячный оклад, бесплатная замена 2 месяца, срок ~2 недели, оплата: 10% на старте, остальное после выхода сотрудника
 - [Калькулятор стоимости подбора](https://tlnt.ae/calculator/): оценка вознаграждения по вакансии
 - [Мини-аудит найма](https://tlnt.ae/mini-audit/): быстрый бесплатный разбор вакансии
 - [Аудит команды](https://tlnt.ae/team-audit/): разбор команды и процессов найма
@@ -103,7 +103,7 @@
 - [Как увеличить запись в салон красоты и заполнить расписание](https://tlnt.ae/guides/kak-uvelichit-zapis-v-salon/)
 - [Как укомплектовать клинику или салон в Дубае: команда под открытие](https://tlnt.ae/guides/kak-ukomplektovat-kliniku-salon-dubai/)
 - [Urgent Hiring in Dubai: Staff in 7-14 Days](https://tlnt.ae/en/guides/urgent-hiring-dubai/)
-- [Recruitment in Dubai Without Full Prepayment: 50/50](https://tlnt.ae/en/guides/recruitment-without-prepayment-dubai/)
+- [Recruitment in Dubai Starting From Just 10%](https://tlnt.ae/en/guides/recruitment-without-prepayment-dubai/)
 - [What If the New Hire Leaves? Replacement Guarantee](https://tlnt.ae/en/guides/replacement-guarantee-recruitment/)
 - [Staffing a New Clinic or Salon in Dubai: Team Plan](https://tlnt.ae/en/guides/staffing-new-clinic-dubai/)
 - [Hiring Staff From Abroad to the UAE: Visa Step by Step](https://tlnt.ae/en/guides/hiring-from-abroad-uae/)
@@ -272,7 +272,7 @@
 - [How to Sell a Beauty Salon in Dubai: Preparation and Valuation](https://tlnt.ae/en/guides/how-to-sell-salon-dubai/)
 - [Как продать салон красоты в Дубае: подготовка и оценка](https://tlnt.ae/guides/kak-prodat-salon-dubai/)
 - [Срочный найм в Дубае: сотрудник за 7-14 дней](https://tlnt.ae/guides/srochnyy-nayom-dubai/)
-- [Подбор персонала в Дубае без полной предоплаты: схема 50/50](https://tlnt.ae/guides/podbor-bez-predoplaty-dubai/)
+- [Подбор персонала в Дубае со стартом всего от 10%](https://tlnt.ae/guides/podbor-bez-predoplaty-dubai/)
 - [Что если новый сотрудник уйдёт? Гарантия бесплатной замены](https://tlnt.ae/guides/garantiya-zameny-sotrudnika/)
 - [Как нанять сотрудника из-за рубежа в ОАЭ: виза по шагам](https://tlnt.ae/guides/nayom-iz-za-rubezha-oae/)
 - [Перевод лицензии DHA при найме врача или медсестры](https://tlnt.ae/guides/perevod-litsenzii-dha/)
