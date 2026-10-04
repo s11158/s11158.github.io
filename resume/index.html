@@ -547,16 +547,19 @@ function sendResumeTG(){
       body:JSON.stringify({type:"resume", from:src, resume:S})}).catch(()=>{});
   }catch(e){}
 }
-let tgSent=false;
+let tgSent=false, pendingPdf=null;
 $("#dl").onclick=async ()=>{
-  const b=$("#dl"); b.disabled=true; b.textContent="Готовим файлы…";
+  const b=$("#dl"); b.disabled=true;
+  if(pendingPdf){ const next=pendingPdf; pendingPdf=null; b.textContent="Готовим файл…";
+    try{ await next(); b.textContent="Готово! Оба PDF в загрузках 🤍"; }catch(e){ b.textContent="Готово! Оба PDF в загрузках 🤍"; }
+    b.disabled=false; return; } b.textContent="Готовим файлы…";
   if(!tgSent){ tgSent=true; sendResumeTG(); }
   try{
     if(typeof html2pdf!=="undefined"){
       await makePdf(docHTML(), "CV_"+safeName()+"_RU.pdf");
-      const en = (typeof window.docHTMLen==="function") ? window.docHTMLen() : docHTML();
-      await makePdf(en, "CV_"+safeName()+"_EN.pdf");
-      b.textContent="Готово! Оба PDF в загрузках 🤍";
+      // the second file waits for its own tap: an automatic second download is dropped by iOS Safari and Chrome
+      pendingPdf = ()=>makePdf((typeof window.docHTMLen==="function") ? window.docHTMLen() : docHTML(), "CV_"+safeName()+"_EN.pdf");
+      b.textContent="Русская версия скачана. Скачать английскую ⬇";
     } else {
       $("#printhost").innerHTML=docHTML(); window.print();
       b.textContent="Скачать резюме PDF - русская + английская версии";
