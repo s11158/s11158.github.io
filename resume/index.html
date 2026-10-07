@@ -134,6 +134,12 @@
   <div class="eyebrow"><span class="num">01</span><span class="ln"></span><span class="tt">Профессия</span></div>
   <h2>Кем вы работаете<span class="dot">?</span></h2>
   <div id="roles"></div>
+  <label for="r_custom" style="margin-top:22px">Нет вашей должности? Впишите свою</label>
+  <input id="r_custom" maxlength="70" autocomplete="off" placeholder="Напр.: Администратор ресторана">
+  <div id="r_enwrap" style="display:none">
+    <label for="r_custom_en">Она же по-английски <span style="font-weight:400;text-transform:none;color:#b3a893">- для английской версии резюме</span></label>
+    <input id="r_custom_en" maxlength="70" autocomplete="off" placeholder="Напр.: Restaurant Manager">
+  </div>
   <label style="margin-top:18px">Ваш опыт</label>
   <div class="chips" id="seniority"></div>
 </section>
@@ -383,16 +389,28 @@ CATS.forEach(([cat,rs])=>{
   const h=document.createElement("div"); h.className="cat"; h.textContent=cat; rolesEl.appendChild(h);
   const g=document.createElement("div"); g.className="grid";
   rs.forEach(([id,name])=>{
-    const b=document.createElement("button"); b.type="button"; b.className="pcard"; b.textContent=name;
+    const b=document.createElement("button"); b.type="button"; b.className="pcard"; b.textContent=name; b.dataset.id=id;
     if(S.role===id) b.classList.add("sel");
-    b.onclick=()=>{ S.role=id; S.roleName = id==="other" ? "" : name; save();
+    b.onclick=()=>{ S.role=id;
+      if(id!=="other"){ S.roleCustom=""; S.roleCustomEn=""; rcIn.value=""; rcEn.value=""; }   // a picked card replaces the typed title
+      S.roleName = S.roleCustom || (id==="other" ? "" : name); save(); syncRoleEn();
       $$("#roles .pcard").forEach(c=>c.classList.remove("sel")); b.classList.add("sel");
       $("#dhawrap").style.display = (ROLECAT[id]==="Медицина") ? "block" : "none";
-      renderXp(); renderSkills(); refreshAbout(); };
+      renderXp(); renderSkills(); refreshAbout();
+      if(id==="other") rcIn.focus(); };
     g.appendChild(b);
   });
   rolesEl.appendChild(g);
 });
+/* own job title: typed text wins over the card name; typed with no card picked counts as "other" */
+const rcIn=$("#r_custom"), rcEn=$("#r_custom_en");
+function cardName(id){ for(const [,rs] of CATS) for(const [i,n] of rs) if(i===id) return n; return ""; }
+function syncRoleEn(){ $("#r_enwrap").style.display = /[а-яё]/i.test(S.roleCustom||"") ? "block" : "none"; }
+rcIn.value=S.roleCustom||""; rcEn.value=S.roleCustomEn||""; syncRoleEn();
+rcIn.addEventListener("input",()=>{ const v=rcIn.value.trim(); S.roleCustom=v;
+  if(v && !S.role){ S.role="other"; $$("#roles .pcard").forEach(c=>c.classList.toggle("sel", c.dataset.id==="other")); }
+  S.roleName = v || (S.role==="other" ? "" : cardName(S.role)); save(); syncRoleEn(); refreshAbout(); });
+rcEn.addEventListener("input",()=>{ S.roleCustomEn=rcEn.value.trim(); save(); });
 chips($("#seniority"), SENIORITY, "seniority", false);
 chips($('[data-single="c_city"]'), CITY, "c_city", false);
 chips($('[data-single="u_visa"]'), VISA, "u_visa", false);
@@ -587,7 +605,7 @@ $("#c_phone").addEventListener("blur",()=>partialLead("contacts"));
 renderXp(); renderSkills(); refreshAbout(); updateBar();
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
-<script src="/resume/i18n.js?v=20261004w1"></script>
+<script src="/resume/i18n.js?v=20261007r1"></script>
 <nav id="sitenav" aria-label="Навигация по TLNT" style="position:static;z-index:auto;backdrop-filter:none;-webkit-backdrop-filter:none;border-bottom:0;border-top:1px solid #ece4d8;background:#f7f2ea;padding:34px 22px 26px;font-family:Nunito Sans,sans-serif"><div style="max-width:1060px;margin:0 auto"><div style="font-family:Cormorant Garamond,serif;font-size:26px;color:#3f3a33;margin-bottom:18px">Навигация по TLNT</div><div style="display:flex;flex-wrap:wrap;gap:22px 34px"><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Услуги</div><a href="/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Подбор персонала в Дубае</a><a href="/crm/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">CRM для салона и клиники</a><a href="/team-audit/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Аудит команды</a><a href="/mini-audit/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Бесплатный разбор вакансии</a><a href="/calculator/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Калькулятор гонорара</a><a href="/about/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">О компании</a></div><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Роли</div><a href="/roles/#medical" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Врачи и медперсонал</a><a href="/roles/#beauty" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Бьюти и спа</a><a href="/roles/#management" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Управление и ресепшн</a><a href="/roles/#household" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Дом и частный персонал</a><a href="/roles/#business" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Бизнес и офис</a><a href="/roles/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Все роли</a></div><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Гайды</div><a href="/guides/#salon" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Владельцам салонов</a><a href="/guides/#clinic" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Клиники и врачи</a><a href="/guides/#owner" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Рост салона и клиники</a><a href="/guides/#hiring" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Найм в ОАЭ</a><a href="/guides/#candidate" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Кандидатам</a><a href="/guides/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Все гайды</a></div><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Инструменты</div><a href="/salary-index-2026/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Индекс зарплат 2026</a><a href="/vakansii/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Открытые вакансии</a><a href="/resume/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Конструктор резюме</a><a href="/candidates/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Отправить резюме</a><a href="/guides/russkoyazychnyy-personal-dubai/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Русскоязычный персонал</a></div></div><div style="margin-top:20px;padding-top:14px;border-top:1px solid #e6dccc;font-size:14px;color:#7a7266"><a href="https://wa.me/971509851420" style="color:#986e35;font-weight:700;text-decoration:none">WhatsApp +971 50 985 1420</a> · <a href="/en/" style="color:#7a7266">English version</a></div></div></nav>
 </body>
 </html>

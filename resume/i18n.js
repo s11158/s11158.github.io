@@ -216,6 +216,16 @@ const T = {
 };
 const tr = s => T[s] || s;
 window.tlntTr = tr;   // the English page prefills job titles in English
+/* job title for the English CV: an own title typed in English stays as is; a Russian one takes its
+   English twin, else the picked card's English name, else stays as typed */
+function roleEn(st){
+  const c = st.roleCustom||"";
+  if(!c) return tr(st.roleName||"");
+  if(!/[а-яё]/i.test(c)) return c;
+  if(st.roleCustomEn) return st.roleCustomEn;
+  const n = (st.role && st.role!=="other" && typeof cardName==="function") ? cardName(st.role) : "";
+  return n ? tr(n) : c;
+}
 
 /* ===== UI strings (RU -> EN), applied by matching first text node ===== */
 const UI = {
@@ -288,13 +298,13 @@ window.renderSkills = function(){ _renderSkills(); if(lang==="en") applyLang(); 
 window.refreshAbout = function(){ _refreshAbout(); if(lang==="en"){ aboutEn(); applyLang(); } };
 /* English "About me" variants, same logic as the Russian ones */
 function enVariants(st){
-  const roleEn = tr(st.roleName||"") || "Specialist"; const sen = st.seniority||"";
+  const roleEnT = roleEn(st) || "Specialist"; const sen = st.seniority||"";
   const noexp = sen==="Нет опыта";
   const sk = (st.skills||[]).slice(0,3).map(tr).join(", ");
   const visa = tr(st.u_visa||""), av = tr(st.u_avail||"");
   const eng = (st.langs||[]).some(l=>l.includes("Английский")||l.includes("English"));
   return [
-    roleEn + (sen==="Опыт 3+ лет"?" with 3+ years of experience":sen==="Опыт 1-3 года"?" with 1-3 years of experience":"") + ". " + (sk?sk+". ":"") + (visa?visa+". ":"") + (av?("Availability: "+av+"."):""),
+    roleEnT + (sen==="Опыт 3+ лет"?" with 3+ years of experience":sen==="Опыт 1-3 года"?" with 1-3 years of experience":"") + ". " + (sk?sk+". ":"") + (visa?visa+". ":"") + (av?("Availability: "+av+"."):""),
     "I take real responsibility for my work and my clients, " + (noexp?"learn fast and want to grow in the profession":"keep a high standard of service and protect my employer's reputation") + ". " + (eng?"Fluent in English.":"Actively improving my English.") + " Looking for a stable job in Dubai.",
     (noexp?"Entry-level specialist, highly motivated to work in Dubai and ready to learn.":"I love my profession: clients and employers come back to me for years. Careful with details and time.") + (visa?" "+visa+".":"")
   ];
@@ -323,7 +333,7 @@ function aboutEn(){
 function escE(s){return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;")}
 window.docHTMLen = function(){
   const S = JSON.parse(localStorage.getItem("tlnt_resume")||"{}");
-  const roleEn = tr(S.roleName||"");
+  const roleEnT = roleEn(S);
   const tg=S.tg?("Telegram: "+(S.tg.startsWith("@")?S.tg:"@"+S.tg)):"";
   const ig=S.ig?("Instagram: "+(S.ig.startsWith("@")?S.ig:"@"+S.ig)):"";
   const contacts=[S.phone?("Tel: "+S.phone):"", S.wa?("WhatsApp: "+S.wa):"", tg, ig, S.email].filter(Boolean).join(" · ");
@@ -344,7 +354,7 @@ window.docHTMLen = function(){
   return '<div class="doc">'+
     '<div class="dhead">'+(S.photo?'<img src="'+S.photo+'" alt="">':"")+
     '<div><div class="dname">'+(escE(S.name)||"Your name")+'</div>'+
-    '<div class="drole">'+escE(roleEn)+'</div>'+
+    '<div class="drole">'+escE(roleEnT)+'</div>'+
     '<div class="dmeta">'+escE(contacts)+(contacts&&meta?"<br>":"")+escE(meta)+'</div></div></div>'+
     (about?'<h3>About</h3><div>'+escE(about)+'</div>':"")+
     (xp?'<h3>Work experience</h3>'+xp:"")+

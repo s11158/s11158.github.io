@@ -134,6 +134,12 @@
   <div class="eyebrow"><span class="num">01</span><span class="ln"></span><span class="tt">Profession</span></div>
   <h2>What is your profession<span class="dot">?</span></h2>
   <div id="roles"></div>
+  <label for="r_custom" style="margin-top:22px">Job title not listed? Type your own</label>
+  <input id="r_custom" maxlength="70" autocomplete="off" placeholder="E.g.: Restaurant Manager">
+  <div id="r_enwrap" style="display:none">
+    <label for="r_custom_en">Same title in English <span style="font-weight:400;text-transform:none;color:#b3a893">- for the English CV</span></label>
+    <input id="r_custom_en" maxlength="70" autocomplete="off" placeholder="E.g.: Restaurant Manager">
+  </div>
   <label style="margin-top:18px">Your experience</label>
   <div class="chips" id="seniority"></div>
 </section>
@@ -145,7 +151,7 @@
   <p class="hint">In the UAE a photo is expected for client-facing roles. After upload you can zoom and reposition - everything else stays outside the frame.</p>
   <div class="photo-drop" id="photodrop">
     <span class="ph-empty" id="phempty"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#c4a06b" stroke-width="1.6" stroke-linecap="round"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 5-6 8-6s6.5 2 8 6"/></svg></span>
-    <img id="phimg" style="display:none" alt="Ваше фото">
+    <img id="phimg" style="display:none" alt="Your photo">
     <div><b style="color:var(--ink)">Upload photo</b><div style="font-size:13px;color:#a79e90">JPG or PNG · crop &amp; center next</div></div>
   </div>
   <input type="file" id="photofile" accept="image/*" style="display:none">
@@ -155,14 +161,14 @@
 <section class="block">
   <div class="eyebrow"><span class="num">03</span><span class="ln"></span><span class="tt">Contacts</span></div>
   <h2>Contacts<span class="dot">.</span></h2>
-  <label for="c_name">Full name</label><input id="c_name" autocomplete="name" placeholder="Анна Иванова">
+  <label for="c_name">Full name</label><input id="c_name" autocomplete="name" placeholder="Anna Ivanova">
   <div class="two">
     <div><label for="c_phone">Phone</label><input id="c_phone" inputmode="tel" autocomplete="tel" placeholder="+971 5x xxx xxxx"></div>
-    <div><label for="c_wa">WhatsApp</label><input id="c_wa" inputmode="tel" placeholder="тот же или другой"></div>
+    <div><label for="c_wa">WhatsApp</label><input id="c_wa" inputmode="tel" placeholder="same or another number"></div>
   </div>
   <div class="two">
     <div><label for="c_tg">Telegram <span style="font-weight:400;text-transform:none;color:#b3a893">- optional</span></label><input id="c_tg" autocomplete="off" placeholder="@username"></div>
-    <div><label for="c_ig">Instagram <span style="font-weight:400;text-transform:none;color:#b3a893">- portfolio</span></label><input id="c_ig" autocomplete="off" placeholder="@ваш_профиль"></div>
+    <div><label for="c_ig">Instagram <span style="font-weight:400;text-transform:none;color:#b3a893">- portfolio</span></label><input id="c_ig" autocomplete="off" placeholder="@your_profile"></div>
   </div>
   <label for="c_email">Email <span style="font-weight:400;text-transform:none;color:#b3a893">- optional</span></label><input id="c_email" inputmode="email" autocomplete="email" placeholder="anna@example.com">
   <label>Where are you now</label><div class="chips" data-single="c_city"></div>
@@ -175,7 +181,7 @@
   <p class="hint">The first thing a Dubai employer asks - we answer it right in the CV header.</p>
   <label>Visa</label><div class="chips" data-single="u_visa"></div>
   <label>When can you start</label><div class="chips" data-single="u_avail"></div>
-  <label for="u_nat">Nationality</label><input id="u_nat" placeholder="Напр.: Россия">
+  <label for="u_nat">Nationality</label><input id="u_nat" placeholder="E.g.: Russia">
 </section>
 
 <!-- 05 experience -->
@@ -191,8 +197,8 @@
 <section class="block">
   <div class="eyebrow"><span class="num">06</span><span class="ln"></span><span class="tt">Education</span></div>
   <h2>Education &amp; courses<span class="dot">.</span></h2>
-  <label for="e_main">Education</label><input id="e_main" placeholder="Напр.: Колледж, специальность &quot;Косметология&quot;, 2018">
-  <label for="e_courses">Courses &amp; certificates</label><textarea id="e_courses" placeholder="Напр.: Курс аппаратной косметологии, 2023"></textarea>
+  <label for="e_main">Education</label><input id="e_main" placeholder="E.g.: College, Cosmetology, 2018">
+  <label for="e_courses">Courses &amp; certificates</label><textarea id="e_courses" placeholder="E.g.: Hardware cosmetology course, 2023"></textarea>
   <div id="dhawrap" style="display:none">
     <label>Medical license</label><div class="chips" data-single="e_dha"></div>
   </div>
@@ -223,7 +229,7 @@
   <h2>About you<span class="dot">.</span></h2>
   <p class="hint">We assembled options from your answers - pick one and adjust. Employers read this first.</p>
   <div id="aboutvars"></div>
-  <label for="a_text">Your text</label><textarea id="a_text" placeholder="Пара тёплых предложений о вас как о специалисте"></textarea>
+  <label for="a_text">Your text</label><textarea id="a_text" placeholder="A couple of warm sentences about you as a professional"></textarea>
 </section>
 
 <!-- 10 final -->
@@ -383,16 +389,28 @@ CATS.forEach(([cat,rs])=>{
   const h=document.createElement("div"); h.className="cat"; h.textContent=cat; rolesEl.appendChild(h);
   const g=document.createElement("div"); g.className="grid";
   rs.forEach(([id,name])=>{
-    const b=document.createElement("button"); b.type="button"; b.className="pcard"; b.textContent=name;
+    const b=document.createElement("button"); b.type="button"; b.className="pcard"; b.textContent=name; b.dataset.id=id;
     if(S.role===id) b.classList.add("sel");
-    b.onclick=()=>{ S.role=id; S.roleName = id==="other" ? "" : name; save();
+    b.onclick=()=>{ S.role=id;
+      if(id!=="other"){ S.roleCustom=""; S.roleCustomEn=""; rcIn.value=""; rcEn.value=""; }   // a picked card replaces the typed title
+      S.roleName = S.roleCustom || (id==="other" ? "" : name); save(); syncRoleEn();
       $$("#roles .pcard").forEach(c=>c.classList.remove("sel")); b.classList.add("sel");
       $("#dhawrap").style.display = (ROLECAT[id]==="Медицина") ? "block" : "none";
-      renderXp(); renderSkills(); refreshAbout(); };
+      renderXp(); renderSkills(); refreshAbout();
+      if(id==="other") rcIn.focus(); };
     g.appendChild(b);
   });
   rolesEl.appendChild(g);
 });
+/* own job title: typed text wins over the card name; typed with no card picked counts as "other" */
+const rcIn=$("#r_custom"), rcEn=$("#r_custom_en");
+function cardName(id){ for(const [,rs] of CATS) for(const [i,n] of rs) if(i===id) return n; return ""; }
+function syncRoleEn(){ $("#r_enwrap").style.display = /[а-яё]/i.test(S.roleCustom||"") ? "block" : "none"; }
+rcIn.value=S.roleCustom||""; rcEn.value=S.roleCustomEn||""; syncRoleEn();
+rcIn.addEventListener("input",()=>{ const v=rcIn.value.trim(); S.roleCustom=v;
+  if(v && !S.role){ S.role="other"; $$("#roles .pcard").forEach(c=>c.classList.toggle("sel", c.dataset.id==="other")); }
+  S.roleName = v || (S.role==="other" ? "" : cardName(S.role)); save(); syncRoleEn(); refreshAbout(); });
+rcEn.addEventListener("input",()=>{ S.roleCustomEn=rcEn.value.trim(); save(); });
 chips($("#seniority"), SENIORITY, "seniority", false);
 chips($('[data-single="c_city"]'), CITY, "c_city", false);
 chips($('[data-single="u_visa"]'), VISA, "u_visa", false);
@@ -456,8 +474,8 @@ function renderXp(){
   S.xp.forEach((x,i)=>{
     const d=document.createElement("div"); d.className="xp";
     d.innerHTML=`<button class="del" aria-label="Удалить">×</button>
-      <label>Должность</label><input class="x_t" value="${(x.t||"").replace(/"/g,"&quot;")}" placeholder="Напр.: Мастер маникюра">
-      <div class="two"><div><label>Компания, город</label><input class="x_c" value="${(x.c||"").replace(/"/g,"&quot;")}" placeholder="Салон Beauty, Москва"></div>
+      <label>Должность</label><input class="x_t" value="${(x.t||"").replace(/"/g,"&quot;")}" placeholder="E.g.: Nail Technician">
+      <div class="two"><div><label>Компания, город</label><input class="x_c" value="${(x.c||"").replace(/"/g,"&quot;")}" placeholder="Beauty Salon, Dubai"></div>
       <div><label>Годы</label><input class="x_d" value="${(x.d||"").replace(/"/g,"&quot;")}" placeholder="2021 - 2024"></div></div>
       <label>Обязанности - протыкайте подходящие</label><div class="chips xduty"></div>`;
     d.querySelector(".del").onclick=()=>{ if(confirm("Delete this job?")){ S.xp.splice(i,1); save(); renderXp(); } };
@@ -588,7 +606,7 @@ renderXp(); renderSkills(); refreshAbout(); updateBar();
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
 <script>window.TLNT_RESUME_LANG="en";</script>
-<script src="/resume/i18n.js?v=20261004w1"></script>
+<script src="/resume/i18n.js?v=20261007r1"></script>
 <nav id="sitenav" aria-label="Explore TLNT" style="position:static;z-index:auto;backdrop-filter:none;-webkit-backdrop-filter:none;border-bottom:0;border-top:1px solid #ece4d8;background:#f7f2ea;padding:34px 22px 26px;font-family:Nunito Sans,sans-serif"><div style="max-width:1060px;margin:0 auto"><div style="font-family:Cormorant Garamond,serif;font-size:26px;color:#3f3a33;margin-bottom:18px">Explore TLNT</div><div style="display:flex;flex-wrap:wrap;gap:22px 34px"><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Services</div><a href="/en/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Recruitment in Dubai</a><a href="/en/crm/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">CRM for salons and clinics</a><a href="/en/team-audit/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Team audit</a><a href="/en/mini-audit/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Free vacancy review</a><a href="/en/calculator/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Fee calculator</a><a href="/en/about/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">About TLNT</a></div><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Roles</div><a href="/en/roles/#medical" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Doctors and medical staff</a><a href="/en/roles/#beauty" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Beauty and spa</a><a href="/en/roles/#management" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Management and front office</a><a href="/en/roles/#household" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Household and private staff</a><a href="/en/roles/#business" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Business and office</a><a href="/en/roles/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">All roles</a></div><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Guides</div><a href="/en/guides/#salon" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Beauty salon owners</a><a href="/en/guides/#clinic" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Clinics and doctors</a><a href="/en/guides/#owner" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Growing a salon or clinic</a><a href="/en/guides/#hiring" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Hiring in the UAE</a><a href="/en/guides/#candidate" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">For candidates</a><a href="/en/guides/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">All guides</a></div><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Tools</div><a href="/en/salary-index-2026/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Dubai Salary Index 2026</a><a href="/en/vacancies/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Open vacancies</a><a href="/en/resume/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Free CV builder</a><a href="/en/candidates/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Send your CV</a><a href="/en/russian-speaking-staff-dubai/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Russian-speaking staff</a></div></div><div style="margin-top:20px;padding-top:14px;border-top:1px solid #e6dccc;font-size:14px;color:#7a7266"><a href="https://wa.me/971509851420" style="color:#986e35;font-weight:700;text-decoration:none">WhatsApp +971 50 985 1420</a> · <a href="/" style="color:#7a7266">Русская версия</a></div></div></nav>
 </body>
 </html>
