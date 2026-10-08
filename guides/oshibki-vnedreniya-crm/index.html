@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="color-scheme" content="light">
+<meta name="theme-color" content="#fbf8f3">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ошибки внедрения CRM: 9 причин, почему система не приживается | TLNT</title>
+<meta name="description" content="Почему внедрение CRM проваливается в салонах, клиниках и сервисном бизнесе: девять типичных ошибок, от отсутствия владельца процесса до грязной базы, и как их избежать.">
+<link rel="canonical" href="https://tlnt.ae/guides/oshibki-vnedreniya-crm/">
+<link rel="alternate" hreflang="ru" href="https://tlnt.ae/guides/oshibki-vnedreniya-crm/">
+<link rel="alternate" hreflang="en" href="https://tlnt.ae/en/guides/crm-implementation-mistakes/">
+<link rel="alternate" hreflang="x-default" href="https://tlnt.ae/en/guides/crm-implementation-mistakes/">
+<meta property="og:title" content="Ошибки внедрения CRM: 9 причин, почему система не приживается | TLNT">
+<meta property="og:description" content="Почему внедрение CRM проваливается в салонах, клиниках и сервисном бизнесе: девять типичных ошибок, от отсутствия владельца процесса до грязной базы, и как их избежать.">
+<meta property="og:url" content="https://tlnt.ae/guides/oshibki-vnedreniya-crm/">
+<meta property="og:image" content="https://tlnt.ae/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Nunito+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{--accent:#986e35;background:#fbf8f3;color:#4a443d;font-family:'Nunito Sans',sans-serif;font-size:17px;line-height:1.65;-webkit-font-smoothing:antialiased}
+  h1,h2,h3{font-family:'Cormorant Garamond',serif;font-weight:500;line-height:1.1;color:#3f3a33;text-wrap:balance}
+  em{font-style:italic;color:var(--accent)}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:760px;margin:0 auto;padding:0 22px}
+  nav{border-bottom:1px solid #ece4d8;background:rgba(251,248,243,.85);backdrop-filter:blur(12px);position:sticky;top:0;z-index:10}
+  nav .wrap{display:flex;align-items:center;justify-content:space-between;height:64px}
+  .logo{font-family:'Cormorant Garamond',serif;font-size:26px;font-weight:600;letter-spacing:.18em}
+  .logo b{color:var(--accent)}
+  .navr{display:flex;align-items:center;gap:18px}
+  .lang{font-size:13px;font-weight:700;color:#7a7266;border:1px solid #e6dccc;border-radius:100px;padding:4px 12px}
+  .lang:hover{border-color:var(--accent);color:var(--accent)}
+  nav a.back{font-size:14px;color:#6b6155;font-weight:600}
+  header{padding:50px 0 30px;background:radial-gradient(120% 80% at 50% 0%,#f6e3df 0%,#f8eee6 35%,#fbf8f3 70%)}
+  .crumb{font-size:13px;color:#7a7266;margin-bottom:16px}
+  header h1{font-size:clamp(30px,5vw,48px);margin-bottom:16px}
+  header p{color:#6b6155;font-size:18px;max-width:580px}
+  .cta{display:inline-flex;align-items:center;gap:9px;background:var(--accent);color:#fff;font-weight:700;font-size:16px;padding:15px 28px;border-radius:100px;box-shadow:0 10px 24px rgba(200,168,120,.3);font-family:inherit;margin-top:24px}
+  .cta:hover{background:#bb9968}
+  section{padding:44px 0;border-top:1px solid #f1ebe1}
+  h2{font-size:clamp(26px,4vw,36px);margin-bottom:20px}
+  .lead{color:#6b6155;font-size:17px;margin-bottom:18px}
+  ul.check{list-style:none;display:grid;gap:12px}
+  ul.check li{display:flex;gap:12px;font-size:16px}
+  ul.check li::before{content:"";flex:none;width:22px;height:22px;border-radius:50%;background:#f6e3df url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%23c8a878' stroke-width='3'%3E%3Cpath d='M5 12l5 5 9-10'/%3E%3C/svg%3E") center/14px no-repeat;margin-top:1px}
+  .lic{background:#fff;border:1px solid #ece4d8;border-radius:18px;padding:26px;margin-top:8px}
+  .lic .step{display:flex;gap:14px;padding:14px 0;border-top:1px solid #f1ebe1}
+  .lic .step:first-of-type{border-top:none}
+  .lic .num{font-family:'Cormorant Garamond',serif;font-size:22px;color:var(--accent);flex:none;width:26px}
+  .lic .step b{color:#3f3a33}
+  table{width:100%;border-collapse:collapse;background:#fff;border:1px solid #ece4d8;border-radius:16px;overflow:hidden}
+  th,td{padding:15px 18px;text-align:left;font-size:16px;border-bottom:1px solid #f1ebe1}
+  th{background:#f7efe2;font-size:13px;letter-spacing:.04em;text-transform:uppercase;color:#9a8a6e;font-weight:700}
+  td.v{font-family:'Cormorant Garamond',serif;font-size:22px;color:var(--accent)}
+  tr:last-child td{border-bottom:none}
+  .small{font-size:13px;color:#7a7266;margin-top:10px}
+  .pill{display:inline-block;background:#e8f0e6;color:#5f6b58;font-size:14px;font-weight:600;padding:7px 16px;border-radius:100px;margin:4px 6px 0 0}
+  details{background:#fff;border:1px solid #ece4d8;border-radius:16px;padding:4px 22px;margin-bottom:12px}
+  summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;gap:16px;padding:16px 0;font-family:'Cormorant Garamond',serif;font-size:20px;font-weight:600;color:#3f3a33}
+  summary::-webkit-details-marker{display:none}
+  summary::after{content:"+";color:var(--accent);font-size:22px}
+  details[open] summary::after{content:"-"}
+  details p{padding:0 0 16px;color:#6b6155;font-size:15.5px}
+  .endcta{text-align:center;background:radial-gradient(120% 120% at 50% 120%,#f6e3df 0%,#f4ece2 46%,#fbf8f3 80%)}
+  .links{margin-top:18px;font-size:15px}
+  .links a{color:#6b6155;font-weight:600;border-bottom:1px solid #d8cebd;padding-bottom:2px;margin:0 10px}
+  footer{border-top:1px solid #ece4d8;padding:28px 0;text-align:center;color:#7a7266;font-size:13px}
+  .body p{color:#5f574d;margin-bottom:14px}
+  .num-h{font-family:'Cormorant Garamond',serif;color:var(--accent)}
+  .tw{overflow-x:auto;-webkit-overflow-scrolling:touch}
+  @media(max-width:600px){.tw th,.tw td{padding:10px 10px;font-size:14px}.tw td.v{font-size:17px;white-space:nowrap}}
+</style>
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" href="/favicon-onlight.png" media="(prefers-color-scheme: light)">
+<link rel="icon" type="image/png" href="/favicon-ondark.png" media="(prefers-color-scheme: dark)">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Ошибки внедрения CRM: 9 причин, почему система не приживается", "description": "Почему внедрение CRM проваливается в салонах, клиниках и сервисном бизнесе: девять типичных ошибок, от отсутствия владельца процесса до грязной базы, и как их избежать.", "inLanguage": "ru", "datePublished": "2026-10-08", "dateModified": "2026-10-08", "mainEntityOfPage": "https://tlnt.ae/guides/oshibki-vnedreniya-crm/", "author": {"@type": "Organization", "name": "TLNT", "url": "https://tlnt.ae"}, "publisher": {"@type": "Organization", "name": "TLNT", "url": "https://tlnt.ae"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": "ru", "mainEntity": [{"@type": "Question", "name": "Почему сотрудники не пользуются CRM?", "acceptedAnswer": {"@type": "Answer", "text": "Обычно потому, что CRM усложняет им день: много обязательных полей, переписка всё ещё в личных телефонах, а данные никто не проверяет. Сократите поля до нужных для отчётов, подключите мессенджеры, чтобы работа шла внутри CRM, и пусть владелец каждую неделю смотрит отчёты."}}, {"@type": "Question", "name": "Сколько времени занимает внедрение CRM в небольшой компании?", "acceptedAnswer": {"@type": "Answer", "text": "Для небольшой команды с одной воронкой и подключёнными мессенджерами обычно несколько недель вместе с переносом базы и обучением. Несколько отделов, филиалов или нестандартные интеграции занимают больше. Привычки складываются в первый месяц после запуска, поэтому на него стоит заложить поддержку."}}, {"@type": "Question", "name": "Можно ли внедрить CRM самим, без консультанта?", "acceptedAnswer": {"@type": "Answer", "text": "Можно, если у кого-то в команде есть время продумать процесс, настроить интеграции, почистить базу и обучить коллег. Риск скорее не в настройках, а в привычках: частая картина - технически правильная настройка без ответственного и без правил."}}]}</script>
+  <script defer src="https://tlnt.ae/a.js" data-ym="113012314" data-ga="G-QX7QJ8SPJY" data-meta="1911110180275408" data-name="tlnt.ae"></script>
+</head>
+<body>
+<nav><div class="wrap"><div class="logo"><b>TLNT</b></div><div class="navr"><a class="lang" href="/en/guides/crm-implementation-mistakes/">EN</a><a class="back" href="/">Все услуги</a></div></div></nav>
+
+<header>
+  <div class="wrap">
+    <div class="crumb">TLNT · Гайды</div>
+    <h1>Ошибки внедрения CRM <em>9 причин, почему система не приживается</em></h1>
+    <p>CRM редко ломается из-за самой программы. Ломается внедрение: за систему никто не отвечает, команда продолжает переписываться в личных WhatsApp, а владелец ко второму месяцу перестаёт открывать отчёты. Ниже девять ошибок, которые мы чаще всего видим в салонах, клиниках и сервисном бизнесе, и что делать вместо них.</p>
+    <a class="cta" href="#start">Обсудить задачу</a>
+  </div>
+</header>
+
+<section><div class="wrap body"><h2>До старта: три ошибки подготовки</h2><p>Большинство провалов предрешено ещё до того, как создано первое поле. Именно здесь решается, кто отвечает за систему, по каким правилам движется заявка и сколько на самом деле стоит проект.</p><ul class="check"><li>Нет владельца процесса. Когда CRM общая, никто не чинит сломанные этапы, не следит за пустыми полями и не решает, что делать с заявкой. Как избежать: назначьте одного ответственного, обычно управляющего или старшего администратора, выделите ему время в неделе и дайте последнее слово по настройкам.</li><li>Выбор только по цене лицензии. В самом дешёвом тарифе часто нет нужных мессенджеров, автоматизации или ролей, и дыры закрывают ручной работой. Как избежать: сначала выпишите пять-семь обязательных требований, сравнивайте только системы, которые их закрывают, и считайте полную стоимость, а не одну лицензию.</li><li>Перенос старого хаоса в систему. Если сейчас правило звучит как &quot;кто первый увидел, тот и ответил&quot;, CRM просто быстрее зафиксирует хаос. Как избежать: до настройки опишите путь заявки на одной странице: кто отвечает, за какое время, что считается записью или отказом и когда нужно повторное касание.</li></ul></div></section>
+<section><div class="wrap body"><h2>При настройке: три ошибки сборки</h2><p>От настройки зависит, сэкономит CRM время команде или добавит работы в каждый чат.</p><ul class="check"><li>Слишком много полей и этапов. Тридцать обязательных полей и двенадцать этапов тормозят администратора, и он начинает работать в обход CRM. Как избежать: начните с минимума, который нужен для отчётов владельца, обычно это источник, услуга, следующий шаг и причина отказа, а новое поле добавляйте, только когда им реально пользуются.</li><li>Мессенджеры не подключены. Если WhatsApp и Instagram не интегрированы, переписка остаётся в личных телефонах, заявок не видно, и они уходят вместе с сотрудником. Как избежать: до запуска подключите к CRM все каналы, где пишут клиенты, на рабочих номерах, которые принадлежат компании.</li><li>Перенос грязной базы. Дубли, номера без кода страны и клиенты без источника с первого дня засоряют новую систему. Как избежать: почистите базу до импорта: объедините дубли, приведите номера к одному формату (+971...), отметьте источники, где они известны, и уберите в архив тех, с кем уже не будете связываться.</li></ul></div></section>
+<section><div class="wrap body"><h2>После запуска: три ошибки привыкания</h2><p>Настроенная CRM - только половина дела. Вторая половина - привычки команды.</p><ul class="check"><li>Нет обучения и письменных правил. Часовая демонстрация - это не обучение. Как избежать: обучайте на реальных ситуациях команды, дайте каждой роли правила на одной странице (что делать с новым чатом, когда двигать сделку, как отмечать отказ) и запишите короткие видео для новых сотрудников.</li><li>Нет отчётов, которые владелец действительно смотрит. Если владелец не открывает CRM, команда быстро понимает, что заполнять её необязательно. Как избежать: настройте два-три отчёта, которые владелец читает каждую неделю, например заявки по источникам, скорость первого ответа и конверсию в запись, и разбирайте их на планёрке.</li><li>Нет поддержки в первые недели. Первые недели приносят вопросы, нестандартные случаи и мелкие сбои автоматизации. Если их некому быстро поправить, команда возвращается к старым привычкам. Как избежать: заранее согласуйте период поддержки после запуска, с конкретным контактом и сроком ответа, и запланируйте пересмотр настроек через месяц.</li></ul></div></section>
+<section><div class="wrap body"><h2>Первые 30 дней: план контроля</h2><p>Приживётся ли CRM, решается в первый месяц. Каждая проверка занимает несколько минут, а без них проблемы всплывают только через несколько месяцев. Простой план на время после запуска:</p><div class="tw"><table><tr><th>Когда</th><th>Что проверить</th><th>Кто</th></tr><tr><td>1-3 день</td><td>Каждый новый чат и звонок попадает в CRM с источником</td><td class="v">Ответственный за CRM</td></tr><tr><td>Конец 1-й недели</td><td>У каждой сделки есть ответственный и следующий шаг</td><td class="v">Ответственный за CRM</td></tr><tr><td>Конец 2-й недели</td><td>Никто не ведёт заявки только в личном WhatsApp</td><td class="v">Управляющий</td></tr><tr><td>Конец 3-й недели</td><td>Автоматизация работает: напоминания, задачи, автоответы</td><td class="v">Интегратор</td></tr><tr><td>30-й день</td><td>Владелец разбирает отчёты; лишние поля убраны, правила обновлены</td><td class="v">Владелец</td></tr></table></div></div></section>
+<section><div class="wrap body"><h2>Признаки того, что CRM прижилась</h2><p>Долгий аудит не нужен. Если через два месяца выполняется большая часть пунктов, внедрение состоялось.</p><ul class="check"><li>Владелец видит вчерашние заявки по источникам, никого не спрашивая</li><li>Администраторы начинают день с CRM, а не с телефона</li><li>Заявку можно проследить от первого сообщения до визита или оплаты</li><li>У каждого отказа есть причина, и причины обсуждаются</li><li>Новый сотрудник учится по правилам и CRM, а не по памяти коллеги</li><li>Когда сотрудник уходит, переписка с клиентами остаётся в компании</li></ul></div></section>
+<section><div class="wrap body"><h2>Как мы помогаем</h2><p>TLNT.ae внедряет amoCRM (Kommo), где мы официальный партнёр по программе amoSTART, и Zoho CRM. Каждый проект строим так, чтобы обойти ошибки выше: ответственный за процесс с вашей стороны, путь заявки на одной странице до настройки, короткий список полей, все мессенджеры подключены, база почищена, обучение на ваших реальных ситуациях и поддержка после запуска.</p><p>Начинаем с бесплатного 15-минутного разбора. Если CRM уже есть, но ею не пользуются, сначала смотрим, что можно сохранить, и только потом предлагаем пересборку. Цена проекта фиксированная и согласуется до старта работ; лицензии оплачиваются разработчику по его официальному прайсу.</p></div></section>
+
+<section>
+  <div class="wrap">
+    <h2>Частые вопросы</h2>
+    <details open><summary>Почему сотрудники не пользуются CRM?</summary><p>Обычно потому, что CRM усложняет им день: много обязательных полей, переписка всё ещё в личных телефонах, а данные никто не проверяет. Сократите поля до нужных для отчётов, подключите мессенджеры, чтобы работа шла внутри CRM, и пусть владелец каждую неделю смотрит отчёты.</p></details>
+    <details><summary>Сколько времени занимает внедрение CRM в небольшой компании?</summary><p>Для небольшой команды с одной воронкой и подключёнными мессенджерами обычно несколько недель вместе с переносом базы и обучением. Несколько отделов, филиалов или нестандартные интеграции занимают больше. Привычки складываются в первый месяц после запуска, поэтому на него стоит заложить поддержку.</p></details>
+    <details><summary>Можно ли внедрить CRM самим, без консультанта?</summary><p>Можно, если у кого-то в команде есть время продумать процесс, настроить интеграции, почистить базу и обучить коллег. Риск скорее не в настройках, а в привычках: частая картина - технически правильная настройка без ответственного и без правил.</p></details>
+  </div>
+</section>
+
+<section id="start" class="endcta">
+  <div class="wrap">
+    <h2>Разберём вашу ситуацию</h2>
+    <p class="lead" style="max-width:480px;margin:0 auto 8px">Бесплатный разбор в WhatsApp: посмотрим на ваши цифры и честно скажем, что бы мы сделали.</p>
+    <a class="cta" href="https://wa.me/971509851420?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%A3%20%D0%BD%D0%B0%D1%81%20%D0%B5%D1%81%D1%82%D1%8C%20CRM%2C%20%D0%BD%D0%BE%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%20%D0%B5%D1%8E%20%D1%82%D0%BE%D0%BB%D0%BA%D0%BE%D0%BC%20%D0%BD%D0%B5%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D1%82%D1%81%D1%8F.%20%D0%9C%D0%BE%D0%B6%D0%BD%D0%BE%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9%20%D1%80%D0%B0%D0%B7%D0%B1%D0%BE%D1%80%3F">Написать в WhatsApp</a>
+    <div class="links"><a href="/calculator/">Калькулятор</a><a href="/salary-guide/">Гид по зарплатам</a><a href="/">Все услуги</a></div>
+  </div>
+</section>
+
+<section style="max-width:720px;margin:0 auto;padding:6px 22px 30px"><div style="font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:#7a7266;margin-bottom:14px">По теме</div><div style="display:flex;flex-wrap:wrap;gap:10px"><a href="/consulting/" style="display:inline-block;border:1px solid #e6dccc;border-radius:100px;padding:8px 15px;font-size:14px;color:#6b6155;text-decoration:none;font-weight:600">Бизнес-консалтинг: CRM, ИИ, стратегия</a><a href="/consulting/amocrm/" style="display:inline-block;border:1px solid #e6dccc;border-radius:100px;padding:8px 15px;font-size:14px;color:#6b6155;text-decoration:none;font-weight:600">Внедрение amoCRM</a><a href="/guides/nastroyka-crm-salona-kliniki/" style="display:inline-block;border:1px solid #e6dccc;border-radius:100px;padding:8px 15px;font-size:14px;color:#6b6155;text-decoration:none;font-weight:600">Настройка CRM для салона и клиники</a><a href="/guides/amocrm-ili-zoho-crm/" style="display:inline-block;border:1px solid #e6dccc;border-radius:100px;padding:8px 15px;font-size:14px;color:#6b6155;text-decoration:none;font-weight:600">amoCRM или Zoho CRM</a><a href="/guides/stoimost-vnedreniya-crm-dubai/" style="display:inline-block;border:1px solid #e6dccc;border-radius:100px;padding:8px 15px;font-size:14px;color:#6b6155;text-decoration:none;font-weight:600">Стоимость внедрения CRM в Дубае</a></div></section>
+<nav id="sitenav" aria-label="Навигация по TLNT" style="position:static;z-index:auto;backdrop-filter:none;-webkit-backdrop-filter:none;border-bottom:0;border-top:1px solid #ece4d8;background:#f7f2ea;padding:34px 22px 26px;font-family:Nunito Sans,sans-serif"><div style="max-width:1060px;margin:0 auto"><div style="font-family:Cormorant Garamond,serif;font-size:26px;color:#3f3a33;margin-bottom:18px">Навигация по TLNT</div><div style="display:flex;flex-wrap:wrap;gap:22px 34px"><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Услуги</div><a href="/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Подбор персонала в Дубае</a><a href="/crm/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">CRM для салона и клиники</a><a href="/consulting/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Бизнес-консалтинг: CRM и ИИ</a><a href="/team-audit/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Аудит команды</a><a href="/mini-audit/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Бесплатный разбор вакансии</a><a href="/calculator/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Калькулятор гонорара</a><a href="/about/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">О компании</a></div><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Роли</div><a href="/roles/#medical" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Врачи и медперсонал</a><a href="/roles/#beauty" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Бьюти и спа</a><a href="/roles/#management" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Управление и ресепшн</a><a href="/roles/#household" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Дом и частный персонал</a><a href="/roles/#business" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Бизнес и офис</a><a href="/roles/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Все роли</a></div><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Гайды</div><a href="/guides/#salon" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Владельцам салонов</a><a href="/guides/#clinic" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Клиники и врачи</a><a href="/guides/#owner" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Рост салона и клиники</a><a href="/guides/#hiring" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Найм в ОАЭ</a><a href="/guides/#candidate" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Кандидатам</a><a href="/guides/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Все гайды</a></div><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Инструменты</div><a href="/salary-index-2026/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Индекс зарплат 2026</a><a href="/vakansii/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Открытые вакансии</a><a href="/resume/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Конструктор резюме</a><a href="/candidates/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Отправить резюме</a><a href="/guides/russkoyazychnyy-personal-dubai/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Русскоязычный персонал</a></div></div><div style="margin-top:20px;padding-top:14px;border-top:1px solid #e6dccc;font-size:14px;color:#7a7266"><a href="https://wa.me/971509851420" style="color:#986e35;font-weight:700;text-decoration:none">WhatsApp +971 50 985 1420</a> · <a href="/en/" style="color:#7a7266">English version</a></div></div></nav>
+<footer>tlnt.ae · консалтинг по подбору и найму, поддержка бизнеса в ОАЭ</footer>
+<script src="/widget.js?v=20260926m"></script>
+</body>
+</html>

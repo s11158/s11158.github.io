@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="color-scheme" content="light">
+<meta name="theme-color" content="#fbf8f3">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Скорость ответа на заявку: как быстро отвечать и как это наладить | TLNT</title>
+<meta name="description" content="Скорость ответа на заявку из мессенджеров: почему заявки остывают, как измерить время первого ответа в CRM, какую цель ставить и как ускорить ответ, включая ночи.">
+<link rel="canonical" href="https://tlnt.ae/guides/skorost-otveta-na-zayavku/">
+<link rel="alternate" hreflang="ru" href="https://tlnt.ae/guides/skorost-otveta-na-zayavku/">
+<link rel="alternate" hreflang="en" href="https://tlnt.ae/en/guides/lead-response-time/">
+<link rel="alternate" hreflang="x-default" href="https://tlnt.ae/en/guides/lead-response-time/">
+<meta property="og:title" content="Скорость ответа на заявку: как быстро отвечать и как это наладить | TLNT">
+<meta property="og:description" content="Скорость ответа на заявку из мессенджеров: почему заявки остывают, как измерить время первого ответа в CRM, какую цель ставить и как ускорить ответ, включая ночи.">
+<meta property="og:url" content="https://tlnt.ae/guides/skorost-otveta-na-zayavku/">
+<meta property="og:image" content="https://tlnt.ae/og-image.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Nunito+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{--accent:#986e35;background:#fbf8f3;color:#4a443d;font-family:'Nunito Sans',sans-serif;font-size:17px;line-height:1.65;-webkit-font-smoothing:antialiased}
+  h1,h2,h3{font-family:'Cormorant Garamond',serif;font-weight:500;line-height:1.1;color:#3f3a33;text-wrap:balance}
+  em{font-style:italic;color:var(--accent)}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:760px;margin:0 auto;padding:0 22px}
+  nav{border-bottom:1px solid #ece4d8;background:rgba(251,248,243,.85);backdrop-filter:blur(12px);position:sticky;top:0;z-index:10}
+  nav .wrap{display:flex;align-items:center;justify-content:space-between;height:64px}
+  .logo{font-family:'Cormorant Garamond',serif;font-size:26px;font-weight:600;letter-spacing:.18em}
+  .logo b{color:var(--accent)}
+  .navr{display:flex;align-items:center;gap:18px}
+  .lang{font-size:13px;font-weight:700;color:#7a7266;border:1px solid #e6dccc;border-radius:100px;padding:4px 12px}
+  .lang:hover{border-color:var(--accent);color:var(--accent)}
+  nav a.back{font-size:14px;color:#6b6155;font-weight:600}
+  header{padding:50px 0 30px;background:radial-gradient(120% 80% at 50% 0%,#f6e3df 0%,#f8eee6 35%,#fbf8f3 70%)}
+  .crumb{font-size:13px;color:#7a7266;margin-bottom:16px}
+  header h1{font-size:clamp(30px,5vw,48px);margin-bottom:16px}
+  header p{color:#6b6155;font-size:18px;max-width:580px}
+  .cta{display:inline-flex;align-items:center;gap:9px;background:var(--accent);color:#fff;font-weight:700;font-size:16px;padding:15px 28px;border-radius:100px;box-shadow:0 10px 24px rgba(200,168,120,.3);font-family:inherit;margin-top:24px}
+  .cta:hover{background:#bb9968}
+  section{padding:44px 0;border-top:1px solid #f1ebe1}
+  h2{font-size:clamp(26px,4vw,36px);margin-bottom:20px}
+  .lead{color:#6b6155;font-size:17px;margin-bottom:18px}
+  ul.check{list-style:none;display:grid;gap:12px}
+  ul.check li{display:flex;gap:12px;font-size:16px}
+  ul.check li::before{content:"";flex:none;width:22px;height:22px;border-radius:50%;background:#f6e3df url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%23c8a878' stroke-width='3'%3E%3Cpath d='M5 12l5 5 9-10'/%3E%3C/svg%3E") center/14px no-repeat;margin-top:1px}
+  .lic{background:#fff;border:1px solid #ece4d8;border-radius:18px;padding:26px;margin-top:8px}
+  .lic .step{display:flex;gap:14px;padding:14px 0;border-top:1px solid #f1ebe1}
+  .lic .step:first-of-type{border-top:none}
+  .lic .num{font-family:'Cormorant Garamond',serif;font-size:22px;color:var(--accent);flex:none;width:26px}
+  .lic .step b{color:#3f3a33}
+  table{width:100%;border-collapse:collapse;background:#fff;border:1px solid #ece4d8;border-radius:16px;overflow:hidden}
+  th,td{padding:15px 18px;text-align:left;font-size:16px;border-bottom:1px solid #f1ebe1}
+  th{background:#f7efe2;font-size:13px;letter-spacing:.04em;text-transform:uppercase;color:#9a8a6e;font-weight:700}
+  td.v{font-family:'Cormorant Garamond',serif;font-size:22px;color:var(--accent)}
+  tr:last-child td{border-bottom:none}
+  .small{font-size:13px;color:#7a7266;margin-top:10px}
+  .pill{display:inline-block;background:#e8f0e6;color:#5f6b58;font-size:14px;font-weight:600;padding:7px 16px;border-radius:100px;margin:4px 6px 0 0}
+  details{background:#fff;border:1px solid #ece4d8;border-radius:16px;padding:4px 22px;margin-bottom:12px}
+  summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;gap:16px;padding:16px 0;font-family:'Cormorant Garamond',serif;font-size:20px;font-weight:600;color:#3f3a33}
+  summary::-webkit-details-marker{display:none}
+  summary::after{content:"+";color:var(--accent);font-size:22px}
+  details[open] summary::after{content:"-"}
+  details p{padding:0 0 16px;color:#6b6155;font-size:15.5px}
+  .endcta{text-align:center;background:radial-gradient(120% 120% at 50% 120%,#f6e3df 0%,#f4ece2 46%,#fbf8f3 80%)}
+  .links{margin-top:18px;font-size:15px}
+  .links a{color:#6b6155;font-weight:600;border-bottom:1px solid #d8cebd;padding-bottom:2px;margin:0 10px}
+  footer{border-top:1px solid #ece4d8;padding:28px 0;text-align:center;color:#7a7266;font-size:13px}
+  .body p{color:#5f574d;margin-bottom:14px}
+  .num-h{font-family:'Cormorant Garamond',serif;color:var(--accent)}
+  .tw{overflow-x:auto;-webkit-overflow-scrolling:touch}
+  @media(max-width:600px){.tw th,.tw td{padding:10px 10px;font-size:14px}.tw td.v{font-size:17px;white-space:nowrap}}
+</style>
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" href="/favicon-onlight.png" media="(prefers-color-scheme: light)">
+<link rel="icon" type="image/png" href="/favicon-ondark.png" media="(prefers-color-scheme: dark)">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Скорость ответа на заявку: как быстро отвечать и как это наладить", "description": "Скорость ответа на заявку из мессенджеров: почему заявки остывают, как измерить время первого ответа в CRM, какую цель ставить и как ускорить ответ, включая ночи.", "inLanguage": "ru", "datePublished": "2026-10-08", "dateModified": "2026-10-08", "mainEntityOfPage": "https://tlnt.ae/guides/skorost-otveta-na-zayavku/", "author": {"@type": "Organization", "name": "TLNT", "url": "https://tlnt.ae"}, "publisher": {"@type": "Organization", "name": "TLNT", "url": "https://tlnt.ae"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": "ru", "mainEntity": [{"@type": "Question", "name": "Как быстро нужно отвечать на заявку в WhatsApp?", "acceptedAnswer": {"@type": "Answer", "text": "Наша рекомендация для заявок из мессенджеров: первый ответ живого человека в течение 5 минут в рабочее время, а в нерабочее - мгновенный автоответ или ИИ-бот и ответ человека в начале следующего рабочего дня. Это рабочая цель, а не официальный стандарт."}}, {"@type": "Question", "name": "Считается ли автоответ первым ответом?", "acceptedAnswer": {"@type": "Answer", "text": "Для измерения - нет. Автоответ с одним полезным вопросом удерживает клиента в разговоре, но первый ответ человека считайте отдельно: именно эта цифра показывает, успевает ли команда."}}, {"@type": "Question", "name": "Как измерить скорость ответа на заявки в CRM?", "acceptedAnswer": {"@type": "Answer", "text": "Подключите все каналы так, чтобы каждое сообщение, форма и пропущенный звонок создавали заявку, и фиксируйте, когда пришла заявка и когда впервые ответил человек. Смотрите медиану и долю заявок с ответом в пределах цели, отдельно по каналам, сотрудникам и рабочим часам."}}]}</script>
+  <script defer src="https://tlnt.ae/a.js" data-ym="113012314" data-ga="G-QX7QJ8SPJY" data-meta="1911110180275408" data-name="tlnt.ae"></script>
+</head>
+<body>
+<nav><div class="wrap"><div class="logo"><b>TLNT</b></div><div class="navr"><a class="lang" href="/en/guides/lead-response-time/">EN</a><a class="back" href="/">Все услуги</a></div></div></nav>
+
+<header>
+  <div class="wrap">
+    <div class="crumb">TLNT · Гайды</div>
+    <h1>Скорость ответа на заявку <em>как быстро отвечать и как это наладить</em></h1>
+    <p>Человек, который пишет вам в WhatsApp или Instagram, часто в это же время пишет ещё двум-трём конкурентам. Разговор обычно выигрывает тот, кто первым ответил по делу. Разбираем, почему заявки остывают, как измерить время первого ответа в CRM, какую цель поставить и как ускорить ответ, не раздувая штат.</p>
+    <a class="cta" href="#start">Обсудить задачу</a>
+  </div>
+</header>
+
+<section><div class="wrap body"><h2>Почему заявки остывают</h2><p>Интерес максимален в момент, когда человек отправил сообщение. Через час он уже может записаться в другое место, найти ответ у конкурента или просто переключиться на свои дела.</p><p>Самое известное исследование на эту тему - аудит того, как американские компании обрабатывают заявки с сайта, опубликованный в Harvard Business Review в 2011 году (&quot;The Short Life of Online Sales Leads&quot;): компании, которые пытались связаться с лидом в течение часа, почти в семь раз чаще доводили его до квалифицированного разговора, чем те, кто ждал дольше. Исследование касалось веб-форм и звонков, до того как мессенджеры стали главным каналом. В переписке, где клиент ждёт ответа в пределах минут, окно, скорее всего, ещё короче; это наше наблюдение, а не цифра из исследования.</p><p>В салонах, клиниках и недвижимости картина та же: заявку теряют не на переговорах, а пока она ждёт ответа. Типичные причины медленного первого ответа:</p><ul class="check"><li>Сообщения приходят в разные места: личные телефоны, Instagram, почта сайта</li><li>Ответственный не назначен, и каждый думает, что ответил кто-то другой</li><li>Администратор занят клиентом на ресепшн</li><li>Вечером, в выходные и праздники отвечать некому</li><li>Первый ответ - прайс без вопроса, и разговор на этом заканчивается</li></ul></div></section>
+<section><div class="wrap body"><h2>Как измерить время первого ответа в CRM</h2><p>Нельзя исправить то, что не измеряется. Время первого ответа - это время между первым сообщением, звонком или формой и первым ответом живого человека. Настраивается так:</p><ul class="check"><li>Каждый канал создаёт заявку в CRM: WhatsApp, Instagram, Telegram, формы сайта, лид-формы рекламы и пропущенные звонки</li><li>Фиксируются два момента: когда пришла заявка и когда впервые ответил человек; некоторые CRM показывают это в отчётах сразу, иначе оба времени записывает в поля автоматизация</li><li>Автоответ считается отдельно: он удерживает клиента, но это не первый ответ команды</li><li>Смотрите на медиану, а не только на среднее, и на долю заявок с ответом в пределах цели: одна заявка, отвеченная через десять часов, портит среднее, но говорит меньше, чем доля</li><li>Разбивка по рабочему и нерабочему времени, по каналам и по сотрудникам показывает, где на самом деле задержка</li><li>Раз в неделю читайте десять случайных переписок: цифра показывает скорость, переписка - был ли ответ полезным</li></ul></div></section>
+<section><div class="wrap body"><h2>Какую цель поставить</h2><p>Официального стандарта нет. Цели ниже - наша рекомендация для бизнеса, который продаёт в мессенджерах, исходя из того, как клиенты ведут себя в переписке; подстройте их под ваш поток и команду. Отслеживайте долю заявок, которые уложились в цель, например долю чатов WhatsApp с ответом в пределах пяти минут, и поднимайте её от месяца к месяцу.</p><div class="tw"><table><tr><th>Канал и время</th><th>Рекомендуемый первый ответ</th></tr><tr><td>WhatsApp или Instagram, рабочее время</td><td class="v">В течение 5 минут</td></tr><tr><td>Форма сайта или лид-форма рекламы, рабочее время</td><td class="v">Звонок или сообщение в течение 15 минут</td></tr><tr><td>Пропущенный звонок</td><td class="v">Перезвонить в течение 15 минут</td></tr><tr><td>Вечер, ночь, выходные</td><td class="v">Сразу бот, утром - человек</td></tr><tr><td>Жалоба или срочный вопрос</td><td class="v">Сразу, с передачей руководителю</td></tr></table></div></div></section>
+<section><div class="wrap body"><h2>Как ускорить первый ответ</h2><p>Скорость дают настройки, а не призывы к команде стараться лучше.</p><ul class="check"><li>Автоответ с одним полезным вопросом: не &quot;спасибо за обращение&quot;, а &quot;Какая процедура вас интересует и какой день удобен?&quot; Клиент отвечает, и администратор начинает с реального запроса</li><li>Распределение: каждая новая заявка сразу получает одного ответственного - по каналу, языку, услуге или по очереди</li><li>Уведомления: новая заявка видна на экране администратора и в мобильном приложении CRM, а заявка без ответа дольше цели поднимает сигнал у руководителя</li><li>Быстрые ответы и шаблоны про цены, адрес, парковку и подготовку к процедуре, чтобы ответ занимал секунды</li><li>ИИ-бот на ночь, выходные и часы пик: отвечает на типовые вопросы как хороший администратор, собирает данные, предлагает время и передаёт диалог человеку, когда это нужно</li><li>Ежедневный контрольный отчёт для владельца: заявки за вчера, медиана первого ответа, заявки без ответа и без следующего шага</li></ul></div></section>
+<section><div class="wrap body"><h2>Чек-лист владельца на неделю</h2><p>Пятнадцати минут раз в неделю достаточно, чтобы держать скорость ответа под контролем.</p><ul class="check"><li>Медиана первого ответа за неделю в сравнении с прошлой, в рабочее и нерабочее время</li><li>Доля заявок из мессенджеров с ответом в пределах цели</li><li>Заявки, на которые так и не ответил человек, и почему</li><li>Скорость ответа по сотрудникам и каналам: где сидит задержка</li><li>Десять случайных переписок целиком: был ли первый ответ полезным, предложен ли следующий шаг</li><li>Заявки, которые бот передал человеку: как быстро человек их подхватил</li><li>Одно изменение на следующую неделю: шаблон, правило распределения или график смен</li></ul></div></section>
+<section><div class="wrap body"><h2>Как мы помогаем</h2><p>TLNT.ae настраивает это в рамках внедрения amoCRM (Kommo), где мы официальный партнёр по программе amoSTART, или Zoho CRM: все каналы приходят в CRM, скорость ответа измеряется, заявки распределяются, а владелец получает ежедневный отчёт.</p><p>На ночь, выходные и часы пик делаем ИИ-ботов для WhatsApp, Instagram и Telegram: они отвечают как хороший администратор, передают диалог человеку, когда это нужно, и могут сами начать разговор с клиентами, которые дали согласие на рассылки, например напомнить о визите или прислать предложение. Начинаем с бесплатного 15-минутного разбора того, как быстро вы отвечаете сейчас; цена проекта фиксированная и согласуется до старта работ.</p></div></section>
+
+<section>
+  <div class="wrap">
+    <h2>Частые вопросы</h2>
+    <details open><summary>Как быстро нужно отвечать на заявку в WhatsApp?</summary><p>Наша рекомендация для заявок из мессенджеров: первый ответ живого человека в течение 5 минут в рабочее время, а в нерабочее - мгновенный автоответ или ИИ-бот и ответ человека в начале следующего рабочего дня. Это рабочая цель, а не официальный стандарт.</p></details>
+    <details><summary>Считается ли автоответ первым ответом?</summary><p>Для измерения - нет. Автоответ с одним полезным вопросом удерживает клиента в разговоре, но первый ответ человека считайте отдельно: именно эта цифра показывает, успевает ли команда.</p></details>
+    <details><summary>Как измерить скорость ответа на заявки в CRM?</summary><p>Подключите все каналы так, чтобы каждое сообщение, форма и пропущенный звонок создавали заявку, и фиксируйте, когда пришла заявка и когда впервые ответил человек. Смотрите медиану и долю заявок с ответом в пределах цели, отдельно по каналам, сотрудникам и рабочим часам.</p></details>
+  </div>
+</section>
+
+<section id="start" class="endcta">
+  <div class="wrap">
+    <h2>Разберём вашу ситуацию</h2>
+    <p class="lead" style="max-width:480px;margin:0 auto 8px">Бесплатный разбор в WhatsApp: посмотрим на ваши цифры и честно скажем, что бы мы сделали.</p>
+    <a class="cta" href="https://wa.me/971509851420?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%A5%D0%BE%D1%87%D1%83%20%D1%83%D1%81%D0%BA%D0%BE%D1%80%D0%B8%D1%82%D1%8C%20%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B%20%D0%BD%D0%B0%20%D0%B7%D0%B0%D1%8F%D0%B2%D0%BA%D0%B8%20%D0%B2%20WhatsApp%20%D0%B8%20Instagram.%20%D0%9C%D0%BE%D0%B6%D0%BD%D0%BE%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D1%8B%D0%B9%20%D1%80%D0%B0%D0%B7%D0%B1%D0%BE%D1%80%3F">Написать в WhatsApp</a>
+    <div class="links"><a href="/calculator/">Калькулятор</a><a href="/salary-guide/">Гид по зарплатам</a><a href="/">Все услуги</a></div>
+  </div>
+</section>
+
+<section style="max-width:720px;margin:0 auto;padding:6px 22px 30px"><div style="font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:#7a7266;margin-bottom:14px">По теме</div><div style="display:flex;flex-wrap:wrap;gap:10px"><a href="/consulting/ai-bot/" style="display:inline-block;border:1px solid #e6dccc;border-radius:100px;padding:8px 15px;font-size:14px;color:#6b6155;text-decoration:none;font-weight:600">ИИ-бот для WhatsApp и Instagram</a><a href="/consulting/amocrm/" style="display:inline-block;border:1px solid #e6dccc;border-radius:100px;padding:8px 15px;font-size:14px;color:#6b6155;text-decoration:none;font-weight:600">Внедрение amoCRM</a><a href="/guides/kak-uvelichit-potok-zayavok-salon-klinika/" style="display:inline-block;border:1px solid #e6dccc;border-radius:100px;padding:8px 15px;font-size:14px;color:#6b6155;text-decoration:none;font-weight:600">Как увеличить поток заявок</a><a href="/guides/kak-uvelichit-prodazhi-kliniki-salona/" style="display:inline-block;border:1px solid #e6dccc;border-radius:100px;padding:8px 15px;font-size:14px;color:#6b6155;text-decoration:none;font-weight:600">Как увеличить продажи клиники и салона</a><a href="/guides/oshibki-vnedreniya-crm/" style="display:inline-block;border:1px solid #e6dccc;border-radius:100px;padding:8px 15px;font-size:14px;color:#6b6155;text-decoration:none;font-weight:600">Ошибки внедрения CRM</a><a href="/consulting/" style="display:inline-block;border:1px solid #e6dccc;border-radius:100px;padding:8px 15px;font-size:14px;color:#6b6155;text-decoration:none;font-weight:600">Бизнес-консалтинг: CRM, ИИ, стратегия</a></div></section>
+<nav id="sitenav" aria-label="Навигация по TLNT" style="position:static;z-index:auto;backdrop-filter:none;-webkit-backdrop-filter:none;border-bottom:0;border-top:1px solid #ece4d8;background:#f7f2ea;padding:34px 22px 26px;font-family:Nunito Sans,sans-serif"><div style="max-width:1060px;margin:0 auto"><div style="font-family:Cormorant Garamond,serif;font-size:26px;color:#3f3a33;margin-bottom:18px">Навигация по TLNT</div><div style="display:flex;flex-wrap:wrap;gap:22px 34px"><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Услуги</div><a href="/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Подбор персонала в Дубае</a><a href="/crm/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">CRM для салона и клиники</a><a href="/consulting/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Бизнес-консалтинг: CRM и ИИ</a><a href="/team-audit/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Аудит команды</a><a href="/mini-audit/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Бесплатный разбор вакансии</a><a href="/calculator/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Калькулятор гонорара</a><a href="/about/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">О компании</a></div><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Роли</div><a href="/roles/#medical" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Врачи и медперсонал</a><a href="/roles/#beauty" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Бьюти и спа</a><a href="/roles/#management" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Управление и ресепшн</a><a href="/roles/#household" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Дом и частный персонал</a><a href="/roles/#business" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Бизнес и офис</a><a href="/roles/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Все роли</a></div><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Гайды</div><a href="/guides/#salon" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Владельцам салонов</a><a href="/guides/#clinic" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Клиники и врачи</a><a href="/guides/#owner" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Рост салона и клиники</a><a href="/guides/#hiring" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Найм в ОАЭ</a><a href="/guides/#candidate" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Кандидатам</a><a href="/guides/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Все гайды</a></div><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Инструменты</div><a href="/salary-index-2026/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Индекс зарплат 2026</a><a href="/vakansii/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Открытые вакансии</a><a href="/resume/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Конструктор резюме</a><a href="/candidates/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Отправить резюме</a><a href="/guides/russkoyazychnyy-personal-dubai/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Русскоязычный персонал</a></div></div><div style="margin-top:20px;padding-top:14px;border-top:1px solid #e6dccc;font-size:14px;color:#7a7266"><a href="https://wa.me/971509851420" style="color:#986e35;font-weight:700;text-decoration:none">WhatsApp +971 50 985 1420</a> · <a href="/en/" style="color:#7a7266">English version</a></div></div></nav>
+<footer>tlnt.ae · консалтинг по подбору и найму, поддержка бизнеса в ОАЭ</footer>
+<script src="/widget.js?v=20260926m"></script>
+</body>
+</html>
