@@ -388,7 +388,7 @@
       { t: "WhatsApp",         h: WA_URL,  i: "wa", c: "#25D366" },
       { t: "Telegram",         h: TG_URL,  i: "tg", c: "#229ED9" },
       { t: "Instagram",        h: "https://www.instagram.com/tlnt.ae/", i: "ig", c: "#E1306C" },
-      { t: "LinkedIn",         h: "https://www.linkedin.com/in/staskochukov", i: "li", c: "#0A66C2" },
+      { t: "LinkedIn",         h: "https://www.linkedin.com/company/talent4match", i: "li", c: "#0A66C2" },
       { t: "Facebook",         h: "https://www.facebook.com/profile.php?id=61592691063350", i: "fb", c: "#1877F2" },
       { t: "cv@tlnt.ae",       h: "mailto:cv@tlnt.ae",   i: "ml", c: "#986e35" },
       { t: "+971 50 985 1420", h: "tel:+971509851420",   i: "ph", c: "#986e35" }
