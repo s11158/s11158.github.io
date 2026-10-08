@@ -20,6 +20,7 @@
 - [Внедрение Zoho CRM (RU)](https://tlnt.ae/consulting/zoho-crm/) / [Zoho CRM implementation (EN)](https://tlnt.ae/en/consulting/zoho-crm/): модули, Blueprint, автоматизации, интеграции с WhatsApp, сайтом и Zoho Books, перенос данных
 - [ИИ-бот и рассылки (RU)](https://tlnt.ae/consulting/ai-bot/) / [AI chatbot and broadcasts (EN)](https://tlnt.ae/en/consulting/ai-bot/): бот отвечает 24/7 по базе знаний бизнеса, записывает, передаёт сложное человеку, пишет первым по одобренным шаблонам WhatsApp Business API тем, кто дал согласие
 - [Конкурентный анализ (RU)](https://tlnt.ae/consulting/competitor-analysis/) / [Competitor analysis (EN)](https://tlnt.ae/en/consulting/competitor-analysis/): тайный покупатель, цены, отзывы, реклама и контент конкурентов, позиционирование и план на 90 дней
+- [CRM и ИИ-бот для клиник (RU)](https://tlnt.ae/consulting/clinics/) / [CRM and AI chatbot for clinics (EN)](https://tlnt.ae/en/consulting/clinics/): решение для клиник Дубая на amoCRM: все каналы в одном окне, запись и напоминания с подтверждением против неявок, контроль плана лечения, ИИ-бот без медицинских советов (при остром состоянии советует звонить 998), медицинские данные остаются в ОАЭ по федеральному закону № 2 от 2019 года, рассылки только с согласия, тексты по стандартам медицинской рекламы DHA
 
 ## Кого подбираем (позиции)
 - [Администратор салона](https://tlnt.ae/salon-administrator/)
