@@ -1,0 +1,442 @@
+<!-- meta-domain-verification Solar Medical Clinic (2026-10-07) -->
+<meta name="facebook-domain-verification" content="f8wn25g14z1s30g3vh8jnkptjjmtxy" />
+<!-- solar-archive-301: redirect deprecated device pages to service pages (2026-07-28) -->
+<script>
+(function(){
+var M={
+"/park/harmony-xl-archive":"/aesthetic-services/harmony-xl",
+"/park/heleo4-archive":"/aesthetic-services/therapy-heleo4",
+"/park/virtue-rf-archive":"/aesthetic-services/lifting-virtue-rf",
+"/park/hydrafacial-archive":"/aesthetic-services/hydra-facial",
+"/park/ultraformer-classys-archive":"/aesthetic-services/smas-lifting-ultraformer-mpt"
+};
+var p=(location.pathname||'').replace(/\/+$/,'');
+var ru=(p.indexOf('/ru/')===0)||(p==='/ru');
+var base=ru?p.slice(3):p;
+if(base==='') base='/';
+var t=M[base];
+if(t){ location.replace((ru?'/ru':'')+t+location.search); }
+})();
+</script>
+<!--<script type="text/javascript" src="https://w825551.alteg.io/widgetJS" charset="UTF-8"></script>-->
+<!-- Roistat Counter Start -->
+<script>
+(function(w, d, s, h, id) {
+w.roistatProjectId = id; w.roistatHost = h;
+var p = d.location.protocol == "https:" ? "https://" : "http://";
+var u = /^.*roistat_visit=[^;]+(.*)?$/.test(d.cookie) ? "/dist/module.js" : "/api/site/1.0/"+id+"/init?referrer="+encodeURIComponent(d.location.href);
+var js = d.createElement(s); js.charset="UTF-8"; js.async = 1; js.src = p+h+u; var js2 = d.getElementsByTagName(s)[0]; js2.parentNode.insertBefore(js, js2);
+})(window, document, 'script', 'cloud.roistat.com', '9075274fa6fdda08c4a90238288f4658');
+</script>
+<!-- Roistat Counter End -->
+<meta name="google-site-verification" content="Au8CC1mOeHUFJ4gXvcDgIDT7i99fMLA8twXogPN28d4" />
+<script type="application/ld+json">
+{
+"@context": "https://schema.org",
+"@type": "HealthAndBeautyBusiness",
+"@id": "https://solar-beauty.ae/#clinic",
+"name": "SOLAR Beauty & Aesthetics Clinic",
+"legalName": "SOLAR MEDICAL CLINIC L.L.C",
+"url": "https://solar-beauty.ae",
+"logo": "https://static.tildacdn.net/tild3939-3234-4365-b239-373261353164/image_1.png",
+"image": "https://static.tildacdn.net/tild3939-3234-4365-b239-373261353164/image_1.png",
+"telephone": "+971507312314",
+"email": "solar.clinic.ae@gmail.com",
+"priceRange": "AED",
+"currenciesAccepted": "AED",
+"address": {
+"@type": "PostalAddress",
+"streetAddress": "Sobha Hartland Waves, Al Merkadh",
+"addressLocality": "Dubai",
+"addressRegion": "Dubai",
+"addressCountry": "AE"
+},
+"geo": { "@type": "GeoCoordinates", "latitude": 25.175284, "longitude": 55.3091755 },
+"hasMap": "https://maps.app.goo.gl/6H6z9PLsTpX4Crbv8",
+"openingHoursSpecification": [{
+"@type": "OpeningHoursSpecification",
+"dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"],
+"opens": "09:00",
+"closes": "21:00"
+}],
+"areaServed": [
+{ "@type": "City", "name": "Dubai" },
+{ "@type": "Place", "name": "Sobha Hartland" },
+{ "@type": "Place", "name": "Mohammed Bin Rashid City" },
+{ "@type": "Place", "name": "Meydan" },
+{ "@type": "Place", "name": "Business Bay" },
+{ "@type": "Place", "name": "Downtown Dubai" },
+{ "@type": "Place", "name": "Nad Al Sheba" },
+{ "@type": "Place", "name": "Al Merkadh" }
+],
+"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"reviewCount": "61",
+"bestRating": "5",
+"worstRating": "1"
+},
+"sameAs": [
+"https://www.instagram.com/solar.beauty.clinic/",
+"https://maps.app.goo.gl/6H6z9PLsTpX4Crbv8"
+]
+}
+</script>
+<!-- SOLAR: redirect duplicate park pages to service pages -->
+<script>
+(function(){var m={"/park/heleo4":"/aesthetic-services/therapy-heleo4","/ru/park/heleo4":"/ru/aesthetic-services/therapy-heleo4","/park/virtue-rf":"/aesthetic-services/lifting-virtue-rf","/ru/park/virtue-rf":"/ru/aesthetic-services/lifting-virtue-rf","/park/ultraformer-classys":"/aesthetic-services/smas-lifting-ultraformer-mpt","/ru/park/ultraformer-classys":"/ru/aesthetic-services/smas-lifting-ultraformer-mpt"};var p=location.pathname.replace(/\/+$/,"")||"/";if(m[p]){location.replace(m[p]);}})();
+</script>
+<!-- SOLAR · фикс переключателя языков RU/EN (EN /X <-> RU /ru/X) -->
+<script>
+(function () {
+function fixLangLinks() {
+var path = window.location.pathname || '/';
+var isRu = /^\/ru(\/|$)/.test(path);
+var enPath, ruPath;
+if (isRu) {
+enPath = path.replace(/^\/ru/, '') || '/';
+ruPath = path;
+} else {
+enPath = path;
+ruPath = (path === '/') ? '/ru' : '/ru' + path;
+}
+document.querySelectorAll('a').forEach(function (a) {
+var t = (a.textContent || '').trim().toUpperCase();
+if (t === 'RU' || t === 'РУ' || t === 'RUS') { a.setAttribute('href', ruPath); }
+else if (t === 'EN' || t === 'ENG') { a.setAttribute('href', enPath); }
+});
+}
+function run(){ fixLangLinks(); }
+if (document.readyState !== 'loading') run();
+else document.addEventListener('DOMContentLoaded', run);
+window.addEventListener('load', run);
+[400, 1000, 2000].forEach(function (ms) { setTimeout(run, ms); });
+})();
+</script>
+<!-- SOLAR: Google-отзывы (Featurable EN-виджет) на выбранных страницах.
+Место: перед блоком "Программа лояльности"; если его нет - перед блоком "Контакты";
+если нет и его - перед подвалом. Оформление: фон и заголовок в стиле сайта,
+внутрь виджета (shadow DOM) добавляются стили SOLAR. -->
+<style>
+#solar-reviews-section{background:#F4EDE7;padding:5vw 0 4vw;}
+#solar-reviews-section .srv-head{padding:0 5vw;margin:0 0 1.4vw;}
+#solar-reviews-section .srv-title{font-family:'SerifPro',Georgia,serif;font-weight:400;color:#4B1E35;
+font-size:2.34vw;line-height:1.15;margin:0 0 .8vw;}
+#solar-reviews-section .srv-title span{color:#B8844A;}
+#solar-reviews-section .srv-sub{font-family:'SerifPro',Georgia,serif;font-weight:400;color:#60384B;
+font-size:1.34vw;line-height:1.4;margin:0;}
+@media (max-width:1199px){
+#solar-reviews-section{padding:60px 0 40px;}
+#solar-reviews-section .srv-head{padding:0 20px;margin-bottom:16px;}
+#solar-reviews-section .srv-title{font-size:2.5vw;margin-bottom:8px;}
+#solar-reviews-section .srv-sub{font-size:1.46vw;}
+}
+@media (max-width:959px){
+#solar-reviews-section .srv-title{font-size:22px;}
+#solar-reviews-section .srv-sub{font-size:14px;}
+}
+@media (max-width:479px){
+#solar-reviews-section{padding:48px 0 32px;}
+#solar-reviews-section .srv-head{padding:0 15px;}
+#solar-reviews-section .srv-title{font-size:6vw;}
+#solar-reviews-section .srv-sub{font-size:3.75vw;}
+}
+</style>
+<script>
+(function () {
+var PATHS = [
+"/", "/ru",
+"/aesthetic-services", "/ru/aesthetic-services",
+"/aesthetic-services/ulfit", "/ru/aesthetic-services/ulfit",
+"/ulfit-en",
+"/aesthetic-services/hydra-facial", "/ru/aesthetic-services/hydra-facial",
+"/aesthetic-services/therapy-heleo4", "/ru/aesthetic-services/therapy-heleo4",
+"/aesthetic-services/lifting-virtue-rf", "/ru/aesthetic-services/lifting-virtue-rf",
+"/aesthetic-services/smas-lifting-ultraformer-mpt", "/ru/aesthetic-services/smas-lifting-ultraformer-mpt",
+"/aesthetic-services/aesthetic-cosmetology", "/ru/aesthetic-services/aesthetic-cosmetology",
+"/aesthetic-services/botox", "/ru/aesthetic-services/botox",
+"/aesthetic-services/harmony-xl", "/ru/aesthetic-services/harmony-xl",
+"/contacts", "/ru/contacts",
+"/philosophy", "/ru/philosophy"
+];
+var WIDGET_ID = "featurable-8cc0f46e-97df-45db-8642-ed15a1c21526";
+var p = location.pathname.replace(/\/+$/, "") || "/";
+var listed = PATHS.indexOf(p) !== -1;
+var isRu = p === "/ru" || p.indexOf("/ru/") === 0;
+// Стили внутри виджета (shadow DOM открыт, внешний CSS туда не проникает).
+// VISUAL_CSS - цвета и шрифты; LAYOUT_CSS - выравнивание по сетке, только для нашей секции.
+var VISUAL_CSS =
+".widget{background:transparent !important;font-family:'Geist',Arial,sans-serif !important;}" +
+".widget *{font-family:'Geist',Arial,sans-serif !important;}" +
+".summary-bar,.review{background:#FBF8F5 !important;border-color:#E6D7C6 !important;box-shadow:none !important;border-radius:12px !important;}" +
+".summary-bar__label,.review__reviewer-name{color:#4B1E35 !important;}" +
+".summary-bar__rating,.review__text--md,.review__text--light{color:#3B2A33 !important;}" +
+".summary-bar__sublabel,.summary-bar__profile-link,.review__date--md,.review__date--light,.review__read-more{color:#8A7480 !important;}" +
+".summary-bar__btn{background:#B8844A !important;color:#fff !important;border-radius:6px !important;}" +
+".summary-bar__btn:hover{background:#A3733D !important;}" +
+".carousel__btn{background:#FBF8F5 !important;border-color:#E6D7C6 !important;color:#B8844A !important;box-shadow:none !important;}";
+var LAYOUT_CSS =
+".widget{padding:0 !important;}" +
+// Выравнивание по сетке сайта: края как у заголовков (5vw на десктопе, 20/15px на мобильных).
+".parent{max-width:none !important;margin:0 !important;}" +
+".carousel__summary{max-width:none !important;padding:0 20px !important;}" +
+".carousel{max-width:none !important;padding:0 40px !important;}" +
+"@media (min-width:1200px){.carousel__summary{padding:0 5vw !important;}.carousel{padding:0 calc(5vw - 8px) !important;}" +
+".carousel__btn--left{left:calc(2.5vw - 18px) !important;}.carousel__btn--right{right:calc(2.5vw - 18px) !important;}}" +
+"@media (max-width:639px){.carousel{padding:0 20px !important;}.carousel__btn{display:none !important;}}" +
+"@media (max-width:479px){.carousel__summary{padding:0 15px !important;}.carousel{padding:0 15px !important;}}";
+function styleWidget(css) {
+var tries = 0;
+var t = setInterval(function () {
+tries++;
+var host = document.querySelector("#" + WIDGET_ID + " .shadow-wrapper");
+var sr = host && host.shadowRoot;
+if (sr && !sr.getElementById("solar-fs")) {
+var st = document.createElement("style");
+st.id = "solar-fs";
+st.textContent = css;
+sr.appendChild(st);
+}
+if (tries > 40) clearInterval(t);
+}, 500);
+}
+function atomTexts(rec) {
+var a = rec.querySelectorAll(".tn-atom"), out = [];
+for (var i = 0; i < a.length; i++) {
+var s = (a[i].textContent || "").replace(/\s+/g, " ").trim();
+if (s) out.push(s);
+}
+return out;
+}
+// Ищем место: "Программа лояльности", затем "Контакты", затем подвал.
+function findTarget() {
+var recs = document.querySelectorAll("#allrecords > .t-rec");
+var contacts = null, footer = null;
+for (var i = 0; i < recs.length; i++) {
+var t = atomTexts(recs[i]);
+for (var j = 0; j < t.length; j++) {
+if (/loyalty program\s*&|лояльност/i.test(t[j]) && !/^(loyalty program|программа лояльности)$/i.test(t[j])) return recs[i];
+if (!footer && /^(privacy policy|политика конфиденциальности)$/i.test(t[j])) footer = recs[i];
+}
+if (!contacts && /^(contacts|контакты)$/i.test(t[0] || "")) contacts = recs[i];
+}
+return contacts || footer || document.getElementById("t-footer");
+}
+function insert() {
+var sec = document.createElement("div");
+sec.id = "solar-reviews-section";
+sec.innerHTML =
+'<div class="srv-head"><h2 class="srv-title">' +
+(isRu ? "Отзывы <span>наших клиентов</span>" : "Client <span>Reviews</span>") + "</h2>" +
+'<p class="srv-sub">' + (isRu ? "Что говорят наши клиенты" : "What our clients say") + "</p></div>" +
+'<div class="srv-widget"><div id="' + WIDGET_ID + '" data-featurable-async></div></div>';
+var target = findTarget();
+if (target && target.parentNode) { target.parentNode.insertBefore(sec, target); }
+else { (document.getElementById("allrecords") || document.body).appendChild(sec); }
+var s = document.createElement("script");
+s.src = "https://cdn.featurable.com/widget/v2/embed.js";
+s.defer = true; s.charset = "UTF-8";
+document.body.appendChild(s);
+styleWidget(VISUAL_CSS + LAYOUT_CSS);
+}
+// Если отзывы уже встроены в страницу вручную (например, Botox) - не двигаем их, только оформляем.
+function run() {
+if (document.getElementById("solar-reviews-section")) { styleWidget(VISUAL_CSS); return; }
+if (listed) insert();
+}
+if (document.readyState === "loading") { document.addEventListener("DOMContentLoaded", run); }
+else { run(); }
+})();
+</script>
+<!-- SOLAR: park-price-placeholder - временно скрываем блок прайса на страницах приборов /park/*.
+Причина: в блоке T792 остался тестовый товар "Карбоновый пилинг - 100 AED", его видели клиенты.
+УДАЛИТЬ этот код, как только в прайс-блоки внесут реальные цены. -->
+<script>
+(function(){
+if(!/^\/(ru\/)?park\/./.test(location.pathname)) return;
+var s=document.createElement("style");
+s.textContent='.t-rec[data-record-type="792"]{display:none !important}';
+(document.head||document.documentElement).appendChild(s);
+function hideTitle(){
+var el=document.querySelector('.t-rec[data-record-type="792"]');
+if(!el) return;
+var p=el.previousElementSibling;
+if(p && /Прайс на услуги|Price list/i.test(p.innerText||"")) p.style.display="none";
+}
+document.addEventListener("DOMContentLoaded",hideTitle);
+[300,1000,2000].forEach(function(ms){setTimeout(hideTitle,ms);});
+})();
+</script>
+<!-- solar-lang-hreflang v4 (2026-09-22): fix lang ru/ar + hreflang RU<->EN<->AR. 49 paired paths built from live sitemap. Archive pages and /park/ulfit excluded (server 301 now handles them). -->
+<script>
+(function(){
+var host='https://solar-beauty.ae';
+var p=(location.pathname||'/').replace(/\/+$/,'')||'/';
+var isRu=(p==='/ru'||p.indexOf('/ru/')===0);
+var isAr=(p==='/ar'||p.indexOf('/ar/')===0);
+if(isRu){document.documentElement.lang='ru';}
+if(isAr){document.documentElement.lang='ar';}
+var enPaths=["/", "/aesthetic-services", "/aesthetic-services/aesthetic-cosmetology", "/aesthetic-services/body-sculpting-tesla-former", "/aesthetic-services/botox", "/aesthetic-services/dermal-fillers", "/aesthetic-services/lip-fillers", "/aesthetic-services/skin-boosters", "/aesthetic-services/pigmentation-treatment", "/aesthetic-services/acne-scar-treatment", "/aesthetic-services/chemical-peel", "/aesthetic-services/mesotherapy", "/aesthetic-services/hair-loss-treatment", "/aesthetic-services/laser-tattoo-removal", "/aesthetic-services/harmony-xl", "/aesthetic-services/hydra-facial", "/aesthetic-services/lifting-virtue-rf", "/aesthetic-services/lymphatic-drainage-icoone", "/aesthetic-services/massage-spa", "/aesthetic-services/mens-menu", "/aesthetic-services/non-surgical-liposuction-ulfit", "/aesthetic-services/smas-lifting-ultraformer-mpt", "/aesthetic-services/therapy-heleo4", "/beauty-services", "/beauty-services/childrens-menu", "/beauty-services/hair-care", "/beauty-services/hair-coloring", "/beauty-services/haircut-styling", "/beauty-services/nail-service", "/beauty-services/podiatry", "/blog", "/blog/bezinekcionnaya-mezoterapiya-dermadrop-dubai", "/blog/biorevitalizaciya-dubai", "/blog/botoks-mify-dozirovki", "/blog/diagnostika-kozhi-golovy-heleo4-dubai", "/blog/endosfera-terapiya-dubai", "/blog/harmony-xl-lazernaya-epilyaciya", "/blog/hifu-ili-hirurgicheskaya-podtyazhka", "/blog/hydrafacial-ili-obychnaya-chistka", "/blog/lechenie-pigmentacii-harmony-dubai", "/blog/led-terapiya-heleo4", "/blog/morpheus-8-ili-virtue-rf", "/blog/rf-lifting-kolenej-i-loktej-dubai", "/blog/virtue-rf-mikronidling", "/certificates", "/contacts", "/corporate-gifts", "/cosmetologist-consultation", "/curly-method", "/home-service", "/licenses", "/loyalty-program", "/oferta", "/philosophy", "/policy", "/self-love-retreat", "/special", "/team", "/team/madina-kozhabayeva", "/team/olga-dimova", "/team/valerija-orlove", "/team/victoria-petrova"];
+var arPaths=["/corporate-gifts"];
+var enPath=(isRu||isAr)?(p.length<=3?'/':p.slice(3)):p;
+if(enPaths.indexOf(enPath)===-1) return;
+var enURL=host+(enPath==='/'?'/':enPath);
+var ruURL=host+(enPath==='/'?'/ru':'/ru'+enPath);
+function add(hl,href){ if(document.querySelector('link[rel=alternate][hreflang="'+hl+'"]'))return;
+var l=document.createElement('link');l.rel='alternate';l.setAttribute('hreflang',hl);l.href=href;document.head.appendChild(l);}
+add('en',enURL); add('ru',ruURL);
+if(arPaths.indexOf(enPath)!==-1){ add('ar',host+'/ar'+enPath); }
+add('x-default',enURL);
+})();
+</script>
+<!-- solar-h1-inject v2: add a proper H1 on pages that lack one (2026-09-22, 18 pages) -->
+<script>
+(function(){
+var MAP={
+"/ar/corporate-gifts":"Corporate Gifts from SOLAR Beauty & Aesthetics Clinic, Dubai",
+"/blog":"SOLAR Beauty Blog: aesthetic procedures explained",
+"/ru/blog":"Блог о косметологии SOLAR: разборы процедур и технологий",
+"/certificates":"SOLAR Gift Certificate - The Formula for a Perfect Gift",
+"/oferta":"Terms of Use of the Site - SOLAR Clinic, Dubai",
+"/policy":"Privacy Policy - SOLAR Clinic, Dubai",
+"/ru/oferta":"Пользовательское соглашение - клиника SOLAR, Дубай",
+"/ru/policy":"Политика конфиденциальности - клиника SOLAR, Дубай",
+"/team/olga-dimova":"Olga Dimova - Cosmetologist, GP Aesthetic Doctor (DHA) at SOLAR, Dubai",
+"/team/valerija-orlove":"Valerija Orlove - Beauty and Laser Therapist at SOLAR, Dubai",
+"/contacts":"Contacts - SOLAR Aesthetic & Beauty Clinic in Dubai",
+"/ru/contacts":"Контакты - клиника SOLAR в Дубае (Sobha Hartland)",
+"/catalog":"Cosmetics Catalog - SOLAR Clinic, Dubai",
+"/delivery-payment":"Payment & Delivery - SOLAR Clinic, Dubai",
+"/loyalty-program":"SOLAR Loyalty Program - Aesthetic Clinic in Dubai",
+"/ru/loyalty-program":"Программа лояльности SOLAR - клиника в Дубае",
+"/team/madina-kozhabayeva":"Madina Kozhabayeva - GP & Aesthetician at SOLAR, Dubai",
+"/team/victoria-petrova":"Victoria Petrova - Cosmetologist & Laser Therapist at SOLAR, Dubai"
+};
+var p=(location.pathname||'/').replace(/\/+$/,'')||'/';
+var txt=MAP[p]; if(!txt) return;
+function inject(){
+if(document.querySelector('h1')) return true;
+var ar=document.querySelector('#allrecords')||document.body;
+if(!ar) return false;
+var h1=document.createElement('h1');
+h1.textContent=txt;
+h1.setAttribute('style','max-width:1100px;margin:0 auto;padding:104px 24px 8px;text-align:center;font:600 30px/1.25 Georgia,\'Times New Roman\',serif;color:#1c1a17;');
+ar.insertBefore(h1, ar.firstChild);
+return true;
+}
+var t=0, iv=setInterval(function(){ if(inject()||++t>50) clearInterval(iv); },150);
+if(document.readyState!=='loading') inject(); else document.addEventListener('DOMContentLoaded',inject);
+})();
+</script>
+<!-- WhatsApp source tag (auto) -->
+<script>
+(function () {
+function detectSource() {
+var p = new URLSearchParams(location.search);
+var us = (p.get('utm_source') || '').toLowerCase();
+var um = (p.get('utm_medium') || '').toLowerCase();
+var uc = p.get('utm_campaign') || '';
+var gclid = p.get('gclid'), fbclid = p.get('fbclid');
+if (gclid || (us === 'google' && /cpc|ppc|paid/.test(um)))
+return 'Google Ads' + (uc ? ' / ' + uc : '');
+if (fbclid || us === 'instagram' || us === 'facebook' || us === 'meta' || us === 'ig' || us === 'fb')
+return 'Meta Ads' + (uc ? ' / ' + uc : '');
+if (us) return us.charAt(0).toUpperCase() + us.slice(1) + (uc ? ' / ' + uc : '');
+var r = document.referrer || '';
+try { if (new URL(r).host.indexOf(location.host) > -1) r = ''; } catch (e) {}
+if (!r) return 'Direct';
+if (/google\.|bing\.|yahoo\.|duckduckgo|yandex\./i.test(r)) return 'SEO / Organic Search';
+if (/instagram\.com/i.test(r)) return 'Instagram';
+if (/facebook\.com|fb\.com|l\.facebook/i.test(r)) return 'Facebook';
+if (/t\.me|telegram/i.test(r)) return 'Telegram';
+if (/tiktok\.com/i.test(r)) return 'TikTok';
+return 'Referral';
+}
+var source = detectSource();
+var lang = location.pathname.indexOf('/ru') === 0 ? 'RU' : 'EN';
+var page = (document.title || '').replace(/\s*[|—].*$/, '').trim() || location.pathname;
+var tag = '\n\n[Source: ' + source + ' · ' + lang + ' · Page: ' + page + ']';
+function tagLinks() {
+var links = document.querySelectorAll(
+'a[href*="wa.me"],a[href*="api.whatsapp.com"],a[href*="whatsapp://"]'
+);
+for (var i = 0; i < links.length; i++) {
+var a = links[i];
+if (a.getAttribute('data-src-tagged')) continue;
+var href = a.getAttribute('href') || '';
+if (/[?&]text=/.test(href)) {
+href += encodeURIComponent(tag);                 // дописываем к уже готовому тексту
+} else {
+href += (href.indexOf('?') < 0 ? '?' : '&') + 'text=' + encodeURIComponent('Hi! ' + tag);
+}
+a.setAttribute('href', href);
+a.setAttribute('data-src-tagged', '1');
+}
+}
+if (document.readyState !== 'loading') tagLinks();
+else document.addEventListener('DOMContentLoaded', tagLinks);
+// Tilda подгружает кнопки и попапы позже - повторяем:
+setTimeout(tagLinks, 1500);
+setTimeout(tagLinks, 4000);
+document.addEventListener('click', tagLinks, true);   // страховка перед самим кликом
+})();
+</script>
+<!-- solar-meta-trim: shorten over-length SEO title/description on worst EN pages (2026-07-28) -->
+<script>
+(function(){
+var M={
+"/aesthetic-services":{t:"Aesthetic Services in Dubai - Laser, Botox, HIFU | SOLAR", d:"Advanced aesthetic care at SOLAR Clinic, Sobha Hartland (near Business Bay): laser hair removal, Botox, HydraFacial, RF microneedling & HIFU/SMAS lifting."},
+"/certificates":{t:"Gift Certificate - SOLAR Beauty & Aesthetics Clinic Dubai", d:"A SOLAR gift certificate: set any amount, and the recipient uses it toward any treatment across our 360° beauty & aesthetics concept in Dubai."},
+"/":{d:"SOLAR - premier aesthetic & beauty clinic in Dubai (Sobha Hartland), 10 min from Business Bay. SMAS lifting, RF, laser hair removal, hair & nails."},
+"/aesthetic-services/lifting-virtue-rf":{d:"Virtue RF microneedling at SOLAR Clinic, Sobha Hartland (10 min from Business Bay): skin tightening, scar treatment & rejuvenation, zero downtime."},
+"/park/dermadrop-tda":{d:"Dermadrop TDA at SOLAR Dubai: needle-free mesotherapy alternative - high-pressure oxygen drives actives deep into skin for hydration, pain-free."}
+};
+var p=(location.pathname||'/').replace(/\/+$/,'')||'/';
+var o=M[p]; if(!o) return;
+function apply(){
+if(o.t) document.title=o.t;
+if(o.d){ var m=document.querySelector('meta[name="description"]'); if(!m){m=document.createElement('meta');m.setAttribute('name','description');document.head.appendChild(m);} m.setAttribute('content',o.d); }
+}
+apply();
+if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',apply);
+setTimeout(apply,1500);
+})();
+</script>
+<!-- solar-seo-ext v1 (2026-10-19): solar-internal-links + solar-seo-extras moved to tlnt.ae/solar/js/solar-seo-ext.js (repo s11158.github.io) -->
+<script src="https://tlnt.ae/solar/js/solar-seo-ext.js?v=20261019" defer></script>
+<!-- solar-ga4-leads v1 (2026-09-23): GA4 events for WhatsApp, phone and Altegio booking clicks -->
+<script>
+(function(){
+window.dataLayer = window.dataLayer || [];
+function g(){ window.dataLayer.push(arguments); }
+function send(name, url){
+var p = { link_url: String(url).split('?')[0], page_path: location.pathname, lang: /^\/ru(\/|$)/.test(location.pathname) ? 'ru' : 'en' };
+if (typeof window.gtag === 'function') window.gtag('event', name, p); else g('event', name, p);
+}
+document.addEventListener('click', function(e){
+var a = e.target && e.target.closest ? e.target.closest('a') : null;
+if (!a) return;
+var h = a.getAttribute('href') || '';
+if (/wa\.me|api\.whatsapp\.com|whatsapp:\/\//i.test(h)) send('whatsapp_click', h);
+else if (/^tel:/i.test(h)) send('phone_click', h);
+else if (/alteg\.io|altegio/i.test(h)) send('booking_open', h);
+}, true);
+})();
+</script>
+<!-- solar-pairs v2 (2026-10-17): hreflang + RU/EN switcher for article pairs with different slugs -->
+<script>
+(function(){
+var host='https://solar-beauty.ae';
+var p=(location.pathname||'/').replace(/\/+$/,'')||'/';
+var P={'/blog/podiatry-when-to-see-a-podiatrist':'/ru/blog/podologiya-kogda-nuzhen-podolog','/blog/plasma-therapy-hair-loss':'/ru/blog/plazmoterapiya-dlya-volos','/blog/botox-for-sweating-hyperhidrosis':'/ru/blog/botoks-ot-pota-podmyshki','/blog/stretch-marks-c-section-scar-rf':'/ru/blog/virtue-rf-rastyazhki-posle-rodov','/blog/tesla-former-muscle-training':'/ru/blog/tesla-former-trenirovka-bez-sportzala','/blog/icoone-robotic-massage':'/ru/blog/icoone-robotizirovannyj-massazh','/blog/nofilters-harmony-skin-rejuvenation':'/ru/blog/nofilters-omolozhenie-harmony','/blog/prp-therapy-for-face':'/ru/blog/prp-terapiya-dlya-lica'};
+var en=null,ru=null;
+if(P[p]){en=p;ru=P[p];}else{for(var k in P){if(P[k]===p){en=k;ru=p;break;}}}
+if(!en)return;
+function add(hl,href){if(document.querySelector('link[rel=alternate][hreflang="'+hl+'"]'))return;var l=document.createElement('link');l.rel='alternate';l.setAttribute('hreflang',hl);l.href=href;document.head.appendChild(l);}
+add('en',host+en);add('ru',host+ru);add('x-default',host+en);
+var target=(p===en)?ru:en,label=(p===en)?'RU':'EN';
+function fix(){var as=document.querySelectorAll('a[href]');for(var i=0;i<as.length;i++){var a=as[i];var t=(a.textContent||'').trim().toUpperCase();if(t!==label)continue;var h=a.getAttribute('href')||'';if(h===target)continue;if(h==='/'||h==='/ru'||/^(https?:\/\/solar-beauty\.ae)?\/(ru(\/|$)|blog\/)/.test(h)){a.setAttribute('href',target);}}}
+var n=0,iv=setInterval(function(){fix();if(++n>12)clearInterval(iv);},500);
+if(document.readyState!=='loading')fix();else document.addEventListener('DOMContentLoaded',fix);
+})();
+</script>
