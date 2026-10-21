@@ -369,6 +369,39 @@
     true
   );
 
+  // ---- brand lockup in the header: "TLNT.ae" + what we do ----
+  // A first-time visitor should read who we are from the logo alone, so the bare
+  // "TLNT" in every page header becomes "TLNT.ae" with a one-line descriptor.
+  try {
+    var BR_EN = (document.documentElement.getAttribute("lang") || "ru").toLowerCase().indexOf("en") === 0;
+    var lg = document.querySelector("nav .logo, header .logo, a.logo, nav a[href='#top']");
+    if (lg && !lg.querySelector(".tlnt-ae") && /^\s*TLNT\.?\s*$/.test(lg.textContent)) {
+      var brCss =
+        ".tlnt-ae{font-size:.66em;letter-spacing:.02em;margin-left:-.3em}" +
+        ".tlnt-ae i{font-style:normal;color:#c8a878}" +
+        ".tlnt-tag{display:inline-block;margin-left:14px;vertical-align:middle;font:600 11px/1.2 'Nunito Sans',sans-serif;" +
+        "letter-spacing:.16em;text-transform:uppercase;color:#7a7266;white-space:nowrap}" +
+        "@media(max-width:640px){.tlnt-tag{display:block;margin:2px 0 0;max-width:100px;white-space:normal;" +
+        "font-size:8.5px;line-height:1.25;letter-spacing:.06em}.tlnt-lockup{letter-spacing:.1em!important}.tlnt-ae{font-size:.6em}}" +
+        "@media(max-width:360px){.tlnt-lockup{letter-spacing:.05em!important}.tlnt-tag{max-width:86px}}";
+      var bs = document.createElement("style");
+      bs.textContent = brCss;
+      document.head.appendChild(bs);
+      lg.classList.add("tlnt-lockup");
+      var word = lg.querySelector("b") && lg.querySelector("b").textContent.trim() === "TLNT" ? lg.querySelector("b") : null;
+      var ae = '<span class="tlnt-ae"><i>.</i>ae</span>';
+      if (word) word.insertAdjacentHTML("afterend", ae);
+      else lg.innerHTML = "TLNT" + ae;
+      var tag = document.createElement("span");
+      tag.className = "tlnt-tag";
+      tag.textContent = BR_EN ? "Talent Search UAE" : "Подбор персонала в ОАЭ";
+      // the home page had its own "Дубай · Абу-Даби" label (hidden on phones); the tag replaces it
+      var loc = document.querySelector(".tlnt-navloc");
+      if (loc) loc.style.display = "none";
+      lg.appendChild(tag);
+    }
+  } catch (e) {}
+
   // ---- "we're reachable everywhere" strip in the footer ----
   // One place for every channel we actually answer on. Injected here rather than
   // pasted into 24 pages, so adding a channel is a one-line change.
