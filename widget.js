@@ -371,9 +371,8 @@
 
   // ---- brand lockup in the header: "TLNT.ae" + what we do ----
   // A first-time visitor should read who we are from the logo alone, so the bare
-  // "TLNT" in every page header becomes "TLNT.ae" with a one-line descriptor.
+  // "TLNT" in every page header becomes "TLNT.ae | Talent Search UAE", as in all our profiles.
   try {
-    var BR_EN = (document.documentElement.getAttribute("lang") || "ru").toLowerCase().indexOf("en") === 0;
     var lg = document.querySelector("nav .logo, header .logo, a.logo, nav a[href='#top']");
     if (lg && !lg.querySelector(".tlnt-ae") && /^\s*TLNT\.?\s*$/.test(lg.textContent)) {
       var brCss =
@@ -394,7 +393,7 @@
       else lg.innerHTML = "TLNT" + ae;
       var tag = document.createElement("span");
       tag.className = "tlnt-tag";
-      tag.textContent = BR_EN ? "Talent Search UAE" : "Подбор персонала в ОАЭ";
+      tag.textContent = "Talent Search UAE"; // the brand line is English on every page, as in all our profiles
       // the home page had its own "Дубай · Абу-Даби" label (hidden on phones); the tag replaces it
       var loc = document.querySelector(".tlnt-navloc");
       if (loc) loc.style.display = "none";
