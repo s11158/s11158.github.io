@@ -37,7 +37,13 @@
   } catch (e) {}
 
   var PHONE = "971509851420";
-  var WA_URL = "https://wa.me/" + PHONE + "?text=" + encodeURIComponent(PAGE_EN ? "Hello, " : "Добрый день, ");
+  // Russian pages are also read by people who don't speak Russian: they must understand the prefilled
+  // WhatsApp text they are about to send. Static links carry a bilingual greeting; for non-Russian
+  // browsers any Cyrillic prefill is swapped for English on click (see the click handler below).
+  var RU_READER = (navigator.languages || [navigator.language || ""]).some(function (l) {
+    return /^(ru|uk|be|kk)\b/i.test(l || "");
+  });
+  var WA_URL = "https://wa.me/" + PHONE + "?text=" + encodeURIComponent(PAGE_EN || !RU_READER ? "Hello, " : "Hello! Добрый день! ");
   var TG_URL = "https://t.me/+" + PHONE;
   var WORKER = "https://tlnt-lead-bot.b3gg.workers.dev";
 
@@ -360,7 +366,18 @@
       var a = e.target.closest && e.target.closest("a[href]");
       if (!a) return;
       var h = a.getAttribute("href") || "";
-      if (h.indexOf("wa.me") > -1 || h.indexOf("api.whatsapp") > -1) track("whatsapp");
+      if (h.indexOf("wa.me") > -1 || h.indexOf("api.whatsapp") > -1) {
+        if (!RU_READER) {
+          try {
+            var u = new URL(a.href);
+            if (/[Ѐ-ӿ]/.test(u.searchParams.get("text") || "")) {
+              u.searchParams.set("text", "Hello! ");
+              a.href = u.toString();
+            }
+          } catch (er) {}
+        }
+        track("whatsapp");
+      }
       else if (h.indexOf("t.me") > -1 || h.indexOf("telegram.me") > -1) track("telegram");
       else if (h.indexOf("instagram.com") > -1) track("instagram");
       else if (h.indexOf("linkedin.com") > -1) track("linkedin");
