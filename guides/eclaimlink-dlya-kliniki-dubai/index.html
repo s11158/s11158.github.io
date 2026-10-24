@@ -5,14 +5,14 @@
 <meta name="color-scheme" content="light">
 <meta name="theme-color" content="#fbf8f3">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>eClaimLink для владельца клиники в Дубае: как устроено и кто за что отвечает | TLNT</title>
-<meta name="description" content="eClaimLink для владельца клиники в Дубае: что делает платформа, путь одного страхового визита, кто в команде отвечает за каждый шаг и как держать отказы под контролем.">
+<title>eClaimLink в Дубае: что это и кто в клинике за него отвечает | TLNT</title>
+<meta name="description" content="eClaimLink - портал DHA для страховых заявок клиник Дубая. Простым языком: как он устроен, где клиники теряют деньги на отказах и кого нанять.">
 <link rel="canonical" href="https://tlnt.ae/guides/eclaimlink-dlya-kliniki-dubai/">
 <link rel="alternate" hreflang="ru" href="https://tlnt.ae/guides/eclaimlink-dlya-kliniki-dubai/">
 <link rel="alternate" hreflang="en" href="https://tlnt.ae/en/guides/eclaimlink-clinic-dubai/">
 <link rel="alternate" hreflang="x-default" href="https://tlnt.ae/en/guides/eclaimlink-clinic-dubai/">
-<meta property="og:title" content="eClaimLink для владельца клиники в Дубае: как устроено и кто за что отвечает | TLNT">
-<meta property="og:description" content="eClaimLink для владельца клиники в Дубае: что делает платформа, путь одного страхового визита, кто в команде отвечает за каждый шаг и как держать отказы под контролем.">
+<meta property="og:title" content="eClaimLink в Дубае: что это и кто в клинике за него отвечает | TLNT">
+<meta property="og:description" content="eClaimLink - портал DHA для страховых заявок клиник Дубая. Простым языком: как он устроен, где клиники теряют деньги на отказах и кого нанять.">
 <meta property="og:url" content="https://tlnt.ae/guides/eclaimlink-dlya-kliniki-dubai/">
 <meta property="og:image" content="https://tlnt.ae/og-image.png">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -71,55 +71,211 @@
   .num-h{font-family:'Cormorant Garamond',serif;color:var(--accent)}
   .tw{overflow-x:auto;-webkit-overflow-scrolling:touch}
   @media(max-width:600px){.tw th,.tw td{padding:10px 10px;font-size:14px}.tw td.v{font-size:17px;white-space:nowrap}}
+
+  .crumb a{border-bottom:1px solid #d8cebd}
+  .btns{display:flex;flex-wrap:wrap;gap:10px 14px;margin-top:8px}
+  .btns .cta{margin-top:16px}
+  .cta.ghost{background:#fff;color:#986e35;border:1px solid #e0d3bf;box-shadow:none}
+  .cta.ghost:hover{background:#f7efe2}
+  .note{font-size:14px!important;color:#7a7266!important;margin-top:20px;background:#fff;border:1px solid #ece4d8;border-radius:12px;padding:10px 14px}
+  .note a,.body a:not(.cta):not(.mini),.tldr a,details a{border-bottom:1px solid #d8cebd;color:#5f574d;font-weight:600}
+  .upd{font-size:13px!important;color:#7a7266!important;margin-top:12px}
+  .tldr{background:#fff;border-left:3px solid #986e35;border-radius:0 14px 14px 0;padding:16px 20px;color:#4a443d;font-size:16.5px}
+  ul.check li span{display:block}
+  .story{display:grid;gap:12px;margin-top:6px}
+  .st{display:flex;gap:16px;background:#fff;border:1px solid #ece4d8;border-radius:16px;padding:16px 18px}
+  .st .sn{flex:none;width:34px;height:34px;border-radius:50%;background:#f6e3df;color:#986e35;font-family:'Cormorant Garamond',serif;font-size:20px;display:flex;align-items:center;justify-content:center}
+  .st b{color:#3f3a33}
+  .st p{margin:4px 0 0!important;font-size:15.5px}
+  .st .who{font-size:14px;color:#7a7266!important}
+  .box{background:#fff;border:1px solid #ece4d8;border-radius:18px;padding:22px;display:grid;gap:14px}
+  .box label{display:grid;gap:6px;font-size:14px;font-weight:700;color:#5f574d}
+  .box input[type=number]{font:inherit;font-size:17px;padding:12px 14px;border:1px solid #e0d3bf;border-radius:12px;background:#fbf8f3;width:100%}
+  .res{background:#f7efe2;border-radius:14px;padding:16px 18px;font-size:17px;color:#3f3a33}
+  .res b{color:#986e35}
+  .box .cta{justify-self:start;margin-top:4px}
+  .mini{display:inline-block;font-size:13px;font-weight:700;color:#986e35;border:1px solid #e0d3bf;border-radius:100px;padding:5px 12px;white-space:nowrap}
+  .quiz fieldset{border:0;display:grid;gap:8px}
+  .quiz legend{font-weight:700;color:#3f3a33;margin-bottom:6px}
+  .quiz fieldset label{display:flex;gap:10px;align-items:center;font-weight:500;font-size:15.5px;background:#fbf8f3;border:1px solid #ece4d8;border-radius:12px;padding:10px 14px;cursor:pointer}
+  .answers{display:grid;gap:10px}
+  .ans{border:1px solid #ece4d8;border-radius:14px;padding:12px 16px;font-size:15px;color:#6b6155;opacity:.75}
+  .ans a{border-bottom:1px solid #d8cebd;font-weight:600;color:#5f574d}
+  .ans.on{opacity:1;border-color:#986e35;background:#f7efe2;color:#3f3a33}
+  .cards{display:flex;flex-wrap:wrap;gap:10px;margin:6px 0 14px}
+  .cards a{background:#fff;border:1px solid #e6dccc;border-radius:14px;padding:12px 18px;font-weight:700;color:#5f574d;font-size:15px}
+  .cards a:hover{border-color:#986e35;color:#986e35}
+  @media(max-width:600px){.btns .cta{width:100%;justify-content:center;text-align:center}.box{padding:16px}}
 </style>
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" type="image/png" href="/favicon-onlight.png" media="(prefers-color-scheme: light)">
 <link rel="icon" type="image/png" href="/favicon-ondark.png" media="(prefers-color-scheme: dark)">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "eClaimLink для владельца клиники в Дубае: как устроено и кто за что отвечает", "description": "eClaimLink для владельца клиники в Дубае: что делает платформа, путь одного страхового визита, кто в команде отвечает за каждый шаг и как держать отказы под контролем.", "inLanguage": "ru", "datePublished": "2026-10-11", "dateModified": "2026-10-11", "mainEntityOfPage": "https://tlnt.ae/guides/eclaimlink-dlya-kliniki-dubai/", "author": {"@type": "Organization", "name": "TLNT", "url": "https://tlnt.ae"}, "publisher": {"@type": "Organization", "name": "TLNT", "url": "https://tlnt.ae"}}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "inLanguage": "ru", "mainEntity": [{"@type": "Question", "name": "Что такое eClaimLink в Дубае?", "acceptedAnswer": {"@type": "Answer", "text": "Электронная платформа под управлением DHA, через которую клиники и страховые в Дубае обмениваются проверками покрытия, предодобрениями, счетами и ответами по оплате; транзакции идут через DHA Health Post Office (DHPO). Для регистрации нужна действующая лицензия учреждения DHA."}}, {"@type": "Question", "name": "Кто в клинике должен работать в eClaimLink?", "acceptedAnswer": {"@type": "Answer", "text": "Обычно специалист по страхованию ведёт предодобрения, ответы по оплате и повторную подачу, а медицинский кодировщик кодирует визиты и отправляет счета. Ресепшен проверяет покрытие до визита, врачи описывают услуги, управляющий каждую неделю смотрит отказы и долги страховых. В небольшой клинике роли специалиста и кодировщика часто совмещает один человек."}}, {"@type": "Question", "name": "Почему страховые отказывают в eClaimLink?", "acceptedAnswer": {"@type": "Answer", "text": "Чаще всего не проверили покрытие, не было предодобрения или услуга не совпала с одобренной, коды неверные или отсутствуют, документация не подтверждает счёт или цена вне согласованного прайс-листа. Считайте отказы по причинам и по врачам и исправляйте тот шаг, с которого они начинаются."}}]}</script>
-  <script defer src="https://tlnt.ae/a.js" data-ym="113012314" data-ga="G-QX7QJ8SPJY" data-meta="1911110180275408" data-name="tlnt.ae"></script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Article","headline":"eClaimLink без паники: что это и кто в клинике Дубая за него отвечает","description":"eClaimLink - портал DHA для страховых заявок клиник Дубая. Простым языком: как он устроен, где клиники теряют деньги на отказах и кого нанять.","inLanguage":"ru","datePublished":"2026-10-11","dateModified":"2026-10-25","mainEntityOfPage":"https://tlnt.ae/guides/eclaimlink-dlya-kliniki-dubai/","image":"https://tlnt.ae/og-image.png","author":{"@type":"Organization","name":"Команда подбора TLNT","url":"https://tlnt.ae/about/"},"publisher":{"@type":"Organization","name":"TLNT","url":"https://tlnt.ae","logo":{"@type":"ImageObject","url":"https://tlnt.ae/favicon-512.png"}},"citation":["https://www.eclaimlink.ae/","https://www.dha.gov.ae/"]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","inLanguage":"ru","mainEntity":[{"@type":"Question","name":"Что такое eClaimLink и кто им пользуется?","acceptedAnswer":{"@type":"Answer","text":"eClaimLink - платформа Dubai Health Authority для электронных страховых операций: проверка полиса, предварительные одобрения, счета, повторные подачи и оплаты, которые идут через DHA Health Post Office (DHPO). С одной стороны ей пользуются медицинские учреждения с лицензией DHA, с другой - страховые компании и TPA."}},{"@type":"Question","name":"Где вход в eClaimLink?","acceptedAnswer":{"@type":"Answer","text":"Только на официальном сайте eclaimlink.ae. У TLNT нет формы входа и доступа к порталу; по активации аккаунта и паролям обращайтесь на официальный сайт и в поддержку DHA."}},{"@type":"Question","name":"Кто в клинике должен заниматься страховыми счетами?","acceptedAnswer":{"@type":"Answer","text":"Ресепшен проверяет полис до визита, специалист по страхованию ведёт одобрения, оплаты и повторные подачи, медицинский кодировщик кодирует визит и отправляет счёт, а управляющий каждую неделю смотрит отказы и дебиторку. В небольшой клинике роли специалиста и кодировщика может совмещать один человек."}},{"@type":"Question","name":"Сколько стоит специалист по страховым счетам в Дубае?","acceptedAnswer":{"@type":"Answer","text":"По индексу зарплат TLNT 2026: специалист по страхованию получает около 6 000 - 10 000 AED в месяц, медицинский кодировщик 8 000 - 14 000 AED, руководитель биллинга (revenue cycle manager) 15 000 - 25 000 AED."}},{"@type":"Question","name":"Нужен ли отдельный сотрудник маленькой клинике?","acceptedAnswer":{"@type":"Answer","text":"Если страховых пациентов немного, часто хватает администратора со страховым опытом. Когда застрахована примерно половина пациентов или врачей трое и больше, отдельный специалист по страхованию обычно окупается за счёт снижения отказов."}},{"@type":"Question","name":"Сколько времени занимает подбор и что, если человек не подойдёт?","acceptedAnswer":{"@type":"Answer","text":"Подбор обычно занимает около 2 недель. Если человек не подойдёт, бесплатно найдём замену в течение месяца после выхода. Решение о найме принимаете вы, сотрудник оформляется напрямую в вашу клинику."}}]}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"TLNT","item":"https://tlnt.ae/"},{"@type":"ListItem","position":2,"name":"Гайды","item":"https://tlnt.ae/guides/"},{"@type":"ListItem","position":3,"name":"eClaimLink"}]}</script>
+<script defer src="https://tlnt.ae/a.js" data-ym="113012314" data-ga="G-QX7QJ8SPJY" data-meta="1911110180275408" data-name="tlnt.ae"></script>
 </head>
 <body>
 <nav><div class="wrap"><div class="logo"><b>TLNT</b></div><div class="navr"><a class="lang" href="/en/guides/eclaimlink-clinic-dubai/">EN</a><a class="back" href="/">Все услуги</a></div></div></nav>
 
 <header>
   <div class="wrap">
-    <div class="crumb">TLNT · Гайды</div>
-    <h1>eClaimLink для владельца клиники <em>в Дубае: как устроено и кто за что отвечает</em></h1>
-    <p>В eClaimLink решается, получит ли клиника в Дубае деньги от страховых. Эта страница для владельца, а не для кодировщика: что делает платформа, что происходит с одним страховым визитом, кто в команде отвечает за каждый шаг и какие цифры смотреть каждую неделю.</p>
-    <a class="cta" href="#start">Обсудить задачу</a>
+    <div class="crumb"><a href="/">TLNT</a> · <a href="/guides/#clinic">Гайды</a> · eClaimLink</div>
+    <h1>eClaimLink <em>без паники</em></h1>
+    <p>eClaimLink - портал Dubai Health Authority, через который клиники отправляют страховые счета. Сам портал простой - деньги выигрывают или теряют люди, которые с ним работают.</p>
+    <div class="btns">
+      <a class="cta" href="https://www.eclaimlink.ae/" target="_blank" rel="noopener nofollow">Официальный портал eClaimLink</a>
+      <a class="cta ghost" href="#roles">Нужен человек на страховые счета? Найдём за ~2 недели</a>
+    </div>
+    <p class="note">TLNT - консалтинг по подбору и найму, мы не связаны с DHA или eClaimLink. Для входа и официальных правил - <a href="https://www.eclaimlink.ae/" target="_blank" rel="noopener nofollow">eclaimlink.ae</a>.</p>
+    <p class="upd">Команда подбора TLNT · Опубликовано 11.10.2026 · Обновлено 25.10.2026</p>
   </div>
 </header>
 
-<section><div class="wrap body"><h2>Что такое eClaimLink</h2><p>eClaimLink - электронная платформа под управлением DHA, через которую клиники Дубая и страховые компании (или их TPA) обмениваются проверками покрытия, запросами на предодобрение, счетами и ответами по оплате. Транзакции идут через DHA Health Post Office (DHPO). Медицинская страховка в Дубае обязательна для резидентов, поэтому для большинства амбулаторных клиник, которые работают со страховыми, это ежедневный рабочий инструмент, а не техническая мелочь.</p><p>В Абу-Даби и Северных эмиратах свои системы (например, Shafafiya под DOH в Абу-Даби), поэтому клинике в нескольких эмиратах нужны люди, которые знают каждую из них.</p><ul class="check"><li>Кто работает: учреждения с лицензией DHA, страховые компании и TPA</li><li>Что проходит через платформу: проверка покрытия, предодобрения, счета, повторная подача, ответы по оплате</li><li>Что нужно: действующая лицензия учреждения DHA и договоры со страховыми, с которыми вы работаете</li><li>Чего платформа не делает: не кодирует визит и не исправляет слабую документацию, это работа людей</li></ul></div></section>
-<section><div class="wrap body"><h2>Путь одного страхового визита</h2><p>Каждый отказ можно проследить до одного из этих шагов. Когда владелец знает порядок, видно, где утекают деньги.</p><ul class="check"><li>До визита: проверить покрытие и сеть по карте и плану пациента</li><li>До услуги: отправить запрос на предодобрение, если услуга его требует, с диагнозом и клиническим обоснованием</li><li>Во время визита: врач описывает приём так, чтобы записи подтверждали каждый код в счёте</li><li>После визита: диагнозы и процедуры кодируются (ICD-10-CM и CPT, плюс коды, которые требует плательщик), счёт отправляется</li><li>Ответ по оплате: страховая оплачивает полностью, частично или отказывает с кодом причины</li><li>Повторная подача: отклонённые строки исправляют и отправляют заново с недостающими данными в сроки страховой</li></ul></div></section>
-<section><div class="wrap body"><h2>Кто в команде отвечает за каждый шаг</h2><p>В небольшой клинике один человек может совмещать несколько шагов; важно, чтобы у каждого шага был конкретный ответственный.</p><div class="tw"><table><tr><th>Шаг</th><th>Кто обычно отвечает</th><th>Что проверяет</th></tr><tr><td>Проверка покрытия и сети</td><td>Администратор или координатор пациентов</td><td class="v">Сделана для каждого страхового пациента до визита</td></tr><tr><td>Предодобрение</td><td>Специалист по страхованию</td><td class="v">Одобрение получено до услуги, номер одобрения в карте</td></tr><tr><td>Медицинская документация</td><td>Врач</td><td class="v">Записи подтверждают диагноз и услуги в счёте</td></tr><tr><td>Кодирование и подача счёта</td><td>Медицинский кодировщик или специалист по страхованию</td><td class="v">Коды совпадают с записями и одобрением, счета уходят вовремя</td></tr><tr><td>Ответы по оплате и повторная подача</td><td>Специалист по страхованию или руководитель revenue cycle</td><td class="v">Каждый отказ разобран: исправлен или списан с причиной</td></tr><tr><td>Еженедельный контроль</td><td>Управляющий клиникой</td><td class="v">Доля отказов, долги страховых по срокам, открытые предодобрения</td></tr></table></div></div></section>
-<section><div class="wrap body"><h2>Почему страховые отказывают</h2><p>Большинство отказов можно предотвратить, и причины повторяются. Смотрите на причины, а не только на общую сумму.</p><ul class="check"><li>Не проверили покрытие: карта не активна или услуга вне плана или сети пациента</li><li>Нет предодобрения, или оказанная услуга отличается от одобренной</li><li>Ошибки кодирования: нет кода, неверный код или диагноз не сочетается с процедурой</li><li>Документация не подтверждает счёт: из записей не видна медицинская необходимость</li><li>Цена вне согласованного прайс-листа с этой страховой</li><li>Поздняя подача или повторная подача без данных, которые запросила страховая</li></ul></div></section>
-<section><div class="wrap body"><h2>Что владелец должен видеть каждую неделю</h2><p>Заходить в eClaimLink самому не нужно. Попросите короткий еженедельный отчёт, лучше из CRM или системы биллинга, с такими строками.</p><ul class="check"><li>Доля отказов по страховым и по причинам в сравнении с прошлыми неделями</li><li>Отказы по врачам: видно, с кем из врачей нужно поговорить о документации</li><li>Долги страховых по срокам: сколько должны за 30, 60 и 90+ дней</li><li>Открытые предодобрения и сколько занимает одобрение</li><li>Сколько отправлено повторно и сколько вернули, что списано и почему</li></ul></div></section>
-<section><div class="wrap body"><h2>Как подключиться</h2><p>Регистрация в eClaimLink привязана к лицензии учреждения и проходит через DHA; точные шаги, документы и возможные сборы стоит уточнить в DHA и у ваших страховых под ваш случай. До первого страхового пациента проверьте, что готово следующее.</p><ul class="check"><li>Действующая лицензия учреждения DHA, договоры и прайс-листы со страховыми или TPA</li><li>Доступ к eClaimLink и DHPO и медицинская или биллинговая система, которая с ними связана</li><li>Хотя бы один человек с опытом eClaimLink в Дубае и кодировщик или сервис кодирования под ваш объём</li><li>Правила клиники: проверка покрытия на ресепшене и предодобрение до услуги</li><li>Еженедельный отчёт по отказам и долгам страховых, согласованный с управляющим</li></ul></div></section>
-<section><div class="wrap body"><h2>Как мы помогаем</h2><p>TLNT - консалтинг по подбору и найму. Помогаем владельцам клиник найти специалистов по страхованию, медицинских кодировщиков и руководителей revenue cycle с опытом eClaimLink в Дубае: проверяем знания на собеседовании на реальных кейсах отказов и ответов по оплате и представляем кандидатов, которые отвечают критериям, согласованным на старте. Решение о найме принимаете вы и условия согласуете с кандидатом сами; специалист оформляется напрямую в вашу клинику, визу оформляет работодатель, мы даём пошаговый чек-лист. Можем настроить отчёты в CRM, чтобы вы видели отказы и долги страховых каждую неделю.</p><p>Вознаграждение фиксированное, сумму по роли называем до старта поиска: 10% от вознаграждения на старте, остальное когда сотрудник вышел на работу. Если не сложилось, бесплатно найдём замену, срок указан в договоре. Консалтинг и CRM считаем после бесплатного разбора.</p></div></section>
+<section><div class="wrap body">
+  <div class="tldr"><b>Коротко:</b> eClaimLink - платформа DHA для электронных страховых заявок: через неё клиники Дубая проверяют полис пациента, запрашивают предварительное одобрение, отправляют счета и получают оплату от страховых. Вход только на <a href="https://www.eclaimlink.ae/" target="_blank" rel="noopener nofollow">eclaimlink.ae</a>. Отказы чаще начинаются с людей, а не с портала: типичная команда под него - администратор со страховым опытом (7 000 - 10 000 AED в месяц), специалист по страхованию (6 000 - 10 000 AED) и медицинский кодировщик (8 000 - 14 000 AED), по <a href="/salary-index-2026/">индексу зарплат TLNT 2026</a>.</div>
+</div></section>
+
+<section><div class="wrap body">
+  <h2>eClaimLink за 30 секунд</h2>
+  <ul class="check">
+    <li><span><b>Что это:</b> электронная платформа страховых операций в Дубае: проверка полиса, предварительные одобрения, счета, повторные подачи и оплаты. Операции идут через DHA Health Post Office (DHPO).</span></li>
+    <li><span><b>Кто управляет:</b> Dubai Health Authority (DHA). На портале указано, что он сделан в партнёрстве с Dimensions Healthcare.</span></li>
+    <li><span><b>Кто пользуется:</b> клиники, больницы, аптеки и лаборатории с лицензией DHA с одной стороны, страховые компании и TPA с другой.</span></li>
+    <li><span><b>Что там есть:</b> вход для клиник и страховых, активация аккаунта, официальные справочники кодов (CPT, Dubai Drug Code, список врачей), руководство для клиник и правила медицинского кодирования DHA.</span></li>
+  </ul>
+  <p class="small">Источники: <a href="https://www.eclaimlink.ae/" target="_blank" rel="noopener nofollow">eclaimlink.ae</a>, <a href="https://www.eclaimlink.ae/dhd_codes.aspx" target="_blank" rel="noopener nofollow">справочники кодов eClaimLink</a>, <a href="https://www.eclaimlink.ae/downloads/CodingGuidelines.pdf" target="_blank" rel="noopener nofollow">правила кодирования DHA (PDF)</a>, <a href="https://www.dha.gov.ae/" target="_blank" rel="noopener nofollow">dha.gov.ae</a>. В Абу-Даби своя система (Shafafiya, DOH).</p>
+</div></section>
+
+<section><div class="wrap body">
+  <h2>День из жизни страхового счёта</h2>
+  <p>Пять шагов от прихода пациента до денег. У каждого шага есть типичная ошибка и человек, который за него отвечает.</p>
+  <div class="story">
+    <div class="st"><div class="sn">1</div><div><b>Пациент пришёл</b><p>Где чаще всего ошибаются: полис не проверили, или услуга не входит в план или сеть пациента.</p><p class="who">Отвечает: <a href="/clinic-receptionist/">администратор</a> или <a href="/patient-coordinator/">координатор пациентов</a></p></div></div>
+    <div class="st"><div class="sn">2</div><div><b>Проверили полис и запросили одобрение</b><p>Где чаще всего ошибаются: нет предварительного одобрения, или оказали не ту услугу, что одобрили.</p><p class="who">Отвечает: <a href="/medical-insurance-officer/">специалист по страхованию (insurance coordinator)</a></p></div></div>
+    <div class="st"><div class="sn">3</div><div><b>Врач описал приём, визит закодирован</b><p>Где чаще всего ошибаются: записи врача не подтверждают коды, коды диагноза и процедуры не сходятся.</p><p class="who">Отвечает: врач и <a href="/medical-coder/">медицинский кодировщик</a></p></div></div>
+    <div class="st"><div class="sn">4</div><div><b>Счёт ушёл в eClaimLink</b><p>Где чаще всего ошибаются: опоздали с подачей, или цена не совпадает с прайсом, согласованным со страховой.</p><p class="who">Отвечает: <a href="/medical-coder/">кодировщик</a> или специалист по страхованию</p></div></div>
+    <div class="st"><div class="sn">5</div><div><b>Пришли деньги или отказ</b><p>Где чаще всего ошибаются: отказы не читают, не исправляют и не подают повторно вовремя.</p><p class="who">Отвечает: руководитель биллинга, еженедельно контролирует <a href="/clinic-manager/">управляющий клиники</a></p></div></div>
+  </div>
+</div></section>
+
+<section id="calc"><div class="wrap body">
+  <h2>Сколько клиника теряет на отказах?</h2>
+  <p>Введите свои цифры. Средние по рынку мы не подставляем: результат строится только на ваших данных.</p>
+  <div class="box">
+    <label>Счетов в месяц<input type="number" id="c1" min="0" inputmode="numeric" placeholder="например, 600"></label>
+    <label>Средний счёт, AED<input type="number" id="c2" min="0" inputmode="numeric" placeholder="например, 450"></label>
+    <label>Отказов, %<input type="number" id="c3" min="0" max="100" step="0.5" inputmode="decimal" placeholder="например, 8"></label>
+    <div class="res" id="cres" aria-live="polite">Заполните три поля, чтобы увидеть результат.</div>
+    <p class="small">Расчёт приблизительный и строится на ваших цифрах. Для сравнения берём 8 000 AED в месяц - середину вилки специалиста по страхованию (6 000 - 10 000 AED) из <a href="/salary-index-2026/">индекса зарплат TLNT 2026</a>. Не все деньги по отказам потеряны навсегда: часть возвращается повторной подачей, и это как раз работа такого специалиста.</p>
+    <a class="cta" href="https://wa.me/971509851420?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%98%D1%89%D0%B5%D0%BC%20%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0%20%D0%BF%D0%BE%20%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D1%8B%D0%BC%20%D1%81%D1%87%D0%B5%D1%82%D0%B0%D0%BC%20%2F%20eClaimLink%20%D0%B4%D0%BB%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%B2%20%D0%94%D1%83%D0%B1%D0%B0%D0%B5">Найти специалиста за ~2 недели</a>
+  </div>
+</div></section>
+
+<section id="roles"><div class="wrap body">
+  <h2>Кто в клинике работает с eClaimLink</h2>
+  <p>Вилки зарплат в месяц из <a href="/salary-index-2026/">индекса зарплат TLNT 2026</a>. В небольшой клинике один человек часто совмещает две роли.</p>
+  <div class="tw"><table>
+    <tr><th>Роль</th><th>Что делает</th><th>AED / мес</th><th></th></tr>
+    <tr><td>Администратор со страховым опытом</td><td>Проверяет полис и сеть до каждого визита, берёт доплату</td><td class="v">7 000 - 10 000</td><td><a class="mini" href="/clinic-receptionist/">Подобрать</a></td></tr>
+    <tr><td>Специалист по страхованию (insurance coordinator)</td><td>Предварительные одобрения, оплаты, повторные подачи, связь со страховыми</td><td class="v">6 000 - 10 000</td><td><a class="mini" href="/medical-insurance-officer/">Подобрать</a></td></tr>
+    <tr><td>Медицинский кодировщик</td><td>Кодирует визиты (ICD-10, CPT) по правилам DHA и отправляет счета</td><td class="v">8 000 - 14 000</td><td><a class="mini" href="/medical-coder/">Подобрать</a></td></tr>
+    <tr><td>Руководитель биллинга (revenue cycle manager)</td><td>Отвечает за долю отказов и дебиторку, обучает команду, отчитывается владельцу</td><td class="v">15 000 - 25 000</td><td><a class="mini" href="/medical-insurance-officer/">Подобрать</a></td></tr>
+    <tr><td>Управляющий клиники</td><td>Каждую неделю разбирает отказы и дебиторку, чинит процессы и записи врачей</td><td class="v">12 000 - 22 000</td><td><a class="mini" href="/clinic-manager/">Подобрать</a></td></tr>
+  </table></div>
+</div></section>
+
+<section id="quiz"><div class="wrap body">
+  <h2>Квиз: кто вам нужен?</h2>
+  <p>Три вопроса. В ответе конкретная роль и ссылка на неё.</p>
+  <form class="box quiz" id="qz" onsubmit="return false">
+    <fieldset><legend>1. Сколько врачей в клинике?</legend>
+      <label><input type="radio" name="q1" value="0"> 1 - 2</label><label><input type="radio" name="q1" value="1"> 3 - 5</label><label><input type="radio" name="q1" value="2"> 6 и больше</label></fieldset>
+    <fieldset><legend>2. Какая доля пациентов приходит со страховкой?</legend>
+      <label><input type="radio" name="q2" value="0"> Немного, большинство платит само</label><label><input type="radio" name="q2" value="1"> Примерно половина</label><label><input type="radio" name="q2" value="2"> Большинство</label></fieldset>
+    <fieldset><legend>3. Кто сейчас занимается счетами?</legend>
+      <label><input type="radio" name="q3" value="rec"> Ресепшен или владелец, между делом</label><label><input type="radio" name="q3" value="one"> Один человек по страховке</label><label><input type="radio" name="q3" value="out"> Внешняя биллинговая компания</label></fieldset>
+    <div class="answers">
+      <div class="ans" data-a="0"><b>Администратор со страховым опытом.</b> При вашем объёме хватит одного сильного администратора, который проверяет полисы и отправляет одобрения. <a href="/clinic-receptionist/">Администратор клиники</a></div>
+      <div class="ans" data-a="1"><b>Специалист по страхованию (insurance coordinator).</b> Отдельный человек на одобрения, оплаты и повторные подачи, чтобы ресепшен и врачи не отвлекались. <a href="/medical-insurance-officer/">Специалист по медстрахованию</a></div>
+      <div class="ans" data-a="2"><b>Специалист по страхованию и медицинский кодировщик.</b> При таком потоке страховых визитов кодирование - отдельная работа на полный день. <a href="/medical-coder/">Медицинский кодировщик</a></div>
+      <div class="ans" data-a="3"><b>Руководитель биллинга и кодировщик.</b> В клинике такого размера кто-то должен отвечать за долю отказов и дебиторку и отчитываться вам каждую неделю. <a href="/medical-insurance-officer/">Руководитель биллинга</a></div>
+      <p class="small" id="qnote"></p>
+    </div>
+    <a class="cta" id="qwa" href="https://wa.me/971509851420?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%98%D1%89%D0%B5%D0%BC%20%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0%20%D0%BF%D0%BE%20%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D1%8B%D0%BC%20%D1%81%D1%87%D0%B5%D1%82%D0%B0%D0%BC%20%2F%20eClaimLink%20%D0%B4%D0%BB%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%B2%20%D0%94%D1%83%D0%B1%D0%B0%D0%B5">Обсудить в WhatsApp</a>
+  </form>
+</div></section>
+
+<section><div class="wrap body">
+  <h2>Чек-лист "Клиника открывается"</h2>
+  <p>Что должно быть готово по людям до первого страхового пациента.</p>
+  <ul class="check">
+    <li><span>Врачи с действующей лицензией DHA под вашу клинику (см. <a href="/guides/perevod-litsenzii-dha/">перевод лицензии DHA</a>)</span></li>
+    <li><span>Хотя бы один человек с опытом eClaimLink в Дубае: специалист по страхованию, а в маленькой клинике - администратор со страховым опытом</span></li>
+    <li><span>Медицинский кодировщик или внешняя услуга кодирования под ожидаемый поток</span></li>
+    <li><span>Доступ к eClaimLink и DHPO по лицензии клиники и подключённая к нему система клиники</span></li>
+    <li><span>Договоры и прайсы, согласованные с каждой страховой или TPA</span></li>
+    <li><span>Правила клиники: проверка полиса на ресепшене, одобрение до услуги, еженедельный отчёт по отказам владельцу</span></li>
+  </ul>
+  <p>Подробнее о запуске: <a href="/guides/kak-otkryt-kliniku-dubai-licenziya-dha/">как открыть клинику в Дубае</a> и <a href="/consulting/clinic-launch/">сопровождение запуска клиники</a>.</p>
+  <a class="cta" href="https://wa.me/971509851420?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%9F%D1%80%D0%B8%D1%88%D0%BB%D0%B8%D1%82%D0%B5%2C%20%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D1%83%D0%B9%D1%81%D1%82%D0%B0%2C%20PDF-%D1%87%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%20%22%D0%9A%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D0%B2%D0%B0%D0%B5%D1%82%D1%81%D1%8F%22%20%D0%BF%D0%BE%20eClaimLink">Получить чек-лист в PDF в WhatsApp</a>
+</div></section>
+
+<section><div class="wrap body">
+  <h2>А ещё мы подбираем врачей</h2>
+  <p>Каждый страховой счёт начинается с врача с лицензией. Ищем и оцениваем врачей с действующей лицензией DHA или понятным путём к ней.</p>
+  <div class="cards">
+    <a href="/gp-doctor/">Врач общей практики (GP)</a><a href="/dermatologist/">Дерматолог</a><a href="/aesthetic-doctor/">Врач-косметолог</a><a href="/dentist/">Стоматолог</a><a href="/nurse/">Медсестра</a>
+  </div>
+  <p class="small">Если у врача лицензия другого эмирата или страны: <a href="/guides/perevod-litsenzii-dha/">гайд по переводу лицензии DHA</a>.</p>
+  <a class="cta" href="https://wa.me/971509851420?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%9D%D1%83%D0%B6%D0%B5%D0%BD%20%D0%B2%D1%80%D0%B0%D1%87%20%D1%81%20%D0%BB%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D0%B5%D0%B9%20DHA%2C%20%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C%3A%20">Заказать подбор врача</a>
+</div></section>
 
 <section>
   <div class="wrap">
     <h2>Частые вопросы</h2>
-    <details open><summary>Что такое eClaimLink в Дубае?</summary><p>Электронная платформа под управлением DHA, через которую клиники и страховые в Дубае обмениваются проверками покрытия, предодобрениями, счетами и ответами по оплате; транзакции идут через DHA Health Post Office (DHPO). Для регистрации нужна действующая лицензия учреждения DHA.</p></details>
-    <details><summary>Кто в клинике должен работать в eClaimLink?</summary><p>Обычно специалист по страхованию ведёт предодобрения, ответы по оплате и повторную подачу, а медицинский кодировщик кодирует визиты и отправляет счета. Ресепшен проверяет покрытие до визита, врачи описывают услуги, управляющий каждую неделю смотрит отказы и долги страховых. В небольшой клинике роли специалиста и кодировщика часто совмещает один человек.</p></details>
-    <details><summary>Почему страховые отказывают в eClaimLink?</summary><p>Чаще всего не проверили покрытие, не было предодобрения или услуга не совпала с одобренной, коды неверные или отсутствуют, документация не подтверждает счёт или цена вне согласованного прайс-листа. Считайте отказы по причинам и по врачам и исправляйте тот шаг, с которого они начинаются.</p></details>
+    <details open><summary>Что такое eClaimLink и кто им пользуется?</summary><p>eClaimLink - платформа Dubai Health Authority для электронных страховых операций: проверка полиса, предварительные одобрения, счета, повторные подачи и оплаты, которые идут через DHA Health Post Office (DHPO). С одной стороны ей пользуются медицинские учреждения с лицензией DHA, с другой - страховые компании и TPA.</p></details>
+    <details><summary>Где вход в eClaimLink?</summary><p>Только на официальном сайте eclaimlink.ae. У TLNT нет формы входа и доступа к порталу; по активации аккаунта и паролям обращайтесь на официальный сайт и в поддержку DHA.</p></details>
+    <details><summary>Кто в клинике должен заниматься страховыми счетами?</summary><p>Ресепшен проверяет полис до визита, специалист по страхованию ведёт одобрения, оплаты и повторные подачи, медицинский кодировщик кодирует визит и отправляет счёт, а управляющий каждую неделю смотрит отказы и дебиторку. В небольшой клинике роли специалиста и кодировщика может совмещать один человек.</p></details>
+    <details><summary>Сколько стоит специалист по страховым счетам в Дубае?</summary><p>По индексу зарплат TLNT 2026: специалист по страхованию получает около 6 000 - 10 000 AED в месяц, медицинский кодировщик 8 000 - 14 000 AED, руководитель биллинга (revenue cycle manager) 15 000 - 25 000 AED.</p></details>
+    <details><summary>Нужен ли отдельный сотрудник маленькой клинике?</summary><p>Если страховых пациентов немного, часто хватает администратора со страховым опытом. Когда застрахована примерно половина пациентов или врачей трое и больше, отдельный специалист по страхованию обычно окупается за счёт снижения отказов.</p></details>
+    <details><summary>Сколько времени занимает подбор и что, если человек не подойдёт?</summary><p>Подбор обычно занимает около 2 недель. Если человек не подойдёт, бесплатно найдём замену в течение месяца после выхода. Решение о найме принимаете вы, сотрудник оформляется напрямую в вашу клинику.</p></details>
   </div>
 </section>
 
 <section id="start" class="endcta">
   <div class="wrap">
-    <h2>Разберём вашу ситуацию</h2>
-    <p class="lead" style="max-width:480px;margin:0 auto 8px">Бесплатный разбор в WhatsApp: посмотрим на ваши цифры и честно скажем, что бы мы сделали.</p>
-    <a class="cta" href="https://wa.me/971509851420?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%A3%20%D0%BC%D0%B5%D0%BD%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B0%20%D0%B2%20%D0%94%D1%83%D0%B1%D0%B0%D0%B5%2C%20%D0%B8%D1%89%D1%83%20%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0%20%D0%BF%D0%BE%20%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E%20%D0%B8%D0%BB%D0%B8%20%D0%BA%D0%BE%D0%B4%D0%B8%D1%80%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%B0%20%D1%81%20%D0%BE%D0%BF%D1%8B%D1%82%D0%BE%D0%BC%20eClaimLink">Написать в WhatsApp</a>
-    <div class="links"><a href="/calculator/">Калькулятор</a><a href="/salary-guide/">Гид по зарплатам</a><a href="/">Все услуги</a></div>
+    <h2>Страховка - это люди</h2>
+    <p class="lead" style="max-width:520px;margin:0 auto 8px">Мы найдём тех, с кем счета не теряются. Подбор ~2 недели, бесплатная замена в течение месяца. Начнём с бесплатной 15-минутной встречи.</p>
+    <a class="cta" href="https://wa.me/971509851420?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5%21%20%D0%98%D1%89%D0%B5%D0%BC%20%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D0%B0%20%D0%BF%D0%BE%20%D1%81%D1%82%D1%80%D0%B0%D1%85%D0%BE%D0%B2%D1%8B%D0%BC%20%D1%81%D1%87%D0%B5%D1%82%D0%B0%D0%BC%20%2F%20eClaimLink%20%D0%B4%D0%BB%D1%8F%20%D0%BA%D0%BB%D0%B8%D0%BD%D0%B8%D0%BA%D0%B8%20%D0%B2%20%D0%94%D1%83%D0%B1%D0%B0%D0%B5">Написать в WhatsApp</a>
+    <div class="links"><a href="/salary-index-2026/">Индекс зарплат 2026</a><a href="/calculator/">Калькулятор стоимости подбора</a><a href="/guides/strahovye-seti-i-billing-kliniki-dubai/">Страховые сети и биллинг</a></div>
   </div>
 </section>
 
-<section style="max-width:720px;margin:0 auto;padding:6px 22px 30px"><div style="font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:#7a7266;margin-bottom:14px">По теме</div><div style="display:flex;flex-wrap:wrap;gap:10px"><a href="/medical-insurance-officer/" style="display:inline-block;border:1px solid #e6dccc;border-radius:100px;padding:8px 15px;font-size:14px;color:#6b6155;text-decoration:none;font-weight:600">Специалист по медицинскому страхованию</a><a href="/medical-coder/" style="display:inline-block;border:1px solid #e6dccc;border-radius:100px;padding:8px 15px;font-size:14px;color:#6b6155;text-decoration:none;font-weight:600">Медицинский кодировщик</a><a href="/clinic-manager/" style="display:inline-block;border:1px solid #e6dccc;border-radius:100px;padding:8px 15px;font-size:14px;color:#6b6155;text-decoration:none;font-weight:600">Управляющий клиникой</a><a href="/guides/strahovye-seti-i-billing-kliniki-dubai/" style="display:inline-block;border:1px solid #e6dccc;border-radius:100px;padding:8px 15px;font-size:14px;color:#6b6155;text-decoration:none;font-weight:600">Страховые сети и биллинг клиники в Дубае</a></div></section>
-<nav id="sitenav" aria-label="Навигация по TLNT" style="position:static;z-index:auto;backdrop-filter:none;-webkit-backdrop-filter:none;border-bottom:0;border-top:1px solid #ece4d8;background:#f7f2ea;padding:34px 22px 26px;font-family:Nunito Sans,sans-serif"><div style="max-width:1060px;margin:0 auto"><div style="font-family:Cormorant Garamond,serif;font-size:26px;color:#3f3a33;margin-bottom:18px">Навигация по TLNT</div><div style="display:flex;flex-wrap:wrap;gap:22px 34px"><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Услуги</div><a href="/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Подбор персонала в Дубае</a><a href="/crm/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">CRM для салона и клиники</a><a href="/consulting/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Бизнес-консалтинг: CRM и ИИ</a><a href="/team-audit/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Аудит команды</a><a href="/mini-audit/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Бесплатный разбор вакансии</a><a href="/calculator/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Калькулятор гонорара</a><a href="/about/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">О компании</a></div><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Роли</div><a href="/roles/#medical" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Врачи и медперсонал</a><a href="/roles/#beauty" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Бьюти и спа</a><a href="/roles/#management" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Управление и ресепшн</a><a href="/roles/#household" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Дом и частный персонал</a><a href="/roles/#business" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Бизнес и офис</a><a href="/roles/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Все роли</a></div><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Гайды</div><a href="/guides/#salon" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Владельцам салонов</a><a href="/guides/#clinic" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Клиники и врачи</a><a href="/guides/#owner" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Рост салона и клиники</a><a href="/guides/#hiring" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Найм в ОАЭ</a><a href="/guides/#candidate" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Кандидатам</a><a href="/guides/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Все гайды</a></div><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Инструменты</div><a href="/salary-index-2026/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Индекс зарплат 2026</a><a href="/vakansii/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Открытые вакансии</a><a href="/resume/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Конструктор резюме</a><a href="/candidates/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Отправить резюме</a><a href="/guides/russkoyazychnyy-personal-dubai/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Русскоязычный персонал</a></div></div><div style="margin-top:20px;padding-top:14px;border-top:1px solid #e6dccc;font-size:14px;color:#7a7266"><a href="https://wa.me/971509851420" style="color:#986e35;font-weight:700;text-decoration:none">WhatsApp +971 50 985 1420</a> · <a href="/en/" style="color:#7a7266">English version</a></div></div></nav>
+<script>
+(function(){
+var T={"fill":"Заполните три поля, чтобы увидеть результат.","zero":"При таких цифрах отказы почти ничего не стоят. Продолжайте смотреть их каждую неделю.","notes":{"rec":"Счета \"между делом\" - самый частый источник отказов, которых можно было избежать.","one":"Если счетами уже занимается один человек, проверьте, хватает ли у него времени на повторные подачи: обычно деньги остаются именно там.","out":"При внешней биллинговой компании оставьте в клинике хотя бы одного человека, который проверяет полисы и контролирует еженедельный отчёт по отказам."},"wa":"Здравствуйте! Ищем специалиста по страховым счетам / eClaimLink для клиники в Дубае. Результат квиза: ","locale":"ru-RU"};
+function res(x,n){return `Вы теряете около <b>${x} AED в месяц</b> на отказах. Это <b>${n}</b> мес. зарплаты специалиста по страхованию в Дубае.`;}
+var c=[1,2,3].map(function(i){return document.getElementById('c'+i)}),out=document.getElementById('cres');
+function calc(){var a=+c[0].value,b=+c[1].value,p=+c[2].value;
+ if(!(a>0&&b>0&&c[2].value!=='')){out.innerHTML=T.fill;return}
+ var loss=Math.round(a*b*Math.min(p,100)/100);
+ if(loss<1){out.innerHTML=T.zero;return}
+ out.innerHTML=res(loss.toLocaleString(T.locale),(loss/8000).toLocaleString(T.locale,{maximumFractionDigits:1}));}
+c.forEach(function(e){e.addEventListener('input',calc)});
+var f=document.getElementById('qz'),ans=f.querySelectorAll('.ans'),wa=document.getElementById('qwa'),note=document.getElementById('qnote'),base=wa.getAttribute('href').split('?')[0];
+f.addEventListener('change',function(){
+ var v=function(n){var e=f.querySelector('input[name='+n+']:checked');return e?e.value:null};
+ var q1=v('q1'),q2=v('q2'),q3=v('q3');if(q1===null||q2===null)return;
+ var s=[0,0,1,2,3][+q1+ +q2];
+ ans.forEach(function(a){a.classList.toggle('on',+a.dataset.a===s)});
+ note.textContent=q3?T.notes[q3]:'';
+ var pick=f.querySelector('.ans[data-a="'+s+'"] b').textContent.replace(/\.$/,'');
+ wa.setAttribute('href',base+'?text='+encodeURIComponent(T.wa+pick));});
+})();
+</script>
+<nav id="sitenav" aria-label="Навигация по TLNT" style="position:static;z-index:auto;backdrop-filter:none;-webkit-backdrop-filter:none;border-bottom:0;border-top:1px solid #ece4d8;background:#f7f2ea;padding:34px 22px 26px;font-family:Nunito Sans,sans-serif"><div style="max-width:1060px;margin:0 auto"><div style="font-family:Cormorant Garamond,serif;font-size:26px;color:#3f3a33;margin-bottom:18px">Навигация по TLNT</div><div style="display:flex;flex-wrap:wrap;gap:22px 34px"><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Услуги</div><a href="/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Подбор персонала в Дубае</a><a href="/crm/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">CRM для салона и клиники</a><a href="/consulting/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Бизнес-консалтинг: CRM и ИИ</a><a href="/team-audit/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Аудит команды</a><a href="/mini-audit/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Бесплатный разбор вакансии</a><a href="/calculator/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Калькулятор гонорара</a><a href="/about/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">О компании</a></div><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Роли</div><a href="/roles/#medical" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Врачи и медперсонал</a><a href="/roles/#beauty" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Бьюти и спа</a><a href="/roles/#management" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Управление и ресепшн</a><a href="/roles/#household" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Дом и частный персонал</a><a href="/roles/#business" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Бизнес и офис</a><a href="/roles/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Все роли</a></div><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Гайды</div><a href="/guides/#salon" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Владельцам салонов</a><a href="/guides/#clinic" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Клиники и врачи</a><a href="/guides/#owner" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Рост салона и клиники</a><a href="/guides/#hiring" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Найм в ОАЭ</a><a href="/guides/#candidate" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Кандидатам</a><a href="/guides/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Все гайды</a></div><div style="min-width:170px;flex:1"><div style="font-size:11.5px;letter-spacing:.16em;text-transform:uppercase;color:#9a8a6e;font-weight:700;margin-bottom:10px">Инструменты</div><a href="/salary-index-2026/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Индекс зарплат 2026</a><a href="/vakansii/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Открытые вакансии</a><a href="/resume/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Конструктор резюме</a><a href="/candidates/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Отправить резюме</a><a href="/guides/russkoyazychnyy-personal-dubai/" style="display:block;padding:5px 0;color:#5f574d;text-decoration:none;font-size:14.5px">Русскоязычный персонал</a></div></div><div style="margin-top:20px;padding-top:14px;border-top:1px solid #e6dccc;font-size:14px;color:#7a7266"><a href="https://wa.me/971509851420" style="color:#986e35;font-weight:700;text-decoration:none">WhatsApp +971 50 985 1420</a> · <a href="/en/" style="color:#7a7266">English version</a> · <span style="color:#7a7266">Офис: The One Tower, Barsha Heights (TECOM), Дубай</span></div></div></nav>
 <footer>TLNT.ae · консалтинг по подбору и найму, поддержка бизнеса в ОАЭ</footer>
 <script src="/widget.js?v=20260926m"></script>
 </body>
