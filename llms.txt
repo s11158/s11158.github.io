@@ -628,6 +628,10 @@ TLNT has been working in the UAE since 2022.
 - [All guides (EN)](https://tlnt.ae/en/guides/)
 - [Все гайды (RU)](https://tlnt.ae/guides/)
 
+## Blog and events / Блог и события
+- [Blog and events](https://tlnt.ae/en/blog/): upcoming medical, dental, hospitality and HR events in Dubai with hiring notes, company news, our articles.
+- [Блог и события](https://tlnt.ae/blog/): ближайшие отраслевые события Дубая с заметками о найме, новости компании, наши статьи.
+
 ## Контакты
 - WhatsApp: https://wa.me/971509851420
 - Telegram: https://t.me/+971509851420
