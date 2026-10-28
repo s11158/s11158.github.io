@@ -189,7 +189,7 @@
     q: "Who are you?", employer: "I'm hiring", candidate: "I'm looking for a job",
     hint: "Please choose one option - it takes a second.",
     title: "You're in the right place - just one page over",
-    text: "We recruit staff for companies, so we can't hire you ourselves. Send your CV through our candidates page: it goes straight into our database and reaches employers.",
+    text: "We help companies hire staff, so we can't hire you ourselves. Send your CV through the candidates page: it goes straight into the TLNT CV database and reaches employers.",
     cta: "Go to the candidates page", back: "I actually need to hire someone", href: "/en/candidates/"
   } : {
     q: "Вы ищете сотрудника или работу?", employer: "Ищу сотрудника", candidate: "Ищу работу",
