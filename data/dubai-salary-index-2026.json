@@ -1,0 +1,4198 @@
+{
+ "name": "Dubai Salary Index 2026",
+ "edition": "Q4 2026",
+ "roles": 155,
+ "rows": 465,
+ "currency": "AED",
+ "period": "monthly gross",
+ "source": "https://tlnt.ae/en/salary-index-2026/",
+ "license": "Free to quote with attribution to TLNT.ae and a link",
+ "generated": "2026-10-31",
+ "data": [
+  {
+   "group": "Medical and aesthetic",
+   "role": "GP Doctor",
+   "level": "Entry GP",
+   "range_text": "15,000 - 20,000",
+   "min_aed": 15000,
+   "max_aed": 20000,
+   "url": "https://tlnt.ae/en/gp-doctor/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "GP Doctor",
+   "level": "Experienced GP",
+   "range_text": "22,000 - 28,000",
+   "min_aed": 22000,
+   "max_aed": 28000,
+   "url": "https://tlnt.ae/en/gp-doctor/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "GP Doctor",
+   "level": "Senior / with patient base",
+   "range_text": "30,000+",
+   "min_aed": 30000,
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/gp-doctor/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Aesthetic Doctor",
+   "level": "Entry",
+   "range_text": "15,000 - 18,000",
+   "min_aed": 15000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/aesthetic-doctor/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Aesthetic Doctor",
+   "level": "Experienced",
+   "range_text": "20,000 - 25,000",
+   "min_aed": 20000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/aesthetic-doctor/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Aesthetic Doctor",
+   "level": "Senior",
+   "range_text": "30,000+",
+   "min_aed": 30000,
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/aesthetic-doctor/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Cosmetologist",
+   "level": "Esthetician / beauty cosmetologist",
+   "range_text": "5,000 - 9,000 + commission",
+   "min_aed": 5000,
+   "max_aed": 9000,
+   "url": "https://tlnt.ae/en/cosmetologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Cosmetologist",
+   "level": "Aesthetic physician (DHA)",
+   "range_text": "22,000 - 35,000 + commission",
+   "min_aed": 22000,
+   "max_aed": 35000,
+   "url": "https://tlnt.ae/en/cosmetologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Cosmetologist",
+   "level": "Senior aesthetic physician",
+   "range_text": "35,000 - 50,000+",
+   "min_aed": 35000,
+   "max_aed": 50000,
+   "url": "https://tlnt.ae/en/cosmetologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Botox Injector",
+   "level": "Nurse injector (DHA RN)",
+   "range_text": "12,000 - 20,000",
+   "min_aed": 12000,
+   "max_aed": 20000,
+   "url": "https://tlnt.ae/en/botox-injector/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Botox Injector",
+   "level": "Aesthetic physician / GP injector",
+   "range_text": "22,000 - 35,000",
+   "min_aed": 22000,
+   "max_aed": 35000,
+   "url": "https://tlnt.ae/en/botox-injector/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Botox Injector",
+   "level": "Senior injector with own patient base",
+   "range_text": "35,000 - 50,000+",
+   "min_aed": 35000,
+   "max_aed": 50000,
+   "url": "https://tlnt.ae/en/botox-injector/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Dermatologist",
+   "level": "Specialist dermatologist",
+   "range_text": "35,000 - 50,000",
+   "min_aed": 35000,
+   "max_aed": 50000,
+   "url": "https://tlnt.ae/en/dermatologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Dermatologist",
+   "level": "Consultant dermatologist",
+   "range_text": "55,000 - 80,000+",
+   "min_aed": 55000,
+   "max_aed": 80000,
+   "url": "https://tlnt.ae/en/dermatologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Dermatologist",
+   "level": "Dermatologist with own patient base",
+   "range_text": "fixed plus revenue share",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/dermatologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Plastic Surgeon",
+   "level": "Specialist plastic surgeon",
+   "range_text": "60,000 - 90,000",
+   "min_aed": 60000,
+   "max_aed": 90000,
+   "url": "https://tlnt.ae/en/plastic-surgeon/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Plastic Surgeon",
+   "level": "Consultant plastic surgeon",
+   "range_text": "90,000 - 150,000+",
+   "min_aed": 90000,
+   "max_aed": 150000,
+   "url": "https://tlnt.ae/en/plastic-surgeon/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Plastic Surgeon",
+   "level": "Surgeon with own patient base",
+   "range_text": "fixed plus revenue share",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/plastic-surgeon/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Gynecologist",
+   "level": "Specialist gynecologist",
+   "range_text": "35,000 - 55,000",
+   "min_aed": 35000,
+   "max_aed": 55000,
+   "url": "https://tlnt.ae/en/gynecologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Gynecologist",
+   "level": "Consultant gynecologist",
+   "range_text": "55,000 - 80,000+",
+   "min_aed": 55000,
+   "max_aed": 80000,
+   "url": "https://tlnt.ae/en/gynecologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Gynecologist",
+   "level": "With own patient base",
+   "range_text": "fixed plus revenue share",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/gynecologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Pediatrician",
+   "level": "Specialist pediatrician",
+   "range_text": "30,000 - 45,000",
+   "min_aed": 30000,
+   "max_aed": 45000,
+   "url": "https://tlnt.ae/en/pediatrician/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Pediatrician",
+   "level": "Consultant pediatrician",
+   "range_text": "45,000 - 65,000+",
+   "min_aed": 45000,
+   "max_aed": 65000,
+   "url": "https://tlnt.ae/en/pediatrician/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Pediatrician",
+   "level": "With own patient base",
+   "range_text": "fixed plus revenue share",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/pediatrician/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Dentist",
+   "level": "General dentist",
+   "range_text": "15,000 - 25,000 or commission",
+   "min_aed": 15000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/dentist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Dentist",
+   "level": "Specialist (ortho, implants, endo)",
+   "range_text": "30,000 - 50,000+",
+   "min_aed": 30000,
+   "max_aed": 50000,
+   "url": "https://tlnt.ae/en/dentist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Dentist",
+   "level": "Dental assistant / hygienist",
+   "range_text": "5,000 - 9,000",
+   "min_aed": 5000,
+   "max_aed": 9000,
+   "url": "https://tlnt.ae/en/dentist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Nurse",
+   "level": "Registered nurse (clinic)",
+   "range_text": "7,000 - 12,000",
+   "min_aed": 7000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/nurse/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Nurse",
+   "level": "Aesthetic or specialised nurse",
+   "range_text": "12,000 - 18,000",
+   "min_aed": 12000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/nurse/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Nurse",
+   "level": "Nurse manager / head nurse",
+   "range_text": "18,000 - 25,000",
+   "min_aed": 18000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/nurse/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Dental Assistant",
+   "level": "Dental assistant",
+   "range_text": "4,500 - 7,000",
+   "min_aed": 4500,
+   "max_aed": 7000,
+   "url": "https://tlnt.ae/en/dental-assistant/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Dental Assistant",
+   "level": "Experienced / specialist assistant",
+   "range_text": "7,000 - 9,000",
+   "min_aed": 7000,
+   "max_aed": 9000,
+   "url": "https://tlnt.ae/en/dental-assistant/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Dental Assistant",
+   "level": "Dental hygienist",
+   "range_text": "9,000 - 14,000",
+   "min_aed": 9000,
+   "max_aed": 14000,
+   "url": "https://tlnt.ae/en/dental-assistant/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Physiotherapist",
+   "level": "Physiotherapist",
+   "range_text": "10,000 - 16,000",
+   "min_aed": 10000,
+   "max_aed": 16000,
+   "url": "https://tlnt.ae/en/physiotherapist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Physiotherapist",
+   "level": "Senior physiotherapist",
+   "range_text": "16,000 - 22,000",
+   "min_aed": 16000,
+   "max_aed": 22000,
+   "url": "https://tlnt.ae/en/physiotherapist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Physiotherapist",
+   "level": "Lead / clinic head",
+   "range_text": "22,000 - 30,000",
+   "min_aed": 22000,
+   "max_aed": 30000,
+   "url": "https://tlnt.ae/en/physiotherapist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Psychologist",
+   "level": "Counselling psychologist",
+   "range_text": "12,000 - 20,000",
+   "min_aed": 12000,
+   "max_aed": 20000,
+   "url": "https://tlnt.ae/en/psychologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Psychologist",
+   "level": "Clinical psychologist",
+   "range_text": "18,000 - 30,000",
+   "min_aed": 18000,
+   "max_aed": 30000,
+   "url": "https://tlnt.ae/en/psychologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Psychologist",
+   "level": "Senior / lead psychologist",
+   "range_text": "30,000 - 40,000",
+   "min_aed": 30000,
+   "max_aed": 40000,
+   "url": "https://tlnt.ae/en/psychologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Nutritionist",
+   "level": "Nutritionist / dietitian",
+   "range_text": "10,000 - 15,000",
+   "min_aed": 10000,
+   "max_aed": 15000,
+   "url": "https://tlnt.ae/en/nutritionist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Nutritionist",
+   "level": "Senior clinical dietitian",
+   "range_text": "15,000 - 22,000",
+   "min_aed": 15000,
+   "max_aed": 22000,
+   "url": "https://tlnt.ae/en/nutritionist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Nutritionist",
+   "level": "Head of nutrition",
+   "range_text": "22,000 - 30,000",
+   "min_aed": 22000,
+   "max_aed": 30000,
+   "url": "https://tlnt.ae/en/nutritionist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Laser Technician",
+   "level": "Laser technician",
+   "range_text": "6,000 - 9,000 + commission",
+   "min_aed": 6000,
+   "max_aed": 9000,
+   "url": "https://tlnt.ae/en/laser-technician/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Laser Technician",
+   "level": "Laser therapist / laser nurse",
+   "range_text": "9,000 - 14,000 + commission",
+   "min_aed": 9000,
+   "max_aed": 14000,
+   "url": "https://tlnt.ae/en/laser-technician/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Laser Technician",
+   "level": "Senior / lead laser specialist",
+   "range_text": "14,000 - 18,000",
+   "min_aed": 14000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/laser-technician/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "ABA Therapist",
+   "level": "ABA therapist / RBT",
+   "range_text": "6,000 - 10,000",
+   "min_aed": 6000,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/aba-therapist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "ABA Therapist",
+   "level": "Senior ABA therapist",
+   "range_text": "10,000 - 14,000",
+   "min_aed": 10000,
+   "max_aed": 14000,
+   "url": "https://tlnt.ae/en/aba-therapist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "ABA Therapist",
+   "level": "Behaviour analyst (BCBA)",
+   "range_text": "20,000 - 35,000",
+   "min_aed": 20000,
+   "max_aed": 35000,
+   "url": "https://tlnt.ae/en/aba-therapist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Aesthetic nurse",
+   "level": "Aesthetic nurse",
+   "range_text": "9,000 - 14,000",
+   "min_aed": 9000,
+   "max_aed": 14000,
+   "url": "https://tlnt.ae/en/aesthetic-nurse/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Aesthetic nurse",
+   "level": "Senior nurse injector",
+   "range_text": "14,000 - 20,000",
+   "min_aed": 14000,
+   "max_aed": 20000,
+   "url": "https://tlnt.ae/en/aesthetic-nurse/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Aesthetic nurse",
+   "level": "Nurse with own client base",
+   "range_text": "fixed plus commission",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/aesthetic-nurse/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Allergist-immunologist",
+   "level": "Specialist allergist-immunologist",
+   "range_text": "28,000 - 42,000",
+   "min_aed": 28000,
+   "max_aed": 42000,
+   "url": "https://tlnt.ae/en/allergist-immunologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Allergist-immunologist",
+   "level": "Consultant allergist-immunologist",
+   "range_text": "42,000 - 60,000",
+   "min_aed": 42000,
+   "max_aed": 60000,
+   "url": "https://tlnt.ae/en/allergist-immunologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Allergist-immunologist",
+   "level": "Part-time or session-based",
+   "range_text": "fee per session or revenue share",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/allergist-immunologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Anesthesiologist",
+   "level": "Specialist anesthesiologist",
+   "range_text": "45,000 - 65,000",
+   "min_aed": 45000,
+   "max_aed": 65000,
+   "url": "https://tlnt.ae/en/anesthesiologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Anesthesiologist",
+   "level": "Consultant anesthesiologist",
+   "range_text": "65,000 - 100,000+",
+   "min_aed": 65000,
+   "max_aed": 100000,
+   "url": "https://tlnt.ae/en/anesthesiologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Anesthesiologist",
+   "level": "Sessional / per case",
+   "range_text": "agreed per list or per case",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/anesthesiologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Cardiologist",
+   "level": "Specialist cardiologist",
+   "range_text": "35,000 - 55,000",
+   "min_aed": 35000,
+   "max_aed": 55000,
+   "url": "https://tlnt.ae/en/cardiologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Cardiologist",
+   "level": "Consultant cardiologist",
+   "range_text": "55,000 - 85,000+",
+   "min_aed": 55000,
+   "max_aed": 85000,
+   "url": "https://tlnt.ae/en/cardiologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Cardiologist",
+   "level": "Cardiologist with own patient base",
+   "range_text": "fixed plus revenue share",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/cardiologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Dental hygienist",
+   "level": "Dental hygienist",
+   "range_text": "9,000 - 12,000",
+   "min_aed": 9000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/dental-hygienist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Dental hygienist",
+   "level": "Senior hygienist",
+   "range_text": "12,000 - 14,000",
+   "min_aed": 12000,
+   "max_aed": 14000,
+   "url": "https://tlnt.ae/en/dental-hygienist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Dental hygienist",
+   "level": "Hygienist with own recall base",
+   "range_text": "fixed plus commission",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/dental-hygienist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Dental technician / lab technician",
+   "level": "Dental technician",
+   "range_text": "5,000 - 8,000",
+   "min_aed": 5000,
+   "max_aed": 8000,
+   "url": "https://tlnt.ae/en/dental-technician/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Dental technician / lab technician",
+   "level": "Senior technician (ceramics, CAD/CAM)",
+   "range_text": "8,000 - 12,000",
+   "min_aed": 8000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/dental-technician/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Dental technician / lab technician",
+   "level": "Lab manager / head technician",
+   "range_text": "12,000 - 18,000",
+   "min_aed": 12000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/dental-technician/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Dental treatment coordinator / Treatment plan coordinator",
+   "level": "Treatment coordinator",
+   "range_text": "6,000 - 10,000",
+   "min_aed": 6000,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/dental-treatment-coordinator/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Dental treatment coordinator / Treatment plan coordinator",
+   "level": "Senior coordinator",
+   "range_text": "10,000 - 14,000",
+   "min_aed": 10000,
+   "max_aed": 14000,
+   "url": "https://tlnt.ae/en/dental-treatment-coordinator/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Dental treatment coordinator / Treatment plan coordinator",
+   "level": "Coordinator with commission on accepted plans",
+   "range_text": "fixed plus commission",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/dental-treatment-coordinator/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "ENT doctor (otolaryngologist)",
+   "level": "Specialist ENT doctor",
+   "range_text": "30,000 - 45,000",
+   "min_aed": 30000,
+   "max_aed": 45000,
+   "url": "https://tlnt.ae/en/ent-doctor/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "ENT doctor (otolaryngologist)",
+   "level": "Consultant ENT doctor",
+   "range_text": "45,000 - 70,000+",
+   "min_aed": 45000,
+   "max_aed": 70000,
+   "url": "https://tlnt.ae/en/ent-doctor/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "ENT doctor (otolaryngologist)",
+   "level": "ENT doctor with own patient base",
+   "range_text": "fixed plus revenue share",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/ent-doctor/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Endocrinologist",
+   "level": "Specialist endocrinologist",
+   "range_text": "30,000 - 45,000",
+   "min_aed": 30000,
+   "max_aed": 45000,
+   "url": "https://tlnt.ae/en/endocrinologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Endocrinologist",
+   "level": "Consultant endocrinologist",
+   "range_text": "45,000 - 65,000",
+   "min_aed": 45000,
+   "max_aed": 65000,
+   "url": "https://tlnt.ae/en/endocrinologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Endocrinologist",
+   "level": "Weight or longevity clinic, part-time or session-based",
+   "range_text": "fixed plus revenue share",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/endocrinologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Endodontist",
+   "level": "Endodontist",
+   "range_text": "30,000 - 42,000",
+   "min_aed": 30000,
+   "max_aed": 42000,
+   "url": "https://tlnt.ae/en/endodontist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Endodontist",
+   "level": "Senior endodontist",
+   "range_text": "42,000 - 52,000",
+   "min_aed": 42000,
+   "max_aed": 52000,
+   "url": "https://tlnt.ae/en/endodontist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Endodontist",
+   "level": "Endodontist on commission",
+   "range_text": "fixed plus 30 - 40% of collections, varies by clinic",
+   "min_aed": 30,
+   "max_aed": 40,
+   "url": "https://tlnt.ae/en/endodontist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Gastroenterologist",
+   "level": "Specialist gastroenterologist",
+   "range_text": "30,000 - 48,000",
+   "min_aed": 30000,
+   "max_aed": 48000,
+   "url": "https://tlnt.ae/en/gastroenterologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Gastroenterologist",
+   "level": "Consultant gastroenterologist",
+   "range_text": "48,000 - 70,000",
+   "min_aed": 48000,
+   "max_aed": 70000,
+   "url": "https://tlnt.ae/en/gastroenterologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Gastroenterologist",
+   "level": "Endoscopy-heavy practice, session-based",
+   "range_text": "fixed plus revenue share",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/gastroenterologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "General surgeon",
+   "level": "Specialist general surgeon",
+   "range_text": "35,000 - 55,000",
+   "min_aed": 35000,
+   "max_aed": 55000,
+   "url": "https://tlnt.ae/en/general-surgeon/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "General surgeon",
+   "level": "Consultant general surgeon",
+   "range_text": "55,000 - 80,000",
+   "min_aed": 55000,
+   "max_aed": 80000,
+   "url": "https://tlnt.ae/en/general-surgeon/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "General surgeon",
+   "level": "Day-surgery or visiting surgeon",
+   "range_text": "fee per case or revenue share",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/general-surgeon/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Hair transplant surgeon",
+   "level": "Hair transplant surgeon",
+   "range_text": "25,000 - 45,000",
+   "min_aed": 25000,
+   "max_aed": 45000,
+   "url": "https://tlnt.ae/en/hair-transplant-surgeon/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Hair transplant surgeon",
+   "level": "Senior surgeon, high volume",
+   "range_text": "45,000 - 70,000",
+   "min_aed": 45000,
+   "max_aed": 70000,
+   "url": "https://tlnt.ae/en/hair-transplant-surgeon/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Hair transplant surgeon",
+   "level": "Surgeon paid per procedure",
+   "range_text": "fixed plus share",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/hair-transplant-surgeon/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Home Care Nurse",
+   "level": "Home care nurse",
+   "range_text": "6,000 - 9,000",
+   "min_aed": 6000,
+   "max_aed": 9000,
+   "url": "https://tlnt.ae/en/home-care-nurse/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Home Care Nurse",
+   "level": "Senior / specialised home care nurse",
+   "range_text": "9,000 - 13,000",
+   "min_aed": 9000,
+   "max_aed": 13000,
+   "url": "https://tlnt.ae/en/home-care-nurse/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Home Care Nurse",
+   "level": "Nurse supervisor",
+   "range_text": "13,000 - 18,000",
+   "min_aed": 13000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/home-care-nurse/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "IV Therapy Nurse",
+   "level": "IV therapy nurse",
+   "range_text": "7,000 - 11,000 + bonus",
+   "min_aed": 7000,
+   "max_aed": 11000,
+   "url": "https://tlnt.ae/en/iv-therapy-nurse/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "IV Therapy Nurse",
+   "level": "Senior IV nurse",
+   "range_text": "11,000 - 15,000",
+   "min_aed": 11000,
+   "max_aed": 15000,
+   "url": "https://tlnt.ae/en/iv-therapy-nurse/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "IV Therapy Nurse",
+   "level": "Lead nurse / IV service coordinator",
+   "range_text": "15,000 - 20,000",
+   "min_aed": 15000,
+   "max_aed": 20000,
+   "url": "https://tlnt.ae/en/iv-therapy-nurse/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Implantologist / oral surgeon",
+   "level": "Dentist with implant focus",
+   "range_text": "25,000 - 35,000 or commission",
+   "min_aed": 25000,
+   "max_aed": 35000,
+   "url": "https://tlnt.ae/en/dental-implantologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Implantologist / oral surgeon",
+   "level": "Implantologist / oral surgeon",
+   "range_text": "30,000 - 50,000+",
+   "min_aed": 30000,
+   "max_aed": 50000,
+   "url": "https://tlnt.ae/en/dental-implantologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Implantologist / oral surgeon",
+   "level": "Doctor with own implant base",
+   "range_text": "fixed plus commission",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/dental-implantologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Lab Technician",
+   "level": "Lab technician / phlebotomist",
+   "range_text": "5,000 - 8,000",
+   "min_aed": 5000,
+   "max_aed": 8000,
+   "url": "https://tlnt.ae/en/lab-technician/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Lab Technician",
+   "level": "Lab technologist",
+   "range_text": "8,000 - 13,000",
+   "min_aed": 8000,
+   "max_aed": 13000,
+   "url": "https://tlnt.ae/en/lab-technician/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Lab Technician",
+   "level": "Lab supervisor",
+   "range_text": "13,000 - 20,000",
+   "min_aed": 13000,
+   "max_aed": 20000,
+   "url": "https://tlnt.ae/en/lab-technician/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Longevity physician",
+   "level": "Longevity physician",
+   "range_text": "25,000 - 40,000",
+   "min_aed": 25000,
+   "max_aed": 40000,
+   "url": "https://tlnt.ae/en/longevity-physician/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Longevity physician",
+   "level": "Senior physician, programme lead",
+   "range_text": "40,000 - 60,000",
+   "min_aed": 40000,
+   "max_aed": 60000,
+   "url": "https://tlnt.ae/en/longevity-physician/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Longevity physician",
+   "level": "Physician with own client base",
+   "range_text": "fixed plus commission",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/longevity-physician/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Maxillofacial surgeon",
+   "level": "Maxillofacial surgeon",
+   "range_text": "35,000 - 55,000",
+   "min_aed": 35000,
+   "max_aed": 55000,
+   "url": "https://tlnt.ae/en/maxillofacial-surgeon/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Maxillofacial surgeon",
+   "level": "Senior surgeon, complex cases",
+   "range_text": "55,000 - 90,000",
+   "min_aed": 55000,
+   "max_aed": 90000,
+   "url": "https://tlnt.ae/en/maxillofacial-surgeon/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Maxillofacial surgeon",
+   "level": "Surgeon paid per case",
+   "range_text": "fixed plus share",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/maxillofacial-surgeon/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Medical Director",
+   "level": "Practising physician with medical director title",
+   "range_text": "40,000 - 60,000",
+   "min_aed": 40000,
+   "max_aed": 60000,
+   "url": "https://tlnt.ae/en/medical-director/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Medical Director",
+   "level": "Full-time medical director",
+   "range_text": "60,000 - 90,000",
+   "min_aed": 60000,
+   "max_aed": 90000,
+   "url": "https://tlnt.ae/en/medical-director/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Medical Director",
+   "level": "Group medical director",
+   "range_text": "90,000 - 130,000+",
+   "min_aed": 90000,
+   "max_aed": 130000,
+   "url": "https://tlnt.ae/en/medical-director/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Neurologist",
+   "level": "Specialist neurologist",
+   "range_text": "30,000 - 45,000",
+   "min_aed": 30000,
+   "max_aed": 45000,
+   "url": "https://tlnt.ae/en/neurologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Neurologist",
+   "level": "Consultant neurologist",
+   "range_text": "45,000 - 65,000",
+   "min_aed": 45000,
+   "max_aed": 65000,
+   "url": "https://tlnt.ae/en/neurologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Neurologist",
+   "level": "Visiting or session-based neurologist",
+   "range_text": "fee per session or revenue share",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/neurologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Ophthalmologist",
+   "level": "Specialist ophthalmologist",
+   "range_text": "35,000 - 55,000",
+   "min_aed": 35000,
+   "max_aed": 55000,
+   "url": "https://tlnt.ae/en/ophthalmologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Ophthalmologist",
+   "level": "Consultant ophthalmologist",
+   "range_text": "55,000 - 85,000+",
+   "min_aed": 55000,
+   "max_aed": 85000,
+   "url": "https://tlnt.ae/en/ophthalmologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Ophthalmologist",
+   "level": "Surgeon with own patient base",
+   "range_text": "fixed plus revenue share",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/ophthalmologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Orthodontist",
+   "level": "Orthodontist",
+   "range_text": "30,000 - 42,000",
+   "min_aed": 30000,
+   "max_aed": 42000,
+   "url": "https://tlnt.ae/en/orthodontist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Orthodontist",
+   "level": "Senior orthodontist",
+   "range_text": "42,000 - 55,000",
+   "min_aed": 42000,
+   "max_aed": 55000,
+   "url": "https://tlnt.ae/en/orthodontist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Orthodontist",
+   "level": "Orthodontist on commission",
+   "range_text": "fixed plus 25 - 40% of collections, varies by clinic",
+   "min_aed": 25,
+   "max_aed": 40,
+   "url": "https://tlnt.ae/en/orthodontist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Orthopedic surgeon",
+   "level": "Specialist orthopedic surgeon",
+   "range_text": "40,000 - 60,000",
+   "min_aed": 40000,
+   "max_aed": 60000,
+   "url": "https://tlnt.ae/en/orthopedic-surgeon/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Orthopedic surgeon",
+   "level": "Consultant orthopedic surgeon",
+   "range_text": "60,000 - 95,000+",
+   "min_aed": 60000,
+   "max_aed": 95000,
+   "url": "https://tlnt.ae/en/orthopedic-surgeon/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Orthopedic surgeon",
+   "level": "Surgeon with own patient base",
+   "range_text": "fixed plus revenue share",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/orthopedic-surgeon/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Pediatric dentist",
+   "level": "Pediatric dentist",
+   "range_text": "26,000 - 36,000",
+   "min_aed": 26000,
+   "max_aed": 36000,
+   "url": "https://tlnt.ae/en/pediatric-dentist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Pediatric dentist",
+   "level": "Senior or specialist pediatric dentist",
+   "range_text": "36,000 - 50,000",
+   "min_aed": 36000,
+   "max_aed": 50000,
+   "url": "https://tlnt.ae/en/pediatric-dentist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Pediatric dentist",
+   "level": "Pediatric dentist on commission",
+   "range_text": "fixed plus 30 - 40% of collections, varies by clinic",
+   "min_aed": 30,
+   "max_aed": 40,
+   "url": "https://tlnt.ae/en/pediatric-dentist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Periodontist",
+   "level": "Periodontist",
+   "range_text": "30,000 - 40,000",
+   "min_aed": 30000,
+   "max_aed": 40000,
+   "url": "https://tlnt.ae/en/periodontist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Periodontist",
+   "level": "Senior periodontist",
+   "range_text": "40,000 - 50,000",
+   "min_aed": 40000,
+   "max_aed": 50000,
+   "url": "https://tlnt.ae/en/periodontist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Periodontist",
+   "level": "Periodontist on commission",
+   "range_text": "fixed plus 30 - 40% of collections, varies by clinic",
+   "min_aed": 30,
+   "max_aed": 40,
+   "url": "https://tlnt.ae/en/periodontist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Pharmacist",
+   "level": "Pharmacist",
+   "range_text": "7,000 - 12,000",
+   "min_aed": 7000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/pharmacist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Pharmacist",
+   "level": "Senior pharmacist / pharmacist in charge",
+   "range_text": "12,000 - 17,000",
+   "min_aed": 12000,
+   "max_aed": 17000,
+   "url": "https://tlnt.ae/en/pharmacist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Pharmacist",
+   "level": "Pharmacy manager",
+   "range_text": "17,000 - 25,000",
+   "min_aed": 17000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/pharmacist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Prosthodontist",
+   "level": "General dentist, prosthodontic focus",
+   "range_text": "18,000 - 28,000 or commission",
+   "min_aed": 18000,
+   "max_aed": 28000,
+   "url": "https://tlnt.ae/en/prosthodontist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Prosthodontist",
+   "level": "Prosthodontist (specialist)",
+   "range_text": "30,000 - 45,000+",
+   "min_aed": 30000,
+   "max_aed": 45000,
+   "url": "https://tlnt.ae/en/prosthodontist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Prosthodontist",
+   "level": "Senior, smile design and full-mouth cases",
+   "range_text": "fixed plus commission",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/prosthodontist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Psychiatrist",
+   "level": "Specialist psychiatrist",
+   "range_text": "35,000 - 50,000",
+   "min_aed": 35000,
+   "max_aed": 50000,
+   "url": "https://tlnt.ae/en/psychiatrist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Psychiatrist",
+   "level": "Consultant psychiatrist",
+   "range_text": "50,000 - 75,000+",
+   "min_aed": 50000,
+   "max_aed": 75000,
+   "url": "https://tlnt.ae/en/psychiatrist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Psychiatrist",
+   "level": "Psychiatrist with own patient base",
+   "range_text": "fixed plus revenue share",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/psychiatrist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Radiographer",
+   "level": "Radiographer, general X-ray",
+   "range_text": "8,000 - 12,000",
+   "min_aed": 8000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/radiographer/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Radiographer",
+   "level": "Experienced CT / MRI radiographer",
+   "range_text": "12,000 - 18,000",
+   "min_aed": 12000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/radiographer/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Radiographer",
+   "level": "Senior or lead radiographer",
+   "range_text": "18,000 - 25,000",
+   "min_aed": 18000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/radiographer/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Radiologist",
+   "level": "Specialist radiologist",
+   "range_text": "45,000 - 65,000",
+   "min_aed": 45000,
+   "max_aed": 65000,
+   "url": "https://tlnt.ae/en/radiologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Radiologist",
+   "level": "Consultant radiologist",
+   "range_text": "65,000 - 95,000+",
+   "min_aed": 65000,
+   "max_aed": 95000,
+   "url": "https://tlnt.ae/en/radiologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Radiologist",
+   "level": "Per report / teleradiology",
+   "range_text": "agreed per report",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/radiologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Speech Therapist",
+   "level": "Speech therapist",
+   "range_text": "12,000 - 18,000",
+   "min_aed": 12000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/speech-therapist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Speech Therapist",
+   "level": "Senior speech therapist",
+   "range_text": "18,000 - 25,000",
+   "min_aed": 18000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/speech-therapist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Speech Therapist",
+   "level": "Lead therapist / clinical lead",
+   "range_text": "25,000 - 35,000",
+   "min_aed": 25000,
+   "max_aed": 35000,
+   "url": "https://tlnt.ae/en/speech-therapist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Trichologist",
+   "level": "Non-medical trichologist",
+   "range_text": "6,000 - 10,000 + commission",
+   "min_aed": 6000,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/trichologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Trichologist",
+   "level": "Senior trichologist",
+   "range_text": "10,000 - 15,000 + commission",
+   "min_aed": 10000,
+   "max_aed": 15000,
+   "url": "https://tlnt.ae/en/trichologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Trichologist",
+   "level": "Medical trichologist (physician)",
+   "range_text": "25,000 - 40,000",
+   "min_aed": 25000,
+   "max_aed": 40000,
+   "url": "https://tlnt.ae/en/trichologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Urologist",
+   "level": "Specialist urologist",
+   "range_text": "35,000 - 55,000",
+   "min_aed": 35000,
+   "max_aed": 55000,
+   "url": "https://tlnt.ae/en/urologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Urologist",
+   "level": "Consultant urologist",
+   "range_text": "55,000 - 80,000+",
+   "min_aed": 55000,
+   "max_aed": 80000,
+   "url": "https://tlnt.ae/en/urologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Urologist",
+   "level": "Urologist with own patient base",
+   "range_text": "fixed plus revenue share",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/urologist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Medical sales representative",
+   "level": "Medical sales representative",
+   "range_text": "8,000 - 12,000 + commission",
+   "min_aed": 8000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/medical-sales-representative/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Medical sales representative",
+   "level": "Senior representative or key account manager (aesthetics, devices)",
+   "range_text": "12,000 - 18,000 + commission",
+   "min_aed": 12000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/medical-sales-representative/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Medical sales representative",
+   "level": "Sales team lead or product manager",
+   "range_text": "18,000 - 28,000 + bonus",
+   "min_aed": 18000,
+   "max_aed": 28000,
+   "url": "https://tlnt.ae/en/medical-sales-representative/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Optometrist",
+   "level": "Optometrist (optical retail)",
+   "range_text": "4,500 - 7,000 + commission",
+   "min_aed": 4500,
+   "max_aed": 7000,
+   "url": "https://tlnt.ae/en/optometrist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Optometrist",
+   "level": "Senior optometrist or clinic optometrist (contact lenses, pre-tests)",
+   "range_text": "7,000 - 11,000",
+   "min_aed": 7000,
+   "max_aed": 11000,
+   "url": "https://tlnt.ae/en/optometrist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Optometrist",
+   "level": "Lead optometrist or store manager",
+   "range_text": "11,000 - 16,000",
+   "min_aed": 11000,
+   "max_aed": 16000,
+   "url": "https://tlnt.ae/en/optometrist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Phlebotomist",
+   "level": "Phlebotomist",
+   "range_text": "4,000 - 6,000",
+   "min_aed": 4000,
+   "max_aed": 6000,
+   "url": "https://tlnt.ae/en/phlebotomist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Phlebotomist",
+   "level": "Senior phlebotomist (paediatric, difficult veins, home visits)",
+   "range_text": "6,000 - 8,000",
+   "min_aed": 6000,
+   "max_aed": 8000,
+   "url": "https://tlnt.ae/en/phlebotomist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Phlebotomist",
+   "level": "Lead phlebotomist or collection point supervisor",
+   "range_text": "8,000 - 10,000",
+   "min_aed": 8000,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/phlebotomist/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Sonographer",
+   "level": "Sonographer, general ultrasound",
+   "range_text": "10,000 - 14,000",
+   "min_aed": 10000,
+   "max_aed": 14000,
+   "url": "https://tlnt.ae/en/sonographer/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Sonographer",
+   "level": "Specialist sonographer (obstetric, vascular, echo)",
+   "range_text": "14,000 - 20,000",
+   "min_aed": 14000,
+   "max_aed": 20000,
+   "url": "https://tlnt.ae/en/sonographer/"
+  },
+  {
+   "group": "Medical and aesthetic",
+   "role": "Sonographer",
+   "level": "Lead sonographer",
+   "range_text": "20,000 - 25,000",
+   "min_aed": 20000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/sonographer/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Nail Technician",
+   "level": "Entry",
+   "range_text": "3,000 - 4,000",
+   "min_aed": 3000,
+   "max_aed": 4000,
+   "url": "https://tlnt.ae/en/nail-technician/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Nail Technician",
+   "level": "Experienced",
+   "range_text": "4,500 - 5,500",
+   "min_aed": 4500,
+   "max_aed": 5500,
+   "url": "https://tlnt.ae/en/nail-technician/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Nail Technician",
+   "level": "Senior",
+   "range_text": "6,500+",
+   "min_aed": 6500,
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/nail-technician/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Hair Stylist",
+   "level": "Entry",
+   "range_text": "4,000 - 5,500",
+   "min_aed": 4000,
+   "max_aed": 5500,
+   "url": "https://tlnt.ae/en/hair-stylist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Hair Stylist",
+   "level": "Experienced",
+   "range_text": "6,000 - 7,500",
+   "min_aed": 6000,
+   "max_aed": 7500,
+   "url": "https://tlnt.ae/en/hair-stylist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Hair Stylist",
+   "level": "Senior",
+   "range_text": "9,000+",
+   "min_aed": 9000,
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/hair-stylist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Hair Colorist",
+   "level": "Hair colorist",
+   "range_text": "5,000 - 8,000 + commission",
+   "min_aed": 5000,
+   "max_aed": 8000,
+   "url": "https://tlnt.ae/en/hair-colorist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Hair Colorist",
+   "level": "Senior colorist",
+   "range_text": "8,000 - 12,000 + commission",
+   "min_aed": 8000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/hair-colorist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Hair Colorist",
+   "level": "Color director / educator",
+   "range_text": "12,000 - 18,000",
+   "min_aed": 12000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/hair-colorist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Barber",
+   "level": "Barber",
+   "range_text": "3,500 - 6,000 + commission",
+   "min_aed": 3500,
+   "max_aed": 6000,
+   "url": ""
+  },
+  {
+   "group": "Beauty",
+   "role": "Barber",
+   "level": "Senior barber",
+   "range_text": "6,000 - 9,000 + commission",
+   "min_aed": 6000,
+   "max_aed": 9000,
+   "url": ""
+  },
+  {
+   "group": "Beauty",
+   "role": "Barber",
+   "level": "Head barber / educator",
+   "range_text": "9,000 - 12,000",
+   "min_aed": 9000,
+   "max_aed": 12000,
+   "url": ""
+  },
+  {
+   "group": "Beauty",
+   "role": "Lash & Brow Technician",
+   "level": "Lash technician",
+   "range_text": "4,000 - 6,000 + commission",
+   "min_aed": 4000,
+   "max_aed": 6000,
+   "url": "https://tlnt.ae/en/lash-technician/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Lash & Brow Technician",
+   "level": "Senior lash and brow artist",
+   "range_text": "6,000 - 9,000 + commission",
+   "min_aed": 6000,
+   "max_aed": 9000,
+   "url": "https://tlnt.ae/en/lash-technician/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Lash & Brow Technician",
+   "level": "Lead artist / trainer",
+   "range_text": "9,000 - 12,000",
+   "min_aed": 9000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/lash-technician/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Makeup Artist",
+   "level": "Salon makeup artist",
+   "range_text": "4,000 - 7,000 + commission",
+   "min_aed": 4000,
+   "max_aed": 7000,
+   "url": "https://tlnt.ae/en/makeup-artist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Makeup Artist",
+   "level": "Senior / bridal makeup artist",
+   "range_text": "8,000 - 12,000 + commission",
+   "min_aed": 8000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/makeup-artist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Makeup Artist",
+   "level": "Brand or lead artist",
+   "range_text": "12,000 - 18,000",
+   "min_aed": 12000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/makeup-artist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Permanent Makeup Artist",
+   "level": "PMU artist",
+   "range_text": "5,000 - 8,000 + commission",
+   "min_aed": 5000,
+   "max_aed": 8000,
+   "url": "https://tlnt.ae/en/pmu-artist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Permanent Makeup Artist",
+   "level": "Senior PMU artist",
+   "range_text": "8,000 - 12,000 + commission",
+   "min_aed": 8000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/pmu-artist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Permanent Makeup Artist",
+   "level": "Top artist / trainer",
+   "range_text": "revenue share 30 - 50%",
+   "min_aed": 30,
+   "max_aed": 50,
+   "url": "https://tlnt.ae/en/pmu-artist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Esthetician",
+   "level": "Entry",
+   "range_text": "4,000 - 5,500",
+   "min_aed": 4000,
+   "max_aed": 5500,
+   "url": "https://tlnt.ae/en/esthetician/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Esthetician",
+   "level": "Experienced",
+   "range_text": "6,000 - 7,500",
+   "min_aed": 6000,
+   "max_aed": 7500,
+   "url": "https://tlnt.ae/en/esthetician/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Esthetician",
+   "level": "Senior",
+   "range_text": "9,000+",
+   "min_aed": 9000,
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/esthetician/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Massage Therapist",
+   "level": "Entry",
+   "range_text": "3,500 - 4,500",
+   "min_aed": 3500,
+   "max_aed": 4500,
+   "url": "https://tlnt.ae/en/massage-therapist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Massage Therapist",
+   "level": "Experienced",
+   "range_text": "5,000 - 6,000",
+   "min_aed": 5000,
+   "max_aed": 6000,
+   "url": "https://tlnt.ae/en/massage-therapist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Massage Therapist",
+   "level": "Senior",
+   "range_text": "7,000+",
+   "min_aed": 7000,
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/massage-therapist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Spa Therapist",
+   "level": "Spa therapist",
+   "range_text": "3,000 - 5,000 + commission",
+   "min_aed": 3000,
+   "max_aed": 5000,
+   "url": "https://tlnt.ae/en/spa-therapist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Spa Therapist",
+   "level": "Senior therapist",
+   "range_text": "5,000 - 8,000 + commission",
+   "min_aed": 5000,
+   "max_aed": 8000,
+   "url": "https://tlnt.ae/en/spa-therapist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Spa Therapist",
+   "level": "Spa supervisor / manager",
+   "range_text": "10,000 - 20,000",
+   "min_aed": 10000,
+   "max_aed": 20000,
+   "url": "https://tlnt.ae/en/spa-therapist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Beauty Educator",
+   "level": "Beauty educator / trainer",
+   "range_text": "7,000 - 11,000",
+   "min_aed": 7000,
+   "max_aed": 11000,
+   "url": "https://tlnt.ae/en/beauty-educator/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Beauty Educator",
+   "level": "Senior or brand educator",
+   "range_text": "11,000 - 16,000",
+   "min_aed": 11000,
+   "max_aed": 16000,
+   "url": "https://tlnt.ae/en/beauty-educator/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Beauty Educator",
+   "level": "Head of education / academy",
+   "range_text": "16,000 - 25,000",
+   "min_aed": 16000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/beauty-educator/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Body contouring technician",
+   "level": "Body contouring technician",
+   "range_text": "5,000 - 7,500 + commission",
+   "min_aed": 5000,
+   "max_aed": 7500,
+   "url": "https://tlnt.ae/en/body-contouring-technician/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Body contouring technician",
+   "level": "Senior technician (several devices, course planning support)",
+   "range_text": "7,500 - 11,000 + commission",
+   "min_aed": 7500,
+   "max_aed": 11000,
+   "url": "https://tlnt.ae/en/body-contouring-technician/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Body contouring technician",
+   "level": "Lead technician or trainer",
+   "range_text": "11,000 - 15,000",
+   "min_aed": 11000,
+   "max_aed": 15000,
+   "url": "https://tlnt.ae/en/body-contouring-technician/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Brow artist (brow lamination, tinting, shaping)",
+   "level": "Brow artist",
+   "range_text": "4,000 - 6,000 + commission",
+   "min_aed": 4000,
+   "max_aed": 6000,
+   "url": "https://tlnt.ae/en/brow-artist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Brow artist (brow lamination, tinting, shaping)",
+   "level": "Senior brow artist (lamination, correction, lash lift)",
+   "range_text": "6,000 - 9,000 + commission",
+   "min_aed": 6000,
+   "max_aed": 9000,
+   "url": "https://tlnt.ae/en/brow-artist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Brow artist (brow lamination, tinting, shaping)",
+   "level": "Lead brow artist or trainer",
+   "range_text": "9,000 - 12,000",
+   "min_aed": 9000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/brow-artist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Moroccan bath (hammam) therapist",
+   "level": "Moroccan bath therapist",
+   "range_text": "2,500 - 4,000 + tips",
+   "min_aed": 2500,
+   "max_aed": 4000,
+   "url": "https://tlnt.ae/en/moroccan-bath-therapist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Moroccan bath (hammam) therapist",
+   "level": "Senior hammam therapist, hotel or premium spa",
+   "range_text": "4,000 - 6,000 + commission",
+   "min_aed": 4000,
+   "max_aed": 6000,
+   "url": "https://tlnt.ae/en/moroccan-bath-therapist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Moroccan bath (hammam) therapist",
+   "level": "Hammam lead or spa supervisor",
+   "range_text": "6,000 - 9,000",
+   "min_aed": 6000,
+   "max_aed": 9000,
+   "url": "https://tlnt.ae/en/moroccan-bath-therapist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Personal trainer",
+   "level": "Personal trainer",
+   "range_text": "5,000 - 8,000 + commission",
+   "min_aed": 5000,
+   "max_aed": 8000,
+   "url": "https://tlnt.ae/en/personal-trainer/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Personal trainer",
+   "level": "Senior personal trainer (own client base, specialisms)",
+   "range_text": "8,000 - 12,000 + commission",
+   "min_aed": 8000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/personal-trainer/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Personal trainer",
+   "level": "Head trainer or private trainer to a family",
+   "range_text": "12,000 - 20,000",
+   "min_aed": 12000,
+   "max_aed": 20000,
+   "url": "https://tlnt.ae/en/personal-trainer/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Waxing and sugaring specialist",
+   "level": "Waxing and sugaring specialist",
+   "range_text": "3,000 - 5,000 + commission",
+   "min_aed": 3000,
+   "max_aed": 5000,
+   "url": "https://tlnt.ae/en/waxing-specialist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Waxing and sugaring specialist",
+   "level": "Senior waxing specialist (intimate and full body, high volume)",
+   "range_text": "5,000 - 7,000 + commission",
+   "min_aed": 5000,
+   "max_aed": 7000,
+   "url": "https://tlnt.ae/en/waxing-specialist/"
+  },
+  {
+   "group": "Beauty",
+   "role": "Waxing and sugaring specialist",
+   "level": "Lead therapist or trainer",
+   "range_text": "7,000 - 10,000",
+   "min_aed": 7000,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/waxing-specialist/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Salon Administrator",
+   "level": "Entry",
+   "range_text": "3,500 - 4,000",
+   "min_aed": 3500,
+   "max_aed": 4000,
+   "url": "https://tlnt.ae/en/salon-administrator/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Salon Administrator",
+   "level": "Experienced",
+   "range_text": "4,500 - 5,500",
+   "min_aed": 4500,
+   "max_aed": 5500,
+   "url": "https://tlnt.ae/en/salon-administrator/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Salon Administrator",
+   "level": "Senior",
+   "range_text": "6,000+",
+   "min_aed": 6000,
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/salon-administrator/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Clinic Receptionist",
+   "level": "Receptionist / front desk",
+   "range_text": "4,500 - 7,000",
+   "min_aed": 4500,
+   "max_aed": 7000,
+   "url": "https://tlnt.ae/en/clinic-receptionist/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Clinic Receptionist",
+   "level": "Senior receptionist with insurance experience",
+   "range_text": "7,000 - 10,000",
+   "min_aed": 7000,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/clinic-receptionist/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Clinic Receptionist",
+   "level": "Front office manager",
+   "range_text": "10,000 - 15,000",
+   "min_aed": 10000,
+   "max_aed": 15000,
+   "url": "https://tlnt.ae/en/clinic-receptionist/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Patient Coordinator",
+   "level": "Patient coordinator",
+   "range_text": "6,000 - 10,000 + bonus",
+   "min_aed": 6000,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/patient-coordinator/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Patient Coordinator",
+   "level": "Senior / medical tourism coordinator",
+   "range_text": "10,000 - 15,000 + bonus",
+   "min_aed": 10000,
+   "max_aed": 15000,
+   "url": "https://tlnt.ae/en/patient-coordinator/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Patient Coordinator",
+   "level": "Patient relations manager",
+   "range_text": "15,000 - 22,000",
+   "min_aed": 15000,
+   "max_aed": 22000,
+   "url": "https://tlnt.ae/en/patient-coordinator/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Medical Insurance Officer",
+   "level": "Insurance officer",
+   "range_text": "6,000 - 10,000",
+   "min_aed": 6000,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/medical-insurance-officer/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Medical Insurance Officer",
+   "level": "Medical coder",
+   "range_text": "8,000 - 14,000",
+   "min_aed": 8000,
+   "max_aed": 14000,
+   "url": "https://tlnt.ae/en/medical-insurance-officer/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Medical Insurance Officer",
+   "level": "Revenue cycle manager",
+   "range_text": "15,000 - 25,000",
+   "min_aed": 15000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/medical-insurance-officer/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Salon Manager",
+   "level": "Entry",
+   "range_text": "8,000 - 10,000",
+   "min_aed": 8000,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/salon-manager/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Salon Manager",
+   "level": "Experienced",
+   "range_text": "12,000 - 15,000",
+   "min_aed": 12000,
+   "max_aed": 15000,
+   "url": "https://tlnt.ae/en/salon-manager/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Salon Manager",
+   "level": "Senior",
+   "range_text": "18,000+",
+   "min_aed": 18000,
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/salon-manager/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Clinic Manager",
+   "level": "Entry",
+   "range_text": "12,000 - 15,000",
+   "min_aed": 12000,
+   "max_aed": 15000,
+   "url": "https://tlnt.ae/en/clinic-manager/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Clinic Manager",
+   "level": "Experienced",
+   "range_text": "18,000 - 22,000",
+   "min_aed": 18000,
+   "max_aed": 22000,
+   "url": "https://tlnt.ae/en/clinic-manager/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Clinic Manager",
+   "level": "Senior",
+   "range_text": "28,000+",
+   "min_aed": 28000,
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/clinic-manager/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Bookkeeper",
+   "level": "Bookkeeper",
+   "range_text": "5,000 - 8,000",
+   "min_aed": 5000,
+   "max_aed": 8000,
+   "url": "https://tlnt.ae/en/bookkeeper/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Bookkeeper",
+   "level": "Accountant",
+   "range_text": "8,000 - 13,000",
+   "min_aed": 8000,
+   "max_aed": 13000,
+   "url": "https://tlnt.ae/en/bookkeeper/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Bookkeeper",
+   "level": "Chief accountant / finance manager",
+   "range_text": "13,000 - 20,000",
+   "min_aed": 13000,
+   "max_aed": 20000,
+   "url": "https://tlnt.ae/en/bookkeeper/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Clinic Operations Manager",
+   "level": "Operations manager (single clinic)",
+   "range_text": "15,000 - 22,000",
+   "min_aed": 15000,
+   "max_aed": 22000,
+   "url": "https://tlnt.ae/en/clinic-operations-manager/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Clinic Operations Manager",
+   "level": "Senior operations manager",
+   "range_text": "22,000 - 32,000",
+   "min_aed": 22000,
+   "max_aed": 32000,
+   "url": "https://tlnt.ae/en/clinic-operations-manager/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Clinic Operations Manager",
+   "level": "Group operations director",
+   "range_text": "32,000 - 50,000",
+   "min_aed": 32000,
+   "max_aed": 50000,
+   "url": "https://tlnt.ae/en/clinic-operations-manager/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Front Office Manager",
+   "level": "Front office supervisor",
+   "range_text": "7,000 - 10,000",
+   "min_aed": 7000,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/front-office-manager/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Front Office Manager",
+   "level": "Front office manager",
+   "range_text": "10,000 - 15,000",
+   "min_aed": 10000,
+   "max_aed": 15000,
+   "url": "https://tlnt.ae/en/front-office-manager/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Front Office Manager",
+   "level": "Head of guest or patient experience",
+   "range_text": "15,000 - 22,000",
+   "min_aed": 15000,
+   "max_aed": 22000,
+   "url": "https://tlnt.ae/en/front-office-manager/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "General Manager",
+   "level": "General manager, single business or small company",
+   "range_text": "25,000 - 40,000",
+   "min_aed": 25000,
+   "max_aed": 40000,
+   "url": "https://tlnt.ae/en/general-manager/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "General Manager",
+   "level": "General manager, multi-site or mid-size company",
+   "range_text": "40,000 - 65,000",
+   "min_aed": 40000,
+   "max_aed": 65000,
+   "url": "https://tlnt.ae/en/general-manager/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "General Manager",
+   "level": "Group GM or CEO of an owner-led group",
+   "range_text": "65,000 - 100,000+",
+   "min_aed": 65000,
+   "max_aed": 100000,
+   "url": "https://tlnt.ae/en/general-manager/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Medical Coder",
+   "level": "Medical coder",
+   "range_text": "8,000 - 11,000",
+   "min_aed": 8000,
+   "max_aed": 11000,
+   "url": "https://tlnt.ae/en/medical-coder/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Medical Coder",
+   "level": "Senior coder / coding auditor",
+   "range_text": "11,000 - 14,000",
+   "min_aed": 11000,
+   "max_aed": 14000,
+   "url": "https://tlnt.ae/en/medical-coder/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Medical Coder",
+   "level": "Coding lead / revenue cycle manager",
+   "range_text": "15,000 - 25,000",
+   "min_aed": 15000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/medical-coder/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Salon Receptionist",
+   "level": "Salon receptionist",
+   "range_text": "3,500 - 5,500 + bonus",
+   "min_aed": 3500,
+   "max_aed": 5500,
+   "url": "https://tlnt.ae/en/salon-receptionist/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Salon Receptionist",
+   "level": "Senior receptionist",
+   "range_text": "5,500 - 7,500 + bonus",
+   "min_aed": 5500,
+   "max_aed": 7500,
+   "url": "https://tlnt.ae/en/salon-receptionist/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Salon Receptionist",
+   "level": "Front desk supervisor",
+   "range_text": "7,500 - 10,000",
+   "min_aed": 7500,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/salon-receptionist/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Spa Manager",
+   "level": "Spa supervisor",
+   "range_text": "8,000 - 12,000",
+   "min_aed": 8000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/spa-manager/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Spa Manager",
+   "level": "Spa manager",
+   "range_text": "12,000 - 20,000 + bonus",
+   "min_aed": 12000,
+   "max_aed": 20000,
+   "url": "https://tlnt.ae/en/spa-manager/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Spa Manager",
+   "level": "Spa director",
+   "range_text": "20,000 - 35,000",
+   "min_aed": 20000,
+   "max_aed": 35000,
+   "url": "https://tlnt.ae/en/spa-manager/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Office receptionist",
+   "level": "Office receptionist",
+   "range_text": "4,000 - 6,500",
+   "min_aed": 4000,
+   "max_aed": 6500,
+   "url": "https://tlnt.ae/en/office-receptionist/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Office receptionist",
+   "level": "Experienced corporate receptionist",
+   "range_text": "6,500 - 9,000",
+   "min_aed": 6500,
+   "max_aed": 9000,
+   "url": "https://tlnt.ae/en/office-receptionist/"
+  },
+  {
+   "group": "Front office and management",
+   "role": "Office receptionist",
+   "level": "Senior receptionist with secretarial duties",
+   "range_text": "9,000 - 12,000",
+   "min_aed": 9000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/office-receptionist/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Nanny",
+   "level": "Nanny / housekeeper-nanny, live-in",
+   "range_text": "3,000 - 5,000 + accommodation",
+   "min_aed": 3000,
+   "max_aed": 5000,
+   "url": "https://tlnt.ae/en/nanny/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Nanny",
+   "level": "Professional nanny, English-speaking",
+   "range_text": "5,000 - 8,000",
+   "min_aed": 5000,
+   "max_aed": 8000,
+   "url": "https://tlnt.ae/en/nanny/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Nanny",
+   "level": "Governess / tutor-nanny",
+   "range_text": "10,000 - 18,000",
+   "min_aed": 10000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/nanny/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Housekeeper",
+   "level": "Housemaid, live-in",
+   "range_text": "2,500 - 4,000 + accommodation",
+   "min_aed": 2500,
+   "max_aed": 4000,
+   "url": "https://tlnt.ae/en/housekeeper/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Housekeeper",
+   "level": "Experienced villa housekeeper",
+   "range_text": "4,000 - 6,000",
+   "min_aed": 4000,
+   "max_aed": 6000,
+   "url": "https://tlnt.ae/en/housekeeper/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Housekeeper",
+   "level": "Head housekeeper",
+   "range_text": "6,000 - 9,000",
+   "min_aed": 6000,
+   "max_aed": 9000,
+   "url": "https://tlnt.ae/en/housekeeper/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Private Driver",
+   "level": "Family driver",
+   "range_text": "3,000 - 5,000",
+   "min_aed": 3000,
+   "max_aed": 5000,
+   "url": "https://tlnt.ae/en/private-driver/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Private Driver",
+   "level": "Experienced private driver",
+   "range_text": "5,000 - 7,000",
+   "min_aed": 5000,
+   "max_aed": 7000,
+   "url": "https://tlnt.ae/en/private-driver/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Private Driver",
+   "level": "VIP / executive chauffeur",
+   "range_text": "7,000 - 10,000",
+   "min_aed": 7000,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/private-driver/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Private Chef",
+   "level": "Private chef",
+   "range_text": "8,000 - 15,000",
+   "min_aed": 8000,
+   "max_aed": 15000,
+   "url": "https://tlnt.ae/en/private-chef/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Private Chef",
+   "level": "Senior private chef",
+   "range_text": "15,000 - 25,000",
+   "min_aed": 15000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/private-chef/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Private Chef",
+   "level": "Chef for UHNW family or yacht",
+   "range_text": "25,000+",
+   "min_aed": 25000,
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/private-chef/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Yacht Crew",
+   "level": "Deckhand",
+   "range_text": "4,000 - 6,000",
+   "min_aed": 4000,
+   "max_aed": 6000,
+   "url": "https://tlnt.ae/en/yacht-crew/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Yacht Crew",
+   "level": "Stewardess / steward",
+   "range_text": "5,000 - 8,000",
+   "min_aed": 5000,
+   "max_aed": 8000,
+   "url": "https://tlnt.ae/en/yacht-crew/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Yacht Crew",
+   "level": "Captain",
+   "range_text": "15,000 - 35,000",
+   "min_aed": 15000,
+   "max_aed": 35000,
+   "url": "https://tlnt.ae/en/yacht-crew/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Personal Assistant",
+   "level": "Entry",
+   "range_text": "5,000 - 7,000",
+   "min_aed": 5000,
+   "max_aed": 7000,
+   "url": "https://tlnt.ae/en/personal-assistant/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Personal Assistant",
+   "level": "Experienced",
+   "range_text": "8,000 - 10,000",
+   "min_aed": 8000,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/personal-assistant/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Personal Assistant",
+   "level": "Senior",
+   "range_text": "12,000+",
+   "min_aed": 12000,
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/personal-assistant/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Butler",
+   "level": "Butler in a family villa",
+   "range_text": "9,000 - 15,000",
+   "min_aed": 9000,
+   "max_aed": 15000,
+   "url": "https://tlnt.ae/en/butler/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Butler",
+   "level": "Senior butler, UHNW household",
+   "range_text": "15,000 - 25,000",
+   "min_aed": 15000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/butler/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Butler",
+   "level": "Head butler or travelling butler",
+   "range_text": "25,000+",
+   "min_aed": 25000,
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/butler/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Elderly caregiver",
+   "level": "Caregiver, live-in",
+   "range_text": "2,500 - 4,000",
+   "min_aed": 2500,
+   "max_aed": 4000,
+   "url": "https://tlnt.ae/en/elderly-caregiver/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Elderly caregiver",
+   "level": "Experienced caregiver, live-out or with mobility care",
+   "range_text": "4,000 - 6,000",
+   "min_aed": 4000,
+   "max_aed": 6000,
+   "url": "https://tlnt.ae/en/elderly-caregiver/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Elderly caregiver",
+   "level": "Russian-speaking or senior companion caregiver",
+   "range_text": "6,000 - 9,000",
+   "min_aed": 6000,
+   "max_aed": 9000,
+   "url": "https://tlnt.ae/en/elderly-caregiver/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Governess",
+   "level": "Governess, live-out, one or two children",
+   "range_text": "10,000 - 15,000",
+   "min_aed": 10000,
+   "max_aed": 15000,
+   "url": "https://tlnt.ae/en/governess/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Governess",
+   "level": "Experienced governess with teaching background",
+   "range_text": "15,000 - 22,000",
+   "min_aed": 15000,
+   "max_aed": 22000,
+   "url": "https://tlnt.ae/en/governess/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Governess",
+   "level": "Senior governess for an UHNW family, travel included",
+   "range_text": "22,000+",
+   "min_aed": 22000,
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/governess/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Private tutor",
+   "level": "Part-time tutor for one family",
+   "range_text": "3,000 - 7,000",
+   "min_aed": 3000,
+   "max_aed": 7000,
+   "url": "https://tlnt.ae/en/private-tutor/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Private tutor",
+   "level": "Full-time family tutor",
+   "range_text": "7,000 - 12,000",
+   "min_aed": 7000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/private-tutor/"
+  },
+  {
+   "group": "Household and private staff",
+   "role": "Private tutor",
+   "level": "Qualified teacher as full-time tutor, travel included",
+   "range_text": "12,000 - 25,000",
+   "min_aed": 12000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/private-tutor/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Sales Executive",
+   "level": "Sales executive",
+   "range_text": "6,000 - 10,000 + commission",
+   "min_aed": 6000,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/sales-executive/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Sales Executive",
+   "level": "Senior / key account manager",
+   "range_text": "12,000 - 20,000 + commission",
+   "min_aed": 12000,
+   "max_aed": 20000,
+   "url": "https://tlnt.ae/en/sales-executive/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Sales Executive",
+   "level": "Sales manager",
+   "range_text": "20,000 - 35,000 + bonus",
+   "min_aed": 20000,
+   "max_aed": 35000,
+   "url": "https://tlnt.ae/en/sales-executive/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Business Development Manager",
+   "level": "Business development manager",
+   "range_text": "15,000 - 25,000 + bonus",
+   "min_aed": 15000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/business-development-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Business Development Manager",
+   "level": "Senior BDM",
+   "range_text": "25,000 - 35,000 + bonus",
+   "min_aed": 25000,
+   "max_aed": 35000,
+   "url": "https://tlnt.ae/en/business-development-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Business Development Manager",
+   "level": "Head of business development",
+   "range_text": "35,000 - 50,000 + bonus",
+   "min_aed": 35000,
+   "max_aed": 50000,
+   "url": "https://tlnt.ae/en/business-development-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Real Estate Agent",
+   "level": "Agent, commission only",
+   "range_text": "50 - 70% commission split",
+   "min_aed": 50,
+   "max_aed": 70,
+   "url": "https://tlnt.ae/en/real-estate-agent/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Real Estate Agent",
+   "level": "Agent with basic salary",
+   "range_text": "3,000 - 7,000 + commission",
+   "min_aed": 3000,
+   "max_aed": 7000,
+   "url": "https://tlnt.ae/en/real-estate-agent/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Real Estate Agent",
+   "level": "Team leader / sales manager",
+   "range_text": "10,000 - 25,000 + override",
+   "min_aed": 10000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/real-estate-agent/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Accountant",
+   "level": "Accountant",
+   "range_text": "7,000 - 12,000",
+   "min_aed": 7000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/accountant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Accountant",
+   "level": "Senior accountant",
+   "range_text": "12,000 - 18,000",
+   "min_aed": 12000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/accountant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Accountant",
+   "level": "Finance manager",
+   "range_text": "20,000 - 35,000",
+   "min_aed": 20000,
+   "max_aed": 35000,
+   "url": "https://tlnt.ae/en/accountant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Marketing Manager",
+   "level": "SMM specialist",
+   "range_text": "6,000 - 10,000",
+   "min_aed": 6000,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/marketing-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Marketing Manager",
+   "level": "Marketing manager",
+   "range_text": "15,000 - 25,000",
+   "min_aed": 15000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/marketing-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Marketing Manager",
+   "level": "Head of marketing",
+   "range_text": "25,000 - 40,000",
+   "min_aed": 25000,
+   "max_aed": 40000,
+   "url": "https://tlnt.ae/en/marketing-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "HR Manager",
+   "level": "HR officer / generalist",
+   "range_text": "8,000 - 14,000",
+   "min_aed": 8000,
+   "max_aed": 14000,
+   "url": "https://tlnt.ae/en/hr-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "HR Manager",
+   "level": "HR manager",
+   "range_text": "15,000 - 25,000",
+   "min_aed": 15000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/hr-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "HR Manager",
+   "level": "Head of HR",
+   "range_text": "25,000 - 40,000",
+   "min_aed": 25000,
+   "max_aed": 40000,
+   "url": "https://tlnt.ae/en/hr-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "PRO Officer",
+   "level": "PRO officer",
+   "range_text": "5,000 - 8,000",
+   "min_aed": 5000,
+   "max_aed": 8000,
+   "url": "https://tlnt.ae/en/pro-officer/"
+  },
+  {
+   "group": "Business and office",
+   "role": "PRO Officer",
+   "level": "Senior PRO",
+   "range_text": "8,000 - 13,000",
+   "min_aed": 8000,
+   "max_aed": 13000,
+   "url": "https://tlnt.ae/en/pro-officer/"
+  },
+  {
+   "group": "Business and office",
+   "role": "PRO Officer",
+   "level": "Government relations manager",
+   "range_text": "15,000 - 25,000",
+   "min_aed": 15000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/pro-officer/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Executive Assistant",
+   "level": "Office manager",
+   "range_text": "8,000 - 14,000",
+   "min_aed": 8000,
+   "max_aed": 14000,
+   "url": "https://tlnt.ae/en/executive-assistant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Executive Assistant",
+   "level": "Executive assistant",
+   "range_text": "12,000 - 20,000",
+   "min_aed": 12000,
+   "max_aed": 20000,
+   "url": "https://tlnt.ae/en/executive-assistant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Executive Assistant",
+   "level": "EA to C-level / UHNW family",
+   "range_text": "20,000 - 30,000",
+   "min_aed": 20000,
+   "max_aed": 30000,
+   "url": "https://tlnt.ae/en/executive-assistant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Customer Service Agent",
+   "level": "Customer service agent",
+   "range_text": "4,000 - 6,500",
+   "min_aed": 4000,
+   "max_aed": 6500,
+   "url": "https://tlnt.ae/en/customer-service-agent/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Customer Service Agent",
+   "level": "Senior agent / team lead",
+   "range_text": "6,500 - 10,000",
+   "min_aed": 6500,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/customer-service-agent/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Customer Service Agent",
+   "level": "Customer service manager",
+   "range_text": "12,000 - 20,000",
+   "min_aed": 12000,
+   "max_aed": 20000,
+   "url": "https://tlnt.ae/en/customer-service-agent/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Administrative assistant",
+   "level": "Administrative assistant",
+   "range_text": "5,000 - 8,000",
+   "min_aed": 5000,
+   "max_aed": 8000,
+   "url": "https://tlnt.ae/en/administrative-assistant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Administrative assistant",
+   "level": "Senior administrative assistant",
+   "range_text": "8,000 - 11,000",
+   "min_aed": 8000,
+   "max_aed": 11000,
+   "url": "https://tlnt.ae/en/administrative-assistant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Administrative assistant",
+   "level": "Admin assistant with HR or bookkeeping duties",
+   "range_text": "9,000 - 12,000",
+   "min_aed": 9000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/administrative-assistant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Chief of staff",
+   "level": "Chief of staff to an owner of a mid-size business",
+   "range_text": "25,000 - 32,000",
+   "min_aed": 25000,
+   "max_aed": 32000,
+   "url": "https://tlnt.ae/en/chief-of-staff/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Chief of staff",
+   "level": "Chief of staff in a group with several companies or a family holding",
+   "range_text": "32,000 - 40,000",
+   "min_aed": 32000,
+   "max_aed": 40000,
+   "url": "https://tlnt.ae/en/chief-of-staff/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Chief of staff",
+   "level": "Senior EA stepping into the role",
+   "range_text": "18,000 - 25,000",
+   "min_aed": 18000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/chief-of-staff/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Family office assistant",
+   "level": "Family office assistant",
+   "range_text": "12,000 - 20,000",
+   "min_aed": 12000,
+   "max_aed": 20000,
+   "url": "https://tlnt.ae/en/family-office-assistant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Family office assistant",
+   "level": "Senior or lead family assistant (travel, staff, property)",
+   "range_text": "20,000 - 30,000",
+   "min_aed": 20000,
+   "max_aed": 30000,
+   "url": "https://tlnt.ae/en/family-office-assistant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Family office assistant",
+   "level": "Package for the very top of the market",
+   "range_text": "negotiated, often above the range",
+   "min_aed": "",
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/family-office-assistant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "House manager (household manager)",
+   "level": "House manager of a villa with 3-5 staff",
+   "range_text": "10,000 - 15,000",
+   "min_aed": 10000,
+   "max_aed": 15000,
+   "url": "https://tlnt.ae/en/house-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "House manager (household manager)",
+   "level": "Senior house manager, several properties or a large staff",
+   "range_text": "15,000 - 20,000",
+   "min_aed": 15000,
+   "max_aed": 20000,
+   "url": "https://tlnt.ae/en/house-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "House manager (household manager)",
+   "level": "Head housekeeper with supervisory duties",
+   "range_text": "6,000 - 9,000",
+   "min_aed": 6000,
+   "max_aed": 9000,
+   "url": "https://tlnt.ae/en/house-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Hybrid business and personal assistant",
+   "level": "Hybrid assistant (business, personal and household)",
+   "range_text": "10,000 - 18,000",
+   "min_aed": 10000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/hybrid-assistant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Hybrid business and personal assistant",
+   "level": "Senior hybrid assistant to an owner with a large household",
+   "range_text": "18,000 - 25,000",
+   "min_aed": 18000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/hybrid-assistant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Hybrid business and personal assistant",
+   "level": "Personal assistant with light business support",
+   "range_text": "7,000 - 12,000",
+   "min_aed": 7000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/hybrid-assistant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Lifestyle manager (personal concierge)",
+   "level": "Lifestyle manager / personal concierge",
+   "range_text": "10,000 - 18,000",
+   "min_aed": 10000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/lifestyle-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Lifestyle manager (personal concierge)",
+   "level": "Lifestyle manager to a UHNW family with frequent travel",
+   "range_text": "18,000 - 25,000",
+   "min_aed": 18000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/lifestyle-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Lifestyle manager (personal concierge)",
+   "level": "Junior concierge or personal assistant with lifestyle duties",
+   "range_text": "7,000 - 10,000",
+   "min_aed": 7000,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/lifestyle-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Medical office assistant",
+   "level": "Medical office assistant",
+   "range_text": "8,000 - 12,000",
+   "min_aed": 8000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/medical-office-assistant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Medical office assistant",
+   "level": "Senior assistant to a clinic owner or medical director",
+   "range_text": "12,000 - 18,000",
+   "min_aed": 12000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/medical-office-assistant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Medical office assistant",
+   "level": "Assistant with insurance or reporting ownership",
+   "range_text": "10,000 - 14,000",
+   "min_aed": 10000,
+   "max_aed": 14000,
+   "url": "https://tlnt.ae/en/medical-office-assistant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Office Manager",
+   "level": "Office administrator / coordinator",
+   "range_text": "5,000 - 8,000",
+   "min_aed": 5000,
+   "max_aed": 8000,
+   "url": "https://tlnt.ae/en/office-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Office Manager",
+   "level": "Office manager",
+   "range_text": "8,000 - 14,000",
+   "min_aed": 8000,
+   "max_aed": 14000,
+   "url": "https://tlnt.ae/en/office-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Office Manager",
+   "level": "Senior office / admin manager",
+   "range_text": "14,000 - 18,000",
+   "min_aed": 14000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/office-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Virtual assistant",
+   "level": "Virtual assistant (part-time or junior)",
+   "range_text": "3,500 - 6,000",
+   "min_aed": 3500,
+   "max_aed": 6000,
+   "url": "https://tlnt.ae/en/virtual-assistant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Virtual assistant",
+   "level": "Experienced virtual assistant",
+   "range_text": "6,000 - 9,000",
+   "min_aed": 6000,
+   "max_aed": 9000,
+   "url": "https://tlnt.ae/en/virtual-assistant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Virtual assistant",
+   "level": "Virtual EA to a senior person",
+   "range_text": "9,000 - 14,000",
+   "min_aed": 9000,
+   "max_aed": 14000,
+   "url": "https://tlnt.ae/en/virtual-assistant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "CRM administrator",
+   "level": "CRM administrator",
+   "range_text": "5,000 - 8,000",
+   "min_aed": 5000,
+   "max_aed": 8000,
+   "url": "https://tlnt.ae/en/crm-administrator/"
+  },
+  {
+   "group": "Business and office",
+   "role": "CRM administrator",
+   "level": "Experienced CRM administrator (integrations and automations)",
+   "range_text": "8,000 - 12,000",
+   "min_aed": 8000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/crm-administrator/"
+  },
+  {
+   "group": "Business and office",
+   "role": "CRM administrator",
+   "level": "CRM manager or CRM specialist for several teams",
+   "range_text": "12,000 - 18,000",
+   "min_aed": 12000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/crm-administrator/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Finance manager",
+   "level": "Finance manager, small company",
+   "range_text": "15,000 - 22,000",
+   "min_aed": 15000,
+   "max_aed": 22000,
+   "url": "https://tlnt.ae/en/finance-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Finance manager",
+   "level": "Finance manager, mid-size company or group",
+   "range_text": "22,000 - 30,000",
+   "min_aed": 22000,
+   "max_aed": 30000,
+   "url": "https://tlnt.ae/en/finance-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Finance manager",
+   "level": "Head of finance",
+   "range_text": "30,000+",
+   "min_aed": 30000,
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/finance-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Graphic designer",
+   "level": "Junior graphic designer",
+   "range_text": "4,000 - 6,000",
+   "min_aed": 4000,
+   "max_aed": 6000,
+   "url": "https://tlnt.ae/en/graphic-designer/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Graphic designer",
+   "level": "Graphic designer",
+   "range_text": "6,000 - 9,000",
+   "min_aed": 6000,
+   "max_aed": 9000,
+   "url": "https://tlnt.ae/en/graphic-designer/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Graphic designer",
+   "level": "Senior graphic designer or art director for a small brand",
+   "range_text": "9,000 - 15,000",
+   "min_aed": 9000,
+   "max_aed": 15000,
+   "url": "https://tlnt.ae/en/graphic-designer/"
+  },
+  {
+   "group": "Business and office",
+   "role": "IT support specialist",
+   "level": "IT helpdesk or junior IT support",
+   "range_text": "4,000 - 6,000",
+   "min_aed": 4000,
+   "max_aed": 6000,
+   "url": "https://tlnt.ae/en/it-support-specialist/"
+  },
+  {
+   "group": "Business and office",
+   "role": "IT support specialist",
+   "level": "IT support specialist",
+   "range_text": "6,000 - 9,000",
+   "min_aed": 6000,
+   "max_aed": 9000,
+   "url": "https://tlnt.ae/en/it-support-specialist/"
+  },
+  {
+   "group": "Business and office",
+   "role": "IT support specialist",
+   "level": "Senior IT support or IT administrator for several sites",
+   "range_text": "9,000 - 13,000",
+   "min_aed": 9000,
+   "max_aed": 13000,
+   "url": "https://tlnt.ae/en/it-support-specialist/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Leasing consultant",
+   "level": "Junior leasing consultant",
+   "range_text": "4,000 - 6,000",
+   "min_aed": 4000,
+   "max_aed": 6000,
+   "url": "https://tlnt.ae/en/leasing-consultant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Leasing consultant",
+   "level": "Leasing consultant",
+   "range_text": "6,000 - 9,000",
+   "min_aed": 6000,
+   "max_aed": 9000,
+   "url": "https://tlnt.ae/en/leasing-consultant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Leasing consultant",
+   "level": "Senior leasing consultant or leasing team lead",
+   "range_text": "9,000 - 15,000",
+   "min_aed": 9000,
+   "max_aed": 15000,
+   "url": "https://tlnt.ae/en/leasing-consultant/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Operations manager",
+   "level": "Operations manager, small company",
+   "range_text": "12,000 - 18,000",
+   "min_aed": 12000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/operations-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Operations manager",
+   "level": "Operations manager, mid-size company",
+   "range_text": "18,000 - 28,000",
+   "min_aed": 18000,
+   "max_aed": 28000,
+   "url": "https://tlnt.ae/en/operations-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Operations manager",
+   "level": "Head of operations, several branches or units",
+   "range_text": "28,000+",
+   "min_aed": 28000,
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/operations-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Procurement officer",
+   "level": "Procurement assistant or junior buyer",
+   "range_text": "4,000 - 6,500",
+   "min_aed": 4000,
+   "max_aed": 6500,
+   "url": "https://tlnt.ae/en/procurement-officer/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Procurement officer",
+   "level": "Procurement officer",
+   "range_text": "6,500 - 10,000",
+   "min_aed": 6500,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/procurement-officer/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Procurement officer",
+   "level": "Senior procurement officer",
+   "range_text": "10,000 - 14,000",
+   "min_aed": 10000,
+   "max_aed": 14000,
+   "url": "https://tlnt.ae/en/procurement-officer/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Property manager",
+   "level": "Assistant property manager",
+   "range_text": "6,000 - 9,000",
+   "min_aed": 6000,
+   "max_aed": 9000,
+   "url": "https://tlnt.ae/en/property-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Property manager",
+   "level": "Property manager",
+   "range_text": "9,000 - 14,000",
+   "min_aed": 9000,
+   "max_aed": 14000,
+   "url": "https://tlnt.ae/en/property-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Property manager",
+   "level": "Senior property manager or portfolio manager",
+   "range_text": "14,000 - 22,000",
+   "min_aed": 14000,
+   "max_aed": 22000,
+   "url": "https://tlnt.ae/en/property-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Sales manager",
+   "level": "Sales team leader",
+   "range_text": "9,000 - 14,000",
+   "min_aed": 9000,
+   "max_aed": 14000,
+   "url": "https://tlnt.ae/en/sales-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Sales manager",
+   "level": "Sales manager",
+   "range_text": "14,000 - 22,000",
+   "min_aed": 14000,
+   "max_aed": 22000,
+   "url": "https://tlnt.ae/en/sales-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Sales manager",
+   "level": "Senior sales manager or head of sales",
+   "range_text": "22,000 - 35,000",
+   "min_aed": 22000,
+   "max_aed": 35000,
+   "url": "https://tlnt.ae/en/sales-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Social media manager",
+   "level": "Social media executive or specialist",
+   "range_text": "6,000 - 10,000",
+   "min_aed": 6000,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/social-media-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Social media manager",
+   "level": "Social media manager",
+   "range_text": "10,000 - 18,000",
+   "min_aed": 10000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/social-media-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Social media manager",
+   "level": "Senior social media manager or head of social",
+   "range_text": "18,000 - 30,000",
+   "min_aed": 18000,
+   "max_aed": 30000,
+   "url": "https://tlnt.ae/en/social-media-manager/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Telesales agent",
+   "level": "Telesales agent",
+   "range_text": "3,000 - 4,500",
+   "min_aed": 3000,
+   "max_aed": 4500,
+   "url": "https://tlnt.ae/en/telesales-agent/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Telesales agent",
+   "level": "Experienced telesales agent",
+   "range_text": "4,500 - 6,000",
+   "min_aed": 4500,
+   "max_aed": 6000,
+   "url": "https://tlnt.ae/en/telesales-agent/"
+  },
+  {
+   "group": "Business and office",
+   "role": "Telesales agent",
+   "level": "Telesales team lead",
+   "range_text": "6,000 - 8,000",
+   "min_aed": 6000,
+   "max_aed": 8000,
+   "url": "https://tlnt.ae/en/telesales-agent/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Barista",
+   "level": "Barista",
+   "range_text": "2,500 - 3,800",
+   "min_aed": 2500,
+   "max_aed": 3800,
+   "url": "https://tlnt.ae/en/barista/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Barista",
+   "level": "Senior or specialty barista",
+   "range_text": "3,800 - 5,500",
+   "min_aed": 3800,
+   "max_aed": 5500,
+   "url": "https://tlnt.ae/en/barista/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Barista",
+   "level": "Head barista or bar supervisor",
+   "range_text": "5,000 - 7,000",
+   "min_aed": 5000,
+   "max_aed": 7000,
+   "url": "https://tlnt.ae/en/barista/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Concierge",
+   "level": "Concierge agent",
+   "range_text": "4,500 - 7,000",
+   "min_aed": 4500,
+   "max_aed": 7000,
+   "url": "https://tlnt.ae/en/concierge/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Concierge",
+   "level": "Senior concierge, luxury hotel or branded residences",
+   "range_text": "7,000 - 12,000",
+   "min_aed": 7000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/concierge/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Concierge",
+   "level": "Chef concierge (head of concierge)",
+   "range_text": "12,000 - 18,000",
+   "min_aed": 12000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/concierge/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Guest relations officer",
+   "level": "Guest relations officer",
+   "range_text": "4,000 - 6,000",
+   "min_aed": 4000,
+   "max_aed": 6000,
+   "url": "https://tlnt.ae/en/guest-relations-officer/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Guest relations officer",
+   "level": "Senior guest relations officer, luxury hotel, clinic or private club",
+   "range_text": "6,000 - 8,500",
+   "min_aed": 6000,
+   "max_aed": 8500,
+   "url": "https://tlnt.ae/en/guest-relations-officer/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Guest relations officer",
+   "level": "Guest relations manager",
+   "range_text": "9,000 - 15,000",
+   "min_aed": 9000,
+   "max_aed": 15000,
+   "url": "https://tlnt.ae/en/guest-relations-officer/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Hotel receptionist (front desk agent)",
+   "level": "Hotel receptionist / front desk agent",
+   "range_text": "3,000 - 4,500",
+   "min_aed": 3000,
+   "max_aed": 4500,
+   "url": "https://tlnt.ae/en/hotel-receptionist/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Hotel receptionist (front desk agent)",
+   "level": "Senior receptionist, five-star hotel or luxury serviced apartments",
+   "range_text": "4,500 - 6,500",
+   "min_aed": 4500,
+   "max_aed": 6500,
+   "url": "https://tlnt.ae/en/hotel-receptionist/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Hotel receptionist (front desk agent)",
+   "level": "Front desk supervisor",
+   "range_text": "6,500 - 9,000",
+   "min_aed": 6500,
+   "max_aed": 9000,
+   "url": "https://tlnt.ae/en/hotel-receptionist/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Restaurant host or hostess",
+   "level": "Host or hostess",
+   "range_text": "3,000 - 4,500",
+   "min_aed": 3000,
+   "max_aed": 4500,
+   "url": "https://tlnt.ae/en/restaurant-hostess/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Restaurant host or hostess",
+   "level": "Host or hostess, fine dining, beach club or lounge",
+   "range_text": "4,500 - 6,500",
+   "min_aed": 4500,
+   "max_aed": 6500,
+   "url": "https://tlnt.ae/en/restaurant-hostess/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Restaurant host or hostess",
+   "level": "Head host or reservations supervisor",
+   "range_text": "6,000 - 8,500",
+   "min_aed": 6000,
+   "max_aed": 8500,
+   "url": "https://tlnt.ae/en/restaurant-hostess/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Restaurant manager",
+   "level": "Assistant or floor manager",
+   "range_text": "7,000 - 10,000",
+   "min_aed": 7000,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/restaurant-manager/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Restaurant manager",
+   "level": "Restaurant manager, casual dining or cafe",
+   "range_text": "10,000 - 15,000",
+   "min_aed": 10000,
+   "max_aed": 15000,
+   "url": "https://tlnt.ae/en/restaurant-manager/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Restaurant manager",
+   "level": "Restaurant manager, fine dining, beach club or hotel outlet",
+   "range_text": "15,000 - 25,000",
+   "min_aed": 15000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/restaurant-manager/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Sous chef",
+   "level": "Junior sous chef",
+   "range_text": "5,500 - 7,500",
+   "min_aed": 5500,
+   "max_aed": 7500,
+   "url": "https://tlnt.ae/en/sous-chef/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Sous chef",
+   "level": "Sous chef, restaurant or hotel outlet",
+   "range_text": "7,500 - 11,000",
+   "min_aed": 7500,
+   "max_aed": 11000,
+   "url": "https://tlnt.ae/en/sous-chef/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Sous chef",
+   "level": "Senior or executive sous chef, fine dining or large hotel",
+   "range_text": "11,000 - 16,000",
+   "min_aed": 11000,
+   "max_aed": 16000,
+   "url": "https://tlnt.ae/en/sous-chef/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Waiter (server)",
+   "level": "Waiter, cafe or casual dining",
+   "range_text": "2,500 - 4,000",
+   "min_aed": 2500,
+   "max_aed": 4000,
+   "url": "https://tlnt.ae/en/waiter/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Waiter (server)",
+   "level": "Experienced waiter, fine dining, hotel or beach club",
+   "range_text": "4,000 - 6,000",
+   "min_aed": 4000,
+   "max_aed": 6000,
+   "url": "https://tlnt.ae/en/waiter/"
+  },
+  {
+   "group": "Hotels, restaurants and events",
+   "role": "Waiter (server)",
+   "level": "Head waiter or captain",
+   "range_text": "5,500 - 8,000",
+   "min_aed": 5500,
+   "max_aed": 8000,
+   "url": "https://tlnt.ae/en/waiter/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "CFO (chief financial officer)",
+   "level": "Fractional or part-time CFO, monthly retainer",
+   "range_text": "10,000 - 25,000",
+   "min_aed": 10000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/cfo/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "CFO (chief financial officer)",
+   "level": "CFO of an SME or family business",
+   "range_text": "35,000 - 55,000",
+   "min_aed": 35000,
+   "max_aed": 55000,
+   "url": "https://tlnt.ae/en/cfo/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "CFO (chief financial officer)",
+   "level": "Group CFO of a holding or multi-company group",
+   "range_text": "55,000 - 85,000",
+   "min_aed": 55000,
+   "max_aed": 85000,
+   "url": "https://tlnt.ae/en/cfo/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "Compliance officer",
+   "level": "Compliance officer",
+   "range_text": "8,000 - 14,000",
+   "min_aed": 8000,
+   "max_aed": 14000,
+   "url": "https://tlnt.ae/en/compliance-officer/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "Compliance officer",
+   "level": "Senior compliance officer or AML officer",
+   "range_text": "14,000 - 25,000",
+   "min_aed": 14000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/compliance-officer/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "Compliance officer",
+   "level": "Head of compliance",
+   "range_text": "25,000 - 40,000",
+   "min_aed": 25000,
+   "max_aed": 40000,
+   "url": "https://tlnt.ae/en/compliance-officer/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "Financial analyst (FP&A)",
+   "level": "Financial analyst",
+   "range_text": "8,000 - 12,000",
+   "min_aed": 8000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/financial-analyst/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "Financial analyst (FP&A)",
+   "level": "Senior financial analyst",
+   "range_text": "12,000 - 18,000",
+   "min_aed": 12000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/financial-analyst/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "Financial analyst (FP&A)",
+   "level": "FP&A lead or manager",
+   "range_text": "18,000 - 28,000",
+   "min_aed": 18000,
+   "max_aed": 28000,
+   "url": "https://tlnt.ae/en/financial-analyst/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "Financial controller",
+   "level": "Assistant controller or senior accountant stepping up",
+   "range_text": "14,000 - 18,000",
+   "min_aed": 14000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/financial-controller/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "Financial controller",
+   "level": "Financial controller of a company",
+   "range_text": "18,000 - 25,000",
+   "min_aed": 18000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/financial-controller/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "Financial controller",
+   "level": "Group financial controller",
+   "range_text": "25,000 - 32,000",
+   "min_aed": 25000,
+   "max_aed": 32000,
+   "url": "https://tlnt.ae/en/financial-controller/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "HR business partner",
+   "level": "HR generalist moving into a partner role",
+   "range_text": "10,000 - 15,000",
+   "min_aed": 10000,
+   "max_aed": 15000,
+   "url": "https://tlnt.ae/en/hr-business-partner/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "HR business partner",
+   "level": "HR business partner",
+   "range_text": "15,000 - 22,000",
+   "min_aed": 15000,
+   "max_aed": 22000,
+   "url": "https://tlnt.ae/en/hr-business-partner/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "HR business partner",
+   "level": "Senior HR business partner for a group or business line",
+   "range_text": "22,000 - 30,000",
+   "min_aed": 22000,
+   "max_aed": 30000,
+   "url": "https://tlnt.ae/en/hr-business-partner/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "In-house legal counsel",
+   "level": "Junior legal counsel or legal adviser",
+   "range_text": "14,000 - 22,000",
+   "min_aed": 14000,
+   "max_aed": 22000,
+   "url": "https://tlnt.ae/en/legal-counsel/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "In-house legal counsel",
+   "level": "Legal counsel",
+   "range_text": "22,000 - 35,000",
+   "min_aed": 22000,
+   "max_aed": 35000,
+   "url": "https://tlnt.ae/en/legal-counsel/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "In-house legal counsel",
+   "level": "Senior legal counsel or head of legal",
+   "range_text": "35,000 - 55,000",
+   "min_aed": 35000,
+   "max_aed": 55000,
+   "url": "https://tlnt.ae/en/legal-counsel/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "Internal auditor",
+   "level": "Internal auditor",
+   "range_text": "9,000 - 13,000",
+   "min_aed": 9000,
+   "max_aed": 13000,
+   "url": "https://tlnt.ae/en/internal-auditor/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "Internal auditor",
+   "level": "Senior internal auditor",
+   "range_text": "13,000 - 20,000",
+   "min_aed": 13000,
+   "max_aed": 20000,
+   "url": "https://tlnt.ae/en/internal-auditor/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "Internal auditor",
+   "level": "Internal audit manager or head of audit",
+   "range_text": "20,000 - 30,000",
+   "min_aed": 20000,
+   "max_aed": 30000,
+   "url": "https://tlnt.ae/en/internal-auditor/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "Payroll specialist",
+   "level": "Payroll officer or executive",
+   "range_text": "7,000 - 11,000",
+   "min_aed": 7000,
+   "max_aed": 11000,
+   "url": "https://tlnt.ae/en/payroll-specialist/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "Payroll specialist",
+   "level": "Payroll specialist",
+   "range_text": "11,000 - 16,000",
+   "min_aed": 11000,
+   "max_aed": 16000,
+   "url": "https://tlnt.ae/en/payroll-specialist/"
+  },
+  {
+   "group": "Finance, legal and HR",
+   "role": "Payroll specialist",
+   "level": "Payroll lead for a group or several entities",
+   "range_text": "16,000 - 22,000",
+   "min_aed": 16000,
+   "max_aed": 22000,
+   "url": "https://tlnt.ae/en/payroll-specialist/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "Content manager",
+   "level": "Content specialist or copywriter",
+   "range_text": "6,000 - 9,000",
+   "min_aed": 6000,
+   "max_aed": 9000,
+   "url": "https://tlnt.ae/en/content-manager/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "Content manager",
+   "level": "Content manager",
+   "range_text": "9,000 - 16,000",
+   "min_aed": 9000,
+   "max_aed": 16000,
+   "url": "https://tlnt.ae/en/content-manager/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "Content manager",
+   "level": "Head of content or senior content manager",
+   "range_text": "16,000 - 25,000",
+   "min_aed": 16000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/content-manager/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "Country manager",
+   "level": "Country manager, first hire or small office",
+   "range_text": "25,000 - 35,000 + bonus",
+   "min_aed": 25000,
+   "max_aed": 35000,
+   "url": "https://tlnt.ae/en/country-manager/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "Country manager",
+   "level": "Country manager, established UAE business",
+   "range_text": "35,000 - 50,000 + bonus",
+   "min_aed": 35000,
+   "max_aed": 50000,
+   "url": "https://tlnt.ae/en/country-manager/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "Country manager",
+   "level": "Regional or GCC managing director",
+   "range_text": "50,000+",
+   "min_aed": 50000,
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/country-manager/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "Customer success manager",
+   "level": "Customer success specialist or associate",
+   "range_text": "8,000 - 12,000",
+   "min_aed": 8000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/customer-success-manager/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "Customer success manager",
+   "level": "Customer success manager",
+   "range_text": "12,000 - 20,000",
+   "min_aed": 12000,
+   "max_aed": 20000,
+   "url": "https://tlnt.ae/en/customer-success-manager/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "Customer success manager",
+   "level": "Senior CSM or head of customer success",
+   "range_text": "20,000 - 30,000",
+   "min_aed": 20000,
+   "max_aed": 30000,
+   "url": "https://tlnt.ae/en/customer-success-manager/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "Digital marketing manager",
+   "level": "Digital marketing executive or specialist",
+   "range_text": "8,000 - 13,000",
+   "min_aed": 8000,
+   "max_aed": 13000,
+   "url": "https://tlnt.ae/en/digital-marketing-manager/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "Digital marketing manager",
+   "level": "Digital marketing manager",
+   "range_text": "15,000 - 25,000",
+   "min_aed": 15000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/digital-marketing-manager/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "Digital marketing manager",
+   "level": "Head of digital or senior digital marketing manager",
+   "range_text": "25,000 - 40,000",
+   "min_aed": 25000,
+   "max_aed": 40000,
+   "url": "https://tlnt.ae/en/digital-marketing-manager/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "E-commerce manager",
+   "level": "E-commerce executive or marketplace specialist",
+   "range_text": "6,000 - 10,000",
+   "min_aed": 6000,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/ecommerce-manager/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "E-commerce manager",
+   "level": "E-commerce manager",
+   "range_text": "12,000 - 20,000",
+   "min_aed": 12000,
+   "max_aed": 20000,
+   "url": "https://tlnt.ae/en/ecommerce-manager/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "E-commerce manager",
+   "level": "Head of e-commerce",
+   "range_text": "20,000 - 30,000",
+   "min_aed": 20000,
+   "max_aed": 30000,
+   "url": "https://tlnt.ae/en/ecommerce-manager/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "Key account manager",
+   "level": "Key account manager",
+   "range_text": "12,000 - 18,000 + commission",
+   "min_aed": 12000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/key-account-manager/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "Key account manager",
+   "level": "Senior key account manager, national chains or large B2B accounts",
+   "range_text": "18,000 - 25,000 + commission",
+   "min_aed": 18000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/key-account-manager/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "Key account manager",
+   "level": "Head of key accounts",
+   "range_text": "25,000 - 35,000 + bonus",
+   "min_aed": 25000,
+   "max_aed": 35000,
+   "url": "https://tlnt.ae/en/key-account-manager/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "PR manager",
+   "level": "PR executive or specialist",
+   "range_text": "8,000 - 12,000",
+   "min_aed": 8000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/pr-manager/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "PR manager",
+   "level": "PR manager",
+   "range_text": "14,000 - 22,000",
+   "min_aed": 14000,
+   "max_aed": 22000,
+   "url": "https://tlnt.ae/en/pr-manager/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "PR manager",
+   "level": "Head of PR or communications",
+   "range_text": "22,000 - 35,000",
+   "min_aed": 22000,
+   "max_aed": 35000,
+   "url": "https://tlnt.ae/en/pr-manager/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "Performance marketing specialist",
+   "level": "Junior performance marketing specialist",
+   "range_text": "6,000 - 10,000",
+   "min_aed": 6000,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/performance-marketing-specialist/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "Performance marketing specialist",
+   "level": "Performance marketing specialist",
+   "range_text": "10,000 - 16,000",
+   "min_aed": 10000,
+   "max_aed": 16000,
+   "url": "https://tlnt.ae/en/performance-marketing-specialist/"
+  },
+  {
+   "group": "Sales, accounts and marketing",
+   "role": "Performance marketing specialist",
+   "level": "Performance marketing manager or lead",
+   "range_text": "18,000 - 28,000",
+   "min_aed": 18000,
+   "max_aed": 28000,
+   "url": "https://tlnt.ae/en/performance-marketing-specialist/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "Business analyst",
+   "level": "Junior business analyst",
+   "range_text": "8,000 - 12,000",
+   "min_aed": 8000,
+   "max_aed": 12000,
+   "url": "https://tlnt.ae/en/business-analyst/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "Business analyst",
+   "level": "Business analyst",
+   "range_text": "12,000 - 18,000",
+   "min_aed": 12000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/business-analyst/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "Business analyst",
+   "level": "Senior business analyst or lead BA",
+   "range_text": "18,000 - 28,000",
+   "min_aed": 18000,
+   "max_aed": 28000,
+   "url": "https://tlnt.ae/en/business-analyst/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "COO",
+   "level": "COO of a growing SME or a clinic or salon group",
+   "range_text": "30,000 - 45,000",
+   "min_aed": 30000,
+   "max_aed": 45000,
+   "url": "https://tlnt.ae/en/coo/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "COO",
+   "level": "COO of a mid-size company",
+   "range_text": "45,000 - 65,000",
+   "min_aed": 45000,
+   "max_aed": 65000,
+   "url": "https://tlnt.ae/en/coo/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "COO",
+   "level": "Group COO",
+   "range_text": "65,000+",
+   "min_aed": 65000,
+   "max_aed": "",
+   "url": "https://tlnt.ae/en/coo/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "Data analyst",
+   "level": "Junior data analyst",
+   "range_text": "6,000 - 10,000",
+   "min_aed": 6000,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/data-analyst/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "Data analyst",
+   "level": "Data analyst",
+   "range_text": "10,000 - 16,000",
+   "min_aed": 10000,
+   "max_aed": 16000,
+   "url": "https://tlnt.ae/en/data-analyst/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "Data analyst",
+   "level": "Senior data analyst or BI lead",
+   "range_text": "16,000 - 25,000",
+   "min_aed": 16000,
+   "max_aed": 25000,
+   "url": "https://tlnt.ae/en/data-analyst/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "IT manager",
+   "level": "IT manager, small company",
+   "range_text": "15,000 - 22,000",
+   "min_aed": 15000,
+   "max_aed": 22000,
+   "url": "https://tlnt.ae/en/it-manager/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "IT manager",
+   "level": "IT manager, mid-size company or group",
+   "range_text": "22,000 - 32,000",
+   "min_aed": 22000,
+   "max_aed": 32000,
+   "url": "https://tlnt.ae/en/it-manager/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "IT manager",
+   "level": "Head of IT or IT director",
+   "range_text": "32,000 - 45,000+",
+   "min_aed": 32000,
+   "max_aed": 45000,
+   "url": "https://tlnt.ae/en/it-manager/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "Logistics coordinator",
+   "level": "Junior logistics coordinator",
+   "range_text": "4,500 - 6,500",
+   "min_aed": 4500,
+   "max_aed": 6500,
+   "url": "https://tlnt.ae/en/logistics-coordinator/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "Logistics coordinator",
+   "level": "Logistics coordinator",
+   "range_text": "6,500 - 9,000",
+   "min_aed": 6500,
+   "max_aed": 9000,
+   "url": "https://tlnt.ae/en/logistics-coordinator/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "Logistics coordinator",
+   "level": "Senior logistics coordinator or team lead",
+   "range_text": "9,000 - 13,000",
+   "min_aed": 9000,
+   "max_aed": 13000,
+   "url": "https://tlnt.ae/en/logistics-coordinator/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "Product manager",
+   "level": "Associate or junior product manager",
+   "range_text": "10,000 - 16,000",
+   "min_aed": 10000,
+   "max_aed": 16000,
+   "url": "https://tlnt.ae/en/product-manager/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "Product manager",
+   "level": "Product manager",
+   "range_text": "16,000 - 28,000",
+   "min_aed": 16000,
+   "max_aed": 28000,
+   "url": "https://tlnt.ae/en/product-manager/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "Product manager",
+   "level": "Senior product manager or head of product",
+   "range_text": "28,000 - 40,000+",
+   "min_aed": 28000,
+   "max_aed": 40000,
+   "url": "https://tlnt.ae/en/product-manager/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "Project manager",
+   "level": "Project coordinator or junior project manager",
+   "range_text": "10,000 - 15,000",
+   "min_aed": 10000,
+   "max_aed": 15000,
+   "url": "https://tlnt.ae/en/project-manager/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "Project manager",
+   "level": "Project manager",
+   "range_text": "15,000 - 26,000",
+   "min_aed": 15000,
+   "max_aed": 26000,
+   "url": "https://tlnt.ae/en/project-manager/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "Project manager",
+   "level": "Senior project manager or PMO lead",
+   "range_text": "26,000 - 40,000",
+   "min_aed": 26000,
+   "max_aed": 40000,
+   "url": "https://tlnt.ae/en/project-manager/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "Software developer",
+   "level": "Junior developer",
+   "range_text": "6,000 - 10,000",
+   "min_aed": 6000,
+   "max_aed": 10000,
+   "url": "https://tlnt.ae/en/software-developer/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "Software developer",
+   "level": "Software developer, mid-level",
+   "range_text": "10,000 - 18,000",
+   "min_aed": 10000,
+   "max_aed": 18000,
+   "url": "https://tlnt.ae/en/software-developer/"
+  },
+  {
+   "group": "Tech, data and operations",
+   "role": "Software developer",
+   "level": "Senior developer or tech lead",
+   "range_text": "18,000 - 32,000",
+   "min_aed": 18000,
+   "max_aed": 32000,
+   "url": "https://tlnt.ae/en/software-developer/"
+  }
+ ]
+}

@@ -683,6 +683,8 @@ TLNT has been working in the UAE since 2022.
 - [Найм COO в Дубае: операционный директор, зарплата, план на 100 дней](https://tlnt.ae/coo/): Найм COO (операционного директора) в Дубае для растущего бизнеса, сети клиник или салонов, стартапа: зона ответственности, план на 100 дней, отличие от GM, зарплата.
 - [Hire a Logistics Coordinator in Dubai: Jebel Ali, Salary, Tests](https://tlnt.ae/en/logistics-coordinator/): Hire a logistics coordinator in Dubai for trading, e-commerce or distribution: shipments, forwarders, documents, Jebel Ali and free zones. What to test, salary.
 - [Найм координатора по логистике в Дубае: Джебель-Али, зарплата](https://tlnt.ae/logistics-coordinator/): Найм координатора по логистике в Дубае для торговли, e-commerce и дистрибуции: отгрузки, экспедиторы, документы, Джебель-Али и свободные зоны. Что проверить, зарплата.
+- [Press and data: Dubai Salary Index 2026 by TLNT.ae](https://tlnt.ae/en/press/): Press page: Dubai Salary Index 2026 (155 roles) as open data in CSV and JSON, ready-to-quote ranges, methodology, spokesperson and media contact.
+- [Для прессы: Индекс зарплат Дубая 2026 от TLNT.ae](https://tlnt.ae/press/): Страница для прессы: Индекс зарплат Дубая 2026 (155 ролей) как открытые данные в CSV и JSON, готовые вилки, методология, спикер и контакт для СМИ.
 - [All guides (EN)](https://tlnt.ae/en/guides/)
 - [Все гайды (RU)](https://tlnt.ae/guides/)
 

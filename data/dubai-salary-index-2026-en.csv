@@ -1,0 +1,466 @@
+﻿group,role,level,range_text,min_aed,max_aed,url
+Medical and aesthetic,GP Doctor,Entry GP,"15,000 - 20,000",15000,20000,https://tlnt.ae/en/gp-doctor/
+Medical and aesthetic,GP Doctor,Experienced GP,"22,000 - 28,000",22000,28000,https://tlnt.ae/en/gp-doctor/
+Medical and aesthetic,GP Doctor,Senior / with patient base,"30,000+",30000,,https://tlnt.ae/en/gp-doctor/
+Medical and aesthetic,Aesthetic Doctor,Entry,"15,000 - 18,000",15000,18000,https://tlnt.ae/en/aesthetic-doctor/
+Medical and aesthetic,Aesthetic Doctor,Experienced,"20,000 - 25,000",20000,25000,https://tlnt.ae/en/aesthetic-doctor/
+Medical and aesthetic,Aesthetic Doctor,Senior,"30,000+",30000,,https://tlnt.ae/en/aesthetic-doctor/
+Medical and aesthetic,Cosmetologist,Esthetician / beauty cosmetologist,"5,000 - 9,000 + commission",5000,9000,https://tlnt.ae/en/cosmetologist/
+Medical and aesthetic,Cosmetologist,Aesthetic physician (DHA),"22,000 - 35,000 + commission",22000,35000,https://tlnt.ae/en/cosmetologist/
+Medical and aesthetic,Cosmetologist,Senior aesthetic physician,"35,000 - 50,000+",35000,50000,https://tlnt.ae/en/cosmetologist/
+Medical and aesthetic,Botox Injector,Nurse injector (DHA RN),"12,000 - 20,000",12000,20000,https://tlnt.ae/en/botox-injector/
+Medical and aesthetic,Botox Injector,Aesthetic physician / GP injector,"22,000 - 35,000",22000,35000,https://tlnt.ae/en/botox-injector/
+Medical and aesthetic,Botox Injector,Senior injector with own patient base,"35,000 - 50,000+",35000,50000,https://tlnt.ae/en/botox-injector/
+Medical and aesthetic,Dermatologist,Specialist dermatologist,"35,000 - 50,000",35000,50000,https://tlnt.ae/en/dermatologist/
+Medical and aesthetic,Dermatologist,Consultant dermatologist,"55,000 - 80,000+",55000,80000,https://tlnt.ae/en/dermatologist/
+Medical and aesthetic,Dermatologist,Dermatologist with own patient base,fixed plus revenue share,,,https://tlnt.ae/en/dermatologist/
+Medical and aesthetic,Plastic Surgeon,Specialist plastic surgeon,"60,000 - 90,000",60000,90000,https://tlnt.ae/en/plastic-surgeon/
+Medical and aesthetic,Plastic Surgeon,Consultant plastic surgeon,"90,000 - 150,000+",90000,150000,https://tlnt.ae/en/plastic-surgeon/
+Medical and aesthetic,Plastic Surgeon,Surgeon with own patient base,fixed plus revenue share,,,https://tlnt.ae/en/plastic-surgeon/
+Medical and aesthetic,Gynecologist,Specialist gynecologist,"35,000 - 55,000",35000,55000,https://tlnt.ae/en/gynecologist/
+Medical and aesthetic,Gynecologist,Consultant gynecologist,"55,000 - 80,000+",55000,80000,https://tlnt.ae/en/gynecologist/
+Medical and aesthetic,Gynecologist,With own patient base,fixed plus revenue share,,,https://tlnt.ae/en/gynecologist/
+Medical and aesthetic,Pediatrician,Specialist pediatrician,"30,000 - 45,000",30000,45000,https://tlnt.ae/en/pediatrician/
+Medical and aesthetic,Pediatrician,Consultant pediatrician,"45,000 - 65,000+",45000,65000,https://tlnt.ae/en/pediatrician/
+Medical and aesthetic,Pediatrician,With own patient base,fixed plus revenue share,,,https://tlnt.ae/en/pediatrician/
+Medical and aesthetic,Dentist,General dentist,"15,000 - 25,000 or commission",15000,25000,https://tlnt.ae/en/dentist/
+Medical and aesthetic,Dentist,"Specialist (ortho, implants, endo)","30,000 - 50,000+",30000,50000,https://tlnt.ae/en/dentist/
+Medical and aesthetic,Dentist,Dental assistant / hygienist,"5,000 - 9,000",5000,9000,https://tlnt.ae/en/dentist/
+Medical and aesthetic,Nurse,Registered nurse (clinic),"7,000 - 12,000",7000,12000,https://tlnt.ae/en/nurse/
+Medical and aesthetic,Nurse,Aesthetic or specialised nurse,"12,000 - 18,000",12000,18000,https://tlnt.ae/en/nurse/
+Medical and aesthetic,Nurse,Nurse manager / head nurse,"18,000 - 25,000",18000,25000,https://tlnt.ae/en/nurse/
+Medical and aesthetic,Dental Assistant,Dental assistant,"4,500 - 7,000",4500,7000,https://tlnt.ae/en/dental-assistant/
+Medical and aesthetic,Dental Assistant,Experienced / specialist assistant,"7,000 - 9,000",7000,9000,https://tlnt.ae/en/dental-assistant/
+Medical and aesthetic,Dental Assistant,Dental hygienist,"9,000 - 14,000",9000,14000,https://tlnt.ae/en/dental-assistant/
+Medical and aesthetic,Physiotherapist,Physiotherapist,"10,000 - 16,000",10000,16000,https://tlnt.ae/en/physiotherapist/
+Medical and aesthetic,Physiotherapist,Senior physiotherapist,"16,000 - 22,000",16000,22000,https://tlnt.ae/en/physiotherapist/
+Medical and aesthetic,Physiotherapist,Lead / clinic head,"22,000 - 30,000",22000,30000,https://tlnt.ae/en/physiotherapist/
+Medical and aesthetic,Psychologist,Counselling psychologist,"12,000 - 20,000",12000,20000,https://tlnt.ae/en/psychologist/
+Medical and aesthetic,Psychologist,Clinical psychologist,"18,000 - 30,000",18000,30000,https://tlnt.ae/en/psychologist/
+Medical and aesthetic,Psychologist,Senior / lead psychologist,"30,000 - 40,000",30000,40000,https://tlnt.ae/en/psychologist/
+Medical and aesthetic,Nutritionist,Nutritionist / dietitian,"10,000 - 15,000",10000,15000,https://tlnt.ae/en/nutritionist/
+Medical and aesthetic,Nutritionist,Senior clinical dietitian,"15,000 - 22,000",15000,22000,https://tlnt.ae/en/nutritionist/
+Medical and aesthetic,Nutritionist,Head of nutrition,"22,000 - 30,000",22000,30000,https://tlnt.ae/en/nutritionist/
+Medical and aesthetic,Laser Technician,Laser technician,"6,000 - 9,000 + commission",6000,9000,https://tlnt.ae/en/laser-technician/
+Medical and aesthetic,Laser Technician,Laser therapist / laser nurse,"9,000 - 14,000 + commission",9000,14000,https://tlnt.ae/en/laser-technician/
+Medical and aesthetic,Laser Technician,Senior / lead laser specialist,"14,000 - 18,000",14000,18000,https://tlnt.ae/en/laser-technician/
+Medical and aesthetic,ABA Therapist,ABA therapist / RBT,"6,000 - 10,000",6000,10000,https://tlnt.ae/en/aba-therapist/
+Medical and aesthetic,ABA Therapist,Senior ABA therapist,"10,000 - 14,000",10000,14000,https://tlnt.ae/en/aba-therapist/
+Medical and aesthetic,ABA Therapist,Behaviour analyst (BCBA),"20,000 - 35,000",20000,35000,https://tlnt.ae/en/aba-therapist/
+Medical and aesthetic,Aesthetic nurse,Aesthetic nurse,"9,000 - 14,000",9000,14000,https://tlnt.ae/en/aesthetic-nurse/
+Medical and aesthetic,Aesthetic nurse,Senior nurse injector,"14,000 - 20,000",14000,20000,https://tlnt.ae/en/aesthetic-nurse/
+Medical and aesthetic,Aesthetic nurse,Nurse with own client base,fixed plus commission,,,https://tlnt.ae/en/aesthetic-nurse/
+Medical and aesthetic,Allergist-immunologist,Specialist allergist-immunologist,"28,000 - 42,000",28000,42000,https://tlnt.ae/en/allergist-immunologist/
+Medical and aesthetic,Allergist-immunologist,Consultant allergist-immunologist,"42,000 - 60,000",42000,60000,https://tlnt.ae/en/allergist-immunologist/
+Medical and aesthetic,Allergist-immunologist,Part-time or session-based,fee per session or revenue share,,,https://tlnt.ae/en/allergist-immunologist/
+Medical and aesthetic,Anesthesiologist,Specialist anesthesiologist,"45,000 - 65,000",45000,65000,https://tlnt.ae/en/anesthesiologist/
+Medical and aesthetic,Anesthesiologist,Consultant anesthesiologist,"65,000 - 100,000+",65000,100000,https://tlnt.ae/en/anesthesiologist/
+Medical and aesthetic,Anesthesiologist,Sessional / per case,agreed per list or per case,,,https://tlnt.ae/en/anesthesiologist/
+Medical and aesthetic,Cardiologist,Specialist cardiologist,"35,000 - 55,000",35000,55000,https://tlnt.ae/en/cardiologist/
+Medical and aesthetic,Cardiologist,Consultant cardiologist,"55,000 - 85,000+",55000,85000,https://tlnt.ae/en/cardiologist/
+Medical and aesthetic,Cardiologist,Cardiologist with own patient base,fixed plus revenue share,,,https://tlnt.ae/en/cardiologist/
+Medical and aesthetic,Dental hygienist,Dental hygienist,"9,000 - 12,000",9000,12000,https://tlnt.ae/en/dental-hygienist/
+Medical and aesthetic,Dental hygienist,Senior hygienist,"12,000 - 14,000",12000,14000,https://tlnt.ae/en/dental-hygienist/
+Medical and aesthetic,Dental hygienist,Hygienist with own recall base,fixed plus commission,,,https://tlnt.ae/en/dental-hygienist/
+Medical and aesthetic,Dental technician / lab technician,Dental technician,"5,000 - 8,000",5000,8000,https://tlnt.ae/en/dental-technician/
+Medical and aesthetic,Dental technician / lab technician,"Senior technician (ceramics, CAD/CAM)","8,000 - 12,000",8000,12000,https://tlnt.ae/en/dental-technician/
+Medical and aesthetic,Dental technician / lab technician,Lab manager / head technician,"12,000 - 18,000",12000,18000,https://tlnt.ae/en/dental-technician/
+Medical and aesthetic,Dental treatment coordinator / Treatment plan coordinator,Treatment coordinator,"6,000 - 10,000",6000,10000,https://tlnt.ae/en/dental-treatment-coordinator/
+Medical and aesthetic,Dental treatment coordinator / Treatment plan coordinator,Senior coordinator,"10,000 - 14,000",10000,14000,https://tlnt.ae/en/dental-treatment-coordinator/
+Medical and aesthetic,Dental treatment coordinator / Treatment plan coordinator,Coordinator with commission on accepted plans,fixed plus commission,,,https://tlnt.ae/en/dental-treatment-coordinator/
+Medical and aesthetic,ENT doctor (otolaryngologist),Specialist ENT doctor,"30,000 - 45,000",30000,45000,https://tlnt.ae/en/ent-doctor/
+Medical and aesthetic,ENT doctor (otolaryngologist),Consultant ENT doctor,"45,000 - 70,000+",45000,70000,https://tlnt.ae/en/ent-doctor/
+Medical and aesthetic,ENT doctor (otolaryngologist),ENT doctor with own patient base,fixed plus revenue share,,,https://tlnt.ae/en/ent-doctor/
+Medical and aesthetic,Endocrinologist,Specialist endocrinologist,"30,000 - 45,000",30000,45000,https://tlnt.ae/en/endocrinologist/
+Medical and aesthetic,Endocrinologist,Consultant endocrinologist,"45,000 - 65,000",45000,65000,https://tlnt.ae/en/endocrinologist/
+Medical and aesthetic,Endocrinologist,"Weight or longevity clinic, part-time or session-based",fixed plus revenue share,,,https://tlnt.ae/en/endocrinologist/
+Medical and aesthetic,Endodontist,Endodontist,"30,000 - 42,000",30000,42000,https://tlnt.ae/en/endodontist/
+Medical and aesthetic,Endodontist,Senior endodontist,"42,000 - 52,000",42000,52000,https://tlnt.ae/en/endodontist/
+Medical and aesthetic,Endodontist,Endodontist on commission,"fixed plus 30 - 40% of collections, varies by clinic",30,40,https://tlnt.ae/en/endodontist/
+Medical and aesthetic,Gastroenterologist,Specialist gastroenterologist,"30,000 - 48,000",30000,48000,https://tlnt.ae/en/gastroenterologist/
+Medical and aesthetic,Gastroenterologist,Consultant gastroenterologist,"48,000 - 70,000",48000,70000,https://tlnt.ae/en/gastroenterologist/
+Medical and aesthetic,Gastroenterologist,"Endoscopy-heavy practice, session-based",fixed plus revenue share,,,https://tlnt.ae/en/gastroenterologist/
+Medical and aesthetic,General surgeon,Specialist general surgeon,"35,000 - 55,000",35000,55000,https://tlnt.ae/en/general-surgeon/
+Medical and aesthetic,General surgeon,Consultant general surgeon,"55,000 - 80,000",55000,80000,https://tlnt.ae/en/general-surgeon/
+Medical and aesthetic,General surgeon,Day-surgery or visiting surgeon,fee per case or revenue share,,,https://tlnt.ae/en/general-surgeon/
+Medical and aesthetic,Hair transplant surgeon,Hair transplant surgeon,"25,000 - 45,000",25000,45000,https://tlnt.ae/en/hair-transplant-surgeon/
+Medical and aesthetic,Hair transplant surgeon,"Senior surgeon, high volume","45,000 - 70,000",45000,70000,https://tlnt.ae/en/hair-transplant-surgeon/
+Medical and aesthetic,Hair transplant surgeon,Surgeon paid per procedure,fixed plus share,,,https://tlnt.ae/en/hair-transplant-surgeon/
+Medical and aesthetic,Home Care Nurse,Home care nurse,"6,000 - 9,000",6000,9000,https://tlnt.ae/en/home-care-nurse/
+Medical and aesthetic,Home Care Nurse,Senior / specialised home care nurse,"9,000 - 13,000",9000,13000,https://tlnt.ae/en/home-care-nurse/
+Medical and aesthetic,Home Care Nurse,Nurse supervisor,"13,000 - 18,000",13000,18000,https://tlnt.ae/en/home-care-nurse/
+Medical and aesthetic,IV Therapy Nurse,IV therapy nurse,"7,000 - 11,000 + bonus",7000,11000,https://tlnt.ae/en/iv-therapy-nurse/
+Medical and aesthetic,IV Therapy Nurse,Senior IV nurse,"11,000 - 15,000",11000,15000,https://tlnt.ae/en/iv-therapy-nurse/
+Medical and aesthetic,IV Therapy Nurse,Lead nurse / IV service coordinator,"15,000 - 20,000",15000,20000,https://tlnt.ae/en/iv-therapy-nurse/
+Medical and aesthetic,Implantologist / oral surgeon,Dentist with implant focus,"25,000 - 35,000 or commission",25000,35000,https://tlnt.ae/en/dental-implantologist/
+Medical and aesthetic,Implantologist / oral surgeon,Implantologist / oral surgeon,"30,000 - 50,000+",30000,50000,https://tlnt.ae/en/dental-implantologist/
+Medical and aesthetic,Implantologist / oral surgeon,Doctor with own implant base,fixed plus commission,,,https://tlnt.ae/en/dental-implantologist/
+Medical and aesthetic,Lab Technician,Lab technician / phlebotomist,"5,000 - 8,000",5000,8000,https://tlnt.ae/en/lab-technician/
+Medical and aesthetic,Lab Technician,Lab technologist,"8,000 - 13,000",8000,13000,https://tlnt.ae/en/lab-technician/
+Medical and aesthetic,Lab Technician,Lab supervisor,"13,000 - 20,000",13000,20000,https://tlnt.ae/en/lab-technician/
+Medical and aesthetic,Longevity physician,Longevity physician,"25,000 - 40,000",25000,40000,https://tlnt.ae/en/longevity-physician/
+Medical and aesthetic,Longevity physician,"Senior physician, programme lead","40,000 - 60,000",40000,60000,https://tlnt.ae/en/longevity-physician/
+Medical and aesthetic,Longevity physician,Physician with own client base,fixed plus commission,,,https://tlnt.ae/en/longevity-physician/
+Medical and aesthetic,Maxillofacial surgeon,Maxillofacial surgeon,"35,000 - 55,000",35000,55000,https://tlnt.ae/en/maxillofacial-surgeon/
+Medical and aesthetic,Maxillofacial surgeon,"Senior surgeon, complex cases","55,000 - 90,000",55000,90000,https://tlnt.ae/en/maxillofacial-surgeon/
+Medical and aesthetic,Maxillofacial surgeon,Surgeon paid per case,fixed plus share,,,https://tlnt.ae/en/maxillofacial-surgeon/
+Medical and aesthetic,Medical Director,Practising physician with medical director title,"40,000 - 60,000",40000,60000,https://tlnt.ae/en/medical-director/
+Medical and aesthetic,Medical Director,Full-time medical director,"60,000 - 90,000",60000,90000,https://tlnt.ae/en/medical-director/
+Medical and aesthetic,Medical Director,Group medical director,"90,000 - 130,000+",90000,130000,https://tlnt.ae/en/medical-director/
+Medical and aesthetic,Neurologist,Specialist neurologist,"30,000 - 45,000",30000,45000,https://tlnt.ae/en/neurologist/
+Medical and aesthetic,Neurologist,Consultant neurologist,"45,000 - 65,000",45000,65000,https://tlnt.ae/en/neurologist/
+Medical and aesthetic,Neurologist,Visiting or session-based neurologist,fee per session or revenue share,,,https://tlnt.ae/en/neurologist/
+Medical and aesthetic,Ophthalmologist,Specialist ophthalmologist,"35,000 - 55,000",35000,55000,https://tlnt.ae/en/ophthalmologist/
+Medical and aesthetic,Ophthalmologist,Consultant ophthalmologist,"55,000 - 85,000+",55000,85000,https://tlnt.ae/en/ophthalmologist/
+Medical and aesthetic,Ophthalmologist,Surgeon with own patient base,fixed plus revenue share,,,https://tlnt.ae/en/ophthalmologist/
+Medical and aesthetic,Orthodontist,Orthodontist,"30,000 - 42,000",30000,42000,https://tlnt.ae/en/orthodontist/
+Medical and aesthetic,Orthodontist,Senior orthodontist,"42,000 - 55,000",42000,55000,https://tlnt.ae/en/orthodontist/
+Medical and aesthetic,Orthodontist,Orthodontist on commission,"fixed plus 25 - 40% of collections, varies by clinic",25,40,https://tlnt.ae/en/orthodontist/
+Medical and aesthetic,Orthopedic surgeon,Specialist orthopedic surgeon,"40,000 - 60,000",40000,60000,https://tlnt.ae/en/orthopedic-surgeon/
+Medical and aesthetic,Orthopedic surgeon,Consultant orthopedic surgeon,"60,000 - 95,000+",60000,95000,https://tlnt.ae/en/orthopedic-surgeon/
+Medical and aesthetic,Orthopedic surgeon,Surgeon with own patient base,fixed plus revenue share,,,https://tlnt.ae/en/orthopedic-surgeon/
+Medical and aesthetic,Pediatric dentist,Pediatric dentist,"26,000 - 36,000",26000,36000,https://tlnt.ae/en/pediatric-dentist/
+Medical and aesthetic,Pediatric dentist,Senior or specialist pediatric dentist,"36,000 - 50,000",36000,50000,https://tlnt.ae/en/pediatric-dentist/
+Medical and aesthetic,Pediatric dentist,Pediatric dentist on commission,"fixed plus 30 - 40% of collections, varies by clinic",30,40,https://tlnt.ae/en/pediatric-dentist/
+Medical and aesthetic,Periodontist,Periodontist,"30,000 - 40,000",30000,40000,https://tlnt.ae/en/periodontist/
+Medical and aesthetic,Periodontist,Senior periodontist,"40,000 - 50,000",40000,50000,https://tlnt.ae/en/periodontist/
+Medical and aesthetic,Periodontist,Periodontist on commission,"fixed plus 30 - 40% of collections, varies by clinic",30,40,https://tlnt.ae/en/periodontist/
+Medical and aesthetic,Pharmacist,Pharmacist,"7,000 - 12,000",7000,12000,https://tlnt.ae/en/pharmacist/
+Medical and aesthetic,Pharmacist,Senior pharmacist / pharmacist in charge,"12,000 - 17,000",12000,17000,https://tlnt.ae/en/pharmacist/
+Medical and aesthetic,Pharmacist,Pharmacy manager,"17,000 - 25,000",17000,25000,https://tlnt.ae/en/pharmacist/
+Medical and aesthetic,Prosthodontist,"General dentist, prosthodontic focus","18,000 - 28,000 or commission",18000,28000,https://tlnt.ae/en/prosthodontist/
+Medical and aesthetic,Prosthodontist,Prosthodontist (specialist),"30,000 - 45,000+",30000,45000,https://tlnt.ae/en/prosthodontist/
+Medical and aesthetic,Prosthodontist,"Senior, smile design and full-mouth cases",fixed plus commission,,,https://tlnt.ae/en/prosthodontist/
+Medical and aesthetic,Psychiatrist,Specialist psychiatrist,"35,000 - 50,000",35000,50000,https://tlnt.ae/en/psychiatrist/
+Medical and aesthetic,Psychiatrist,Consultant psychiatrist,"50,000 - 75,000+",50000,75000,https://tlnt.ae/en/psychiatrist/
+Medical and aesthetic,Psychiatrist,Psychiatrist with own patient base,fixed plus revenue share,,,https://tlnt.ae/en/psychiatrist/
+Medical and aesthetic,Radiographer,"Radiographer, general X-ray","8,000 - 12,000",8000,12000,https://tlnt.ae/en/radiographer/
+Medical and aesthetic,Radiographer,Experienced CT / MRI radiographer,"12,000 - 18,000",12000,18000,https://tlnt.ae/en/radiographer/
+Medical and aesthetic,Radiographer,Senior or lead radiographer,"18,000 - 25,000",18000,25000,https://tlnt.ae/en/radiographer/
+Medical and aesthetic,Radiologist,Specialist radiologist,"45,000 - 65,000",45000,65000,https://tlnt.ae/en/radiologist/
+Medical and aesthetic,Radiologist,Consultant radiologist,"65,000 - 95,000+",65000,95000,https://tlnt.ae/en/radiologist/
+Medical and aesthetic,Radiologist,Per report / teleradiology,agreed per report,,,https://tlnt.ae/en/radiologist/
+Medical and aesthetic,Speech Therapist,Speech therapist,"12,000 - 18,000",12000,18000,https://tlnt.ae/en/speech-therapist/
+Medical and aesthetic,Speech Therapist,Senior speech therapist,"18,000 - 25,000",18000,25000,https://tlnt.ae/en/speech-therapist/
+Medical and aesthetic,Speech Therapist,Lead therapist / clinical lead,"25,000 - 35,000",25000,35000,https://tlnt.ae/en/speech-therapist/
+Medical and aesthetic,Trichologist,Non-medical trichologist,"6,000 - 10,000 + commission",6000,10000,https://tlnt.ae/en/trichologist/
+Medical and aesthetic,Trichologist,Senior trichologist,"10,000 - 15,000 + commission",10000,15000,https://tlnt.ae/en/trichologist/
+Medical and aesthetic,Trichologist,Medical trichologist (physician),"25,000 - 40,000",25000,40000,https://tlnt.ae/en/trichologist/
+Medical and aesthetic,Urologist,Specialist urologist,"35,000 - 55,000",35000,55000,https://tlnt.ae/en/urologist/
+Medical and aesthetic,Urologist,Consultant urologist,"55,000 - 80,000+",55000,80000,https://tlnt.ae/en/urologist/
+Medical and aesthetic,Urologist,Urologist with own patient base,fixed plus revenue share,,,https://tlnt.ae/en/urologist/
+Medical and aesthetic,Medical sales representative,Medical sales representative,"8,000 - 12,000 + commission",8000,12000,https://tlnt.ae/en/medical-sales-representative/
+Medical and aesthetic,Medical sales representative,"Senior representative or key account manager (aesthetics, devices)","12,000 - 18,000 + commission",12000,18000,https://tlnt.ae/en/medical-sales-representative/
+Medical and aesthetic,Medical sales representative,Sales team lead or product manager,"18,000 - 28,000 + bonus",18000,28000,https://tlnt.ae/en/medical-sales-representative/
+Medical and aesthetic,Optometrist,Optometrist (optical retail),"4,500 - 7,000 + commission",4500,7000,https://tlnt.ae/en/optometrist/
+Medical and aesthetic,Optometrist,"Senior optometrist or clinic optometrist (contact lenses, pre-tests)","7,000 - 11,000",7000,11000,https://tlnt.ae/en/optometrist/
+Medical and aesthetic,Optometrist,Lead optometrist or store manager,"11,000 - 16,000",11000,16000,https://tlnt.ae/en/optometrist/
+Medical and aesthetic,Phlebotomist,Phlebotomist,"4,000 - 6,000",4000,6000,https://tlnt.ae/en/phlebotomist/
+Medical and aesthetic,Phlebotomist,"Senior phlebotomist (paediatric, difficult veins, home visits)","6,000 - 8,000",6000,8000,https://tlnt.ae/en/phlebotomist/
+Medical and aesthetic,Phlebotomist,Lead phlebotomist or collection point supervisor,"8,000 - 10,000",8000,10000,https://tlnt.ae/en/phlebotomist/
+Medical and aesthetic,Sonographer,"Sonographer, general ultrasound","10,000 - 14,000",10000,14000,https://tlnt.ae/en/sonographer/
+Medical and aesthetic,Sonographer,"Specialist sonographer (obstetric, vascular, echo)","14,000 - 20,000",14000,20000,https://tlnt.ae/en/sonographer/
+Medical and aesthetic,Sonographer,Lead sonographer,"20,000 - 25,000",20000,25000,https://tlnt.ae/en/sonographer/
+Beauty,Nail Technician,Entry,"3,000 - 4,000",3000,4000,https://tlnt.ae/en/nail-technician/
+Beauty,Nail Technician,Experienced,"4,500 - 5,500",4500,5500,https://tlnt.ae/en/nail-technician/
+Beauty,Nail Technician,Senior,"6,500+",6500,,https://tlnt.ae/en/nail-technician/
+Beauty,Hair Stylist,Entry,"4,000 - 5,500",4000,5500,https://tlnt.ae/en/hair-stylist/
+Beauty,Hair Stylist,Experienced,"6,000 - 7,500",6000,7500,https://tlnt.ae/en/hair-stylist/
+Beauty,Hair Stylist,Senior,"9,000+",9000,,https://tlnt.ae/en/hair-stylist/
+Beauty,Hair Colorist,Hair colorist,"5,000 - 8,000 + commission",5000,8000,https://tlnt.ae/en/hair-colorist/
+Beauty,Hair Colorist,Senior colorist,"8,000 - 12,000 + commission",8000,12000,https://tlnt.ae/en/hair-colorist/
+Beauty,Hair Colorist,Color director / educator,"12,000 - 18,000",12000,18000,https://tlnt.ae/en/hair-colorist/
+Beauty,Barber,Barber,"3,500 - 6,000 + commission",3500,6000,
+Beauty,Barber,Senior barber,"6,000 - 9,000 + commission",6000,9000,
+Beauty,Barber,Head barber / educator,"9,000 - 12,000",9000,12000,
+Beauty,Lash & Brow Technician,Lash technician,"4,000 - 6,000 + commission",4000,6000,https://tlnt.ae/en/lash-technician/
+Beauty,Lash & Brow Technician,Senior lash and brow artist,"6,000 - 9,000 + commission",6000,9000,https://tlnt.ae/en/lash-technician/
+Beauty,Lash & Brow Technician,Lead artist / trainer,"9,000 - 12,000",9000,12000,https://tlnt.ae/en/lash-technician/
+Beauty,Makeup Artist,Salon makeup artist,"4,000 - 7,000 + commission",4000,7000,https://tlnt.ae/en/makeup-artist/
+Beauty,Makeup Artist,Senior / bridal makeup artist,"8,000 - 12,000 + commission",8000,12000,https://tlnt.ae/en/makeup-artist/
+Beauty,Makeup Artist,Brand or lead artist,"12,000 - 18,000",12000,18000,https://tlnt.ae/en/makeup-artist/
+Beauty,Permanent Makeup Artist,PMU artist,"5,000 - 8,000 + commission",5000,8000,https://tlnt.ae/en/pmu-artist/
+Beauty,Permanent Makeup Artist,Senior PMU artist,"8,000 - 12,000 + commission",8000,12000,https://tlnt.ae/en/pmu-artist/
+Beauty,Permanent Makeup Artist,Top artist / trainer,revenue share 30 - 50%,30,50,https://tlnt.ae/en/pmu-artist/
+Beauty,Esthetician,Entry,"4,000 - 5,500",4000,5500,https://tlnt.ae/en/esthetician/
+Beauty,Esthetician,Experienced,"6,000 - 7,500",6000,7500,https://tlnt.ae/en/esthetician/
+Beauty,Esthetician,Senior,"9,000+",9000,,https://tlnt.ae/en/esthetician/
+Beauty,Massage Therapist,Entry,"3,500 - 4,500",3500,4500,https://tlnt.ae/en/massage-therapist/
+Beauty,Massage Therapist,Experienced,"5,000 - 6,000",5000,6000,https://tlnt.ae/en/massage-therapist/
+Beauty,Massage Therapist,Senior,"7,000+",7000,,https://tlnt.ae/en/massage-therapist/
+Beauty,Spa Therapist,Spa therapist,"3,000 - 5,000 + commission",3000,5000,https://tlnt.ae/en/spa-therapist/
+Beauty,Spa Therapist,Senior therapist,"5,000 - 8,000 + commission",5000,8000,https://tlnt.ae/en/spa-therapist/
+Beauty,Spa Therapist,Spa supervisor / manager,"10,000 - 20,000",10000,20000,https://tlnt.ae/en/spa-therapist/
+Beauty,Beauty Educator,Beauty educator / trainer,"7,000 - 11,000",7000,11000,https://tlnt.ae/en/beauty-educator/
+Beauty,Beauty Educator,Senior or brand educator,"11,000 - 16,000",11000,16000,https://tlnt.ae/en/beauty-educator/
+Beauty,Beauty Educator,Head of education / academy,"16,000 - 25,000",16000,25000,https://tlnt.ae/en/beauty-educator/
+Beauty,Body contouring technician,Body contouring technician,"5,000 - 7,500 + commission",5000,7500,https://tlnt.ae/en/body-contouring-technician/
+Beauty,Body contouring technician,"Senior technician (several devices, course planning support)","7,500 - 11,000 + commission",7500,11000,https://tlnt.ae/en/body-contouring-technician/
+Beauty,Body contouring technician,Lead technician or trainer,"11,000 - 15,000",11000,15000,https://tlnt.ae/en/body-contouring-technician/
+Beauty,"Brow artist (brow lamination, tinting, shaping)",Brow artist,"4,000 - 6,000 + commission",4000,6000,https://tlnt.ae/en/brow-artist/
+Beauty,"Brow artist (brow lamination, tinting, shaping)","Senior brow artist (lamination, correction, lash lift)","6,000 - 9,000 + commission",6000,9000,https://tlnt.ae/en/brow-artist/
+Beauty,"Brow artist (brow lamination, tinting, shaping)",Lead brow artist or trainer,"9,000 - 12,000",9000,12000,https://tlnt.ae/en/brow-artist/
+Beauty,Moroccan bath (hammam) therapist,Moroccan bath therapist,"2,500 - 4,000 + tips",2500,4000,https://tlnt.ae/en/moroccan-bath-therapist/
+Beauty,Moroccan bath (hammam) therapist,"Senior hammam therapist, hotel or premium spa","4,000 - 6,000 + commission",4000,6000,https://tlnt.ae/en/moroccan-bath-therapist/
+Beauty,Moroccan bath (hammam) therapist,Hammam lead or spa supervisor,"6,000 - 9,000",6000,9000,https://tlnt.ae/en/moroccan-bath-therapist/
+Beauty,Personal trainer,Personal trainer,"5,000 - 8,000 + commission",5000,8000,https://tlnt.ae/en/personal-trainer/
+Beauty,Personal trainer,"Senior personal trainer (own client base, specialisms)","8,000 - 12,000 + commission",8000,12000,https://tlnt.ae/en/personal-trainer/
+Beauty,Personal trainer,Head trainer or private trainer to a family,"12,000 - 20,000",12000,20000,https://tlnt.ae/en/personal-trainer/
+Beauty,Waxing and sugaring specialist,Waxing and sugaring specialist,"3,000 - 5,000 + commission",3000,5000,https://tlnt.ae/en/waxing-specialist/
+Beauty,Waxing and sugaring specialist,"Senior waxing specialist (intimate and full body, high volume)","5,000 - 7,000 + commission",5000,7000,https://tlnt.ae/en/waxing-specialist/
+Beauty,Waxing and sugaring specialist,Lead therapist or trainer,"7,000 - 10,000",7000,10000,https://tlnt.ae/en/waxing-specialist/
+Front office and management,Salon Administrator,Entry,"3,500 - 4,000",3500,4000,https://tlnt.ae/en/salon-administrator/
+Front office and management,Salon Administrator,Experienced,"4,500 - 5,500",4500,5500,https://tlnt.ae/en/salon-administrator/
+Front office and management,Salon Administrator,Senior,"6,000+",6000,,https://tlnt.ae/en/salon-administrator/
+Front office and management,Clinic Receptionist,Receptionist / front desk,"4,500 - 7,000",4500,7000,https://tlnt.ae/en/clinic-receptionist/
+Front office and management,Clinic Receptionist,Senior receptionist with insurance experience,"7,000 - 10,000",7000,10000,https://tlnt.ae/en/clinic-receptionist/
+Front office and management,Clinic Receptionist,Front office manager,"10,000 - 15,000",10000,15000,https://tlnt.ae/en/clinic-receptionist/
+Front office and management,Patient Coordinator,Patient coordinator,"6,000 - 10,000 + bonus",6000,10000,https://tlnt.ae/en/patient-coordinator/
+Front office and management,Patient Coordinator,Senior / medical tourism coordinator,"10,000 - 15,000 + bonus",10000,15000,https://tlnt.ae/en/patient-coordinator/
+Front office and management,Patient Coordinator,Patient relations manager,"15,000 - 22,000",15000,22000,https://tlnt.ae/en/patient-coordinator/
+Front office and management,Medical Insurance Officer,Insurance officer,"6,000 - 10,000",6000,10000,https://tlnt.ae/en/medical-insurance-officer/
+Front office and management,Medical Insurance Officer,Medical coder,"8,000 - 14,000",8000,14000,https://tlnt.ae/en/medical-insurance-officer/
+Front office and management,Medical Insurance Officer,Revenue cycle manager,"15,000 - 25,000",15000,25000,https://tlnt.ae/en/medical-insurance-officer/
+Front office and management,Salon Manager,Entry,"8,000 - 10,000",8000,10000,https://tlnt.ae/en/salon-manager/
+Front office and management,Salon Manager,Experienced,"12,000 - 15,000",12000,15000,https://tlnt.ae/en/salon-manager/
+Front office and management,Salon Manager,Senior,"18,000+",18000,,https://tlnt.ae/en/salon-manager/
+Front office and management,Clinic Manager,Entry,"12,000 - 15,000",12000,15000,https://tlnt.ae/en/clinic-manager/
+Front office and management,Clinic Manager,Experienced,"18,000 - 22,000",18000,22000,https://tlnt.ae/en/clinic-manager/
+Front office and management,Clinic Manager,Senior,"28,000+",28000,,https://tlnt.ae/en/clinic-manager/
+Front office and management,Bookkeeper,Bookkeeper,"5,000 - 8,000",5000,8000,https://tlnt.ae/en/bookkeeper/
+Front office and management,Bookkeeper,Accountant,"8,000 - 13,000",8000,13000,https://tlnt.ae/en/bookkeeper/
+Front office and management,Bookkeeper,Chief accountant / finance manager,"13,000 - 20,000",13000,20000,https://tlnt.ae/en/bookkeeper/
+Front office and management,Clinic Operations Manager,Operations manager (single clinic),"15,000 - 22,000",15000,22000,https://tlnt.ae/en/clinic-operations-manager/
+Front office and management,Clinic Operations Manager,Senior operations manager,"22,000 - 32,000",22000,32000,https://tlnt.ae/en/clinic-operations-manager/
+Front office and management,Clinic Operations Manager,Group operations director,"32,000 - 50,000",32000,50000,https://tlnt.ae/en/clinic-operations-manager/
+Front office and management,Front Office Manager,Front office supervisor,"7,000 - 10,000",7000,10000,https://tlnt.ae/en/front-office-manager/
+Front office and management,Front Office Manager,Front office manager,"10,000 - 15,000",10000,15000,https://tlnt.ae/en/front-office-manager/
+Front office and management,Front Office Manager,Head of guest or patient experience,"15,000 - 22,000",15000,22000,https://tlnt.ae/en/front-office-manager/
+Front office and management,General Manager,"General manager, single business or small company","25,000 - 40,000",25000,40000,https://tlnt.ae/en/general-manager/
+Front office and management,General Manager,"General manager, multi-site or mid-size company","40,000 - 65,000",40000,65000,https://tlnt.ae/en/general-manager/
+Front office and management,General Manager,Group GM or CEO of an owner-led group,"65,000 - 100,000+",65000,100000,https://tlnt.ae/en/general-manager/
+Front office and management,Medical Coder,Medical coder,"8,000 - 11,000",8000,11000,https://tlnt.ae/en/medical-coder/
+Front office and management,Medical Coder,Senior coder / coding auditor,"11,000 - 14,000",11000,14000,https://tlnt.ae/en/medical-coder/
+Front office and management,Medical Coder,Coding lead / revenue cycle manager,"15,000 - 25,000",15000,25000,https://tlnt.ae/en/medical-coder/
+Front office and management,Salon Receptionist,Salon receptionist,"3,500 - 5,500 + bonus",3500,5500,https://tlnt.ae/en/salon-receptionist/
+Front office and management,Salon Receptionist,Senior receptionist,"5,500 - 7,500 + bonus",5500,7500,https://tlnt.ae/en/salon-receptionist/
+Front office and management,Salon Receptionist,Front desk supervisor,"7,500 - 10,000",7500,10000,https://tlnt.ae/en/salon-receptionist/
+Front office and management,Spa Manager,Spa supervisor,"8,000 - 12,000",8000,12000,https://tlnt.ae/en/spa-manager/
+Front office and management,Spa Manager,Spa manager,"12,000 - 20,000 + bonus",12000,20000,https://tlnt.ae/en/spa-manager/
+Front office and management,Spa Manager,Spa director,"20,000 - 35,000",20000,35000,https://tlnt.ae/en/spa-manager/
+Front office and management,Office receptionist,Office receptionist,"4,000 - 6,500",4000,6500,https://tlnt.ae/en/office-receptionist/
+Front office and management,Office receptionist,Experienced corporate receptionist,"6,500 - 9,000",6500,9000,https://tlnt.ae/en/office-receptionist/
+Front office and management,Office receptionist,Senior receptionist with secretarial duties,"9,000 - 12,000",9000,12000,https://tlnt.ae/en/office-receptionist/
+Household and private staff,Nanny,"Nanny / housekeeper-nanny, live-in","3,000 - 5,000 + accommodation",3000,5000,https://tlnt.ae/en/nanny/
+Household and private staff,Nanny,"Professional nanny, English-speaking","5,000 - 8,000",5000,8000,https://tlnt.ae/en/nanny/
+Household and private staff,Nanny,Governess / tutor-nanny,"10,000 - 18,000",10000,18000,https://tlnt.ae/en/nanny/
+Household and private staff,Housekeeper,"Housemaid, live-in","2,500 - 4,000 + accommodation",2500,4000,https://tlnt.ae/en/housekeeper/
+Household and private staff,Housekeeper,Experienced villa housekeeper,"4,000 - 6,000",4000,6000,https://tlnt.ae/en/housekeeper/
+Household and private staff,Housekeeper,Head housekeeper,"6,000 - 9,000",6000,9000,https://tlnt.ae/en/housekeeper/
+Household and private staff,Private Driver,Family driver,"3,000 - 5,000",3000,5000,https://tlnt.ae/en/private-driver/
+Household and private staff,Private Driver,Experienced private driver,"5,000 - 7,000",5000,7000,https://tlnt.ae/en/private-driver/
+Household and private staff,Private Driver,VIP / executive chauffeur,"7,000 - 10,000",7000,10000,https://tlnt.ae/en/private-driver/
+Household and private staff,Private Chef,Private chef,"8,000 - 15,000",8000,15000,https://tlnt.ae/en/private-chef/
+Household and private staff,Private Chef,Senior private chef,"15,000 - 25,000",15000,25000,https://tlnt.ae/en/private-chef/
+Household and private staff,Private Chef,Chef for UHNW family or yacht,"25,000+",25000,,https://tlnt.ae/en/private-chef/
+Household and private staff,Yacht Crew,Deckhand,"4,000 - 6,000",4000,6000,https://tlnt.ae/en/yacht-crew/
+Household and private staff,Yacht Crew,Stewardess / steward,"5,000 - 8,000",5000,8000,https://tlnt.ae/en/yacht-crew/
+Household and private staff,Yacht Crew,Captain,"15,000 - 35,000",15000,35000,https://tlnt.ae/en/yacht-crew/
+Household and private staff,Personal Assistant,Entry,"5,000 - 7,000",5000,7000,https://tlnt.ae/en/personal-assistant/
+Household and private staff,Personal Assistant,Experienced,"8,000 - 10,000",8000,10000,https://tlnt.ae/en/personal-assistant/
+Household and private staff,Personal Assistant,Senior,"12,000+",12000,,https://tlnt.ae/en/personal-assistant/
+Household and private staff,Butler,Butler in a family villa,"9,000 - 15,000",9000,15000,https://tlnt.ae/en/butler/
+Household and private staff,Butler,"Senior butler, UHNW household","15,000 - 25,000",15000,25000,https://tlnt.ae/en/butler/
+Household and private staff,Butler,Head butler or travelling butler,"25,000+",25000,,https://tlnt.ae/en/butler/
+Household and private staff,Elderly caregiver,"Caregiver, live-in","2,500 - 4,000",2500,4000,https://tlnt.ae/en/elderly-caregiver/
+Household and private staff,Elderly caregiver,"Experienced caregiver, live-out or with mobility care","4,000 - 6,000",4000,6000,https://tlnt.ae/en/elderly-caregiver/
+Household and private staff,Elderly caregiver,Russian-speaking or senior companion caregiver,"6,000 - 9,000",6000,9000,https://tlnt.ae/en/elderly-caregiver/
+Household and private staff,Governess,"Governess, live-out, one or two children","10,000 - 15,000",10000,15000,https://tlnt.ae/en/governess/
+Household and private staff,Governess,Experienced governess with teaching background,"15,000 - 22,000",15000,22000,https://tlnt.ae/en/governess/
+Household and private staff,Governess,"Senior governess for an UHNW family, travel included","22,000+",22000,,https://tlnt.ae/en/governess/
+Household and private staff,Private tutor,Part-time tutor for one family,"3,000 - 7,000",3000,7000,https://tlnt.ae/en/private-tutor/
+Household and private staff,Private tutor,Full-time family tutor,"7,000 - 12,000",7000,12000,https://tlnt.ae/en/private-tutor/
+Household and private staff,Private tutor,"Qualified teacher as full-time tutor, travel included","12,000 - 25,000",12000,25000,https://tlnt.ae/en/private-tutor/
+Business and office,Sales Executive,Sales executive,"6,000 - 10,000 + commission",6000,10000,https://tlnt.ae/en/sales-executive/
+Business and office,Sales Executive,Senior / key account manager,"12,000 - 20,000 + commission",12000,20000,https://tlnt.ae/en/sales-executive/
+Business and office,Sales Executive,Sales manager,"20,000 - 35,000 + bonus",20000,35000,https://tlnt.ae/en/sales-executive/
+Business and office,Business Development Manager,Business development manager,"15,000 - 25,000 + bonus",15000,25000,https://tlnt.ae/en/business-development-manager/
+Business and office,Business Development Manager,Senior BDM,"25,000 - 35,000 + bonus",25000,35000,https://tlnt.ae/en/business-development-manager/
+Business and office,Business Development Manager,Head of business development,"35,000 - 50,000 + bonus",35000,50000,https://tlnt.ae/en/business-development-manager/
+Business and office,Real Estate Agent,"Agent, commission only",50 - 70% commission split,50,70,https://tlnt.ae/en/real-estate-agent/
+Business and office,Real Estate Agent,Agent with basic salary,"3,000 - 7,000 + commission",3000,7000,https://tlnt.ae/en/real-estate-agent/
+Business and office,Real Estate Agent,Team leader / sales manager,"10,000 - 25,000 + override",10000,25000,https://tlnt.ae/en/real-estate-agent/
+Business and office,Accountant,Accountant,"7,000 - 12,000",7000,12000,https://tlnt.ae/en/accountant/
+Business and office,Accountant,Senior accountant,"12,000 - 18,000",12000,18000,https://tlnt.ae/en/accountant/
+Business and office,Accountant,Finance manager,"20,000 - 35,000",20000,35000,https://tlnt.ae/en/accountant/
+Business and office,Marketing Manager,SMM specialist,"6,000 - 10,000",6000,10000,https://tlnt.ae/en/marketing-manager/
+Business and office,Marketing Manager,Marketing manager,"15,000 - 25,000",15000,25000,https://tlnt.ae/en/marketing-manager/
+Business and office,Marketing Manager,Head of marketing,"25,000 - 40,000",25000,40000,https://tlnt.ae/en/marketing-manager/
+Business and office,HR Manager,HR officer / generalist,"8,000 - 14,000",8000,14000,https://tlnt.ae/en/hr-manager/
+Business and office,HR Manager,HR manager,"15,000 - 25,000",15000,25000,https://tlnt.ae/en/hr-manager/
+Business and office,HR Manager,Head of HR,"25,000 - 40,000",25000,40000,https://tlnt.ae/en/hr-manager/
+Business and office,PRO Officer,PRO officer,"5,000 - 8,000",5000,8000,https://tlnt.ae/en/pro-officer/
+Business and office,PRO Officer,Senior PRO,"8,000 - 13,000",8000,13000,https://tlnt.ae/en/pro-officer/
+Business and office,PRO Officer,Government relations manager,"15,000 - 25,000",15000,25000,https://tlnt.ae/en/pro-officer/
+Business and office,Executive Assistant,Office manager,"8,000 - 14,000",8000,14000,https://tlnt.ae/en/executive-assistant/
+Business and office,Executive Assistant,Executive assistant,"12,000 - 20,000",12000,20000,https://tlnt.ae/en/executive-assistant/
+Business and office,Executive Assistant,EA to C-level / UHNW family,"20,000 - 30,000",20000,30000,https://tlnt.ae/en/executive-assistant/
+Business and office,Customer Service Agent,Customer service agent,"4,000 - 6,500",4000,6500,https://tlnt.ae/en/customer-service-agent/
+Business and office,Customer Service Agent,Senior agent / team lead,"6,500 - 10,000",6500,10000,https://tlnt.ae/en/customer-service-agent/
+Business and office,Customer Service Agent,Customer service manager,"12,000 - 20,000",12000,20000,https://tlnt.ae/en/customer-service-agent/
+Business and office,Administrative assistant,Administrative assistant,"5,000 - 8,000",5000,8000,https://tlnt.ae/en/administrative-assistant/
+Business and office,Administrative assistant,Senior administrative assistant,"8,000 - 11,000",8000,11000,https://tlnt.ae/en/administrative-assistant/
+Business and office,Administrative assistant,Admin assistant with HR or bookkeeping duties,"9,000 - 12,000",9000,12000,https://tlnt.ae/en/administrative-assistant/
+Business and office,Chief of staff,Chief of staff to an owner of a mid-size business,"25,000 - 32,000",25000,32000,https://tlnt.ae/en/chief-of-staff/
+Business and office,Chief of staff,Chief of staff in a group with several companies or a family holding,"32,000 - 40,000",32000,40000,https://tlnt.ae/en/chief-of-staff/
+Business and office,Chief of staff,Senior EA stepping into the role,"18,000 - 25,000",18000,25000,https://tlnt.ae/en/chief-of-staff/
+Business and office,Family office assistant,Family office assistant,"12,000 - 20,000",12000,20000,https://tlnt.ae/en/family-office-assistant/
+Business and office,Family office assistant,"Senior or lead family assistant (travel, staff, property)","20,000 - 30,000",20000,30000,https://tlnt.ae/en/family-office-assistant/
+Business and office,Family office assistant,Package for the very top of the market,"negotiated, often above the range",,,https://tlnt.ae/en/family-office-assistant/
+Business and office,House manager (household manager),House manager of a villa with 3-5 staff,"10,000 - 15,000",10000,15000,https://tlnt.ae/en/house-manager/
+Business and office,House manager (household manager),"Senior house manager, several properties or a large staff","15,000 - 20,000",15000,20000,https://tlnt.ae/en/house-manager/
+Business and office,House manager (household manager),Head housekeeper with supervisory duties,"6,000 - 9,000",6000,9000,https://tlnt.ae/en/house-manager/
+Business and office,Hybrid business and personal assistant,"Hybrid assistant (business, personal and household)","10,000 - 18,000",10000,18000,https://tlnt.ae/en/hybrid-assistant/
+Business and office,Hybrid business and personal assistant,Senior hybrid assistant to an owner with a large household,"18,000 - 25,000",18000,25000,https://tlnt.ae/en/hybrid-assistant/
+Business and office,Hybrid business and personal assistant,Personal assistant with light business support,"7,000 - 12,000",7000,12000,https://tlnt.ae/en/hybrid-assistant/
+Business and office,Lifestyle manager (personal concierge),Lifestyle manager / personal concierge,"10,000 - 18,000",10000,18000,https://tlnt.ae/en/lifestyle-manager/
+Business and office,Lifestyle manager (personal concierge),Lifestyle manager to a UHNW family with frequent travel,"18,000 - 25,000",18000,25000,https://tlnt.ae/en/lifestyle-manager/
+Business and office,Lifestyle manager (personal concierge),Junior concierge or personal assistant with lifestyle duties,"7,000 - 10,000",7000,10000,https://tlnt.ae/en/lifestyle-manager/
+Business and office,Medical office assistant,Medical office assistant,"8,000 - 12,000",8000,12000,https://tlnt.ae/en/medical-office-assistant/
+Business and office,Medical office assistant,Senior assistant to a clinic owner or medical director,"12,000 - 18,000",12000,18000,https://tlnt.ae/en/medical-office-assistant/
+Business and office,Medical office assistant,Assistant with insurance or reporting ownership,"10,000 - 14,000",10000,14000,https://tlnt.ae/en/medical-office-assistant/
+Business and office,Office Manager,Office administrator / coordinator,"5,000 - 8,000",5000,8000,https://tlnt.ae/en/office-manager/
+Business and office,Office Manager,Office manager,"8,000 - 14,000",8000,14000,https://tlnt.ae/en/office-manager/
+Business and office,Office Manager,Senior office / admin manager,"14,000 - 18,000",14000,18000,https://tlnt.ae/en/office-manager/
+Business and office,Virtual assistant,Virtual assistant (part-time or junior),"3,500 - 6,000",3500,6000,https://tlnt.ae/en/virtual-assistant/
+Business and office,Virtual assistant,Experienced virtual assistant,"6,000 - 9,000",6000,9000,https://tlnt.ae/en/virtual-assistant/
+Business and office,Virtual assistant,Virtual EA to a senior person,"9,000 - 14,000",9000,14000,https://tlnt.ae/en/virtual-assistant/
+Business and office,CRM administrator,CRM administrator,"5,000 - 8,000",5000,8000,https://tlnt.ae/en/crm-administrator/
+Business and office,CRM administrator,Experienced CRM administrator (integrations and automations),"8,000 - 12,000",8000,12000,https://tlnt.ae/en/crm-administrator/
+Business and office,CRM administrator,CRM manager or CRM specialist for several teams,"12,000 - 18,000",12000,18000,https://tlnt.ae/en/crm-administrator/
+Business and office,Finance manager,"Finance manager, small company","15,000 - 22,000",15000,22000,https://tlnt.ae/en/finance-manager/
+Business and office,Finance manager,"Finance manager, mid-size company or group","22,000 - 30,000",22000,30000,https://tlnt.ae/en/finance-manager/
+Business and office,Finance manager,Head of finance,"30,000+",30000,,https://tlnt.ae/en/finance-manager/
+Business and office,Graphic designer,Junior graphic designer,"4,000 - 6,000",4000,6000,https://tlnt.ae/en/graphic-designer/
+Business and office,Graphic designer,Graphic designer,"6,000 - 9,000",6000,9000,https://tlnt.ae/en/graphic-designer/
+Business and office,Graphic designer,Senior graphic designer or art director for a small brand,"9,000 - 15,000",9000,15000,https://tlnt.ae/en/graphic-designer/
+Business and office,IT support specialist,IT helpdesk or junior IT support,"4,000 - 6,000",4000,6000,https://tlnt.ae/en/it-support-specialist/
+Business and office,IT support specialist,IT support specialist,"6,000 - 9,000",6000,9000,https://tlnt.ae/en/it-support-specialist/
+Business and office,IT support specialist,Senior IT support or IT administrator for several sites,"9,000 - 13,000",9000,13000,https://tlnt.ae/en/it-support-specialist/
+Business and office,Leasing consultant,Junior leasing consultant,"4,000 - 6,000",4000,6000,https://tlnt.ae/en/leasing-consultant/
+Business and office,Leasing consultant,Leasing consultant,"6,000 - 9,000",6000,9000,https://tlnt.ae/en/leasing-consultant/
+Business and office,Leasing consultant,Senior leasing consultant or leasing team lead,"9,000 - 15,000",9000,15000,https://tlnt.ae/en/leasing-consultant/
+Business and office,Operations manager,"Operations manager, small company","12,000 - 18,000",12000,18000,https://tlnt.ae/en/operations-manager/
+Business and office,Operations manager,"Operations manager, mid-size company","18,000 - 28,000",18000,28000,https://tlnt.ae/en/operations-manager/
+Business and office,Operations manager,"Head of operations, several branches or units","28,000+",28000,,https://tlnt.ae/en/operations-manager/
+Business and office,Procurement officer,Procurement assistant or junior buyer,"4,000 - 6,500",4000,6500,https://tlnt.ae/en/procurement-officer/
+Business and office,Procurement officer,Procurement officer,"6,500 - 10,000",6500,10000,https://tlnt.ae/en/procurement-officer/
+Business and office,Procurement officer,Senior procurement officer,"10,000 - 14,000",10000,14000,https://tlnt.ae/en/procurement-officer/
+Business and office,Property manager,Assistant property manager,"6,000 - 9,000",6000,9000,https://tlnt.ae/en/property-manager/
+Business and office,Property manager,Property manager,"9,000 - 14,000",9000,14000,https://tlnt.ae/en/property-manager/
+Business and office,Property manager,Senior property manager or portfolio manager,"14,000 - 22,000",14000,22000,https://tlnt.ae/en/property-manager/
+Business and office,Sales manager,Sales team leader,"9,000 - 14,000",9000,14000,https://tlnt.ae/en/sales-manager/
+Business and office,Sales manager,Sales manager,"14,000 - 22,000",14000,22000,https://tlnt.ae/en/sales-manager/
+Business and office,Sales manager,Senior sales manager or head of sales,"22,000 - 35,000",22000,35000,https://tlnt.ae/en/sales-manager/
+Business and office,Social media manager,Social media executive or specialist,"6,000 - 10,000",6000,10000,https://tlnt.ae/en/social-media-manager/
+Business and office,Social media manager,Social media manager,"10,000 - 18,000",10000,18000,https://tlnt.ae/en/social-media-manager/
+Business and office,Social media manager,Senior social media manager or head of social,"18,000 - 30,000",18000,30000,https://tlnt.ae/en/social-media-manager/
+Business and office,Telesales agent,Telesales agent,"3,000 - 4,500",3000,4500,https://tlnt.ae/en/telesales-agent/
+Business and office,Telesales agent,Experienced telesales agent,"4,500 - 6,000",4500,6000,https://tlnt.ae/en/telesales-agent/
+Business and office,Telesales agent,Telesales team lead,"6,000 - 8,000",6000,8000,https://tlnt.ae/en/telesales-agent/
+"Hotels, restaurants and events",Barista,Barista,"2,500 - 3,800",2500,3800,https://tlnt.ae/en/barista/
+"Hotels, restaurants and events",Barista,Senior or specialty barista,"3,800 - 5,500",3800,5500,https://tlnt.ae/en/barista/
+"Hotels, restaurants and events",Barista,Head barista or bar supervisor,"5,000 - 7,000",5000,7000,https://tlnt.ae/en/barista/
+"Hotels, restaurants and events",Concierge,Concierge agent,"4,500 - 7,000",4500,7000,https://tlnt.ae/en/concierge/
+"Hotels, restaurants and events",Concierge,"Senior concierge, luxury hotel or branded residences","7,000 - 12,000",7000,12000,https://tlnt.ae/en/concierge/
+"Hotels, restaurants and events",Concierge,Chef concierge (head of concierge),"12,000 - 18,000",12000,18000,https://tlnt.ae/en/concierge/
+"Hotels, restaurants and events",Guest relations officer,Guest relations officer,"4,000 - 6,000",4000,6000,https://tlnt.ae/en/guest-relations-officer/
+"Hotels, restaurants and events",Guest relations officer,"Senior guest relations officer, luxury hotel, clinic or private club","6,000 - 8,500",6000,8500,https://tlnt.ae/en/guest-relations-officer/
+"Hotels, restaurants and events",Guest relations officer,Guest relations manager,"9,000 - 15,000",9000,15000,https://tlnt.ae/en/guest-relations-officer/
+"Hotels, restaurants and events",Hotel receptionist (front desk agent),Hotel receptionist / front desk agent,"3,000 - 4,500",3000,4500,https://tlnt.ae/en/hotel-receptionist/
+"Hotels, restaurants and events",Hotel receptionist (front desk agent),"Senior receptionist, five-star hotel or luxury serviced apartments","4,500 - 6,500",4500,6500,https://tlnt.ae/en/hotel-receptionist/
+"Hotels, restaurants and events",Hotel receptionist (front desk agent),Front desk supervisor,"6,500 - 9,000",6500,9000,https://tlnt.ae/en/hotel-receptionist/
+"Hotels, restaurants and events",Restaurant host or hostess,Host or hostess,"3,000 - 4,500",3000,4500,https://tlnt.ae/en/restaurant-hostess/
+"Hotels, restaurants and events",Restaurant host or hostess,"Host or hostess, fine dining, beach club or lounge","4,500 - 6,500",4500,6500,https://tlnt.ae/en/restaurant-hostess/
+"Hotels, restaurants and events",Restaurant host or hostess,Head host or reservations supervisor,"6,000 - 8,500",6000,8500,https://tlnt.ae/en/restaurant-hostess/
+"Hotels, restaurants and events",Restaurant manager,Assistant or floor manager,"7,000 - 10,000",7000,10000,https://tlnt.ae/en/restaurant-manager/
+"Hotels, restaurants and events",Restaurant manager,"Restaurant manager, casual dining or cafe","10,000 - 15,000",10000,15000,https://tlnt.ae/en/restaurant-manager/
+"Hotels, restaurants and events",Restaurant manager,"Restaurant manager, fine dining, beach club or hotel outlet","15,000 - 25,000",15000,25000,https://tlnt.ae/en/restaurant-manager/
+"Hotels, restaurants and events",Sous chef,Junior sous chef,"5,500 - 7,500",5500,7500,https://tlnt.ae/en/sous-chef/
+"Hotels, restaurants and events",Sous chef,"Sous chef, restaurant or hotel outlet","7,500 - 11,000",7500,11000,https://tlnt.ae/en/sous-chef/
+"Hotels, restaurants and events",Sous chef,"Senior or executive sous chef, fine dining or large hotel","11,000 - 16,000",11000,16000,https://tlnt.ae/en/sous-chef/
+"Hotels, restaurants and events",Waiter (server),"Waiter, cafe or casual dining","2,500 - 4,000",2500,4000,https://tlnt.ae/en/waiter/
+"Hotels, restaurants and events",Waiter (server),"Experienced waiter, fine dining, hotel or beach club","4,000 - 6,000",4000,6000,https://tlnt.ae/en/waiter/
+"Hotels, restaurants and events",Waiter (server),Head waiter or captain,"5,500 - 8,000",5500,8000,https://tlnt.ae/en/waiter/
+"Finance, legal and HR",CFO (chief financial officer),"Fractional or part-time CFO, monthly retainer","10,000 - 25,000",10000,25000,https://tlnt.ae/en/cfo/
+"Finance, legal and HR",CFO (chief financial officer),CFO of an SME or family business,"35,000 - 55,000",35000,55000,https://tlnt.ae/en/cfo/
+"Finance, legal and HR",CFO (chief financial officer),Group CFO of a holding or multi-company group,"55,000 - 85,000",55000,85000,https://tlnt.ae/en/cfo/
+"Finance, legal and HR",Compliance officer,Compliance officer,"8,000 - 14,000",8000,14000,https://tlnt.ae/en/compliance-officer/
+"Finance, legal and HR",Compliance officer,Senior compliance officer or AML officer,"14,000 - 25,000",14000,25000,https://tlnt.ae/en/compliance-officer/
+"Finance, legal and HR",Compliance officer,Head of compliance,"25,000 - 40,000",25000,40000,https://tlnt.ae/en/compliance-officer/
+"Finance, legal and HR",Financial analyst (FP&A),Financial analyst,"8,000 - 12,000",8000,12000,https://tlnt.ae/en/financial-analyst/
+"Finance, legal and HR",Financial analyst (FP&A),Senior financial analyst,"12,000 - 18,000",12000,18000,https://tlnt.ae/en/financial-analyst/
+"Finance, legal and HR",Financial analyst (FP&A),FP&A lead or manager,"18,000 - 28,000",18000,28000,https://tlnt.ae/en/financial-analyst/
+"Finance, legal and HR",Financial controller,Assistant controller or senior accountant stepping up,"14,000 - 18,000",14000,18000,https://tlnt.ae/en/financial-controller/
+"Finance, legal and HR",Financial controller,Financial controller of a company,"18,000 - 25,000",18000,25000,https://tlnt.ae/en/financial-controller/
+"Finance, legal and HR",Financial controller,Group financial controller,"25,000 - 32,000",25000,32000,https://tlnt.ae/en/financial-controller/
+"Finance, legal and HR",HR business partner,HR generalist moving into a partner role,"10,000 - 15,000",10000,15000,https://tlnt.ae/en/hr-business-partner/
+"Finance, legal and HR",HR business partner,HR business partner,"15,000 - 22,000",15000,22000,https://tlnt.ae/en/hr-business-partner/
+"Finance, legal and HR",HR business partner,Senior HR business partner for a group or business line,"22,000 - 30,000",22000,30000,https://tlnt.ae/en/hr-business-partner/
+"Finance, legal and HR",In-house legal counsel,Junior legal counsel or legal adviser,"14,000 - 22,000",14000,22000,https://tlnt.ae/en/legal-counsel/
+"Finance, legal and HR",In-house legal counsel,Legal counsel,"22,000 - 35,000",22000,35000,https://tlnt.ae/en/legal-counsel/
+"Finance, legal and HR",In-house legal counsel,Senior legal counsel or head of legal,"35,000 - 55,000",35000,55000,https://tlnt.ae/en/legal-counsel/
+"Finance, legal and HR",Internal auditor,Internal auditor,"9,000 - 13,000",9000,13000,https://tlnt.ae/en/internal-auditor/
+"Finance, legal and HR",Internal auditor,Senior internal auditor,"13,000 - 20,000",13000,20000,https://tlnt.ae/en/internal-auditor/
+"Finance, legal and HR",Internal auditor,Internal audit manager or head of audit,"20,000 - 30,000",20000,30000,https://tlnt.ae/en/internal-auditor/
+"Finance, legal and HR",Payroll specialist,Payroll officer or executive,"7,000 - 11,000",7000,11000,https://tlnt.ae/en/payroll-specialist/
+"Finance, legal and HR",Payroll specialist,Payroll specialist,"11,000 - 16,000",11000,16000,https://tlnt.ae/en/payroll-specialist/
+"Finance, legal and HR",Payroll specialist,Payroll lead for a group or several entities,"16,000 - 22,000",16000,22000,https://tlnt.ae/en/payroll-specialist/
+"Sales, accounts and marketing",Content manager,Content specialist or copywriter,"6,000 - 9,000",6000,9000,https://tlnt.ae/en/content-manager/
+"Sales, accounts and marketing",Content manager,Content manager,"9,000 - 16,000",9000,16000,https://tlnt.ae/en/content-manager/
+"Sales, accounts and marketing",Content manager,Head of content or senior content manager,"16,000 - 25,000",16000,25000,https://tlnt.ae/en/content-manager/
+"Sales, accounts and marketing",Country manager,"Country manager, first hire or small office","25,000 - 35,000 + bonus",25000,35000,https://tlnt.ae/en/country-manager/
+"Sales, accounts and marketing",Country manager,"Country manager, established UAE business","35,000 - 50,000 + bonus",35000,50000,https://tlnt.ae/en/country-manager/
+"Sales, accounts and marketing",Country manager,Regional or GCC managing director,"50,000+",50000,,https://tlnt.ae/en/country-manager/
+"Sales, accounts and marketing",Customer success manager,Customer success specialist or associate,"8,000 - 12,000",8000,12000,https://tlnt.ae/en/customer-success-manager/
+"Sales, accounts and marketing",Customer success manager,Customer success manager,"12,000 - 20,000",12000,20000,https://tlnt.ae/en/customer-success-manager/
+"Sales, accounts and marketing",Customer success manager,Senior CSM or head of customer success,"20,000 - 30,000",20000,30000,https://tlnt.ae/en/customer-success-manager/
+"Sales, accounts and marketing",Digital marketing manager,Digital marketing executive or specialist,"8,000 - 13,000",8000,13000,https://tlnt.ae/en/digital-marketing-manager/
+"Sales, accounts and marketing",Digital marketing manager,Digital marketing manager,"15,000 - 25,000",15000,25000,https://tlnt.ae/en/digital-marketing-manager/
+"Sales, accounts and marketing",Digital marketing manager,Head of digital or senior digital marketing manager,"25,000 - 40,000",25000,40000,https://tlnt.ae/en/digital-marketing-manager/
+"Sales, accounts and marketing",E-commerce manager,E-commerce executive or marketplace specialist,"6,000 - 10,000",6000,10000,https://tlnt.ae/en/ecommerce-manager/
+"Sales, accounts and marketing",E-commerce manager,E-commerce manager,"12,000 - 20,000",12000,20000,https://tlnt.ae/en/ecommerce-manager/
+"Sales, accounts and marketing",E-commerce manager,Head of e-commerce,"20,000 - 30,000",20000,30000,https://tlnt.ae/en/ecommerce-manager/
+"Sales, accounts and marketing",Key account manager,Key account manager,"12,000 - 18,000 + commission",12000,18000,https://tlnt.ae/en/key-account-manager/
+"Sales, accounts and marketing",Key account manager,"Senior key account manager, national chains or large B2B accounts","18,000 - 25,000 + commission",18000,25000,https://tlnt.ae/en/key-account-manager/
+"Sales, accounts and marketing",Key account manager,Head of key accounts,"25,000 - 35,000 + bonus",25000,35000,https://tlnt.ae/en/key-account-manager/
+"Sales, accounts and marketing",PR manager,PR executive or specialist,"8,000 - 12,000",8000,12000,https://tlnt.ae/en/pr-manager/
+"Sales, accounts and marketing",PR manager,PR manager,"14,000 - 22,000",14000,22000,https://tlnt.ae/en/pr-manager/
+"Sales, accounts and marketing",PR manager,Head of PR or communications,"22,000 - 35,000",22000,35000,https://tlnt.ae/en/pr-manager/
+"Sales, accounts and marketing",Performance marketing specialist,Junior performance marketing specialist,"6,000 - 10,000",6000,10000,https://tlnt.ae/en/performance-marketing-specialist/
+"Sales, accounts and marketing",Performance marketing specialist,Performance marketing specialist,"10,000 - 16,000",10000,16000,https://tlnt.ae/en/performance-marketing-specialist/
+"Sales, accounts and marketing",Performance marketing specialist,Performance marketing manager or lead,"18,000 - 28,000",18000,28000,https://tlnt.ae/en/performance-marketing-specialist/
+"Tech, data and operations",Business analyst,Junior business analyst,"8,000 - 12,000",8000,12000,https://tlnt.ae/en/business-analyst/
+"Tech, data and operations",Business analyst,Business analyst,"12,000 - 18,000",12000,18000,https://tlnt.ae/en/business-analyst/
+"Tech, data and operations",Business analyst,Senior business analyst or lead BA,"18,000 - 28,000",18000,28000,https://tlnt.ae/en/business-analyst/
+"Tech, data and operations",COO,COO of a growing SME or a clinic or salon group,"30,000 - 45,000",30000,45000,https://tlnt.ae/en/coo/
+"Tech, data and operations",COO,COO of a mid-size company,"45,000 - 65,000",45000,65000,https://tlnt.ae/en/coo/
+"Tech, data and operations",COO,Group COO,"65,000+",65000,,https://tlnt.ae/en/coo/
+"Tech, data and operations",Data analyst,Junior data analyst,"6,000 - 10,000",6000,10000,https://tlnt.ae/en/data-analyst/
+"Tech, data and operations",Data analyst,Data analyst,"10,000 - 16,000",10000,16000,https://tlnt.ae/en/data-analyst/
+"Tech, data and operations",Data analyst,Senior data analyst or BI lead,"16,000 - 25,000",16000,25000,https://tlnt.ae/en/data-analyst/
+"Tech, data and operations",IT manager,"IT manager, small company","15,000 - 22,000",15000,22000,https://tlnt.ae/en/it-manager/
+"Tech, data and operations",IT manager,"IT manager, mid-size company or group","22,000 - 32,000",22000,32000,https://tlnt.ae/en/it-manager/
+"Tech, data and operations",IT manager,Head of IT or IT director,"32,000 - 45,000+",32000,45000,https://tlnt.ae/en/it-manager/
+"Tech, data and operations",Logistics coordinator,Junior logistics coordinator,"4,500 - 6,500",4500,6500,https://tlnt.ae/en/logistics-coordinator/
+"Tech, data and operations",Logistics coordinator,Logistics coordinator,"6,500 - 9,000",6500,9000,https://tlnt.ae/en/logistics-coordinator/
+"Tech, data and operations",Logistics coordinator,Senior logistics coordinator or team lead,"9,000 - 13,000",9000,13000,https://tlnt.ae/en/logistics-coordinator/
+"Tech, data and operations",Product manager,Associate or junior product manager,"10,000 - 16,000",10000,16000,https://tlnt.ae/en/product-manager/
+"Tech, data and operations",Product manager,Product manager,"16,000 - 28,000",16000,28000,https://tlnt.ae/en/product-manager/
+"Tech, data and operations",Product manager,Senior product manager or head of product,"28,000 - 40,000+",28000,40000,https://tlnt.ae/en/product-manager/
+"Tech, data and operations",Project manager,Project coordinator or junior project manager,"10,000 - 15,000",10000,15000,https://tlnt.ae/en/project-manager/
+"Tech, data and operations",Project manager,Project manager,"15,000 - 26,000",15000,26000,https://tlnt.ae/en/project-manager/
+"Tech, data and operations",Project manager,Senior project manager or PMO lead,"26,000 - 40,000",26000,40000,https://tlnt.ae/en/project-manager/
+"Tech, data and operations",Software developer,Junior developer,"6,000 - 10,000",6000,10000,https://tlnt.ae/en/software-developer/
+"Tech, data and operations",Software developer,"Software developer, mid-level","10,000 - 18,000",10000,18000,https://tlnt.ae/en/software-developer/
+"Tech, data and operations",Software developer,Senior developer or tech lead,"18,000 - 32,000",18000,32000,https://tlnt.ae/en/software-developer/
