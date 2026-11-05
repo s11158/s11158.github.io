@@ -62,8 +62,8 @@
   .xp .del{position:absolute;top:12px;right:14px;background:none;border:none;color:#c0a98a;font-size:20px;cursor:pointer;line-height:1}
   .addbtn{width:100%;background:#fff;border:1.5px dashed #d5c6ac;color:var(--accent);font-weight:700;font-size:16.5px;border-radius:14px;padding:16px;cursor:pointer;font-family:inherit;margin-top:8px}
   .photo-drop{display:flex;align-items:center;gap:16px;background:#fff;border:1.5px dashed #d5c6ac;border-radius:18px;padding:18px;cursor:pointer}
-  .photo-drop img{width:74px;height:74px;border-radius:50%;object-fit:cover;background:#f6e3df}
-  .ph-empty{width:74px;height:74px;border-radius:50%;background:#f6e3df;display:flex;align-items:center;justify-content:center;flex:none}
+  .photo-drop img{width:auto;height:auto;max-width:74px;max-height:92px;flex:none}
+  .ph-empty{width:74px;height:92px;border-radius:4px;background:#f6e3df;display:flex;align-items:center;justify-content:center;flex:none}
   .vcard{background:#fff;border:1.5px solid var(--line);border-radius:16px;padding:18px;font-size:16px;color:var(--ink);cursor:pointer;margin:10px 0;transition:border-color .2s;line-height:1.55}
   .vcard.sel{border-color:var(--accent);background:#f7ede9}
   .pfab{position:fixed;right:14px;bottom:16px;z-index:24;background:var(--ink);color:#fff;border:none;border-radius:100px;padding:14px 22px;font-size:15px;font-weight:700;cursor:pointer;font-family:inherit;box-shadow:0 10px 26px rgba(0,0,0,.22)}
@@ -85,7 +85,7 @@
   /* resume doc */
   .doc{background:#fff;max-width:640px;margin:14px auto;padding:34px 38px;box-shadow:0 10px 40px rgba(0,0,0,.12);font-size:13px;color:#3f3a33;line-height:1.5}
   .doc .dhead{display:flex;gap:18px;align-items:flex-start;border-bottom:2px solid #986e35;padding-bottom:14px;margin-bottom:14px}
-  .doc .dhead img{width:86px;height:86px;border-radius:50%;object-fit:cover}
+  .doc .dhead img{width:auto;height:auto;max-width:110px;max-height:132px;flex:none}
   .doc .dname{font-family:'Cormorant Garamond',serif;font-size:27px;font-weight:700;color:#3f3a33;line-height:1.1}
   .doc .drole{font-size:14px;color:#986e35;font-weight:700;margin-top:3px}
   .doc .dmeta{font-size:11.5px;color:#6b6155;margin-top:7px;line-height:1.55}
@@ -431,10 +431,13 @@ $("#photodrop").onclick=()=>$("#photofile").click();
 $("#photofile").addEventListener("change",e=>{
   const f=e.target.files[0]; if(!f) return;
   const r=new FileReader(); r.onload=()=>{ const img=new Image();
-    img.onload=()=>{ cropImg=img;
-      cs.min=Math.max(260/img.width,260/img.height); cs.scale=cs.min;
-      cs.x=(260-img.width*cs.scale)/2; cs.y=(260-img.height*cs.scale)/2;
-      $("#zoom").value=100; drawCrop(); $("#crop").classList.add("on"); };
+    img.onload=()=>{ /* photo goes in as uploaded: no circle and no crop, only scaled down to keep the file light */
+      const k=Math.min(1,600/Math.max(img.width,img.height));
+      const out=document.createElement("canvas"); out.width=Math.round(img.width*k); out.height=Math.round(img.height*k);
+      const ctx=out.getContext("2d"); ctx.fillStyle="#fff"; ctx.fillRect(0,0,out.width,out.height);
+      ctx.drawImage(img,0,0,out.width,out.height);
+      S.photo=out.toDataURL("image/jpeg",.85); save();
+      $("#phimg").src=S.photo; $("#phimg").style.display="block"; $("#phempty").style.display="none"; };
     img.src=r.result; };
   r.readAsDataURL(f); e.target.value="";
 });
