@@ -1,0 +1,135 @@
+{
+ "slug": "site-reliability-engineer",
+ "related": [
+  "devops-engineer",
+  "backend-developer",
+  "cto",
+  "database-administrator"
+ ],
+ "ru": {
+  "name": "SRE-инженер",
+  "title": "Найм SRE-инженера в Дубае: надёжность, дежурства, зарплата | TLNT",
+  "desc": "Найм SRE-инженера в Дубае: SLO, дежурства, разбор инцидентов и Kubernetes. Практическая проверка, зарплаты 2026 и шорт-лист из живой базы TLNT.",
+  "h1": "Найм SRE-инженера",
+  "h1em": "в Дубае",
+  "intro": "SRE-инженеры нужны там, где минута простоя стоит денег и репутации: платёжные сервисы и банки Дубая, маркетплейсы и доставка, авиация и туризм, стриминг и игровые платформы, телеком. SRE отвечает за SLO и бюджет ошибок, дежурства, разбор инцидентов без поиска виноватых, ёмкость и производительность под пиковые нагрузки вроде Рамадана, White Friday и DSF. Помогаем определить зону ответственности роли, даём шорт-лист из нашей живой базы и проводим практическую проверку на реальных сценариях отказов.",
+  "find_lead": "Инженер, который измеряет надёжность цифрами, спокойно ведёт инцидент ночью и после него убирает причину, а не только симптом.",
+  "find": [
+   "SLO и SLI: выбор метрик, которые важны пользователю, бюджет ошибок и разговор с продуктом о его расходе",
+   "Инциденты: роль incident commander, коммуникация во время сбоя, постмортем без поиска виноватых",
+   "Наблюдаемость: метрики, логи и трейсы (Prometheus, Grafana, OpenTelemetry, Datadog), полезные алерты",
+   "Платформа: Kubernetes, облако AWS, Azure или GCP, балансировка, кэши, очереди, базы данных под нагрузкой",
+   "Автоматизация: код на Go или Python вместо ручных действий, сокращение рутины на дежурствах",
+   "Ёмкость и производительность: нагрузочные тесты, планирование пиков, отказоустойчивость между зонами"
+  ],
+  "check_lead": "Опыт SRE легко описать словами из книги Google. Проверки построены так, чтобы кандидат показал, как он думает во время реального сбоя, а итог оценивал ваш инженер.",
+  "steps": [
+   [
+    "Игра в инцидент",
+    "интервьюер ведёт сценарий падения платёжного API, выдавая графики и логи по запросу. Кандидат ищет причину, решает про откат, пишет статус для бизнеса. Видно и мышление, и спокойствие."
+   ],
+   [
+    "Задание на SLO",
+    "описание сервиса и его метрик: кандидат предлагает SLI, SLO, правила алертинга и что делать при исчерпании бюджета ошибок."
+   ],
+   [
+    "Разбор постмортема",
+    "кандидат приносит обезличенный постмортем со своей прошлой работы или пишет его по сценарию: причины, таймлайн, действия, которые реально были сделаны."
+   ],
+   [
+    "Рекомендации",
+    "разговор с руководителем: частота и тяжесть инцидентов, как человек вёл себя на дежурствах, что автоматизировал и насколько снизил шум алертов."
+   ]
+  ],
+  "mistake": "Типичная ошибка: назвать SRE обычного дежурного администратора, который перезапускает сервисы и не имеет права менять код и процессы. Без влияния на релизы и архитектуру SRE не улучшит надёжность. Ещё ошибка: один SRE на круглосуточный сервис без ротации, через полгода человек выгорает.",
+  "sal": [
+   [
+    "SRE-инженер начального уровня",
+    "14 000 - 20 000"
+   ],
+   [
+    "SRE-инженер среднего уровня",
+    "20 000 - 32 000"
+   ],
+   [
+    "Старший SRE или лид надёжности",
+    "32 000 - 50 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Дежурства, финтех и платёжные системы, опыт крупных нагрузок поднимают пакет; уточняйте, оплачиваются ли дежурства отдельно.",
+  "faq": [
+   [
+    "Сколько зарабатывает SRE-инженер в Дубае?",
+    "В 2026 году SRE-инженер начального уровня получает около 14 000 - 20 000 AED в месяц, средний уровень 20 000 - 32 000 AED, старший SRE или лид надёжности 32 000 - 50 000 AED. Платёжные компании и сервисы с круглосуточной нагрузкой платят больше, часто с доплатой за дежурства."
+   ],
+   [
+    "Когда компании нужен отдельный SRE?",
+    "Когда сбои уже стоят денег, сервисов больше нескольких и разработчики тратят заметную часть времени на пожары. До этого обычно хватает сильного DevOps-инженера. Поможем оценить, какая роль нужна сейчас, и описать её так, чтобы откликались кандидаты с нужным опытом."
+   ]
+  ],
+  "seek_h2": "Вы SRE-инженер и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Site reliability engineer",
+  "title": "Hire a Site Reliability Engineer in Dubai: SLOs, Salary | TLNT",
+  "desc": "Hire a site reliability engineer in Dubai: SLOs, on-call, incident reviews and Kubernetes. Practical checks, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a site reliability engineer",
+  "h1em": "in Dubai",
+  "intro": "SREs are needed wherever a minute of downtime costs money and reputation: Dubai payment providers and banks, marketplaces and delivery, aviation and travel, streaming and gaming platforms, telecoms. An SRE owns SLOs and the error budget, on-call, blameless incident reviews, capacity and performance for peaks like Ramadan, White Friday and DSF. We help you define the scope of the role, shortlist from our live database and run a practical check built on real failure scenarios.",
+  "find_lead": "An engineer who measures reliability in numbers, calmly runs an incident at night and afterwards removes the cause, not just the symptom.",
+  "find": [
+   "SLOs and SLIs: choosing metrics users care about, the error budget and the conversation with product about spending it",
+   "Incidents: incident commander role, communication during an outage, blameless postmortems",
+   "Observability: metrics, logs and traces (Prometheus, Grafana, OpenTelemetry, Datadog), useful alerts",
+   "Platform: Kubernetes, AWS, Azure or GCP, load balancing, caches, queues and databases under load",
+   "Automation: Go or Python code instead of manual steps, less toil on call",
+   "Capacity and performance: load testing, peak planning, resilience across availability zones"
+  ],
+  "check_lead": "SRE experience is easy to describe with words from the Google book. The checks make the candidate show how they think during a real outage, and your engineer scores the result.",
+  "steps": [
+   [
+    "Incident game",
+    "the interviewer runs a scenario where a payment API fails, handing out graphs and logs on request. The candidate looks for the cause, decides on rollback and writes a status update for the business. You see both reasoning and composure."
+   ],
+   [
+    "SLO task",
+    "a service description and its metrics: the candidate proposes SLIs, SLOs, alerting rules and what happens when the error budget runs out."
+   ],
+   [
+    "Postmortem review",
+    "the candidate brings an anonymised postmortem from a previous job or writes one from a scenario: causes, timeline, follow-up actions that were actually completed."
+   ],
+   [
+    "References",
+    "a call with the manager: how often and how badly things broke, how the person behaved on call, what they automated and how much alert noise they cut."
+   ]
+  ],
+  "mistake": "Typical mistake: calling an on-call administrator who restarts services an SRE and giving them no say over code and process. Without influence on releases and architecture an SRE cannot improve reliability. Another one: a single SRE for a 24/7 service with no rotation, which burns the person out within six months.",
+  "sal": [
+   [
+    "Entry-level SRE",
+    "14,000 - 20,000"
+   ],
+   [
+    "Mid-level SRE",
+    "20,000 - 32,000"
+   ],
+   [
+    "Senior SRE or reliability lead",
+    "32,000 - 50,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. On-call duty, fintech and payments, and experience with large-scale traffic raise the package; check whether on-call is paid separately.",
+  "faq": [
+   [
+    "How much does a site reliability engineer earn in Dubai?",
+    "In 2026 an entry-level SRE in Dubai earns about AED 14,000 - 20,000 per month, a mid-level SRE AED 20,000 - 32,000 and a senior SRE or reliability lead AED 32,000 - 50,000. Payment companies and 24/7 services pay more, often with an on-call allowance."
+   ],
+   [
+    "When does a company need a dedicated SRE?",
+    "When outages already cost money, there are more than a few services and developers spend a noticeable share of time firefighting. Before that a strong DevOps engineer is usually enough. We help you assess which role you need now and describe it so the right candidates apply."
+   ]
+  ],
+  "seek_h2": "Are you a site reliability engineer looking for a job in Dubai?"
+ }
+}

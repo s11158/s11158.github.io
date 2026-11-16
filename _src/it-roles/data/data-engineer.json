@@ -1,0 +1,135 @@
+{
+ "slug": "data-engineer",
+ "related": [
+  "data-scientist",
+  "bi-analyst",
+  "data-analyst",
+  "database-administrator"
+ ],
+ "ru": {
+  "name": "Data-инженер",
+  "title": "Найм data-инженера и Data Architect в Дубае: зарплата | TLNT",
+  "desc": "Найм data-инженера и архитектора данных в Дубае: пайплайны, хранилища, Spark и dbt. Практическая проверка, зарплаты 2026 и шорт-лист из живой базы TLNT.",
+  "h1": "Найм data-инженера",
+  "h1em": "в Дубае",
+  "intro": "Data-инженеры и архитекторы данных нужны банкам и финтеху Дубая, ритейлу и e-commerce, авиакомпаниям и туризму, девелоперам, телекому и госпрограммам цифровизации. Они строят пайплайны из CRM, ERP, приложений и рекламных кабинетов в хранилище, отвечают за качество и свежесть данных, на которых работают отчёты и модели, а Data Architect проектирует всю платформу данных и правила управления ими. Помогаем определить уровень и стек, даём шорт-лист из нашей живой базы и проводим практическую проверку на ваших данных.",
+  "find_lead": "Инженер, после которого данные приходят вовремя, сходятся с источником и описаны так, что аналитик понимает, откуда взялась каждая цифра.",
+  "find": [
+   "SQL и Python: сложные запросы, оконные функции, код пайплайнов с тестами и версиями в Git",
+   "Пайплайны: Airflow, dbt, Azure Data Factory или Fivetran, инкрементальные загрузки и повторный запуск без дублей",
+   "Хранилища и lakehouse: Snowflake, BigQuery, Databricks, Synapse или Redshift, моделирование слоёв данных",
+   "Большие объёмы и потоки: Spark, Kafka, стриминг событий из приложений и платёжных систем",
+   "Качество и управление данными: проверки, каталог, права доступа, персональные данные по закону ОАЭ",
+   "Для Data Architect: целевая архитектура платформы, выбор инструментов, стандарты моделирования, стоимость владения"
+  ],
+  "check_lead": "Список инструментов в резюме у data-инженеров почти одинаковый. Разница видна, когда человек работает с грязными данными и объясняет свои решения, поэтому проверка практическая, а оценивает её ваш инженер или аналитик.",
+  "steps": [
+   [
+    "Задание на пайплайн",
+    "два-три файла с данными продаж и клиентов с дублями и пропусками: за три-четыре часа кандидат строит загрузку, модель данных и проверки качества, объясняет, как это будет работать каждый день."
+   ],
+   [
+    "Разбор модели данных",
+    "кандидат проектирует витрину для отчёта по выручке и марже по филиалам: какие таблицы, ключи, как обрабатывать изменение справочников."
+   ],
+   [
+    "Разговор об архитектуре",
+    "для Data Architect и старших: как бы он построил платформу данных для компании с CRM, ERP и приложением, что выбрать в облаке, сколько это стоит, как обеспечить хранение данных в ОАЭ."
+   ],
+   [
+    "Рекомендации",
+    "звонки руководителю данных или аналитикам, которые пользовались результатом: надёжность пайплайнов, документация, как человек решал расхождения в цифрах."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанять data scientist, чтобы он заодно собрал данные, и через полгода обнаружить, что модели не строятся, потому что данных нет в нормальном виде. Сначала нужен data-инженер, потом аналитики и модели. Ещё ошибка: искать архитектора данных там, где пока нужен один практик, который просто наладит загрузки и витрины.",
+  "sal": [
+   [
+    "Младший data-инженер",
+    "10 000 - 16 000"
+   ],
+   [
+    "Data-инженер среднего уровня",
+    "16 000 - 28 000"
+   ],
+   [
+    "Старший data-инженер или Data Architect",
+    "28 000 - 48 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Spark и стриминг, опыт в банках и опыт проектирования платформы с нуля поднимают пакет; ведущие архитекторы данных в крупных компаниях получают выше указанного диапазона.",
+  "faq": [
+   [
+    "Сколько зарабатывает data-инженер в Дубае?",
+    "В 2026 году младший data-инженер в Дубае получает около 10 000 - 16 000 AED в месяц, специалист среднего уровня 16 000 - 28 000 AED, старший data-инженер или Data Architect 28 000 - 48 000 AED. Банки, финтех и крупные холдинги платят по верхней границе."
+   ],
+   [
+    "Чем data-инженер отличается от Data Architect?",
+    "Data-инженер строит и поддерживает конкретные пайплайны и витрины. Data Architect определяет, как устроена вся платформа данных: инструменты, слои, стандарты, безопасность и стоимость, и отвечает за то, чтобы она выдержала рост. Небольшой компании обычно хватает сильного старшего data-инженера. Поможем понять, какой уровень нужен вам."
+   ]
+  ],
+  "seek_h2": "Вы data-инженер и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Data engineer",
+  "title": "Hire a Data Engineer or Data Architect in Dubai: Salary | TLNT",
+  "desc": "Hire a data engineer or data architect in Dubai: pipelines, warehouses, Spark and dbt. Practical checks, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a data engineer",
+  "h1em": "in Dubai",
+  "intro": "Data engineers and data architects are needed by Dubai banks and fintechs, retail and e-commerce, airlines and travel, developers, telecoms and government digital programmes. They build pipelines from CRM, ERP, apps and ad platforms into the warehouse and own the quality and freshness of the data behind reports and models, while a data architect designs the whole data platform and its governance rules. We help you define the level and stack, shortlist from our live database and run a practical check on your data.",
+  "find_lead": "An engineer after whom data arrives on time, matches the source and is documented so an analyst knows where every number comes from.",
+  "find": [
+   "SQL and Python: complex queries, window functions, pipeline code with tests and versions in Git",
+   "Pipelines: Airflow, dbt, Azure Data Factory or Fivetran, incremental loads and reruns without duplicates",
+   "Warehouses and lakehouses: Snowflake, BigQuery, Databricks, Synapse or Redshift, layered data modelling",
+   "Volume and streaming: Spark, Kafka, event streams from apps and payment systems",
+   "Data quality and governance: tests, a catalogue, access rights, personal data under UAE law",
+   "For a data architect: target platform architecture, tool choice, modelling standards, total cost of ownership"
+  ],
+  "check_lead": "Data engineers list almost identical tools on their CVs. The difference shows when someone works with messy data and explains their decisions, so the check is practical and your engineer or analyst scores it.",
+  "steps": [
+   [
+    "Pipeline task",
+    "two or three files of sales and customer data with duplicates and gaps: in three to four hours the candidate builds the load, the data model and quality checks, and explains how it will run every day."
+   ],
+   [
+    "Data model review",
+    "the candidate designs a mart for a revenue and margin report by branch: which tables and keys, and how to handle changing reference data."
+   ],
+   [
+    "Architecture conversation",
+    "for data architects and seniors: how they would build a data platform for a company with CRM, ERP and an app, what to pick in the cloud, what it costs and how to keep data in the UAE."
+   ],
+   [
+    "References",
+    "calls with the head of data or analysts who used the output: pipeline reliability, documentation, how the person resolved number mismatches."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a data scientist to also collect the data and finding six months later that no models exist because the data is not in usable shape. A data engineer comes first, then analysts and models. Another one: looking for a data architect when what you need for now is one hands-on engineer to set up loads and marts.",
+  "sal": [
+   [
+    "Junior data engineer",
+    "10,000 - 16,000"
+   ],
+   [
+    "Mid-level data engineer",
+    "16,000 - 28,000"
+   ],
+   [
+    "Senior data engineer or data architect",
+    "28,000 - 48,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Spark and streaming, banking experience and building a platform from scratch raise the package; principal data architects at large groups earn above this range.",
+  "faq": [
+   [
+    "How much does a data engineer earn in Dubai?",
+    "In 2026 a junior data engineer in Dubai earns about AED 10,000 - 16,000 per month, a mid-level engineer AED 16,000 - 28,000 and a senior data engineer or data architect AED 28,000 - 48,000. Banks, fintechs and large groups pay at the top of the range."
+   ],
+   [
+    "What is the difference between a data engineer and a data architect?",
+    "A data engineer builds and maintains specific pipelines and marts. A data architect decides how the whole data platform works: tools, layers, standards, security and cost, and makes sure it can grow. A small company usually needs a strong senior data engineer. We help you work out which level fits."
+   ]
+  ],
+  "seek_h2": "Are you a data engineer looking for a job in Dubai?"
+ }
+}

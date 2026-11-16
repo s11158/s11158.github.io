@@ -1,0 +1,76 @@
+{
+ "slug": "game-developer",
+ "related": ["mobile-developer", "qa-engineer", "graphic-designer", "software-developer"],
+ "ru": {
+  "name": "Game-разработчик (Unity)",
+  "title": "Найм game-разработчика Unity в Дубае: проверка, зарплата | TLNT",
+  "desc": "Как нанять game-разработчика на Unity в Дубае: C#, мобильные игры, оптимизация, проверка на прототипе, зарплаты 2026 года и помощь TLNT в оценке кандидатов.",
+  "h1": "Найм game-разработчика Unity",
+  "h1em": "в Дубае",
+  "intro": "Игровая индустрия в Дубае быстро растёт: студии мобильных и казуальных игр, гиперказуал-издатели, компании в Dubai Program for Gaming, а также бренды и девелоперы, которым нужны AR и интерактивные 3D-проекты. Unity-разработчик пишет геймплей на C#, оптимизирует игру под слабые телефоны и встраивает рекламу и покупки. TLNT помогает определить нужный профиль, собирает шорт-лист из нашей живой базы и проверяет кандидатов на практическом прототипе.",
+  "find_lead": "Нужен разработчик, который делает игру живой и быстрой на реальных устройствах.",
+  "find": [
+   "C# и Unity: геймплей, физика, анимации, UI, ScriptableObjects",
+   "Оптимизация: FPS, память, draw calls, Profiler, слабые Android-устройства",
+   "Монетизация: AdMob, ironSource или AppLovin, покупки в приложении",
+   "Аналитика и A/B-тесты: Firebase, GameAnalytics, удержание и метрики",
+   "Мультиплеер и бэкенд при необходимости: Photon, Netcode, PlayFab",
+   "Работа с артом: импорт моделей, шейдеры, взаимодействие с художниками и геймдизайнером"
+  ],
+  "check_lead": "Красивое видео игры в портфолио не показывает, кто писал код. Проверяйте руками.",
+  "steps": [
+   ["Прототип механики", "простая механика за 3-4 часа, например раннер или головоломка, с собранным билдом для Android"],
+   ["Разбор проекта", "кандидат открывает свой проект и показывает архитектуру кода, а не только геймплей"],
+   ["Задача на оптимизацию", "даём сцену, которая тормозит на телефоне, и просим найти причину через Profiler"],
+   ["Метрики", "как кандидат менял игру по данным удержания и что делал с плохим D1"]
+  ],
+  "mistake": "Типичная ошибка: нанять разработчика с опытом ПК-игр или VR для мобильного проекта и не проверить работу с ограничениями телефона и рекламной монетизацией. Игра получается красивой, но тормозит и не зарабатывает.",
+  "sal": [
+   ["Младший Unity-разработчик", "7 000 - 12 000"],
+   ["Unity-разработчик (middle)", "13 000 - 22 000"],
+   ["Senior / lead Unity", "23 000 - 35 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, AED в месяц до вычетов. Опыт выпущенных игр с реальными метриками и мультиплеера оплачивается выше, небольшие студии платят ближе к нижней границе.",
+  "faq": [
+   ["Сколько зарабатывает game-разработчик Unity в Дубае?", "Ориентир на 2026 год: около 7 000 - 12 000 AED в месяц у младшего, 13 000 - 22 000 AED у middle и 23 000 - 35 000 AED у senior и лидов. Выше всего ценятся люди с выпущенными играми и понятными метриками удержания."],
+   ["Нужен Unity или Unreal-разработчик?", "Для мобильных, казуальных и AR-проектов в Дубае чаще выбирают Unity: больше кандидатов и быстрее разработка. Unreal нужен для консольной и высококачественной 3D-графики. Мы помогаем определиться на разборе проекта до старта поиска."]
+  ],
+  "seek_h2": "Вы game-разработчик и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Game developer (Unity)",
+  "title": "Hire a Unity Game Developer in Dubai: Tests, Salary | TLNT",
+  "desc": "How to hire a Unity game developer in Dubai: C#, mobile games, optimisation, a practical prototype test, 2026 salary ranges and TLNT help assessing candidates.",
+  "h1": "Hire a Unity game developer",
+  "h1em": "in Dubai",
+  "intro": "Gaming in Dubai is growing fast: mobile and casual game studios, hyper-casual publishers, companies in the Dubai Program for Gaming, plus brands and developers that need AR and interactive 3D experiences. A Unity developer builds gameplay in C#, optimises the game for low-end phones and integrates ads and in-app purchases. TLNT helps you define the right profile, shortlists candidates from our live database and checks them with a practical prototype task.",
+  "find_lead": "You need a developer who makes the game feel alive and run fast on real devices.",
+  "find": [
+   "C# and Unity: gameplay, physics, animation, UI, ScriptableObjects",
+   "Optimisation: FPS, memory, draw calls, Profiler, low-end Android devices",
+   "Monetisation: AdMob, ironSource or AppLovin, in-app purchases",
+   "Analytics and A/B tests: Firebase, GameAnalytics, retention metrics",
+   "Multiplayer and backend if needed: Photon, Netcode, PlayFab",
+   "Working with art: importing models, shaders, collaboration with artists and game designers"
+  ],
+  "check_lead": "A nice gameplay video in a portfolio does not show who wrote the code. Test it hands-on.",
+  "steps": [
+   ["Mechanic prototype", "a simple mechanic in 3-4 hours, such as a runner or puzzle, with an Android build"],
+   ["Project walkthrough", "the candidate opens their project and shows the code architecture, not just gameplay"],
+   ["Optimisation task", "give a scene that lags on a phone and ask them to find the cause with the Profiler"],
+   ["Metrics", "how they changed a game based on retention data and what they did about a weak D1"]
+  ],
+  "mistake": "A common mistake: hiring a developer with PC or VR experience for a mobile project without checking how they handle phone limits and ad monetisation. The game looks great but lags and does not earn.",
+  "sal": [
+   ["Junior Unity developer", "7,000 - 12,000"],
+   ["Unity developer (mid)", "13,000 - 22,000"],
+   ["Senior / lead Unity", "23,000 - 35,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, AED per month gross. Shipped titles with real metrics and multiplayer experience are paid more, small studios pay closer to the lower end.",
+  "faq": [
+   ["How much does a Unity game developer earn in Dubai?", "As a 2026 guide: about 7,000 - 12,000 AED per month for a junior, 13,000 - 22,000 AED for a mid-level developer and 23,000 - 35,000 AED for seniors and leads. Developers with shipped games and clear retention metrics are valued most."],
+   ["Do I need a Unity or Unreal developer?", "Mobile, casual and AR projects in Dubai mostly use Unity: a bigger talent pool and faster development. Unreal fits console and high-end 3D graphics. We help you decide in a project review before the search starts."]
+  ],
+  "seek_h2": "Are you a game developer looking for a job in Dubai?"
+ }
+}

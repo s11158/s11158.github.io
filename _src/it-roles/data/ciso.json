@@ -1,0 +1,134 @@
+{
+ "slug": "ciso",
+ "related": [
+  "cybersecurity-specialist",
+  "cto",
+  "it-manager"
+ ],
+ "ru": {
+  "name": "Директор по информационной безопасности (CISO)",
+  "title": "Найм CISO в Дубае: ISO 27001, NESA, зарплата | TLNT",
+  "desc": "Ищем директора по информационной безопасности в Дубае: ISO 27001, UAE IAS, регуляторы. Проверка на сценариях инцидентов, шорт-лист, зарплаты CISO 2026.",
+  "h1": "Найм директора по информационной безопасности",
+  "h1em": "в Дубае",
+  "intro": "CISO в ОАЭ нужен банкам, финтеху в DIFC и ADGM, страховым, клиникам с медицинскими данными, господрядчикам и крупным холдингам. Он отвечает за стратегию защиты, соответствие требованиям регуляторов (UAE IAS, DESC, DFSA, ЦБ ОАЭ), реагирование на инциденты и отчёт перед советом директоров. Хороший CISO говорит с бизнесом на языке рисков и денег, а не только технологий. TLNT помогает определить нужный профиль, подбирает кандидатов из нашей живой базы и проверяет их на сценариях реальных инцидентов и аудитов.",
+  "find_lead": "Нужен руководитель, который управляет рисками, а не только настраивает средства защиты.",
+  "find": [
+   "Стандарты: ISO 27001, NIST CSF, PCI DSS, опыт сертификации и внешних аудитов",
+   "Регуляторика ОАЭ: UAE IAS (бывший NESA), DESC ISR для Дубая, требования DFSA и ЦБ ОАЭ",
+   "Инциденты: выстроенный процесс реагирования, SOC (свой или внешний), учения и разборы",
+   "Риски и бюджет: реестр рисков, обоснование инвестиций в защиту, работа с киберстраховкой",
+   "Коммуникация: отчёты для совета директоров, обучение сотрудников, работа с подрядчиками",
+   "Сертификаты: CISSP, CISM, CISA - полезный сигнал, но не замена опыту"
+  ],
+  "check_lead": "Сертификаты есть у многих. Мы проверяем, как кандидат принимает решения, когда что-то уже случилось.",
+  "steps": [
+   [
+    "Сценарий инцидента",
+    "разбор табличных учений: утечка данных клиентов или шифровальщик, кто что делает в первые 24 часа"
+   ],
+   [
+    "План на 90 дней",
+    "кандидат оценивает обезличенную картину вашей защиты и предлагает приоритеты и бюджет"
+   ],
+   [
+    "Отчёт для совета",
+    "просим за 15 минут объяснить нетехническому владельцу три главных риска компании"
+   ],
+   [
+    "Рекомендации",
+    "разговоры с прошлыми руководителями и аудиторами о реальных результатах"
+   ]
+  ],
+  "mistake": "Типичная ошибка: искать CISO как старшего технического специалиста и подчинить его IT-директору. Тогда безопасность конфликтует с планами IT и проигрывает. Сильный CISO отчитывается напрямую CEO или совету, и именно под эту роль стоит его оценивать.",
+  "sal": [
+   [
+    "Руководитель отдела ИБ",
+    "35 000 - 50 000"
+   ],
+   [
+    "CISO компании среднего размера",
+    "50 000 - 75 000"
+   ],
+   [
+    "CISO банка или крупной группы",
+    "75 000 - 120 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, AED в месяц до вычетов. В банках и госсекторе добавляются годовой бонус, жильё и образование детей.",
+  "faq": [
+   [
+    "Сколько зарабатывает CISO в Дубае?",
+    "В 2026 году руководитель отдела ИБ получает около 35 000 - 50 000 AED в месяц, CISO компании среднего размера 50 000 - 75 000 AED, в банках и крупных группах 75 000 - 120 000 AED плюс бонусы."
+   ],
+   [
+    "Нужен ли CISO компании, у которой нет своего SOC?",
+    "Да, если у вас есть данные клиентов, платежи или требования регулятора. CISO решает, что держать внутри, а что отдать внешнему SOC, и отвечает за результат. Мы помогаем понять, нужна ли вам полная ставка или достаточно виртуального CISO."
+   ]
+  ],
+  "seek_h2": "Вы специалист уровня CISO и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Chief Information Security Officer (CISO)",
+  "title": "Hire a CISO in Dubai: ISO 27001, UAE IAS, Salary | TLNT",
+  "desc": "Hire a Chief Security Officer in Dubai: ISO 27001, UAE IAS, regulators. Incident scenario assessment, shortlist from our database, 2026 CISO salaries.",
+  "h1": "Hire a CISO",
+  "h1em": "in Dubai",
+  "intro": "In the UAE a CISO is needed by banks, fintechs in DIFC and ADGM, insurers, clinics holding medical data, government contractors and large groups. They own the security strategy, compliance with regulators (UAE IAS, DESC, DFSA, the Central Bank), incident response and reporting to the board. A good CISO talks to the business in terms of risk and money, not just tools. TLNT helps define the right profile, shortlists from our live database and assesses candidates on real incident and audit scenarios.",
+  "find_lead": "You need a leader who manages risk, not just someone who configures security tools.",
+  "find": [
+   "Standards: ISO 27001, NIST CSF, PCI DSS, experience with certification and external audits",
+   "UAE regulation: UAE IAS (formerly NESA), Dubai DESC ISR, DFSA and Central Bank requirements",
+   "Incidents: a working response process, SOC (in-house or managed), drills and post-mortems",
+   "Risk and budget: a risk register, justifying security spend, working with cyber insurance",
+   "Communication: board reporting, staff awareness training, managing vendors",
+   "Certifications: CISSP, CISM, CISA are a useful signal, not a substitute for experience"
+  ],
+  "check_lead": "Many have certificates. We test how a candidate makes decisions once something has already happened.",
+  "steps": [
+   [
+    "Incident scenario",
+    "a tabletop exercise: customer data leak or ransomware, who does what in the first 24 hours"
+   ],
+   [
+    "90-day plan",
+    "the candidate reviews an anonymised picture of your security and proposes priorities and budget"
+   ],
+   [
+    "Board briefing",
+    "we ask them to explain the company's three main risks to a non-technical owner in 15 minutes"
+   ],
+   [
+    "References",
+    "calls with former managers and auditors about real outcomes"
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a CISO as a senior technical specialist reporting to the IT director. Security then clashes with IT plans and loses. A strong CISO reports to the CEO or the board, and that is the role to assess them for.",
+  "sal": [
+   [
+    "Head of Information Security",
+    "35,000 - 50,000"
+   ],
+   [
+    "CISO, mid-size company",
+    "50,000 - 75,000"
+   ],
+   [
+    "CISO, bank or large group",
+    "75,000 - 120,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, AED per month gross. Banks and government entities add an annual bonus, housing and school fees.",
+  "faq": [
+   [
+    "How much does a CISO earn in Dubai?",
+    "In 2026 a Head of Information Security earns around 35,000 - 50,000 AED per month, a mid-size company CISO 50,000 - 75,000 AED, and banks and large groups pay 75,000 - 120,000 AED plus bonus."
+   ],
+   [
+    "Does a company without its own SOC need a CISO?",
+    "Yes, if you hold customer data, process payments or face a regulator. The CISO decides what stays in-house and what goes to a managed SOC, and owns the outcome. We help you decide between a full-time hire and a virtual CISO."
+   ]
+  ],
+  "seek_h2": "Are you a CISO looking for a job in Dubai?"
+ }
+}

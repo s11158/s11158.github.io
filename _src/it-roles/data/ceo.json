@@ -1,0 +1,76 @@
+{
+ "slug": "ceo",
+ "related": ["general-manager", "coo", "cfo", "chief-commercial-officer"],
+ "ru": {
+  "name": "Генеральный директор (CEO)",
+  "title": "Найм генерального директора (CEO) в Дубае: проверка | TLNT",
+  "desc": "Ищем генерального директора (CEO) в Дубае для собственников и инвесторов: стратегия, P&L, команда. Глубокая проверка кандидатов и зарплаты 2026 года.",
+  "h1": "Найм генерального директора",
+  "h1em": "в Дубае",
+  "intro": "CEO нанимают, когда собственник выходит из операционного управления, инвестор заходит в компанию или международный бизнес открывает региональный офис в Дубае. Генеральный директор отвечает за стратегию, P&L, команду топ-менеджеров и отношения с акционерами, банками и регуляторами ОАЭ. Ошибка на этой позиции стоит дороже всего. Мы помогаем собственнику сформулировать мандат и KPI, конфиденциально собираем шорт-лист из нашей живой базы и проводим многоэтапную проверку кандидатов.",
+  "find_lead": "Нужен руководитель, которому собственник может доверить компанию и который отвечает за результат цифрами.",
+  "find": [
+   "Стратегия и рост: понятный план на 3 года, выход на рынки GCC, M&A при необходимости",
+   "P&L и финансы: бюджет, cash flow, работа с банками и инвесторами",
+   "Команда: найм и удержание топ-менеджеров, построение системы управления",
+   "Работа с собственником и советом директоров: отчётность, границы полномочий, доверие",
+   "Регуляторика ОАЭ: фризоны и материк, лицензии, отраслевые регуляторы",
+   "Отраслевой опыт: понимание вашей модели бизнеса, клиентов и конкурентов в регионе"
+  ],
+  "check_lead": "Генерального директора проверяют в несколько этапов: на вашей стратегии, на цифрах и через людей, которые с ним работали.",
+  "steps": [
+   ["Стратегическая сессия", "Дайте обезличенные данные компании и попросите через неделю представить видение на 3 года и план первых 100 дней."],
+   ["Разбор кризиса", "Попросите подробно рассказать о реальном кризисе в его компании: что произошло, какие решения принял, чем закончилось."],
+   ["Встречи с ключевыми людьми", "Организуйте встречи с акционерами и 1-2 топ-менеджерами, чтобы проверить совместимость стилей."],
+   ["Глубокие референсы", "Поговорите с бывшими собственниками, членами совета и подчинёнными, а не только с теми, кого назвал кандидат."]
+  ],
+  "mistake": "Типичная ошибка: собственник нанимает CEO, но не определяет границы полномочий и продолжает управлять сам. Через полгода конфликт, и сильный директор уходит. До поиска зафиксируйте мандат, KPI и зоны решений, и проверяйте кандидата на совместимость со стилем собственника.",
+  "sal": [
+   ["CEO малой и средней компании", "50 000 - 80 000"],
+   ["CEO крупной компании", "80 000 - 130 000"],
+   ["CEO группы или регионального холдинга", "130 000 - 220 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, AED в месяц до вычетов, без бонуса. В пакет обычно входят годовой бонус от результатов, жильё, автомобиль, школа для детей, медицинская страховка семьи, иногда доля в капитале.",
+  "faq": [
+   ["Сколько зарабатывает генеральный директор в Дубае?", "В 2026 году CEO малой и средней компании получает около 50 000 - 80 000 AED в месяц, крупной компании 80 000 - 130 000 AED, группы или регионального холдинга 130 000 - 220 000 AED. Значимая часть дохода приходится на бонус и опционы."],
+   ["Можно ли искать CEO конфиденциально, пока работает действующий директор?", "Да, это частая ситуация. Мы не публикуем вакансию открыто, обезличиваем компанию в первых разговорах и раскрываем детали только кандидатам из финального шорт-листа после подписания NDA. Решение о найме принимает собственник."]
+  ],
+  "seek_h2": "Вы генеральный директор и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Chief Executive Officer",
+  "title": "Hire a CEO in Dubai: Mandate, Deep Checks, Salary | TLNT",
+  "desc": "Hire a Chief Executive Officer in Dubai for owners and investors: strategy, P&L and leadership team. Multi-stage candidate checks and 2026 salaries.",
+  "h1": "Hire a CEO",
+  "h1em": "in Dubai",
+  "intro": "A CEO is hired when an owner steps out of day-to-day management, an investor comes in, or an international business opens a regional office in Dubai. The chief executive owns strategy, P&L, the leadership team and relationships with shareholders, banks and UAE regulators. A mistake in this seat costs more than any other. We help the owner define the mandate and KPIs, confidentially shortlist from our live database and run a multi-stage assessment of candidates.",
+  "find_lead": "You need a leader the owner can trust with the company, accountable for results in numbers.",
+  "find": [
+   "Strategy and growth: a clear 3-year plan, GCC expansion, M&A where relevant",
+   "P&L and finance: budget, cash flow, relationships with banks and investors",
+   "Team: hiring and retaining senior leaders, building a management system",
+   "Owner and board relationship: reporting, clear authority limits, trust",
+   "UAE regulation: free zones and mainland, licences, sector regulators",
+   "Industry experience: understanding your business model, clients and regional competitors"
+  ],
+  "check_lead": "Assess a CEO in several stages: on your strategy, on numbers and through people who worked with them.",
+  "steps": [
+   ["Strategy session", "Share anonymised company data and ask for a 3-year vision and a first 100 days plan within a week."],
+   ["Crisis deep dive", "Ask for a detailed account of a real crisis in their company: what happened, which decisions they made, the outcome."],
+   ["Meetings with key people", "Arrange meetings with shareholders and 1-2 senior leaders to test fit in working styles."],
+   ["Deep references", "Speak to former owners, board members and direct reports, not only the referees the candidate named."]
+  ],
+  "mistake": "A common mistake: the owner hires a CEO but never defines authority limits and keeps running things personally. Six months later there is conflict and a strong executive leaves. Fix the mandate, KPIs and decision rights before the search, and test fit with the owner's style.",
+  "sal": [
+   ["CEO, small and mid-size company", "50,000 - 80,000"],
+   ["CEO, large company", "80,000 - 130,000"],
+   ["CEO, group or regional holding", "130,000 - 220,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, AED per month gross, excluding bonus. Packages usually include a performance bonus, housing, a car, school fees, family health insurance and sometimes equity.",
+  "faq": [
+   ["How much does a CEO earn in Dubai?", "In 2026 a CEO of a small or mid-size company earns about 50,000 - 80,000 AED per month, of a large company 80,000 - 130,000 AED, and of a group or regional holding 130,000 - 220,000 AED. A significant part of income comes from bonus and equity."],
+   ["Can we search for a CEO confidentially while the current one is in place?", "Yes, this is common. We do not advertise the role openly, keep the company anonymous in early conversations and share details only with final shortlist candidates under NDA. The owner makes the hiring decision."]
+  ],
+  "seek_h2": "Are you a CEO looking for a job in Dubai?"
+ }
+}

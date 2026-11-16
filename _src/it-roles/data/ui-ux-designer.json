@@ -1,0 +1,135 @@
+{
+ "slug": "ui-ux-designer",
+ "related": [
+  "graphic-designer",
+  "product-manager",
+  "frontend-developer",
+  "ux-writer"
+ ],
+ "ru": {
+  "name": "UI/UX-дизайнер",
+  "title": "Найм UI/UX-дизайнера в Дубае: Figma, кейсы, зарплата | TLNT",
+  "desc": "Ищем UI/UX-дизайнера в Дубае: исследования, прототипы в Figma, дизайн-системы, RTL. Проверка на задаче по продукту, шорт-лист, зарплаты на 2026 год.",
+  "h1": "Найм UI/UX-дизайнера",
+  "h1em": "в Дубае",
+  "intro": "UI/UX-дизайнер в Дубае нужен финтеху, e-commerce, девелоперам с приложениями для жильцов, клиникам с онлайн-записью, сервисам доставки и госпроектам. Он изучает пользователей, проектирует сценарии и прототипы в Figma, ведёт дизайн-систему и передаёт макеты разработке. В ОАЭ к этому добавляются двуязычные интерфейсы с арабским RTL. TLNT помогает определить, нужен ли вам продуктовый UX, сильный UI или универсал, собирает шорт-лист из нашей живой базы и проверяет кандидатов на задаче по вашему продукту.",
+  "find_lead": "Нужен дизайнер, который решает задачи пользователя и бизнеса, а не только рисует красивые экраны.",
+  "find": [
+   "Исследования: интервью, юзабилити-тесты, работа с аналитикой (GA4, Hotjar, Amplitude)",
+   "Проектирование: пользовательские сценарии, вайрфреймы, интерактивные прототипы в Figma",
+   "Дизайн-системы: компоненты, токены, auto layout, согласованность с разработкой",
+   "Мобайл: гайдлайны iOS и Android, адаптивный веб",
+   "Локализация: интерфейсы на английском и арабском, RTL-вёрстка макетов",
+   "Метрики: умеет связать решение с конверсией или удержанием и показать результат в кейсе"
+  ],
+  "check_lead": "Портфолио показывает итог, но не процесс. Поэтому смотрим, как дизайнер думает.",
+  "steps": [
+   [
+    "Разбор кейса",
+    "кандидат рассказывает один проект от проблемы до метрик: что исследовал, какие варианты отбросил"
+   ],
+   [
+    "Задача по продукту",
+    "за 3-4 часа улучшить реальный сценарий, например онлайн-запись или оплату, с обоснованием"
+   ],
+   [
+    "Критика интерфейса",
+    "разбор вашего текущего экрана: что мешает пользователю и что исправить первым"
+   ],
+   [
+    "Передача в разработку",
+    "посмотреть файл Figma: структура, компоненты, состояния, понятно ли фронтенду"
+   ]
+  ],
+  "mistake": "Типичная ошибка: выбрать дизайнера по самому красивому Dribbble. Яркие концепты часто не проходят проверку реальными пользователями и плохо ложатся в разработку. Важнее, как кандидат доказывает решения данными и работает с командой.",
+  "sal": [
+   [
+    "Младший UI/UX-дизайнер",
+    "9 000 - 15 000"
+   ],
+   [
+    "UI/UX-дизайнер",
+    "15 000 - 25 000"
+   ],
+   [
+    "Ведущий / продуктовый дизайнер",
+    "25 000 - 40 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, AED в месяц до вычетов. Продуктовые дизайнеры из финтеха и с опытом дизайн-систем получают ближе к верхней границе.",
+  "faq": [
+   [
+    "Сколько зарабатывает UI/UX-дизайнер в Дубае?",
+    "В 2026 году младший UI/UX-дизайнер получает около 9 000 - 15 000 AED в месяц, дизайнер среднего уровня 15 000 - 25 000 AED, ведущий или продуктовый дизайнер 25 000 - 40 000 AED."
+   ],
+   [
+    "Чем UI/UX-дизайнер отличается от графического дизайнера?",
+    "Графический дизайнер делает визуальные материалы для бренда и рекламы, а UI/UX-дизайнер проектирует, как человек пользуется сайтом или приложением, и проверяет это на пользователях. Мы помогаем понять, какой профиль закроет вашу задачу."
+   ]
+  ],
+  "seek_h2": "Вы UI/UX-дизайнер и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "UI/UX designer",
+  "title": "Hire a UI/UX Designer in Dubai: Figma, Cases, Salary | TLNT",
+  "desc": "Hire a UI/UX designer in Dubai: research, Figma prototypes, design systems, RTL. Product-based practical task, shortlist from our database, 2026 salaries.",
+  "h1": "Hire a UI/UX designer",
+  "h1em": "in Dubai",
+  "intro": "Dubai companies hiring UI/UX designers include fintech, e-commerce, developers with resident apps, clinics with online booking, delivery services and government projects. The designer researches users, designs flows and prototypes in Figma, maintains the design system and hands work over to developers. In the UAE this also means bilingual interfaces with Arabic RTL. TLNT helps you decide whether you need product UX, strong UI or a generalist, shortlists from our live database and assesses candidates on a task based on your product.",
+  "find_lead": "You need a designer who solves user and business problems, not just one who draws nice screens.",
+  "find": [
+   "Research: interviews, usability tests, working with analytics (GA4, Hotjar, Amplitude)",
+   "Design: user flows, wireframes, interactive prototypes in Figma",
+   "Design systems: components, tokens, auto layout, alignment with development",
+   "Mobile: iOS and Android guidelines, responsive web",
+   "Localisation: English and Arabic interfaces, RTL layouts",
+   "Metrics: links decisions to conversion or retention and shows results in case studies"
+  ],
+  "check_lead": "A portfolio shows the result, not the process. So we look at how the designer thinks.",
+  "steps": [
+   [
+    "Case walkthrough",
+    "the candidate presents one project from problem to metrics: what they researched and which options they dropped"
+   ],
+   [
+    "Product task",
+    "in 3-4 hours improve a real flow such as booking or checkout, with reasoning"
+   ],
+   [
+    "Interface critique",
+    "a review of your current screen: what blocks users and what to fix first"
+   ],
+   [
+    "Developer handoff",
+    "a look at their Figma file: structure, components, states, clarity for frontend"
+   ]
+  ],
+  "mistake": "Typical mistake: picking the designer with the prettiest Dribbble. Flashy concepts often fail real user testing and are hard to build. What matters more is how the candidate backs decisions with data and works with the team.",
+  "sal": [
+   [
+    "Junior UI/UX designer",
+    "9,000 - 15,000"
+   ],
+   [
+    "UI/UX designer",
+    "15,000 - 25,000"
+   ],
+   [
+    "Senior / product designer",
+    "25,000 - 40,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, AED per month gross. Product designers from fintech and those with design system experience sit closer to the top of the range.",
+  "faq": [
+   [
+    "How much does a UI/UX designer earn in Dubai?",
+    "In 2026 a junior UI/UX designer earns around 9,000 - 15,000 AED per month, a mid-level designer 15,000 - 25,000 AED, and a senior or product designer 25,000 - 40,000 AED."
+   ],
+   [
+    "How is a UI/UX designer different from a graphic designer?",
+    "A graphic designer creates visual materials for brand and advertising, while a UI/UX designer designs how people use a website or app and tests it with users. We help you work out which profile fits your task."
+   ]
+  ],
+  "seek_h2": "Are you a UI/UX designer looking for a job in Dubai?"
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "slug": "chief-data-officer",
+ "related": [
+  "data-scientist",
+  "data-engineer",
+  "data-analyst",
+  "cto"
+ ],
+ "ru": {
+  "name": "Директор по данным (CDO)",
+  "title": "Найм директора по данным (CDO) в Дубае: зарплата | TLNT",
+  "desc": "Помогаем найти директора по данным (CDO) в Дубае: стратегия данных и ИИ, governance, PDPL, структурная проверка на бизнес-кейсе, зарплаты на 2026 год.",
+  "h1": "Найм директора по данным (CDO)",
+  "h1em": "в Дубае",
+  "intro": "Директора по данным для банков и финтеха, страховых компаний, ритейл-групп, застройщиков, авиа- и логистических компаний, телекома и полугосударственных структур ОАЭ. CDO отвечает за стратегию данных и ИИ, качество и управление данными, платформу и команду аналитиков и инженеров, соответствие закону о защите персональных данных. Помогаем определить, нужен ли вам стратег уровня совета директоров или строитель платформы с нуля, проводим конфиденциальный поиск по нашей базе и сети и даём структурную проверку на вашем бизнес-кейсе.",
+  "find_lead": "Руководитель, который превращает данные в деньги и решения: выстраивает надёжную платформу, порядок в данных и команду, а результат объясняет совету директоров на языке бизнеса.",
+  "find": [
+   "Стратегия: дорожная карта данных и ИИ, связанная с целями бизнеса, приоритеты по ценности и окупаемости",
+   "Data governance: владельцы данных, каталог, качество, мастер-данные, политики доступа",
+   "Регулирование: PDPL ОАЭ, требования ЦБ ОАЭ для финансового сектора, DIFC и ADGM, локализация данных",
+   "Платформа: современный стек (Snowflake, Databricks, BigQuery, Azure), облако в регионе, контроль затрат",
+   "Команда: найм и развитие инженеров данных, аналитиков и data scientist, работа с подрядчиками",
+   "Влияние: общение с CEO и советом директоров, бюджет, измеримые результаты внедрённых сценариев"
+  ],
+  "check_lead": "На уровне CDO резюме и громкие названия проектов мало что доказывают. Проверка строится вокруг вашей реальной ситуации и решений, которые человек уже принимал.",
+  "steps": [
+   [
+    "Бизнес-кейс на ваших вводных",
+    "кандидат получает описание текущего состояния данных в компании и за неделю готовит план на первые 90 дней: приоритеты, быстрые результаты, риски, бюджет."
+   ],
+   [
+    "Презентация руководству",
+    "30-40 минут с CEO и ключевыми директорами: защита плана, вопросы о стоимости, сроках и о том, как будет измеряться эффект."
+   ],
+   [
+    "Технико-управленческое интервью",
+    "разговор с CTO или внешним экспертом об архитектуре, governance, выборе платформы и работе с персональными данными по PDPL."
+   ],
+   [
+    "Глубокие рекомендации",
+    "звонки бывшим CEO, коллегам и подчинённым: какие результаты реально внедрены, как человек строил команду и проходил кризисы."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанимать CDO, когда в компании ещё нет базового порядка в данных и бюджета, и ждать мгновенных ИИ-проектов. Без полномочий и ресурсов сильный директор уходит через год. Другая крайность - взять сильного инженера, который отлично строит платформу, но не умеет договариваться с бизнесом и защищать бюджет.",
+  "sal": [
+   [
+    "Руководитель направления данных (Head of Data)",
+    "40 000 - 60 000"
+   ],
+   [
+    "Директор по данным (CDO)",
+    "60 000 - 90 000"
+   ],
+   [
+    "CDO крупной группы или банка",
+    "90 000 - 140 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Годовой бонус, долгосрочная мотивация, жильё и обучение детей существенно меняют полный пакет; в банках и полугосударственном секторе пакеты выше.",
+  "faq": [
+   [
+    "Сколько зарабатывает директор по данным (CDO) в Дубае?",
+    "Ориентир на 2026 год: Head of Data 40 000 - 60 000 AED в месяц, CDO 60 000 - 90 000, CDO крупной группы или банка 90 000 - 140 000. Сверху обычно годовой бонус и долгосрочная мотивация."
+   ],
+   [
+    "Как понять, что компании уже нужен CDO, а не Head of Data?",
+    "CDO нужен, когда данные стали вопросом стратегии и регулирования: несколько бизнес-направлений, требования регулятора, ИИ-проекты на уровне всей компании. Если задача - построить отчётность и хранилище, обычно хватает Head of Data. Помогаем определить уровень до начала поиска."
+   ]
+  ],
+  "seek_h2": "Вы директор по данным и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Chief Data Officer (CDO)",
+  "title": "Hire a Chief Data Officer (CDO) in Dubai: salary | TLNT",
+  "desc": "We help Dubai employers hire a Chief Data Officer: data and AI strategy, governance, UAE PDPL, a structured business case assessment and 2026 salaries.",
+  "h1": "Hire a Chief Data Officer",
+  "h1em": "in Dubai",
+  "intro": "Chief Data Officers for banks and fintech, insurers, retail groups, real estate developers, aviation and logistics, telecom and government-related entities in the UAE. A CDO owns the data and AI strategy, data quality and governance, the platform, the team of analysts and engineers, and compliance with data protection law. We help you decide whether you need a board-level strategist or a builder starting from scratch, run a confidential search across our database and network, and assess candidates with a structured case built on your business.",
+  "find_lead": "A leader who turns data into revenue and decisions: a reliable platform, order in the data and a strong team, explained to the board in business terms.",
+  "find": [
+   "Strategy: a data and AI roadmap tied to business goals, prioritised by value and payback",
+   "Data governance: data owners, catalogue, quality, master data, access policies",
+   "Regulation: UAE PDPL, Central Bank of the UAE rules for financial services, DIFC and ADGM, data residency",
+   "Platform: a modern stack (Snowflake, Databricks, BigQuery, Azure), in-region cloud, cost control",
+   "Team: hiring and growing data engineers, analysts and data scientists, managing vendors",
+   "Influence: working with the CEO and board, owning a budget, measurable results from delivered use cases"
+  ],
+  "check_lead": "At CDO level a CV and impressive project names prove little. The assessment is built around your real situation and the decisions the person has actually made.",
+  "steps": [
+   [
+    "Business case on your inputs",
+    "the candidate receives a description of your current data landscape and within a week prepares a 90-day plan: priorities, quick wins, risks and budget."
+   ],
+   [
+    "Presentation to leadership",
+    "30-40 minutes with the CEO and key directors: defending the plan, questions on cost, timing and how impact will be measured."
+   ],
+   [
+    "Technical and governance interview",
+    "a session with your CTO or an external expert on architecture, governance, platform choices and handling personal data under PDPL."
+   ],
+   [
+    "Deep references",
+    "calls with former CEOs, peers and direct reports: which results were really delivered, how the person built teams and handled crises."
+   ]
+  ],
+  "mistake": "A typical mistake: hiring a CDO before basic data order and budget exist, and expecting instant AI projects. Without authority and resources a strong leader leaves within a year. The opposite mistake is hiring a great engineer who builds platforms well but cannot negotiate with the business or defend a budget.",
+  "sal": [
+   [
+    "Head of Data",
+    "40,000 - 60,000"
+   ],
+   [
+    "Chief Data Officer",
+    "60,000 - 90,000"
+   ],
+   [
+    "CDO of a large group or bank",
+    "90,000 - 140,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Annual bonus, long-term incentives, housing and school fees change the full package significantly; banks and government-related entities pay at the top of the range.",
+  "faq": [
+   [
+    "How much does a Chief Data Officer earn in Dubai?",
+    "Typical 2026 ranges: 40,000 - 60,000 AED per month for a Head of Data, 60,000 - 90,000 for a CDO and 90,000 - 140,000 for the CDO of a large group or bank, usually with an annual bonus and long-term incentives on top."
+   ],
+   [
+    "How do I know if I need a CDO rather than a Head of Data?",
+    "You need a CDO when data becomes a matter of strategy and regulation: several business lines, regulator requirements, company-wide AI programmes. If the job is building reporting and a warehouse, a Head of Data is usually enough. We help define the level before the search starts."
+   ]
+  ],
+  "seek_h2": "Are you a Chief Data Officer looking for a job in Dubai?"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "slug": "qa-engineer",
+ "related": ["software-developer", "mobile-developer", "devops-engineer", "project-manager"],
+ "ru": {
+  "name": "QA-инженер",
+  "title": "Найм QA-инженера в Дубае: автотесты, проверка, зарплата | TLNT",
+  "desc": "Как нанять QA-инженера в Дубае: ручное и автоматизированное тестирование, Playwright, Appium, проверка на задаче, зарплаты 2026 года и помощь TLNT в оценке.",
+  "h1": "Найм QA-инженера",
+  "h1em": "в Дубае",
+  "intro": "QA-инженеры нужны банкам и финтеху Дубая, e-commerce, авиации и туризму, государственным цифровым сервисам и студиям, которые сдают проекты клиентам. Они находят ошибки до пользователей, пишут автотесты, проверяют мобильные приложения, платежи и арабскую версию интерфейса. TLNT помогает понять, нужен вам ручной тестировщик или инженер по автоматизации, собирает шорт-лист из нашей живой базы и проверяет кандидатов на практическом задании.",
+  "find_lead": "Нужен инженер, который защищает продукт от ошибок и ускоряет релизы, а не тормозит их.",
+  "find": [
+   "Ручное тестирование: тест-кейсы, чек-листы, баг-репорты, которые разработчик понимает с первого раза",
+   "Автоматизация web: Playwright, Cypress или Selenium на TypeScript, Java или Python",
+   "Мобильное тестирование: Appium, реальные устройства, iOS и Android",
+   "API и данные: Postman, REST Assured, проверка ответов и SQL-запросы",
+   "CI/CD: запуск тестов в GitHub Actions, GitLab или Jenkins на каждый релиз",
+   "Предметная область: платежи, RTL и арабская локализация, нагрузочные тесты в JMeter или k6"
+  ],
+  "check_lead": "Сильного QA видно по тому, какие ошибки он находит и как их описывает.",
+  "steps": [
+   ["Тестирование живой страницы", "даём форму или приложение с подложенными ошибками и 60 минут: сколько нашёл и как описал"],
+   ["Автотест", "написать 3-5 автотестов на Playwright или Cypress для того же сценария и объяснить структуру"],
+   ["Тест-дизайн", "составить проверки для оплаты картой: граничные значения, ошибки банка, повторная оплата"],
+   ["Приоритеты", "перед релизом мало времени: что кандидат проверит в первую очередь и почему"]
+  ],
+  "mistake": "Типичная ошибка: нанять автоматизатора, который пишет сотни тестов, но не понимает продукт. Тесты зелёные, а пользователи находят ошибки в оплате. Проверяйте не только код, но и умение думать как клиент.",
+  "sal": [
+   ["Младший QA-инженер", "6 000 - 10 000"],
+   ["QA-инженер / автоматизатор (middle)", "11 000 - 18 000"],
+   ["Senior QA / QA lead", "19 000 - 30 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, AED в месяц до вычетов. Инженеры по автоматизации стоят выше ручных тестировщиков, банки и финтех платят выше среднего.",
+  "faq": [
+   ["Сколько зарабатывает QA-инженер в Дубае?", "Ориентир на 2026 год: около 6 000 - 10 000 AED в месяц у младшего, 11 000 - 18 000 AED у middle и автоматизаторов и 19 000 - 30 000 AED у senior и лидов. Автоматизация и опыт в финтехе повышают уровень дохода."],
+   ["Ручной тестировщик или автоматизатор?", "Если продукт часто меняется и релизы каждую неделю, выгоднее автоматизатор: тесты окупаются за несколько месяцев. Для молодого продукта или проекта на заказ часто достаточно сильного ручного QA. Мы помогаем определить профиль на бесплатном разборе."]
+  ],
+  "seek_h2": "Вы QA-инженер и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "QA engineer",
+  "title": "Hire a QA Engineer in Dubai: Automation, Tests, Salary | TLNT",
+  "desc": "How to hire a QA engineer in Dubai: manual and automated testing, Playwright, Appium, practical checks, 2026 salary ranges and TLNT help assessing candidates.",
+  "h1": "Hire a QA engineer",
+  "h1em": "in Dubai",
+  "intro": "QA engineers are needed by Dubai banks and fintech, e-commerce, aviation and travel, government digital services and studios delivering projects to clients. They catch bugs before users do, write automated tests and check mobile apps, payments and the Arabic interface. TLNT helps you decide whether you need a manual tester or an automation engineer, shortlists candidates from our live database and checks them with a practical task.",
+  "find_lead": "You need an engineer who protects the product from bugs and speeds releases up instead of slowing them down.",
+  "find": [
+   "Manual testing: test cases, checklists and bug reports developers understand the first time",
+   "Web automation: Playwright, Cypress or Selenium in TypeScript, Java or Python",
+   "Mobile testing: Appium, real devices, iOS and Android",
+   "API and data: Postman, REST Assured, response checks and SQL queries",
+   "CI/CD: tests running in GitHub Actions, GitLab or Jenkins on every release",
+   "Domain: payments, RTL and Arabic localisation, load tests in JMeter or k6"
+  ],
+  "check_lead": "A strong QA engineer shows in which bugs they find and how they describe them.",
+  "steps": [
+   ["Test a live page", "give a form or app with planted bugs and 60 minutes: how many they find and how they report them"],
+   ["Automated test", "write 3-5 Playwright or Cypress tests for the same flow and explain the structure"],
+   ["Test design", "design checks for card payment: boundary values, bank errors, duplicate payments"],
+   ["Priorities", "little time before a release: what they test first and why"]
+  ],
+  "mistake": "A common mistake: hiring an automation engineer who writes hundreds of tests but does not understand the product. Tests are green while users find bugs in checkout. Check product thinking, not only code.",
+  "sal": [
+   ["Junior QA engineer", "6,000 - 10,000"],
+   ["QA / automation engineer (mid)", "11,000 - 18,000"],
+   ["Senior QA / QA lead", "19,000 - 30,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, AED per month gross. Automation engineers earn more than manual testers, banks and fintech pay above the market.",
+  "faq": [
+   ["How much does a QA engineer earn in Dubai?", "As a 2026 guide: about 6,000 - 10,000 AED per month for a junior, 11,000 - 18,000 AED for mid-level and automation engineers and 19,000 - 30,000 AED for seniors and leads. Automation and fintech experience raise the range."],
+   ["Manual tester or automation engineer?", "If the product changes often and ships weekly, an automation engineer pays off within a few months. For a young product or a client project a strong manual QA is often enough. We help define the profile in a free review of the role."]
+  ],
+  "seek_h2": "Are you a QA engineer looking for a job in Dubai?"
+ }
+}

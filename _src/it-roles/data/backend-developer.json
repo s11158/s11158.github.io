@@ -1,0 +1,76 @@
+{
+ "slug": "backend-developer",
+ "related": ["frontend-developer", "devops-engineer", "database-administrator", "software-developer"],
+ "ru": {
+  "name": "Backend-разработчик",
+  "title": "Найм backend-разработчика в Дубае: API, проверка, зарплата | TLNT",
+  "desc": "Как нанять backend-разработчика в Дубае: Node.js, Python, Java, Go, проверка API и базы данных, зарплаты 2026 года и помощь TLNT в поиске и оценке кандидатов.",
+  "h1": "Найм backend-разработчика",
+  "h1em": "в Дубае",
+  "intro": "Backend-разработчики нужны финтеху и платёжным сервисам Дубая, логистике, доставке, proptech и банкам, которые строят цифровые продукты. Они проектируют API, базы данных и интеграции с платёжными шлюзами, UAE PASS и государственными системами, отвечают за безопасность и нагрузку. TLNT помогает понять, какой стек и уровень вам нужен, собирает шорт-лист из нашей живой базы и проверяет кандидатов на практических задачах, а решение о найме принимаете вы.",
+  "find_lead": "Нужен инженер, который строит надёжные сервисы и данные, а не только пишет эндпоинты.",
+  "find": [
+   "Язык и фреймворк: Node.js/NestJS, Python/Django или FastAPI, Java/Spring, Go или .NET",
+   "Базы данных: PostgreSQL, MySQL, Redis, индексы, транзакции, миграции без простоя",
+   "Проектирование API: REST, GraphQL, версионирование, документация OpenAPI",
+   "Интеграции: платёжные шлюзы, UAE PASS, CRM и ERP, очереди Kafka или RabbitMQ",
+   "Безопасность и данные: авторизация, хранение персональных данных по закону ОАЭ о защите данных",
+   "Облако и эксплуатация: Docker, AWS или Azure (регионы в ОАЭ), логи и мониторинг"
+  ],
+  "check_lead": "Хороший backend виден по решениям о данных и отказах, а не по количеству технологий в резюме.",
+  "steps": [
+   ["Мини-сервис", "небольшой API с базой данных и тестами за 3 часа, например бронирование слотов с защитой от двойной записи"],
+   ["Проектирование системы", "разговор у доски: как выдержать рост нагрузки в 10 раз, где кэш, где очередь"],
+   ["Разбор инцидента", "даём логи упавшего сервиса и просим найти причину и предложить защиту"],
+   ["Код-ревью", "кандидат комментирует чужой pull request с ошибками безопасности и производительности"]
+  ],
+  "mistake": "Типичная ошибка: искать человека под модное слово (микросервисы, Kubernetes) для продукта, которому хватит аккуратного монолита. В итоге вы переплачиваете и получаете сложную систему, которую некому поддерживать. Сначала определите реальную нагрузку и задачи на год.",
+  "sal": [
+   ["Младший backend-разработчик", "9 000 - 14 000"],
+   ["Backend-разработчик (middle)", "15 000 - 24 000"],
+   ["Senior / lead backend", "25 000 - 40 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, AED в месяц до вычетов. Опыт в финтехе, платежах и высоких нагрузках, а также Go и Java в банковской среде оплачиваются выше.",
+  "faq": [
+   ["Сколько зарабатывает backend-разработчик в Дубае?", "Ориентир на 2026 год: около 9 000 - 14 000 AED в месяц у младшего, 15 000 - 24 000 AED у middle и 25 000 - 40 000 AED у senior и лидов. Финтех и банки обычно платят выше среднего."],
+   ["Какой язык выбрать для backend в Дубае?", "Самый большой рынок кандидатов у Node.js и Python, их проще найти и заменить. Java и .NET чаще нужны банкам и крупным компаниям, Go выбирают для нагруженных сервисов. Мы советуем исходить из того, что уже есть в продукте и у команды."]
+  ],
+  "seek_h2": "Вы backend-разработчик и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Backend developer",
+  "title": "Hire a Backend Developer in Dubai: APIs, Tests, Salary | TLNT",
+  "desc": "How to hire a backend developer in Dubai: Node.js, Python, Java or Go, practical API and database checks, 2026 salary ranges and TLNT help assessing candidates.",
+  "h1": "Hire a backend developer",
+  "h1em": "in Dubai",
+  "intro": "Backend developers are needed by Dubai fintech and payment companies, logistics and delivery apps, proptech and banks building digital products. They design APIs, databases and integrations with payment gateways, UAE PASS and government systems, and own security and load. TLNT helps you decide which stack and level you actually need, shortlists candidates from our live database and checks them with practical tasks, while you make the hiring decision.",
+  "find_lead": "You need an engineer who builds reliable services and data, not just endpoints.",
+  "find": [
+   "Language and framework: Node.js/NestJS, Python/Django or FastAPI, Java/Spring, Go or .NET",
+   "Databases: PostgreSQL, MySQL, Redis, indexes, transactions, zero-downtime migrations",
+   "API design: REST, GraphQL, versioning, OpenAPI documentation",
+   "Integrations: payment gateways, UAE PASS, CRM and ERP, Kafka or RabbitMQ queues",
+   "Security and data: auth, handling personal data under the UAE data protection law",
+   "Cloud and operations: Docker, AWS or Azure (UAE regions), logging and monitoring"
+  ],
+  "check_lead": "A good backend engineer shows in decisions about data and failures, not in the number of technologies on a CV.",
+  "steps": [
+   ["Mini service", "a small API with a database and tests in 3 hours, for example slot booking that prevents double booking"],
+   ["System design", "a whiteboard talk: how to handle 10x load, where the cache goes, where the queue goes"],
+   ["Incident review", "give logs from a failed service and ask for the root cause and a fix"],
+   ["Code review", "the candidate reviews a pull request with security and performance issues"]
+  ],
+  "mistake": "A common mistake: hiring for a buzzword (microservices, Kubernetes) for a product that a clean monolith would serve well. You overpay and end up with a complex system nobody can maintain. Define real load and next-year goals first.",
+  "sal": [
+   ["Junior backend developer", "9,000 - 14,000"],
+   ["Backend developer (mid)", "15,000 - 24,000"],
+   ["Senior / lead backend", "25,000 - 40,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, AED per month gross. Fintech, payments and high-load experience, and Go or Java in banking, are paid above average.",
+  "faq": [
+   ["How much does a backend developer earn in Dubai?", "As a 2026 guide: about 9,000 - 14,000 AED per month for a junior, 15,000 - 24,000 AED for a mid-level developer and 25,000 - 40,000 AED for seniors and leads. Fintech and banks usually pay above the market."],
+   ["Which backend language is easiest to hire for in Dubai?", "Node.js and Python have the largest candidate pool, so they are easier to hire and replace. Java and .NET are common in banks and large companies, Go is chosen for high-load services. We suggest starting from what your product and team already use."]
+  ],
+  "seek_h2": "Are you a backend developer looking for a job in Dubai?"
+ }
+}

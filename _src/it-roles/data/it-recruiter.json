@@ -1,0 +1,76 @@
+{
+ "slug": "it-recruiter",
+ "related": ["hr-manager", "cto", "software-developer", "it-manager"],
+ "ru": {
+  "name": "IT-рекрутер",
+  "title": "Найм IT-рекрутера в Дубае: сорсинг, проверка, зарплата | TLNT",
+  "desc": "Ищем IT-рекрутера в штат компании в Дубае: технический сорсинг, работа с нанимающими менеджерами, практическая проверка и реальные зарплаты 2026 года.",
+  "h1": "Найм IT-рекрутера",
+  "h1em": "в Дубае",
+  "intro": "Штатный IT-рекрутер нужен компаниям, которые нанимают инженеров постоянно: финтех-стартапам в DIFC, продуктовым студиям в Dubai Internet City, банкам с собственными IT-командами. Он ведёт воронку от брифа до оффера, сам ищет разработчиков в LinkedIn и GitHub, говорит с тимлидами на одном языке и знает, как устроены визы и пакеты в ОАЭ. Мы помогаем описать профиль под ваш объём найма, собираем шорт-лист из нашей живой базы и проверяем кандидатов на реальной вакансии, а не по резюме.",
+  "find_lead": "Нужен рекрутер, который сам находит пассивных инженеров и закрывает позиции, а не только публикует вакансии.",
+  "find": [
+   "Технический сорсинг: булевы строки, X-ray поиск, GitHub, Stack Overflow, профильные сообщества",
+   "Понимание стека: отличает backend от DevOps, понимает уровни junior, middle, senior и lead",
+   "Работа с нанимающими менеджерами: брифинг, калибровка профиля, сбор обратной связи в срок",
+   "Рынок ОАЭ: зарплатные вилки, пакеты с жильём и перелётом, переезд кандидатов из-за рубежа",
+   "ATS и аналитика: Greenhouse, Lever, Workable, метрики воронки и time-to-hire",
+   "Employer branding: тексты вакансий, которые читают инженеры, и аккуратный аутрич без спама"
+  ],
+  "check_lead": "Сильного IT-рекрутера видно на практике: дайте ему вашу настоящую позицию и посмотрите, как он думает.",
+  "steps": [
+   ["Разбор живой вакансии", "Дайте описание реальной роли и попросите за 30 минут задать вопросы нанимающему менеджеру и переписать профиль."],
+   ["Булева строка", "Попросите собрать поиск по LinkedIn и GitHub под эту роль и показать 5 подходящих профилей с обоснованием."],
+   ["Первое сообщение кандидату", "Пусть напишет аутрич пассивному senior-разработчику: коротко, конкретно, без шаблонных фраз."],
+   ["Отчёт по воронке", "Покажите выгрузку из ATS и спросите, где теряются кандидаты и что он поменял бы в первую очередь."]
+  ],
+  "mistake": "Типичная ошибка: нанять HR-generalist или рекрутера массового подбора и ждать от него закрытия senior-позиций. Он публикует вакансии и ждёт откликов, а сильные инженеры в Дубае откликами не приходят, их нужно находить и убеждать. Проверяйте именно сорсинг и разговор о технологиях.",
+  "sal": [
+   ["IT-рекрутер (1-3 года)", "10 000 - 16 000"],
+   ["Senior IT-рекрутер", "16 000 - 25 000"],
+   ["Lead / Head of Talent Acquisition", "25 000 - 40 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, AED в месяц до вычетов. В стартапах часть дохода бывает бонусом за закрытые позиции, в банках и крупных холдингах добавляются жильё и годовой бонус.",
+  "faq": [
+   ["Сколько зарабатывает IT-рекрутер в Дубае?", "В 2026 году IT-рекрутер с опытом 1-3 года получает около 10 000 - 16 000 AED в месяц, senior-специалист 16 000 - 25 000 AED, руководитель направления Talent Acquisition 25 000 - 40 000 AED. На сумму влияют объём найма, сложность стека и наличие бонусов за закрытые позиции."],
+   ["Нужен штатный IT-рекрутер или проще отдавать поиск на сторону?", "Если вы нанимаете больше 8-10 инженеров в год, штатный рекрутер обычно окупается. При редком найме выгоднее точечная помощь консалтинга по подбору. Мы помогаем в обоих случаях: и найти самого рекрутера, и закрыть отдельные сложные позиции."]
+  ],
+  "seek_h2": "Вы IT-рекрутер и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "IT recruiter",
+  "title": "Hire an IT Recruiter in Dubai: Sourcing, Checks, Salary | TLNT",
+  "desc": "Hire an in-house IT recruiter in Dubai: technical sourcing, work with hiring managers, practical checks on a live role and realistic 2026 salary ranges.",
+  "h1": "Hire an IT recruiter",
+  "h1em": "in Dubai",
+  "intro": "An in-house IT recruiter makes sense for companies that hire engineers all the time: fintech startups in DIFC, product studios in Dubai Internet City, banks with their own tech teams. They run the funnel from brief to offer, source developers on LinkedIn and GitHub, speak the same language as team leads and know how UAE visas and packages work. We help you define the profile for your hiring volume, shortlist from our live database and test candidates on a real vacancy, not on a CV.",
+  "find_lead": "You need a recruiter who finds passive engineers and closes roles, not one who only posts job ads.",
+  "find": [
+   "Technical sourcing: Boolean strings, X-ray search, GitHub, Stack Overflow, niche communities",
+   "Tech literacy: tells backend from DevOps, understands junior, mid, senior and lead levels",
+   "Hiring manager partnership: intake meetings, profile calibration, timely feedback loops",
+   "UAE market: salary bands, housing and flight allowances, relocating candidates from abroad",
+   "ATS and analytics: Greenhouse, Lever, Workable, funnel metrics and time-to-hire",
+   "Employer branding: job ads engineers actually read and respectful, non-spammy outreach"
+  ],
+  "check_lead": "A strong IT recruiter shows up in practice: give them one of your real roles and watch how they think.",
+  "steps": [
+   ["Live role intake", "Share a real job description and ask them to spend 30 minutes questioning the hiring manager and rewriting the profile."],
+   ["Boolean search", "Ask for a LinkedIn and GitHub search for that role and 5 matching profiles with a reason for each."],
+   ["First outreach", "Have them write a message to a passive senior developer: short, specific, no template phrases."],
+   ["Funnel review", "Show an ATS export and ask where candidates drop off and what they would fix first."]
+  ],
+  "mistake": "A common mistake: hiring an HR generalist or a volume recruiter and expecting them to close senior tech roles. They post ads and wait for applicants, but strong engineers in Dubai rarely apply; they have to be found and persuaded. Test sourcing and technical conversation specifically.",
+  "sal": [
+   ["IT recruiter (1-3 years)", "10,000 - 16,000"],
+   ["Senior IT recruiter", "16,000 - 25,000"],
+   ["Lead / Head of Talent Acquisition", "25,000 - 40,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, AED per month gross. Startups often pay part of income as a per-hire bonus; banks and large groups add housing and an annual bonus.",
+  "faq": [
+   ["How much does an IT recruiter earn in Dubai?", "In 2026 an IT recruiter with 1-3 years of experience earns about 10,000 - 16,000 AED per month, a senior recruiter 16,000 - 25,000 AED, and a Head of Talent Acquisition 25,000 - 40,000 AED. Hiring volume, stack complexity and per-hire bonuses move the number."],
+   ["Is an in-house IT recruiter better than outside help?", "If your company brings on more than 8-10 engineers a year, an in-house recruiter usually pays off. For occasional hiring, targeted help from a hiring consultancy is more efficient. We help either way: finding the recruiter themselves or closing specific hard roles."]
+  ],
+  "seek_h2": "Are you an IT recruiter looking for a job in Dubai?"
+ }
+}

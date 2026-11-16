@@ -1,0 +1,135 @@
+{
+ "slug": "bi-analyst",
+ "related": [
+  "data-analyst",
+  "data-engineer",
+  "business-analyst",
+  "cfo"
+ ],
+ "ru": {
+  "name": "BI-аналитик",
+  "title": "Найм BI-аналитика в Дубае: Power BI, дашборды, зарплата | TLNT",
+  "desc": "Найм BI-аналитика в Дубае: Power BI, Tableau, SQL и управленческая отчётность. Практическая проверка на ваших данных, зарплаты 2026, шорт-лист TLNT.",
+  "h1": "Найм BI-аналитика",
+  "h1em": "в Дубае",
+  "intro": "BI-аналитики нужны ритейлу и дистрибуции Дубая, девелоперам и агентствам недвижимости, ресторанным группам и салонам, логистике, банкам и холдингам, где собственнику нужна одна картина по продажам, марже, складу и людям. Аналитик собирает данные из ERP, CRM, POS и Excel, строит дашборды в Power BI или Tableau и добивается, чтобы цифры совпадали с бухгалтерией. Помогаем описать, какие решения должны принимать по отчётам, даём шорт-лист из нашей живой базы и проводим практическую проверку.",
+  "find_lead": "Аналитик, который сначала спрашивает, какое решение примут по отчёту, а потом строит дашборд, где цифры сходятся с финансами и понятны без расшифровки.",
+  "find": [
+   "Инструменты BI: Power BI с DAX и Power Query, Tableau или Looker, публикация и права доступа",
+   "SQL: выборки из ERP и CRM, объединения, агрегаты, проверка расхождений с источником",
+   "Модель данных: звезда, справочники, календарь, единые определения выручки, маржи и KPI",
+   "Источники: SAP, Oracle, Microsoft Dynamics, Odoo, Zoho, POS-системы, выгрузки из рекламы и Excel",
+   "Бизнес-понимание: P&L, юнит-экономика, продажи по филиалам и менеджерам, складские остатки",
+   "Подача: простые дашборды для руководства, ясные комментарии, регулярность и автоматическое обновление"
+  ],
+  "check_lead": "Красивый дашборд в портфолио не говорит, сходятся ли в нём цифры. Проверка на ваших или похожих данных показывает и техническую часть, и понимание бизнеса, а решение принимаете вы.",
+  "steps": [
+   [
+    "Задание на дашборд",
+    "обезличенные выгрузки продаж, затрат и справочника филиалов: за три-четыре часа кандидат строит модель и дашборд по выручке, марже и динамике. Проверяем точность цифр и ясность."
+   ],
+   [
+    "SQL-проверка",
+    "короткие задачи на выборки и поиск ошибки: почему выручка в отчёте не совпадает с бухгалтерией и как это найти."
+   ],
+   [
+    "Разговор с руководителем",
+    "кандидат показывает дашборд вашему финансовому директору или собственнику и отвечает на вопросы: что из него следует, что бы он добавил, какие данные ненадёжны."
+   ],
+   [
+    "Рекомендации",
+    "звонок руководителю: какие отчёты человек построил, пользуются ли ими до сих пор, как он работал с запросами отделов и сроками закрытия месяца."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанять BI-аналитика, не договорившись внутри компании, что считается выручкой, маржой и активным клиентом. Аналитик строит дашборды, а отделы спорят о цифрах. Ещё ошибка: ждать от одного BI-аналитика ещё и построения хранилища и интеграций, при большом числе источников для этого нужен data-инженер.",
+  "sal": [
+   [
+    "Младший BI-аналитик",
+    "8 000 - 13 000"
+   ],
+   [
+    "BI-аналитик среднего уровня",
+    "13 000 - 22 000"
+   ],
+   [
+    "Старший BI-аналитик или руководитель BI",
+    "22 000 - 35 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт с SAP или Dynamics, финансовая отчётность и арабский язык поднимают пакет; бонус и надбавки меняют полную сумму.",
+  "faq": [
+   [
+    "Сколько зарабатывает BI-аналитик в Дубае?",
+    "В 2026 году младший BI-аналитик в Дубае получает около 8 000 - 13 000 AED в месяц, специалист среднего уровня 13 000 - 22 000 AED, старший BI-аналитик или руководитель BI 22 000 - 35 000 AED. Банки, холдинги и компании с SAP платят по верхней границе."
+   ],
+   [
+    "Power BI или Tableau: кого искать?",
+    "Если компания работает в Microsoft 365 и Dynamics, почти всегда выгоднее Power BI, и кандидатов с ним в Дубае больше. Tableau чаще встречается в крупных корпорациях и банках. Сильный аналитик переходит между инструментами за несколько недель, поэтому важнее SQL и понимание бизнеса. Поможем расставить требования, чтобы не сузить поиск без причины."
+   ]
+  ],
+  "seek_h2": "Вы BI-аналитик и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "BI analyst",
+  "title": "Hire a BI Analyst in Dubai: Power BI, Dashboards, Salary | TLNT",
+  "desc": "Hire a BI analyst in Dubai: Power BI, Tableau, SQL and management reporting. Practical checks on your data, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a BI analyst",
+  "h1em": "in Dubai",
+  "intro": "BI analysts are needed by Dubai retail and distribution, developers and real estate brokers, restaurant groups and salons, logistics, banks and holding companies where the owner wants one picture of sales, margin, stock and people. The analyst pulls data from ERP, CRM, POS and Excel, builds dashboards in Power BI or Tableau and makes sure the numbers match finance. We help you describe which decisions the reports should support, shortlist from our live database and run a practical check.",
+  "find_lead": "An analyst who first asks which decision a report will drive, then builds a dashboard whose numbers match finance and make sense without a walkthrough.",
+  "find": [
+   "BI tools: Power BI with DAX and Power Query, Tableau or Looker, publishing and access rights",
+   "SQL: queries against ERP and CRM, joins, aggregates, reconciling with the source",
+   "Data model: star schema, reference tables, a date table, single definitions of revenue, margin and KPIs",
+   "Sources: SAP, Oracle, Microsoft Dynamics, Odoo, Zoho, POS systems, ad platform exports and Excel",
+   "Business sense: P&L, unit economics, sales by branch and salesperson, stock levels",
+   "Delivery: simple dashboards for management, clear commentary, a regular cadence and automatic refresh"
+  ],
+  "check_lead": "A beautiful portfolio dashboard says nothing about whether its numbers add up. A check on your data or similar data shows both the technical side and business understanding, and you make the decision.",
+  "steps": [
+   [
+    "Dashboard task",
+    "anonymised exports of sales, costs and a branch list: in three to four hours the candidate builds a model and a dashboard on revenue, margin and trends. We check the accuracy of the numbers and clarity."
+   ],
+   [
+    "SQL check",
+    "short query tasks and a bug hunt: why revenue in the report does not match the accounts and how to find out."
+   ],
+   [
+    "Conversation with leadership",
+    "the candidate presents the dashboard to your CFO or owner and answers questions: what follows from it, what they would add, which data is unreliable."
+   ],
+   [
+    "References",
+    "a call with the manager: which reports the person built, whether they are still used, how they handled requests from departments and month-end deadlines."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a BI analyst before the company agrees internally on what counts as revenue, margin and an active customer. The analyst builds dashboards while departments argue about the numbers. Another one: expecting one BI analyst to also build the warehouse and integrations; with many sources that is a data engineer's job.",
+  "sal": [
+   [
+    "Junior BI analyst",
+    "8,000 - 13,000"
+   ],
+   [
+    "Mid-level BI analyst",
+    "13,000 - 22,000"
+   ],
+   [
+    "Senior BI analyst or head of BI",
+    "22,000 - 35,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. SAP or Dynamics experience, financial reporting and Arabic raise the package; bonus and allowances change the total.",
+  "faq": [
+   [
+    "How much does a BI analyst earn in Dubai?",
+    "In 2026 a junior BI analyst in Dubai earns about AED 8,000 - 13,000 per month, a mid-level analyst AED 13,000 - 22,000 and a senior BI analyst or head of BI AED 22,000 - 35,000. Banks, holding companies and SAP users pay at the top of the range."
+   ],
+   [
+    "Power BI or Tableau: who should I look for?",
+    "If the company runs on Microsoft 365 and Dynamics, Power BI is almost always the better fit, and there are more candidates with it in Dubai. Tableau is more common in large corporates and banks. A strong analyst switches tools in a few weeks, so SQL and business sense matter more. We help you set requirements so the search is not narrowed for no reason."
+   ]
+  ],
+  "seek_h2": "Are you a BI analyst looking for a job in Dubai?"
+ }
+}

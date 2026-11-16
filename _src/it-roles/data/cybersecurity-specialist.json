@@ -1,0 +1,135 @@
+{
+ "slug": "cybersecurity-specialist",
+ "related": [
+  "ciso",
+  "it-manager",
+  "it-support-specialist",
+  "devops-engineer"
+ ],
+ "ru": {
+  "name": "Специалист по информационной безопасности",
+  "title": "Найм специалиста по ИБ в Дубае: SOC, тесты, зарплата | TLNT",
+  "desc": "Ищем специалиста по информационной безопасности или Security Manager в Дубае: SIEM, облака, аудит. Практическая проверка, шорт-лист, зарплаты 2026.",
+  "h1": "Найм специалиста по информационной безопасности",
+  "h1em": "в Дубае",
+  "intro": "Специалист по ИБ или Security Manager в Дубае нужен компаниям, где уже есть что защищать: финтех, e-commerce, клиники, девелоперы, логистика, холдинги с десятками систем. Он мониторит события в SIEM, закрывает уязвимости, настраивает доступы и облачную защиту, готовит компанию к аудитам ISO 27001 и проверкам регуляторов. TLNT помогает понять, кто вам нужен - аналитик SOC, инженер или менеджер по ИБ, собирает шорт-лист из нашей живой базы и проверяет кандидатов на практических задачах, а не на пересказе терминов.",
+  "find_lead": "Нужен специалист, который находит и закрывает реальные риски, а не только заполняет политики.",
+  "find": [
+   "Мониторинг: SIEM (Splunk, Microsoft Sentinel, QRadar), EDR (CrowdStrike, Defender), разбор алертов",
+   "Облака: безопасность AWS, Azure, Microsoft 365, настройка IAM и MFA",
+   "Уязвимости: сканирование (Nessus, Qualys), приоритизация и контроль исправлений",
+   "Сети: firewall (Fortinet, Palo Alto), VPN, сегментация, Zero Trust",
+   "Соответствие: ISO 27001, UAE IAS, PCI DSS, подготовка доказательств для аудита",
+   "Сертификаты: Security+, CEH, OSCP, CISSP для менеджеров - как дополнение к практике"
+  ],
+  "check_lead": "Проверяем руками на типовых ситуациях, с которыми специалист столкнётся в первый месяц.",
+  "steps": [
+   [
+    "Разбор логов",
+    "кандидату дают фрагмент журналов с подозрительной активностью: найти, что произошло и что делать"
+   ],
+   [
+    "Облачная конфигурация",
+    "найти ошибки в обезличенных настройках AWS или Microsoft 365: открытые бакеты, лишние права"
+   ],
+   [
+    "Приоритизация уязвимостей",
+    "из отчёта сканера на 200 строк выбрать 10 первоочередных и объяснить почему"
+   ],
+   [
+    "Разговор о процессе",
+    "для Security Manager: как он готовил компанию к аудиту и что делал после инцидента"
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанять человека с длинным списком сертификатов и ни разу не проверить его на живой задаче. Сертификат подтверждает знания, но не умение разобраться в инциденте ночью. Короткое практическое задание экономит месяцы.",
+  "sal": [
+   [
+    "Аналитик SOC / младший специалист",
+    "12 000 - 20 000"
+   ],
+   [
+    "Инженер по ИБ",
+    "20 000 - 32 000"
+   ],
+   [
+    "Security Manager",
+    "32 000 - 48 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, AED в месяц до вычетов. Специалисты по облачной безопасности и пентесту получают ближе к верхней границе.",
+  "faq": [
+   [
+    "Сколько зарабатывает специалист по информационной безопасности в Дубае?",
+    "В 2026 году аналитик SOC получает около 12 000 - 20 000 AED в месяц, инженер по ИБ 20 000 - 32 000 AED, Security Manager 32 000 - 48 000 AED, в банках бывает выше."
+   ],
+   [
+    "Чем специалист по ИБ отличается от CISO?",
+    "Специалист и Security Manager работают руками и ведут процессы: мониторинг, уязвимости, доступы, аудит. CISO отвечает за стратегию, бюджет и отчёт перед советом. Небольшой компании обычно достаточно сильного Security Manager, и мы помогаем это определить."
+   ]
+  ],
+  "seek_h2": "Вы специалист по информационной безопасности и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Cybersecurity specialist",
+  "title": "Hire a Cybersecurity Specialist in Dubai: Tests, Salary | TLNT",
+  "desc": "Hire a cybersecurity specialist or Security Manager in Dubai: SIEM, cloud, audits. Practical assessment, shortlist from our live database, 2026 salaries.",
+  "h1": "Hire a cybersecurity specialist",
+  "h1em": "in Dubai",
+  "intro": "Dubai companies hire a cybersecurity specialist or Security Manager once there is something worth protecting: fintech, e-commerce, clinics, developers, logistics, groups running dozens of systems. They monitor events in the SIEM, close vulnerabilities, manage access and cloud security, and prepare the company for ISO 27001 audits and regulator reviews. TLNT helps you decide whether you need a SOC analyst, an engineer or a security manager, shortlists from our live database and assesses candidates on practical tasks, not on reciting terminology.",
+  "find_lead": "You need someone who finds and closes real risks, not just someone who writes policies.",
+  "find": [
+   "Monitoring: SIEM (Splunk, Microsoft Sentinel, QRadar), EDR (CrowdStrike, Defender), alert triage",
+   "Cloud: AWS, Azure and Microsoft 365 security, IAM and MFA setup",
+   "Vulnerabilities: scanning (Nessus, Qualys), prioritisation and patch follow-up",
+   "Networks: firewalls (Fortinet, Palo Alto), VPN, segmentation, Zero Trust",
+   "Compliance: ISO 27001, UAE IAS, PCI DSS, preparing audit evidence",
+   "Certifications: Security+, CEH, OSCP, CISSP for managers - on top of hands-on practice"
+  ],
+  "check_lead": "We test hands-on with situations the specialist will face in the first month.",
+  "steps": [
+   [
+    "Log analysis",
+    "the candidate gets a log extract with suspicious activity: find what happened and what to do"
+   ],
+   [
+    "Cloud configuration",
+    "spot mistakes in anonymised AWS or Microsoft 365 settings: open buckets, excess permissions"
+   ],
+   [
+    "Vulnerability triage",
+    "pick the 10 most urgent items from a 200-line scanner report and explain why"
+   ],
+   [
+    "Process interview",
+    "for a Security Manager: how they prepared a company for audit and what they did after an incident"
+   ]
+  ],
+  "mistake": "Typical mistake: hiring someone with a long list of certifications without ever testing them on a live task. A certificate proves knowledge, not the ability to work through an incident at night. A short practical task saves months.",
+  "sal": [
+   [
+    "SOC analyst / junior specialist",
+    "12,000 - 20,000"
+   ],
+   [
+    "Security engineer",
+    "20,000 - 32,000"
+   ],
+   [
+    "Security Manager",
+    "32,000 - 48,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, AED per month gross. Cloud security and penetration testing specialists sit closer to the top of the range.",
+  "faq": [
+   [
+    "How much does a cybersecurity specialist earn in Dubai?",
+    "In 2026 a SOC analyst earns around 12,000 - 20,000 AED per month, a security engineer 20,000 - 32,000 AED and a Security Manager 32,000 - 48,000 AED, with banks paying more."
+   ],
+   [
+    "How is a cybersecurity specialist different from a CISO?",
+    "Specialists and Security Managers are hands-on and run processes: monitoring, vulnerabilities, access, audits. A CISO owns strategy, budget and board reporting. A smaller company usually needs a strong Security Manager, and we help you work that out."
+   ]
+  ],
+  "seek_h2": "Are you a cybersecurity specialist looking for a job in Dubai?"
+ }
+}

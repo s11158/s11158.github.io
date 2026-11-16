@@ -1,0 +1,135 @@
+{
+ "slug": "database-administrator",
+ "related": [
+  "data-engineer",
+  "devops-engineer",
+  "backend-developer",
+  "it-manager"
+ ],
+ "ru": {
+  "name": "Администратор баз данных",
+  "title": "Найм администратора баз данных в Дубае: DBA, зарплата | TLNT",
+  "desc": "Найм DBA в Дубае: Oracle, SQL Server, PostgreSQL, бэкапы и производительность. Практическая проверка на реальных сценариях, зарплаты 2026, шорт-лист TLNT.",
+  "h1": "Найм администратора баз данных",
+  "h1em": "в Дубае",
+  "intro": "Администраторы баз данных нужны банкам и страховым компаниям Дубая, госструктурам и полугосударственным холдингам, ритейлу и логистике с ERP, больницам и финтеху. Задачи: доступность и резервное копирование, производительность запросов, репликация и аварийное восстановление, безопасность и аудит доступа под требования ЦБ ОАЭ и закона о защите данных, миграции в облако. Помогаем понять, нужен ли классический DBA под Oracle или SQL Server или облачный специалист, даём шорт-лист из нашей живой базы и проводим практическую проверку.",
+  "find_lead": "Специалист, у которого бэкапы проверены восстановлением, медленные запросы находятся до жалоб пользователей, а доступы выданы по принципу минимальных прав.",
+  "find": [
+   "СУБД: Oracle, Microsoft SQL Server, PostgreSQL или MySQL, по вашему ландшафту, плюс MongoDB или Redis при необходимости",
+   "Резервное копирование и восстановление: стратегия RPO и RTO, регулярные тесты восстановления, а не только наличие бэкапов",
+   "Высокая доступность: Always On, Data Guard, репликация PostgreSQL, отработанный переход на резервную площадку",
+   "Производительность: планы выполнения, индексы, блокировки, мониторинг и рекомендации разработчикам",
+   "Безопасность: роли и права, шифрование, аудит доступа, маскирование данных для тестовых сред",
+   "Облако и миграции: AWS RDS, Azure SQL, перенос с минимальным простоем, автоматизация на скриптах"
+  ],
+  "check_lead": "Ошибка DBA обходится дорого: потерянные данные или многочасовой простой. Поэтому проверка идёт на сценариях, а не на вопросах по документации, и оценивает её ваш технический специалист.",
+  "steps": [
+   [
+    "Разбор медленного запроса",
+    "кандидат получает запрос и план выполнения с проблемой: объясняет, где узкое место, какой индекс или переписывание поможет и какие риски у изменения."
+   ],
+   [
+    "Сценарий восстановления",
+    "в 14:00 случайно удалили таблицу с заказами. Кандидат описывает, как восстановит данные на нужный момент, сколько это займёт и что поменять, чтобы не повторилось."
+   ],
+   [
+    "Разговор о доступе и аудите",
+    "как разграничить права разработчиков, аналитиков и приложений, как вести аудит и что делать с персональными данными в тестовых копиях."
+   ],
+   [
+    "Рекомендации",
+    "звонок руководителю IT: размер и критичность баз, реальные аварии и как человек их отработал, качество документации и регламентов."
+   ]
+  ],
+  "mistake": "Типичная ошибка: считать, что облачная база не требует администратора, потому что бэкапы включены по умолчанию. Без проверки восстановления, настройки производительности и контроля доступов проблемы проявляются в самый неудобный момент. Ещё ошибка: нанимать DBA под PostgreSQL, когда основная нагрузка на Oracle в ERP, или наоборот.",
+  "sal": [
+   [
+    "Младший администратор баз данных",
+    "9 000 - 15 000"
+   ],
+   [
+    "Администратор баз данных среднего уровня",
+    "15 000 - 25 000"
+   ],
+   [
+    "Старший DBA или архитектор баз данных",
+    "25 000 - 40 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Oracle и банковский сектор, сертификаты и опыт круглосуточной поддержки поднимают пакет; полный пакет зависит от бонуса и надбавок.",
+  "faq": [
+   [
+    "Сколько зарабатывает администратор баз данных в Дубае?",
+    "В 2026 году младший администратор баз данных в Дубае получает около 9 000 - 15 000 AED в месяц, специалист среднего уровня 15 000 - 25 000 AED, старший DBA или архитектор баз данных 25 000 - 40 000 AED. Банки и госсектор с Oracle платят по верхней границе."
+   ],
+   [
+    "Можно ли взять DBA на частичную занятость?",
+    "Да, для небольшой компании с одной-двумя базами часто хватает внешнего DBA на договоре или сотрудника, который совмещает роль с DevOps. Для банка или компании с круглосуточной ERP нужен штатный специалист и замена на время отпуска. Поможем выбрать формат и найти кандидатов под него."
+   ]
+  ],
+  "seek_h2": "Вы администратор баз данных и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Database administrator",
+  "title": "Hire a Database Administrator in Dubai: DBA, Salary | TLNT",
+  "desc": "Hire a DBA in Dubai: Oracle, SQL Server, PostgreSQL, backups and performance. Practical checks on real scenarios, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a database administrator",
+  "h1em": "in Dubai",
+  "intro": "Database administrators are needed by Dubai banks and insurers, government and semi-government groups, retail and logistics companies running ERP, hospitals and fintechs. The work covers availability and backups, query performance, replication and disaster recovery, security and access audit under UAE Central Bank rules and the data protection law, and cloud migrations. We help you decide whether you need a classic Oracle or SQL Server DBA or a cloud specialist, shortlist from our live database and run a practical check.",
+  "find_lead": "A specialist whose backups are proven by restores, who finds slow queries before users complain and grants access on least privilege.",
+  "find": [
+   "Databases: Oracle, Microsoft SQL Server, PostgreSQL or MySQL to match your landscape, plus MongoDB or Redis where needed",
+   "Backup and recovery: an RPO and RTO strategy, regular restore tests, not just backups that exist",
+   "High availability: Always On, Data Guard, PostgreSQL replication, a rehearsed failover to the standby site",
+   "Performance: execution plans, indexes, locking, monitoring and advice to developers",
+   "Security: roles and permissions, encryption, access audit, data masking for test environments",
+   "Cloud and migrations: AWS RDS, Azure SQL, moves with minimal downtime, scripted automation"
+  ],
+  "check_lead": "A DBA mistake is expensive: lost data or hours of downtime. So the check runs on scenarios rather than documentation questions, and your technical specialist scores it.",
+  "steps": [
+   [
+    "Slow query review",
+    "the candidate gets a query and an execution plan with a problem: they explain the bottleneck, which index or rewrite helps and what risks the change carries."
+   ],
+   [
+    "Recovery scenario",
+    "at 2 pm someone dropped the orders table. The candidate describes how they restore data to the right point in time, how long it takes and what to change so it does not happen again."
+   ],
+   [
+    "Access and audit conversation",
+    "how to separate permissions for developers, analysts and applications, how to audit access and what to do with personal data in test copies."
+   ],
+   [
+    "References",
+    "a call with the IT manager: size and criticality of the databases, real incidents and how the person handled them, quality of documentation and runbooks."
+   ]
+  ],
+  "mistake": "Typical mistake: assuming a cloud database needs no administrator because backups are on by default. Without restore tests, performance tuning and access control the problems surface at the worst moment. Another one: hiring a PostgreSQL DBA when most of the load sits on Oracle in the ERP, or the other way round.",
+  "sal": [
+   [
+    "Junior database administrator",
+    "9,000 - 15,000"
+   ],
+   [
+    "Mid-level database administrator",
+    "15,000 - 25,000"
+   ],
+   [
+    "Senior DBA or database architect",
+    "25,000 - 40,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Oracle and banking, certifications and 24/7 support experience raise the package; the total depends on bonus and allowances.",
+  "faq": [
+   [
+    "How much does a database administrator earn in Dubai?",
+    "In 2026 a junior database administrator in Dubai earns about AED 9,000 - 15,000 per month, a mid-level DBA AED 15,000 - 25,000 and a senior DBA or database architect AED 25,000 - 40,000. Banks and government entities running Oracle pay at the top of the range."
+   ],
+   [
+    "Can I hire a DBA part-time?",
+    "Yes, a small company with one or two databases often manages with an external DBA on contract or an engineer who combines the role with DevOps. A bank or a company with a 24/7 ERP needs an in-house specialist and cover for holidays. We help you choose the format and find candidates for it."
+   ]
+  ],
+  "seek_h2": "Are you a database administrator looking for a job in Dubai?"
+ }
+}

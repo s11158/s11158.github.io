@@ -1,0 +1,135 @@
+{
+ "slug": "email-marketing-specialist",
+ "related": [
+  "crm-administrator",
+  "digital-marketing-manager",
+  "performance-marketing-specialist",
+  "copywriter"
+ ],
+ "ru": {
+  "name": "Email-маркетолог",
+  "title": "Найм email-маркетолога в Дубае: проверка, зарплата | TLNT",
+  "desc": "Помогаем найти email-маркетолога в Дубае: автоматизация в Klaviyo, HubSpot и Braze, доставляемость, практическая проверка на кейсе, зарплаты 2026 года.",
+  "h1": "Найм email-маркетолога",
+  "h1em": "в Дубае",
+  "intro": "Email-маркетологи для e-commerce, застройщиков и брокеров недвижимости, отелей, авиа- и туркомпаний, финтеха, образовательных проектов и сетей клиник Дубая. Задачи: цепочки писем и триггерные сценарии, регулярные рассылки, сегментация базы, A/B-тесты, доставляемость, а всё чаще и коммуникации в WhatsApp и push. Помогаем понять, нужен ли вам исполнитель рассылок или специалист по CRM-маркетингу и автоматизации, ищем и оцениваем кандидатов из базы и проверяем на задаче с вашей платформой.",
+  "find_lead": "Email-маркетолог, который строит автоматические цепочки под путь клиента, следит за доставляемостью и отвечает за выручку с канала, а не только за открытия.",
+  "find": [
+   "Платформы: Klaviyo, Mailchimp, HubSpot, Braze, Salesforce Marketing Cloud, Zoho Campaigns",
+   "Автоматизация: welcome-цепочки, брошенная корзина, реактивация, триггеры по поведению и событиям в CRM",
+   "Сегментация и персонализация: RFM, сегменты по интересам и языку, динамический контент",
+   "Доставляемость: SPF, DKIM, DMARC, прогрев домена, гигиена базы, работа с жалобами на спам",
+   "Аналитика: открытия, клики, конверсия, выручка на письмо, A/B-тесты с понятными выводами",
+   "Вёрстка и тексты: адаптивные шаблоны, базовый HTML, грамотные тексты на английском и русском"
+  ],
+  "check_lead": "Красивые письма в портфолио не показывают, сколько они принесли. Проверяем логику, техническую часть и работу с цифрами.",
+  "steps": [
+   [
+    "Схема цепочки под ваш продукт",
+    "кандидат рисует автоматический сценарий, например для нового лида по недвижимости или брошенной корзины: триггеры, задержки, ветвления, цель каждого письма."
+   ],
+   [
+    "Разбор доставляемости",
+    "даём ситуацию: открываемость упала с 30% до 8%. Кандидат объясняет, что проверит в DNS-записях, базе и контенте и в каком порядке."
+   ],
+   [
+    "Анализ отчёта",
+    "обезличенная выгрузка по кампаниям: какие выводы, что тестировать дальше, каким сегментам перестать писать."
+   ],
+   [
+    "Кейсы и рекомендации",
+    "результаты прошлых проектов в выручке и конверсии, звонки прошлым руководителям."
+   ]
+  ],
+  "mistake": "Типичная ошибка: мерить работу email-маркетолога числом отправленных писем и открываемостью. После изменений Apple Mail Privacy открытия завышены, а настоящий результат - клики, заявки и выручка. Ещё ошибка - покупать базы и рассылать по ним: домен попадает в спам, и страдают все письма компании.",
+  "sal": [
+   [
+    "Младший email-маркетолог",
+    "6 000 - 10 000"
+   ],
+   [
+    "Email-маркетолог",
+    "10 000 - 17 000"
+   ],
+   [
+    "Руководитель CRM-маркетинга",
+    "18 000 - 30 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт с Braze или Salesforce Marketing Cloud и сильная аналитика поднимают пакет; в e-commerce встречается бонус от выручки канала.",
+  "faq": [
+   [
+    "Сколько зарабатывает email-маркетолог в Дубае?",
+    "Ориентир на 2026 год: младший специалист 6 000 - 10 000 AED в месяц, email-маркетолог 10 000 - 17 000, руководитель CRM-маркетинга 18 000 - 30 000. Выше платят за сложные платформы автоматизации и опыт в крупном e-commerce."
+   ],
+   [
+    "Email-маркетолог и CRM-администратор - это одно и то же?",
+    "Нет. CRM-администратор настраивает систему, поля, права и интеграции, а email-маркетолог использует данные CRM для коммуникаций и отвечает за результат канала. В небольшой компании роли иногда совмещают; помогаем решить, что вам нужнее."
+   ]
+  ],
+  "seek_h2": "Вы email-маркетолог и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Email marketing specialist",
+  "title": "Hire an email marketing specialist in Dubai: salary | TLNT",
+  "desc": "We help Dubai employers find email marketing specialists: Klaviyo, HubSpot and Braze automation, deliverability, a practical case check and 2026 salaries.",
+  "h1": "Hire an email marketing specialist",
+  "h1em": "in Dubai",
+  "intro": "Email marketing specialists for e-commerce, real estate developers and brokers, hotels, airlines and travel companies, fintech, education projects and clinic groups in Dubai. The work: email flows and triggered journeys, regular campaigns, list segmentation, A/B tests, deliverability, and more and more WhatsApp and push messaging too. We help you decide whether you need a campaign executor or a CRM marketing and automation specialist, shortlist from our database and test candidates on a task built around your platform.",
+  "find_lead": "An email marketer who builds automated journeys around the customer path, protects deliverability and owns revenue from the channel, not just open rates.",
+  "find": [
+   "Platforms: Klaviyo, Mailchimp, HubSpot, Braze, Salesforce Marketing Cloud, Zoho Campaigns",
+   "Automation: welcome flows, abandoned cart, win-back, behavioural and CRM event triggers",
+   "Segmentation and personalisation: RFM, interest and language segments, dynamic content",
+   "Deliverability: SPF, DKIM, DMARC, domain warm-up, list hygiene, spam complaint handling",
+   "Analytics: opens, clicks, conversion, revenue per email, A/B tests with clear conclusions",
+   "Templates and copy: responsive templates, basic HTML, clean copy in English and, where needed, Russian or Arabic"
+  ],
+  "check_lead": "Beautiful emails in a portfolio do not show what they earned. We check the logic, the technical side and the numbers.",
+  "steps": [
+   [
+    "Flow design for your product",
+    "the candidate maps an automated journey, for example for a new real estate lead or an abandoned cart: triggers, delays, branches and the goal of each email."
+   ],
+   [
+    "Deliverability diagnosis",
+    "a scenario: open rate dropped from 30% to 8%. The candidate explains what they would check in DNS records, the list and the content, and in what order."
+   ],
+   [
+    "Report analysis",
+    "an anonymised campaign export: what conclusions, what to test next, which segments to stop mailing."
+   ],
+   [
+    "Cases and references",
+    "past results in revenue and conversion, and calls with previous managers."
+   ]
+  ],
+  "mistake": "A typical mistake: measuring an email marketer by emails sent and open rate. Since Apple Mail Privacy Protection, opens are inflated; the real result is clicks, leads and revenue. Another mistake is buying lists and mailing them: the domain lands in spam and every company email suffers.",
+  "sal": [
+   [
+    "Junior email marketing specialist",
+    "6,000 - 10,000"
+   ],
+   [
+    "Email marketing specialist",
+    "10,000 - 17,000"
+   ],
+   [
+    "Head of CRM marketing",
+    "18,000 - 30,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Braze or Salesforce Marketing Cloud experience and strong analytics raise the package; e-commerce roles sometimes include a bonus tied to channel revenue.",
+  "faq": [
+   [
+    "How much does an email marketing specialist earn in Dubai?",
+    "Typical 2026 ranges: 6,000 - 10,000 AED per month for a junior, 10,000 - 17,000 for an email marketing specialist and 18,000 - 30,000 for a head of CRM marketing. Complex automation platforms and large e-commerce experience pay more."
+   ],
+   [
+    "Is an email marketer the same as a CRM administrator?",
+    "No. A CRM administrator configures the system, fields, permissions and integrations; an email marketer uses CRM data for communications and owns the channel's results. Small companies sometimes combine the roles; we help you decide which you need more."
+   ]
+  ],
+  "seek_h2": "Are you an email marketing specialist looking for a job in Dubai?"
+ }
+}

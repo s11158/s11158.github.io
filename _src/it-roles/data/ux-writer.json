@@ -1,0 +1,135 @@
+{
+ "slug": "ux-writer",
+ "related": [
+  "ui-ux-designer",
+  "product-manager",
+  "copywriter",
+  "technical-writer"
+ ],
+ "ru": {
+  "name": "UX-писатель (UX-редактор)",
+  "title": "Найм UX-писателя (UX-редактора) в Дубае: зарплата | TLNT",
+  "desc": "Помогаем найти UX-писателя в Дубае: тексты интерфейсов на английском, русском и арабском, работа в Figma, практическое задание на экранах, зарплаты 2026.",
+  "h1": "Найм UX-писателя",
+  "h1em": "в Дубае",
+  "intro": "UX-писатели и UX-редакторы для финтеха и банков, супер-приложений, e-commerce, сервисов доставки и бронирования, госуслуг и продуктовых стартапов Дубая. Задачи: тексты кнопок, ошибок, онбординга и уведомлений, голос и тон продукта, глоссарий, работа с локализацией на английский, арабский и русский. Помогаем понять, нужен ли вам UX-писатель в продуктовую команду или руководитель контент-дизайна, ищем и оцениваем кандидатов из нашей базы и проверяем на реальных экранах вашего продукта.",
+  "find_lead": "UX-писатель, который делает интерфейс понятным с первого раза: короткие точные тексты, единый тон и меньше обращений в поддержку.",
+  "find": [
+   "Микрокопи: кнопки, ошибки, пустые состояния, подтверждения, push-уведомления и письма из продукта",
+   "Работа в Figma: правит тексты прямо в макетах, работает в паре с дизайнерами и продакт-менеджерами",
+   "Голос и тон: создание и поддержка гайдлайнов, глоссария, контент-стандартов",
+   "Локализация: английский как основной, понимание RTL и особенностей арабской версии, русский для русскоязычной аудитории",
+   "Исследования: юзабилити-тесты текстов, A/B-тесты формулировок, работа с метриками конверсии",
+   "Ясность и доступность: простой язык, понятные формулировки в финансовых и юридических сценариях"
+  ],
+  "check_lead": "Портфолио UX-писателя часто под NDA, а скриншоты не показывают, какие варианты были отброшены. Поэтому проверяем на ваших экранах.",
+  "steps": [
+   [
+    "Переписать экраны вашего продукта",
+    "кандидат получает 3-4 экрана, например неудачную оплату и онбординг, и предлагает тексты с короткими пояснениями. Задание на два-три часа."
+   ],
+   [
+    "Разбор с дизайнером и продактом",
+    "30-40 минут обсуждения: почему такая формулировка, как она влияет на действие пользователя, как проверить вариант тестом."
+   ],
+   [
+    "Мини-гайд по тону",
+    "кандидат описывает голос продукта на одной странице с примерами \"так / не так\" для разных ситуаций."
+   ],
+   [
+    "Кейсы и рекомендации",
+    "истории, где текст изменил метрику (конверсия, обращения в поддержку), и звонки прошлым руководителям продукта или дизайна."
+   ]
+  ],
+  "mistake": "Типичная ошибка: поручать тексты интерфейса маркетинговому копирайтеру или дизайнеру по остаточному принципу. Маркетинговый текст убеждает, а UX-текст помогает выполнить действие быстро и без ошибок. Ещё ошибка - звать UX-писателя в конце, когда макеты уже утверждены, и тогда тексты приходится втискивать в чужие ограничения.",
+  "sal": [
+   [
+    "Младший UX-писатель",
+    "9 000 - 14 000"
+   ],
+   [
+    "UX-писатель",
+    "14 000 - 22 000"
+   ],
+   [
+    "Старший UX-писатель или руководитель контент-дизайна",
+    "22 000 - 35 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт в финтехе и крупных приложениях, а также арабский язык заметно поднимают пакет; роль часто встречается в гибридном формате.",
+  "faq": [
+   [
+    "Сколько зарабатывает UX-писатель в Дубае?",
+    "Ориентир на 2026 год: младший UX-писатель 9 000 - 14 000 AED в месяц, UX-писатель 14 000 - 22 000, старший специалист или руководитель контент-дизайна 22 000 - 35 000. Выше платят в финтехе и крупных продуктовых компаниях."
+   ],
+   [
+    "Чем UX-писатель отличается от копирайтера?",
+    "Копирайтер пишет, чтобы привлечь и убедить: реклама, сайт, соцсети. UX-писатель работает внутри продукта и помогает пользователю пройти путь без ошибок: кнопки, подсказки, ошибки, онбординг. Навыки пересекаются, но проверять их нужно по-разному."
+   ]
+  ],
+  "seek_h2": "Вы UX-писатель и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "UX writer (UX editor)",
+  "title": "Hire a UX writer in Dubai: practical test, salary | TLNT",
+  "desc": "We help Dubai employers find UX writers for interface copy in English, Arabic and Russian, Figma workflows, a practical test on your screens and 2026 salaries.",
+  "h1": "Hire a UX writer",
+  "h1em": "in Dubai",
+  "intro": "UX writers and UX editors for fintech and banks, super apps, e-commerce, delivery and booking services, government digital services and product start-ups in Dubai. The work: button labels, error messages, onboarding and notifications, product voice and tone, a glossary, and working with localisation into English, Arabic and Russian. We help you decide whether you need a UX writer embedded in a product squad or a content design lead, shortlist from our live database and test candidates on real screens of your product.",
+  "find_lead": "A UX writer who makes the interface clear the first time: short, precise copy, one consistent voice and fewer support tickets.",
+  "find": [
+   "Microcopy: buttons, errors, empty states, confirmations, push notifications and in-product emails",
+   "Figma workflow: edits copy directly in designs, works closely with designers and product managers",
+   "Voice and tone: creating and maintaining guidelines, a glossary and content standards",
+   "Localisation: English as the primary language, awareness of RTL and Arabic versions, Russian for Russian-speaking audiences",
+   "Research: usability testing of copy, A/B testing of wording, working with conversion metrics",
+   "Clarity and accessibility: plain language, understandable wording for financial and legal flows"
+  ],
+  "check_lead": "A UX writer's portfolio is often under NDA, and screenshots do not show the options that were rejected. So we test on your screens.",
+  "steps": [
+   [
+    "Rewrite your product screens",
+    "the candidate gets 3-4 screens, for example a failed payment and onboarding, and proposes copy with a short rationale. A two-to-three hour task."
+   ],
+   [
+    "Review with design and product",
+    "a 30-40 minute discussion: why this wording, how it affects user action, how to validate it with a test."
+   ],
+   [
+    "One-page tone guide",
+    "the candidate describes the product voice on one page with do and don't examples for different situations."
+   ],
+   [
+    "Cases and references",
+    "stories where copy moved a metric (conversion, support contacts), and calls with past product or design leads."
+   ]
+  ],
+  "mistake": "A typical mistake: leaving interface copy to a marketing copywriter or to designers as an afterthought. Marketing copy persuades; UX copy helps users complete an action quickly and without errors. Another mistake is bringing the UX writer in at the end, once designs are approved, so the copy has to be squeezed into someone else's constraints.",
+  "sal": [
+   [
+    "Junior UX writer",
+    "9,000 - 14,000"
+   ],
+   [
+    "UX writer",
+    "14,000 - 22,000"
+   ],
+   [
+    "Senior UX writer or content design lead",
+    "22,000 - 35,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Fintech and large app experience, as well as Arabic, noticeably raise the package; the role is often hybrid.",
+  "faq": [
+   [
+    "How much does a UX writer earn in Dubai?",
+    "Typical 2026 ranges: 9,000 - 14,000 AED per month for a junior UX writer, 14,000 - 22,000 for a UX writer and 22,000 - 35,000 for a senior writer or content design lead. Fintech and large product companies pay the most."
+   ],
+   [
+    "How is a UX writer different from a copywriter?",
+    "A copywriter writes to attract and persuade: ads, websites, social media. A UX writer works inside the product and helps users get through flows without errors: buttons, hints, errors, onboarding. The skills overlap, but they need to be tested differently."
+   ]
+  ],
+  "seek_h2": "Are you a UX writer looking for a job in Dubai?"
+ }
+}

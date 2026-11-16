@@ -1,0 +1,76 @@
+{
+ "slug": "fullstack-developer",
+ "related": ["frontend-developer", "backend-developer", "cto", "software-developer"],
+ "ru": {
+  "name": "Fullstack-разработчик",
+  "title": "Найм fullstack-разработчика в Дубае: стек, проверка, зарплата | TLNT",
+  "desc": "Как нанять fullstack-разработчика в Дубае: стек React и Node.js, проверка на реальной фиче, зарплаты 2026 года и помощь TLNT в поиске и оценке кандидатов.",
+  "h1": "Найм fullstack-разработчика",
+  "h1em": "в Дубае",
+  "intro": "Fullstack-разработчиков чаще всего ищут стартапы Дубая на этапе MVP, небольшие продуктовые команды, e-commerce и компании, которые делают внутренние системы: CRM, порталы, панели управления. Один человек ведёт фичу от базы данных до интерфейса, поэтому важна самостоятельность не меньше, чем стек. TLNT помогает решить, нужен вам fullstack или пара узких специалистов, собирает шорт-лист из нашей живой базы и проверяет кандидатов на практической задаче.",
+  "find_lead": "Нужен разработчик, который сам доводит фичу от идеи до продакшена.",
+  "find": [
+   "Frontend: React или Vue, Next.js, TypeScript, адаптив и RTL",
+   "Backend: Node.js, Python или PHP/Laravel, проектирование API",
+   "Базы данных: PostgreSQL или MongoDB, понимание схемы и запросов",
+   "Деплой: Docker, CI/CD, Vercel, AWS или DigitalOcean",
+   "Интеграции: оплата, авторизация, CRM, рассылки, карты",
+   "Самостоятельность: умеет уточнить задачу у бизнеса и оценить сроки"
+  ],
+  "check_lead": "Слабое место fullstack-кандидата обычно в одной из половин стека. Проверка должна задеть обе.",
+  "steps": [
+   ["Фича целиком", "небольшая задача за 3-4 часа: форма, API, сохранение в базу и вывод списка, задеплоенные по ссылке"],
+   ["Слабая сторона", "отдельные вопросы по той части стека, где опыта меньше, чтобы увидеть реальную глубину"],
+   ["Оценка задачи", "даём описание фичи от бизнеса и просим разбить на шаги и оценить сроки"],
+   ["Поддержка", "кандидат объясняет, как найдёт ошибку, которую клиент видит только на телефоне"]
+  ],
+  "mistake": "Типичная ошибка: ждать от одного fullstack-разработчика уровня сильного frontend, backend и DevOps одновременно. Такие люди редки и дороги. Лучше честно определить, какая половина продукта важнее, и искать сильного в ней.",
+  "sal": [
+   ["Младший fullstack-разработчик", "9 000 - 14 000"],
+   ["Fullstack-разработчик (middle)", "15 000 - 24 000"],
+   ["Senior / lead fullstack", "25 000 - 38 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, AED в месяц до вычетов. Стартапы часто добавляют опционы, агентства и небольшие компании платят ближе к нижней границе.",
+  "faq": [
+   ["Сколько зарабатывает fullstack-разработчик в Дубае?", "Ориентир на 2026 год: около 9 000 - 14 000 AED в месяц у младшего, 15 000 - 24 000 AED у middle и 25 000 - 38 000 AED у senior и лидов. В стартапах часть дохода может быть в опционах."],
+   ["Fullstack или два отдельных разработчика?", "Для MVP и внутренних систем часто хватает одного сильного fullstack. Когда продукт растёт, у него большая нагрузка или сложный интерфейс, выгоднее разделить роли. Мы помогаем принять это решение на бесплатном разборе вакансии."]
+  ],
+  "seek_h2": "Вы fullstack-разработчик и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Fullstack developer",
+  "title": "Hire a Fullstack Developer in Dubai: Stack, Tests, Salary | TLNT",
+  "desc": "How to hire a fullstack developer in Dubai: React and Node.js stack, a practical end-to-end feature test, 2026 salaries and TLNT help assessing candidates.",
+  "h1": "Hire a fullstack developer",
+  "h1em": "in Dubai",
+  "intro": "Fullstack developers are most often hired by Dubai startups building an MVP, small product teams, e-commerce brands and companies building internal systems such as CRMs, portals and admin panels. One person owns a feature from the database to the interface, so independence matters as much as the stack. TLNT helps you decide whether you need a fullstack developer or two specialists, shortlists candidates from our live database and checks them with a practical task.",
+  "find_lead": "You need a developer who takes a feature from idea to production on their own.",
+  "find": [
+   "Frontend: React or Vue, Next.js, TypeScript, responsive and RTL",
+   "Backend: Node.js, Python or PHP/Laravel, API design",
+   "Databases: PostgreSQL or MongoDB, schema and query design",
+   "Deployment: Docker, CI/CD, Vercel, AWS or DigitalOcean",
+   "Integrations: payments, auth, CRM, email, maps",
+   "Ownership: clarifies the task with the business and estimates timing"
+  ],
+  "check_lead": "A fullstack candidate is usually weak in one half of the stack. The check must cover both.",
+  "steps": [
+   ["Whole feature", "a 3-4 hour task: form, API, database save and a list view, deployed to a live link"],
+   ["Weak side", "targeted questions on the half of the stack with less experience to see the real depth"],
+   ["Estimation", "give a business description of a feature and ask for a breakdown and timeline"],
+   ["Support case", "the candidate explains how they would debug an error a client only sees on mobile"]
+  ],
+  "mistake": "A common mistake: expecting one fullstack developer to be a strong frontend, backend and DevOps engineer at once. Such people are rare and expensive. Decide honestly which half of the product matters more and hire someone strong there.",
+  "sal": [
+   ["Junior fullstack developer", "9,000 - 14,000"],
+   ["Fullstack developer (mid)", "15,000 - 24,000"],
+   ["Senior / lead fullstack", "25,000 - 38,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, AED per month gross. Startups often add equity, agencies and small companies pay closer to the lower end.",
+  "faq": [
+   ["How much does a fullstack developer earn in Dubai?", "As a 2026 guide: about 9,000 - 14,000 AED per month for a junior, 15,000 - 24,000 AED for a mid-level developer and 25,000 - 38,000 AED for seniors and leads. In startups part of the package may be equity."],
+   ["Fullstack developer or two specialists?", "For an MVP or internal systems one strong fullstack developer is often enough. As the product grows, takes heavy load or gets a complex interface, splitting the roles pays off. We help you make this call in a free review of the role."]
+  ],
+  "seek_h2": "Are you a fullstack developer looking for a job in Dubai?"
+ }
+}

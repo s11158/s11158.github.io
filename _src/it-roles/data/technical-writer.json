@@ -1,0 +1,135 @@
+{
+ "slug": "technical-writer",
+ "related": [
+  "software-developer",
+  "product-manager",
+  "content-manager",
+  "ux-writer"
+ ],
+ "ru": {
+  "name": "Технический писатель",
+  "title": "Найм технического писателя в Дубае: тест, зарплата | TLNT",
+  "desc": "Ищем технического писателя в Дубае: API-документация, инструкции, база знаний, docs-as-code. Тестовое задание, шорт-лист из живой базы, зарплаты 2026.",
+  "h1": "Найм технического писателя",
+  "h1em": "в Дубае",
+  "intro": "Технический писатель в Дубае нужен SaaS и финтех-компаниям, разработчикам ПО, телекому, авиации и инженерным компаниям. Он пишет документацию API, руководства пользователя, базы знаний поддержки и регламенты, которые требуют аудиторы и регуляторы. Хороший писатель сокращает число обращений в поддержку и время ввода новых сотрудников. TLNT помогает определить нужный профиль - для разработчиков, для пользователей или для комплаенса, собирает шорт-лист из нашей живой базы и проверяет кандидатов на тексте по вашему продукту.",
+  "find_lead": "Нужен человек, который разбирается в продукте и пишет так, что людям не нужно звонить в поддержку.",
+  "find": [
+   "Документация API: OpenAPI/Swagger, примеры запросов, понимание REST и аутентификации",
+   "Инструменты: Confluence, Notion, GitBook, MadCap Flare или docs-as-code (Markdown, Git)",
+   "Структура: умеет строить навигацию базы знаний и шаблоны, а не просто писать страницы",
+   "Работа с экспертами: вытаскивает информацию из разработчиков и инженеров, задаёт точные вопросы",
+   "Стиль: ясный английский, знакомство с Microsoft или Google style guide",
+   "Языки: русский - плюс для двуязычной документации и русскоязычной команды"
+  ],
+  "check_lead": "Лучшая проверка писателя - текст по вашему реальному продукту.",
+  "steps": [
+   [
+    "Тестовая статья",
+    "кандидат получает описание функции или эндпоинта и пишет страницу документации за 2-3 часа"
+   ],
+   [
+    "Редактура",
+    "дать плохо написанную инструкцию и попросить переписать: смотрим логику, а не только грамматику"
+   ],
+   [
+    "Интервью с экспертом",
+    "короткий разговор с вашим разработчиком: умеет ли кандидат спрашивать и уточнять"
+   ],
+   [
+    "Портфолио",
+    "разбор опубликованной документации кандидата: структура, примеры, актуальность"
+   ]
+  ],
+  "mistake": "Типичная ошибка: поручить документацию маркетинговому копирайтеру или младшему разработчику \"между задачами\". В итоге получается или красивый текст без точности, или точный текст, который никто не понимает. Технический писатель - отдельная профессия.",
+  "sal": [
+   [
+    "Младший технический писатель",
+    "10 000 - 16 000"
+   ],
+   [
+    "Технический писатель",
+    "16 000 - 25 000"
+   ],
+   [
+    "Ведущий / руководитель документации",
+    "25 000 - 38 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, AED в месяц до вычетов. Писатели с опытом API-документации и docs-as-code получают ближе к верхней границе.",
+  "faq": [
+   [
+    "Сколько зарабатывает технический писатель в Дубае?",
+    "В 2026 году младший технический писатель получает около 10 000 - 16 000 AED в месяц, технический писатель 16 000 - 25 000 AED, ведущий специалист или руководитель документации 25 000 - 38 000 AED."
+   ],
+   [
+    "Может ли технический писатель работать удалённо?",
+    "Да, это одна из ролей, где удалённый или гибридный формат работает хорошо, если есть доступ к разработчикам и продукту. Мы подбираем кандидатов под ваш формат, а условия работы вы согласуете сами."
+   ]
+  ],
+  "seek_h2": "Вы технический писатель и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Technical writer",
+  "title": "Hire a Technical Writer in Dubai: Test Task, Salary | TLNT",
+  "desc": "Hire a technical writer in Dubai: API docs, user guides, knowledge bases, docs-as-code. Practical writing test, shortlist from our database, 2026 salaries.",
+  "h1": "Hire a technical writer",
+  "h1em": "in Dubai",
+  "intro": "Dubai companies hiring technical writers include SaaS and fintech, software houses, telecom, aviation and engineering firms. The writer produces API documentation, user guides, support knowledge bases and the procedures auditors and regulators ask for. A good writer cuts support tickets and onboarding time. TLNT helps define the profile you need - developer docs, end-user docs or compliance, shortlists from our live database and assesses candidates on writing about your actual product.",
+  "find_lead": "You need someone who understands the product and writes so people do not have to call support.",
+  "find": [
+   "API documentation: OpenAPI/Swagger, request examples, understanding of REST and authentication",
+   "Tools: Confluence, Notion, GitBook, MadCap Flare or docs-as-code (Markdown, Git)",
+   "Structure: designs knowledge base navigation and templates, not just individual pages",
+   "Working with experts: gets information out of developers and engineers with precise questions",
+   "Style: clear English, familiar with the Microsoft or Google style guide",
+   "Languages: Russian is a plus for bilingual documentation and Russian-speaking teams"
+  ],
+  "check_lead": "The best test of a writer is a text about your real product.",
+  "steps": [
+   [
+    "Test article",
+    "the candidate gets a feature or endpoint description and writes a documentation page in 2-3 hours"
+   ],
+   [
+    "Editing task",
+    "rewrite a poorly written guide: we look at logic, not only grammar"
+   ],
+   [
+    "Expert interview",
+    "a short call with your developer: can the candidate ask and clarify"
+   ],
+   [
+    "Portfolio review",
+    "published documentation by the candidate: structure, examples, freshness"
+   ]
+  ],
+  "mistake": "Typical mistake: giving documentation to a marketing copywriter or a junior developer \"between tasks\". You get either a nice text without precision or a precise text nobody understands. Technical writing is its own profession.",
+  "sal": [
+   [
+    "Junior technical writer",
+    "10,000 - 16,000"
+   ],
+   [
+    "Technical writer",
+    "16,000 - 25,000"
+   ],
+   [
+    "Senior writer / documentation lead",
+    "25,000 - 38,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, AED per month gross. Writers with API and docs-as-code experience sit closer to the top of the range.",
+  "faq": [
+   [
+    "How much does a technical writer earn in Dubai?",
+    "In 2026 a junior technical writer earns around 10,000 - 16,000 AED per month, a technical writer 16,000 - 25,000 AED, and a senior writer or documentation lead 25,000 - 38,000 AED."
+   ],
+   [
+    "Can a technical writer work remotely?",
+    "Yes, it is one of the roles where remote or hybrid works well, as long as there is access to developers and the product. We shortlist candidates for your format, and you agree the working terms yourself."
+   ]
+  ],
+  "seek_h2": "Are you a technical writer looking for a job in Dubai?"
+ }
+}

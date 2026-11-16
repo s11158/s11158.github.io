@@ -1,0 +1,76 @@
+{
+ "slug": "mobile-developer",
+ "related": ["frontend-developer", "backend-developer", "qa-engineer", "ui-ux-designer"],
+ "ru": {
+  "name": "Мобильный разработчик",
+  "title": "Найм мобильного разработчика в Дубае: iOS, Android, зарплата | TLNT",
+  "desc": "Как нанять мобильного разработчика iOS и Android в Дубае: Swift, Kotlin, Flutter, проверка на задаче, зарплаты 2026 года и помощь TLNT в оценке кандидатов.",
+  "h1": "Найм мобильного разработчика",
+  "h1em": "в Дубае",
+  "intro": "В ОАЭ многие продукты живут прежде всего в телефоне: доставка, такси, банки, финтех, недвижимость, программы лояльности ритейла. Мобильные разработчики для iOS и Android нужны стартапам, банкам, супераппам и студиям, которые делают приложения для клиентов. TLNT помогает выбрать между нативной разработкой и Flutter или React Native, собирает шорт-лист из нашей живой базы и проверяет кандидатов на практическом задании, а решение о найме за вами.",
+  "find_lead": "Нужен разработчик, который выпускает стабильные приложения в App Store и Google Play.",
+  "find": [
+   "iOS: Swift, SwiftUI и UIKit, публикация в App Store и прохождение ревью",
+   "Android: Kotlin, Jetpack Compose, разные устройства и версии системы",
+   "Кроссплатформа: Flutter или React Native, когда нужна одна команда на два магазина",
+   "Архитектура: MVVM или Clean, офлайн-режим, работа с API",
+   "Платежи и вход: Apple Pay, Google Pay, UAE PASS, push-уведомления",
+   "Качество: краши и аналитика в Firebase, тесты, RTL для арабского интерфейса"
+  ],
+  "check_lead": "Опубликованные приложения в магазинах можно скачать и посмотреть. Но вклад кандидата в них нужно проверять отдельно.",
+  "steps": [
+   ["Мини-приложение", "экран со списком из API, деталями и кэшем для офлайна за 3-4 часа на нужной платформе"],
+   ["Разбор своего приложения", "кандидат показывает приложение из портфолио и объясняет, какие части писал сам"],
+   ["Краш и производительность", "даём отчёт о падении из Crashlytics и просим найти причину"],
+   ["Релизный процесс", "как выпускает версии, что делает при отказе в ревью Apple и как откатывает ошибку"]
+  ],
+  "mistake": "Типичная ошибка: нанять одного iOS-разработчика и ждать, что он заодно сделает Android, или наоборот. Нативные платформы разные. Если нужен один человек на оба магазина, ищите сразу Flutter или React Native и закладывайте это в продукт.",
+  "sal": [
+   ["Младший мобильный разработчик", "9 000 - 14 000"],
+   ["Мобильный разработчик (middle)", "15 000 - 25 000"],
+   ["Senior / lead iOS или Android", "26 000 - 40 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, AED в месяц до вычетов. Нативные senior iOS и Android в банках и супераппах стоят выше, Flutter-разработчиков на рынке больше.",
+  "faq": [
+   ["Сколько зарабатывает мобильный разработчик в Дубае?", "Ориентир на 2026 год: около 9 000 - 14 000 AED в месяц у младшего, 15 000 - 25 000 AED у middle и 26 000 - 40 000 AED у senior и лидов. Банки и крупные приложения платят выше, студии ближе к нижней границе."],
+   ["Нативная разработка или Flutter?", "Flutter или React Native дешевле, когда нужно быстро выпустить приложение на обе платформы. Нативная разработка лучше для сложной графики, банковской безопасности и глубокой работы с устройством. Мы помогаем выбрать до начала поиска, чтобы не переделывать команду."]
+  ],
+  "seek_h2": "Вы мобильный разработчик и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Mobile developer",
+  "title": "Hire a Mobile Developer in Dubai: iOS, Android, Salary | TLNT",
+  "desc": "How to hire an iOS or Android mobile developer in Dubai: Swift, Kotlin, Flutter, practical checks, 2026 salary ranges and TLNT help assessing candidates.",
+  "h1": "Hire a mobile developer",
+  "h1em": "in Dubai",
+  "intro": "In the UAE many products live on the phone first: delivery, ride hailing, banking, fintech, real estate and retail loyalty apps. Mobile developers for iOS and Android are hired by startups, banks, super apps and studios building apps for clients. TLNT helps you choose between native development and Flutter or React Native, shortlists candidates from our live database and checks them with a practical task, while the hiring decision stays with you.",
+  "find_lead": "You need a developer who ships stable apps to the App Store and Google Play.",
+  "find": [
+   "iOS: Swift, SwiftUI and UIKit, App Store publishing and review",
+   "Android: Kotlin, Jetpack Compose, many devices and OS versions",
+   "Cross-platform: Flutter or React Native when one team covers both stores",
+   "Architecture: MVVM or Clean, offline mode, API integration",
+   "Payments and login: Apple Pay, Google Pay, UAE PASS, push notifications",
+   "Quality: Firebase crash reports and analytics, tests, RTL for Arabic UI"
+  ],
+  "check_lead": "Published apps can be downloaded and reviewed, but the candidate's own contribution has to be checked separately.",
+  "steps": [
+   ["Mini app", "a list screen from an API with details and an offline cache in 3-4 hours on the target platform"],
+   ["Own app walkthrough", "the candidate shows a portfolio app and explains which parts they built"],
+   ["Crash and performance", "give a Crashlytics crash report and ask for the cause"],
+   ["Release process", "how they ship versions, handle an Apple review rejection and roll back a bug"]
+  ],
+  "mistake": "A common mistake: hiring one iOS developer and expecting them to also build Android, or the other way round. Native platforms are different. If you need one person for both stores, hire for Flutter or React Native from the start and plan the product around it.",
+  "sal": [
+   ["Junior mobile developer", "9,000 - 14,000"],
+   ["Mobile developer (mid)", "15,000 - 25,000"],
+   ["Senior / lead iOS or Android", "26,000 - 40,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, AED per month gross. Senior native iOS and Android engineers in banks and super apps cost more, Flutter developers are easier to find.",
+  "faq": [
+   ["How much does a mobile developer earn in Dubai?", "As a 2026 guide: about 9,000 - 14,000 AED per month for a junior, 15,000 - 25,000 AED for a mid-level developer and 26,000 - 40,000 AED for seniors and leads. Banks and large apps pay more, studios closer to the lower end."],
+   ["Native development or Flutter?", "Flutter or React Native is cheaper when you need to launch on both platforms fast. Native is better for complex graphics, banking-grade security and deep device features. We help you choose before the search starts so you do not rebuild the team later."]
+  ],
+  "seek_h2": "Are you a mobile developer looking for a job in Dubai?"
+ }
+}

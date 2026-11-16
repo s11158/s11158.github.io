@@ -1,0 +1,76 @@
+{
+ "slug": "devrel",
+ "related": ["software-developer", "product-marketing-manager", "community-manager", "technical-writer"],
+ "ru": {
+  "name": "DevRel",
+  "title": "Найм DevRel в Дубае: адвокат разработчиков, проверка, зарплата | TLNT",
+  "desc": "Ищем DevRel в Дубае для API, блокчейн- и SaaS-продуктов: код, контент, сообщество. Практическая проверка кандидатов и реальные зарплаты на 2026 год.",
+  "h1": "Найм DevRel-специалиста",
+  "h1em": "в Дубае",
+  "intro": "Developer Relations нужен компаниям, чей клиент - разработчик: Web3-проектам в DMCC и VARA-зоне, API-платформам и финтеху, облачным и AI-сервисам с офисом в Дубае. DevRel пишет примеры кода и туториалы, выступает на митапах и хакатонах, ведёт Discord и GitHub и приносит обратную связь в продукт. Это редкое сочетание инженера и публичного человека. Мы помогаем понять, какой DevRel вам нужен, собираем шорт-лист из нашей живой базы и проверяем кандидатов на вашем API.",
+  "find_lead": "Нужен человек, который пишет рабочий код и умеет объяснить продукт живой аудитории разработчиков.",
+  "find": [
+   "Код: реальный опыт разработки, SDK, примеры и демо-приложения на ваших языках",
+   "Технический контент: документация, туториалы, статьи, видео и стримы",
+   "Публичные выступления: митапы, конференции вроде GITEX и Token2049, воркшопы",
+   "Сообщество: Discord, Telegram, GitHub Discussions, хакатоны и программы амбассадоров",
+   "Связка с продуктом: собирает фидбэк разработчиков и превращает его в задачи",
+   "Метрики DevRel: активация разработчиков, time to first call, рост сообщества"
+  ],
+  "check_lead": "DevRel проверяется на вашем продукте: насколько быстро он разберётся сам и как объяснит другим.",
+  "steps": [
+   ["Первый запуск API", "Дайте доступ к sandbox и попросите за 2-3 часа собрать небольшое демо, записав все места, где споткнулся."],
+   ["Мини-туториал", "Пусть превратит это демо в короткий туториал для начинающего разработчика."],
+   ["Выступление 10 минут", "Попросите провести короткий доклад или live-coding перед вашей командой и ответить на неудобные вопросы."],
+   ["Разбор сообщества", "Покажите ваш Discord или GitHub issues и спросите, что он сделал бы в первые 30 дней."]
+  ],
+  "mistake": "Типичная ошибка: нанять маркетолога с хорошим блогом вместо инженера. Разработчики быстро чувствуют, когда человек не понимает код, и доверие сообщества теряется. Обратная ошибка - сильный разработчик, который не любит выступать и писать: проверяйте обе стороны.",
+  "sal": [
+   ["Developer Advocate", "18 000 - 28 000"],
+   ["Senior Developer Advocate", "28 000 - 42 000"],
+   ["Head of DevRel", "42 000 - 65 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, AED в месяц до вычетов. В Web3 часть вознаграждения часто дают токенами, в крупных технологических компаниях добавляются акции и бюджет на поездки на конференции.",
+  "faq": [
+   ["Сколько зарабатывает DevRel в Дубае?", "В 2026 году Developer Advocate получает около 18 000 - 28 000 AED в месяц, senior-специалист 28 000 - 42 000 AED, руководитель DevRel 42 000 - 65 000 AED. Выше платят в Web3 и AI-компаниях, где сообщество разработчиков напрямую влияет на рост."],
+   ["Чем DevRel отличается от технического писателя и комьюнити-менеджера?", "Технический писатель отвечает за документацию, комьюнити-менеджер за жизнь сообщества. DevRel соединяет код, контент и сообщество и при этом влияет на продукт. Небольшой компании часто нужен один DevRel вместо трёх ролей, и мы помогаем точно описать этот профиль."]
+  ],
+  "seek_h2": "Вы DevRel и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "DevRel",
+  "title": "Hire a DevRel in Dubai: Developer Advocate, Checks, Salary | TLNT",
+  "desc": "Hire a Developer Relations specialist in Dubai for API, Web3 and SaaS products: code, content and community. Practical checks and 2026 salary ranges.",
+  "h1": "Hire a DevRel specialist",
+  "h1em": "in Dubai",
+  "intro": "Developer Relations matters for companies whose customer is a developer: Web3 projects in DMCC and under VARA, API platforms and fintech, cloud and AI services with a Dubai office. A DevRel writes sample code and tutorials, speaks at meetups and hackathons, runs Discord and GitHub and brings feedback back into the product. It is a rare mix of engineer and public person. We help you decide which DevRel you need, shortlist from our live database and test candidates on your own API.",
+  "find_lead": "You need someone who writes working code and can explain your product to a live developer audience.",
+  "find": [
+   "Code: real development experience, SDKs, samples and demo apps in your languages",
+   "Technical content: docs, tutorials, articles, videos and live streams",
+   "Public speaking: meetups, conferences such as GITEX and Token2049, workshops",
+   "Community: Discord, Telegram, GitHub Discussions, hackathons and ambassador programs",
+   "Product loop: collects developer feedback and turns it into actionable tickets",
+   "DevRel metrics: developer activation, time to first call, community growth"
+  ],
+  "check_lead": "Test a DevRel on your product: how fast they figure it out alone and how well they explain it to others.",
+  "steps": [
+   ["First API run", "Give sandbox access and ask for a small demo in 2-3 hours, noting every point where they got stuck."],
+   ["Mini tutorial", "Have them turn that demo into a short tutorial for a beginner developer."],
+   ["10-minute talk", "Ask for a short talk or live-coding session for your team, followed by tough questions."],
+   ["Community review", "Show your Discord or GitHub issues and ask what they would do in the first 30 days."]
+  ],
+  "mistake": "A common mistake: hiring a marketer with a nice blog instead of an engineer. Developers quickly sense when someone does not understand the code, and community trust is lost. The opposite mistake is a strong developer who dislikes speaking and writing, so test both sides.",
+  "sal": [
+   ["Developer Advocate", "18,000 - 28,000"],
+   ["Senior Developer Advocate", "28,000 - 42,000"],
+   ["Head of DevRel", "42,000 - 65,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, AED per month gross. Web3 companies often pay part in tokens; large tech companies add equity and a conference travel budget.",
+  "faq": [
+   ["How much does a DevRel earn in Dubai?", "In 2026 a Developer Advocate earns about 18,000 - 28,000 AED per month, a senior advocate 28,000 - 42,000 AED and a Head of DevRel 42,000 - 65,000 AED. Web3 and AI companies pay more, since the developer community drives their growth directly."],
+   ["How is DevRel different from a technical writer or community manager?", "A technical writer owns documentation, a community manager owns community life. A DevRel combines code, content and community and also shapes the product. A smaller company often needs one DevRel instead of three roles, and we help you define that profile precisely."]
+  ],
+  "seek_h2": "Are you a DevRel looking for a job in Dubai?"
+ }
+}

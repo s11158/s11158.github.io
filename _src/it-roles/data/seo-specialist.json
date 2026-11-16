@@ -1,0 +1,135 @@
+{
+ "slug": "seo-specialist",
+ "related": [
+  "digital-marketing-manager",
+  "content-manager",
+  "ppc-specialist",
+  "marketing-manager"
+ ],
+ "ru": {
+  "name": "SEO-специалист",
+  "title": "Найм SEO-специалиста в Дубае: проверка, зарплата | TLNT",
+  "desc": "Поможем найти SEO-специалиста в Дубае: аудит вашего сайта как тест, двуязычный SEO на английском и арабском, зарплаты 2026 и шорт-лист из нашей базы.",
+  "h1": "Найм SEO-специалиста",
+  "h1em": "в Дубае",
+  "intro": "SEO-специалисты для девелоперов и агентств недвижимости, клиник, e-commerce, отелей и B2B-сервисов Дубая, где органический трафик дешевле рекламы, но конкуренция за запросы вроде \"apartments for sale Dubai Marina\" очень высокая. Нужны технический SEO, контент на английском, часто на арабском и русском, локальная выдача и Google Business Profile. Помогаем определить, нужен ли вам технарь, контентный SEO или руководитель направления, затем кандидат разбирает ваш реальный сайт, а результат оцениваете вы.",
+  "find_lead": "Специалист, который приводит заявки, а не только позиции, и умеет объяснить, почему трафик вырос или упал.",
+  "find": [
+   "Технический SEO: индексация, Core Web Vitals, sitemap, canonical, hreflang для нескольких языков, JS-рендеринг на Tilda, WordPress, Next.js",
+   "Семантика под рынок ОАЭ: запросы на английском, арабском и русском, интент покупателя и арендатора, сезонность Дубая",
+   "Локальный SEO: Google Business Profile, карты, отзывы, страницы под районы и эмираты",
+   "Контент и ссылки: ТЗ для копирайтеров, E-E-A-T, PR-публикации в региональных медиа вместо покупки сомнительных ссылок",
+   "Аналитика: Google Search Console, GA4, Ahrefs или Semrush, Looker Studio, связь органики с заявками в CRM",
+   "Работа с разработкой: понятные тикеты для программистов, проверка релизов, чтобы обновление сайта не обрушило трафик"
+  ],
+  "check_lead": "Отчёты из прошлых проектов легко приукрасить. Поэтому проверка строится на вашем сайте и ваших конкурентах.",
+  "steps": [
+   [
+    "Мини-аудит вашего сайта",
+    "за 2-3 часа кандидат находит 5-7 главных проблем и ранжирует их по влиянию на заявки, а не выдаёт выгрузку из Screaming Frog на 300 строк"
+   ],
+   [
+    "Разбор конкурента",
+    "почему конкурент выше по 2-3 ключевым запросам: контент, ссылки, структура, локальная выдача"
+   ],
+   [
+    "План на 90 дней",
+    "что делать в первый месяц, какие метрики покажут результат и что потребуется от разработчиков и копирайтеров"
+   ],
+   [
+    "Кейсы и рекомендации",
+    "доступ к Search Console прошлого проекта или скриншоты с датами, звонок прежнему руководителю"
+   ]
+  ],
+  "mistake": "Типичная ошибка: ждать роста за месяц и судить SEO-специалиста по позициям, а не по заявкам. Вторая ошибка: нанять человека, который знает только англоязычную выдачу, когда половина ваших клиентов ищет на арабском или русском. Заранее решите, на каких языках и в каких эмиратах вам нужна видимость.",
+  "sal": [
+   [
+    "Младший SEO-специалист",
+    "7 000 - 12 000"
+   ],
+   [
+    "SEO-специалист",
+    "12 000 - 20 000"
+   ],
+   [
+    "Senior SEO или руководитель SEO",
+    "20 000 - 35 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год до вычета расходов работодателя на визу и страховку. Выше платят в недвижимости и e-commerce, а также за технический SEO и арабский язык. Условия согласует работодатель.",
+  "faq": [
+   [
+    "Сколько зарабатывает SEO-специалист в Дубае?",
+    "Обычно от 7 000 до 12 000 AED в месяц на младшем уровне, 12 000 - 20 000 AED у опытного специалиста и 20 000 - 35 000 AED у руководителя SEO. Подскажем рыночный пакет под ваши задачи, условия вы согласуете с кандидатом сами."
+   ],
+   [
+    "Что лучше: штатный SEO-специалист или агентство?",
+    "Если сайт большой, контент выходит каждую неделю и SEO влияет на продажи, штатный специалист обычно выгоднее: он знает продукт и быстрее работает с разработкой. Агентство подходит для разового аудита или небольшого сайта. Поможем определить профиль и найти кандидатов из нашей живой базы."
+   ]
+  ],
+  "seek_h2": "Вы SEO-специалист и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "SEO specialist",
+  "title": "Hire an SEO Specialist in Dubai: Tests and Salary | TLNT",
+  "desc": "Hire an SEO specialist in Dubai: a live audit of your site as the test, bilingual English and Arabic SEO, 2026 salaries and a shortlist from our database.",
+  "h1": "Hire an SEO specialist",
+  "h1em": "in Dubai",
+  "intro": "SEO specialists for Dubai developers and real estate brokerages, clinics, e-commerce, hotels and B2B services, where organic traffic is cheaper than ads but competition for queries like \"apartments for sale Dubai Marina\" is fierce. The role covers technical SEO, English content, often Arabic and Russian too, local search and Google Business Profile. We help you decide whether you need a technical SEO, a content-led SEO or a head of SEO, then candidates audit your real site and you judge the result.",
+  "find_lead": "A specialist who brings leads, not just rankings, and can explain why traffic went up or down.",
+  "find": [
+   "Technical SEO: indexing, Core Web Vitals, sitemaps, canonicals, hreflang for multiple languages, JS rendering on Tilda, WordPress or Next.js",
+   "Keyword research for the UAE: English, Arabic and Russian queries, buyer and tenant intent, Dubai seasonality",
+   "Local SEO: Google Business Profile, maps, reviews, landing pages for communities and emirates",
+   "Content and links: briefs for writers, E-E-A-T, PR placements in regional media instead of buying dubious links",
+   "Analytics: Google Search Console, GA4, Ahrefs or Semrush, Looker Studio, tying organic traffic to leads in the CRM",
+   "Working with developers: clear tickets, release checks so a site update does not wipe out traffic"
+  ],
+  "check_lead": "Past reports are easy to polish. So the checks are built on your site and your competitors.",
+  "steps": [
+   [
+    "Mini-audit of your site",
+    "in 2-3 hours the candidate finds the 5-7 biggest issues and ranks them by impact on leads, not a 300-row crawler export"
+   ],
+   [
+    "Competitor teardown",
+    "why a competitor outranks you on 2-3 key queries: content, links, structure, local pack"
+   ],
+   [
+    "90-day plan",
+    "what to do in month one, which metrics will show progress and what is needed from developers and writers"
+   ],
+   [
+    "Case studies and references",
+    "Search Console access or dated screenshots from a past project, a call with a former manager"
+   ]
+  ],
+  "mistake": "A typical mistake: expecting growth within a month and judging the SEO by rankings instead of leads. Another one: hiring someone who only knows English search when half your clients search in Arabic or Russian. Decide upfront which languages and emirates you need visibility in.",
+  "sal": [
+   [
+    "Junior SEO specialist",
+    "7,000 - 12,000"
+   ],
+   [
+    "SEO specialist",
+    "12,000 - 20,000"
+   ],
+   [
+    "Senior SEO or head of SEO",
+    "20,000 - 35,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, before the employer's visa and insurance costs. Real estate and e-commerce pay more, as do technical SEO skills and Arabic. The employer agrees the final package.",
+  "faq": [
+   [
+    "How much does an SEO specialist earn in Dubai?",
+    "Usually 7,000 to 12,000 AED a month at junior level, 12,000 - 20,000 AED for an experienced specialist and 20,000 - 35,000 AED for a head of SEO. We advise on the market package for your scope, and you agree the terms with the candidate."
+   ],
+   [
+    "In-house SEO or an agency?",
+    "If the site is large, content ships weekly and SEO drives sales, an in-house specialist usually pays off: they know the product and move faster with developers. An agency suits a one-off audit or a small site. We help define the profile and shortlist from our live database."
+   ]
+  ],
+  "seek_h2": "Are you an SEO specialist looking for a job in Dubai?"
+ }
+}

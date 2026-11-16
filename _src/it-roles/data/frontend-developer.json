@@ -1,0 +1,76 @@
+{
+ "slug": "frontend-developer",
+ "related": ["backend-developer", "fullstack-developer", "ui-ux-designer", "software-developer"],
+ "ru": {
+  "name": "Frontend-разработчик",
+  "title": "Найм frontend-разработчика в Дубае: React, проверка, зарплата | TLNT",
+  "desc": "Как нанять frontend-разработчика в Дубае: стек React и Next.js, практическая проверка кода, зарплаты 2026 года и помощь TLNT в поиске и оценке кандидатов.",
+  "h1": "Найм frontend-разработчика",
+  "h1em": "в Дубае",
+  "intro": "Frontend-разработчики нужны финтех- и proptech-стартапам Дубая, e-commerce, агентствам и компаниям, которые делают личные кабинеты, маркетплейсы и порталы на английском и арабском. От них ждут быстрых интерфейсов, поддержки RTL, аккуратной работы с API и дизайном из Figma. TLNT помогает описать нужный уровень, собирает шорт-лист из нашей живой базы и проверяет кандидатов на практическом задании, а решение о найме остаётся за вами.",
+  "find_lead": "Нужен разработчик, который превращает макеты в быстрый, доступный и поддерживаемый интерфейс.",
+  "find": [
+   "React и Next.js: компоненты, роутинг, серверный рендеринг, а не только верстка по шаблону",
+   "TypeScript: типизация данных из API, без сплошного any",
+   "RTL и мультиязычность: интерфейс на арабском и английском без поломанной сетки",
+   "Производительность: Core Web Vitals, ленивые загрузки, размер бандла",
+   "Работа с API и состоянием: REST или GraphQL, React Query, Redux или Zustand",
+   "Тесты и качество: Jest, Testing Library, Playwright, код-ревью в Git"
+  ],
+  "check_lead": "Резюме со списком фреймворков почти ничего не говорит. Уровень видно, когда человек строит экран и объясняет свои решения.",
+  "steps": [
+   ["Экран из макета", "небольшой экран из Figma с формой и списком за 2-3 часа, с адаптивом и одной RTL-версией"],
+   ["Разбор кода", "кандидат проходит по своему решению и объясняет, почему выбрал такую структуру компонентов и состояние"],
+   ["Поиск проблем", "даём медленную страницу и просим найти, что тормозит, по Lighthouse и DevTools"],
+   ["Разговор о команде", "как работает с дизайнером и бэкендом, как спорит о сроках и что делает с размытым ТЗ"]
+  ],
+  "mistake": "Типичная ошибка: нанять по красивому портфолио на лендингах, а потом поручить сложное приложение с личным кабинетом и сотней состояний. Портфолио показывает вкус, но не архитектуру. Проверяйте на задаче, похожей на ваш продукт.",
+  "sal": [
+   ["Младший frontend-разработчик", "8 000 - 13 000"],
+   ["Frontend-разработчик (middle)", "14 000 - 22 000"],
+   ["Senior / lead frontend", "23 000 - 35 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, AED в месяц до вычетов. Сильный React и Next.js с опытом продуктовых команд стоит выше, агентства и небольшие студии платят ближе к нижней границе.",
+  "faq": [
+   ["Сколько зарабатывает frontend-разработчик в Дубае?", "Ориентир на 2026 год: около 8 000 - 13 000 AED в месяц у младшего, 14 000 - 22 000 AED у middle и 23 000 - 35 000 AED у senior и лидов. Итог зависит от стека, отрасли и того, нужен ли опыт с RTL и высоконагруженными интерфейсами."],
+   ["Можно ли нанять русскоязычного frontend-разработчика в Дубае?", "Да. В нашей базе есть русскоязычные frontend-разработчики с рабочим английским, часть уже живёт в ОАЭ. Мы проверяем и уровень кода, и язык общения с командой, а визу при переезде оформляет работодатель."]
+  ],
+  "seek_h2": "Вы frontend-разработчик и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Frontend developer",
+  "title": "Hire a Frontend Developer in Dubai: React, Tests, Salary | TLNT",
+  "desc": "How to hire a frontend developer in Dubai: React and Next.js stack, practical code checks, 2026 salary ranges and TLNT help finding and assessing candidates.",
+  "h1": "Hire a frontend developer",
+  "h1em": "in Dubai",
+  "intro": "Frontend developers are in demand at Dubai fintech and proptech startups, e-commerce brands, agencies and companies building customer portals, marketplaces and apps in English and Arabic. They are expected to ship fast interfaces, handle RTL layouts, work cleanly with APIs and turn Figma designs into production code. TLNT helps you define the level you need, shortlists candidates from our live database and checks them with a practical task, while the hiring decision stays with you.",
+  "find_lead": "You need a developer who turns designs into a fast, accessible and maintainable interface.",
+  "find": [
+   "React and Next.js: components, routing and server rendering, not just template markup",
+   "TypeScript: typed API data instead of any everywhere",
+   "RTL and multilingual UI: Arabic and English without a broken layout",
+   "Performance: Core Web Vitals, lazy loading, bundle size",
+   "APIs and state: REST or GraphQL, React Query, Redux or Zustand",
+   "Testing and quality: Jest, Testing Library, Playwright, code review in Git"
+  ],
+  "check_lead": "A CV listing frameworks says little. The real level shows when a person builds a screen and explains their choices.",
+  "steps": [
+   ["Screen from a design", "a small Figma screen with a form and a list in 2-3 hours, responsive, with one RTL version"],
+   ["Code walkthrough", "the candidate walks through the solution and explains the component structure and state choices"],
+   ["Find the bottleneck", "give a slow page and ask what makes it slow, using Lighthouse and DevTools"],
+   ["Team conversation", "how they work with designers and backend, push back on deadlines and handle a vague brief"]
+  ],
+  "mistake": "A common mistake: hiring on a nice portfolio of landing pages, then handing over a complex app with a customer area and hundreds of states. A portfolio shows taste, not architecture. Test on a task close to your product.",
+  "sal": [
+   ["Junior frontend developer", "8,000 - 13,000"],
+   ["Frontend developer (mid)", "14,000 - 22,000"],
+   ["Senior / lead frontend", "23,000 - 35,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, AED per month gross. Strong React and Next.js engineers from product teams cost more, agencies and small studios pay closer to the lower end.",
+  "faq": [
+   ["How much does a frontend developer earn in Dubai?", "As a 2026 guide: about 8,000 - 13,000 AED per month for a junior, 14,000 - 22,000 AED for a mid-level developer and 23,000 - 35,000 AED for seniors and leads. The final figure depends on stack, industry and whether RTL or high-traffic experience is needed."],
+   ["Should I test frontend candidates with a take-home task?", "Yes, but keep it short and close to your product: 2-3 hours, one real screen, then a live walkthrough. Long unpaid tasks scare off strong candidates, while a short task plus discussion shows both skill and thinking."]
+  ],
+  "seek_h2": "Are you a frontend developer looking for a job in Dubai?"
+ }
+}

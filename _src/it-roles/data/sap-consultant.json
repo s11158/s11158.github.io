@@ -1,0 +1,135 @@
+{
+ "slug": "sap-consultant",
+ "related": [
+  "business-analyst",
+  "it-manager",
+  "project-manager",
+  "cfo"
+ ],
+ "ru": {
+  "name": "SAP-консультант",
+  "title": "Найм SAP-консультанта в Дубае: S/4HANA, модули, зарплата | TLNT",
+  "desc": "Ищем SAP-консультанта в Дубае: S/4HANA, FI/CO, MM, SD, внедрение и поддержка. Проверка на кейсах модуля, шорт-лист из живой базы, зарплаты на 2026 год.",
+  "h1": "Найм SAP-консультанта",
+  "h1em": "в Дубае",
+  "intro": "SAP-консультанты в ОАЭ нужны дистрибьюторам, ритейлу, девелоперам, нефтегазу, авиации и госкомпаниям, которые переходят на S/4HANA или поддерживают старую ECC. Консультант настраивает модуль под процессы компании, ведёт требования бизнеса, тестирование и обучение пользователей, учитывает местные особенности вроде VAT 5% и корпоративного налога. TLNT помогает точно определить модуль и роль (функциональный, технический, проектный), собирает шорт-лист из нашей живой базы и проверяет кандидатов на кейсах вашего процесса.",
+  "find_lead": "Нужен консультант, который понимает и систему SAP, и бизнес-процесс за ней.",
+  "find": [
+   "Модуль: FI/CO, MM, SD, PP, EWM, SuccessFactors или другой, глубоко, а не по верхам",
+   "S/4HANA: участие в миграции с ECC или внедрении с нуля, понимание Fiori",
+   "Методология: SAP Activate, фазы проекта, работа с ключевыми пользователями",
+   "Локальная специфика: VAT ОАЭ, корпоративный налог, электронные счета, отчётность для холдинга",
+   "Интеграции: базовое понимание IDoc, BAPI, API и работы с ABAP-разработчиками",
+   "Коммуникация: английский для документации и воркшопов, русский - плюс для русскоязычной команды"
+  ],
+  "check_lead": "Проверяем на сценарии из вашего модуля, а не на списке транзакций.",
+  "steps": [
+   [
+    "Кейс процесса",
+    "кандидат описывает, как настроить ваш сценарий, например procure-to-pay или закрытие месяца"
+   ],
+   [
+    "Разбор проблемы",
+    "реальная ситуация из поддержки: проводка не уходит или неверный учёт VAT, найти причину"
+   ],
+   [
+    "Фит-гэп анализ",
+    "за 30 минут кандидат разделяет требования бизнеса на стандарт SAP и доработки"
+   ],
+   [
+    "Проверка проектов",
+    "разговор о конкретных внедрениях: роль, объём, что пошло не так"
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанимать \"SAP-консультанта\" без указания модуля и роли. Специалист по SD не настроит финансы, а функциональный консультант не заменит ABAP-разработчика. Сначала стоит описать процесс и модуль, потом искать человека.",
+  "sal": [
+   [
+    "Младший консультант",
+    "15 000 - 22 000"
+   ],
+   [
+    "Консультант по модулю",
+    "22 000 - 35 000"
+   ],
+   [
+    "Ведущий консультант / архитектор решения",
+    "35 000 - 55 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, AED в месяц до вычетов. Консультанты по FI/CO и S/4HANA с опытом миграций в дефиците и получают выше среднего.",
+  "faq": [
+   [
+    "Сколько зарабатывает SAP-консультант в Дубае?",
+    "В 2026 году младший консультант получает около 15 000 - 22 000 AED в месяц, консультант по модулю 22 000 - 35 000 AED, ведущий консультант или архитектор решения 35 000 - 55 000 AED."
+   ],
+   [
+    "Штатный SAP-консультант или подрядчик?",
+    "Для внедрения часто привлекают интегратора, но после запуска компании нужен свой консультант, который знает процессы и снижает зависимость от подрядчика. Мы помогаем найти такого специалиста, а условия найма определяете вы."
+   ]
+  ],
+  "seek_h2": "Вы SAP-консультант и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "SAP consultant",
+  "title": "Hire an SAP Consultant in Dubai: S/4HANA, Salary | TLNT",
+  "desc": "Hire an SAP consultant in Dubai: S/4HANA, FI/CO, MM, SD, rollouts and support. Module case assessment, shortlist from our live database, 2026 salaries.",
+  "h1": "Hire an SAP consultant",
+  "h1em": "in Dubai",
+  "intro": "In the UAE SAP consultants are hired by distributors, retail, developers, oil and gas, aviation and government-related companies moving to S/4HANA or running legacy ECC. The consultant configures the module around company processes, owns business requirements, testing and user training, and handles local specifics such as 5% VAT and corporate tax. TLNT helps you pin down the module and role (functional, technical, project), shortlists from our live database and assesses candidates on cases from your own process.",
+  "find_lead": "You need a consultant who understands both SAP and the business process behind it.",
+  "find": [
+   "Module: FI/CO, MM, SD, PP, EWM, SuccessFactors or another, in depth rather than at the surface",
+   "S/4HANA: part of an ECC migration or greenfield rollout, comfortable with Fiori",
+   "Methodology: SAP Activate, project phases, working with key users",
+   "Local specifics: UAE VAT, corporate tax, e-invoicing, group reporting",
+   "Integrations: basic understanding of IDoc, BAPI, APIs and working with ABAP developers",
+   "Communication: English for documentation and workshops, Russian is a plus for Russian-speaking teams"
+  ],
+  "check_lead": "We test on a scenario from your module, not on a list of transaction codes.",
+  "steps": [
+   [
+    "Process case",
+    "the candidate explains how to configure your scenario, e.g. procure-to-pay or month-end close"
+   ],
+   [
+    "Troubleshooting",
+    "a real support situation: a posting fails or VAT is wrong, find the root cause"
+   ],
+   [
+    "Fit-gap analysis",
+    "in 30 minutes the candidate splits business requirements into SAP standard and custom work"
+   ],
+   [
+    "Project check",
+    "a conversation about specific rollouts: role, scope, what went wrong"
+   ]
+  ],
+  "mistake": "Typical mistake: hiring \"an SAP consultant\" without specifying the module and role. An SD specialist will not configure finance, and a functional consultant cannot replace an ABAP developer. Describe the process and module first, then look for the person.",
+  "sal": [
+   [
+    "Junior consultant",
+    "15,000 - 22,000"
+   ],
+   [
+    "Module consultant",
+    "22,000 - 35,000"
+   ],
+   [
+    "Senior consultant / solution architect",
+    "35,000 - 55,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, AED per month gross. FI/CO and S/4HANA consultants with migration experience are scarce and paid above average.",
+  "faq": [
+   [
+    "How much does an SAP consultant earn in Dubai?",
+    "In 2026 a junior SAP consultant earns around 15,000 - 22,000 AED per month, a module consultant 22,000 - 35,000 AED, and a senior consultant or solution architect 35,000 - 55,000 AED."
+   ],
+   [
+    "In-house SAP consultant or a vendor?",
+    "Rollouts often use an integrator, but after go-live a company needs its own consultant who knows the processes and reduces vendor dependence. We help you find that person, and you set the employment terms."
+   ]
+  ],
+  "seek_h2": "Are you an SAP consultant looking for a job in Dubai?"
+ }
+}

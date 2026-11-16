@@ -1,0 +1,76 @@
+{
+ "slug": "chief-commercial-officer",
+ "related": ["sales-director", "cbdo", "ceo", "marketing-manager"],
+ "ru": {
+  "name": "Коммерческий директор (CCO)",
+  "title": "Найм коммерческого директора (CCO) в Дубае: проверка | TLNT",
+  "desc": "Ищем коммерческого директора (CCO) в Дубае: продажи, маркетинг и ценообразование под одной рукой. Проверка на реальных цифрах и зарплаты 2026 года.",
+  "h1": "Найм коммерческого директора",
+  "h1em": "в Дубае",
+  "intro": "Chief Commercial Officer отвечает за всю выручку: продажи, маркетинг, ценообразование и работу с ключевыми клиентами. В ОАЭ такую роль открывают дистрибьюторы и торговые группы, девелоперы, гостиничные и FMCG-компании, растущие SaaS-бизнесы, выходящие на рынок GCC. CCO строит коммерческую стратегию, управляет командами и отвечает перед собственником за цифры. Мы помогаем сформулировать ожидания и KPI, собираем шорт-лист из нашей живой базы и проверяем кандидатов на ваших данных.",
+  "find_lead": "Нужен руководитель, который отвечает за выручку и маржу целиком, а не только за отдел продаж.",
+  "find": [
+   "Коммерческая стратегия: сегменты, каналы, выход в Саудовскую Аравию и другие страны GCC",
+   "Ценообразование и маржа: прайс-листы, скидочная политика, условия для дистрибьюторов",
+   "Управление командами: продажи, маркетинг, key account, найм и мотивация руководителей",
+   "Прогноз и пайплайн: CRM-дисциплина, точность прогноза, еженедельный ритм отчётности",
+   "Ключевые клиенты: переговоры с крупными сетями, госзаказчиками и партнёрами",
+   "Работа с собственником: бюджет, P&L по коммерческому блоку, прозрачные отчёты"
+  ],
+  "check_lead": "Коммерческого директора проверяют на ваших цифрах и в переговорах, а не по списку прошлых должностей.",
+  "steps": [
+   ["Разбор P&L", "Дайте обезличенные данные по выручке и марже за год и попросите за 2 часа найти три главные точки роста."],
+   ["План на 90 дней", "Пусть представит план первых трёх месяцев: что проверит, кого оставит в команде, какие цели поставит."],
+   ["Переговорный кейс", "Разыграйте переговоры с крупным клиентом, который требует скидку 15%."],
+   ["Референсы по цифрам", "Поговорите с бывшими руководителями и уточните конкретный рост выручки, за который он отвечал."]
+  ],
+  "mistake": "Типичная ошибка: повысить лучшего продавца до CCO. Он сильно продаёт сам, но не умеет управлять маркетингом, ценой и руководителями отделов, и выручка начинает зависеть от его личных сделок. Проверяйте управленческий опыт и работу с P&L.",
+  "sal": [
+   ["CCO в средней компании", "45 000 - 65 000"],
+   ["CCO в крупной группе", "65 000 - 95 000"],
+   ["CCO регионального холдинга (GCC)", "95 000 - 140 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, AED в месяц до вычетов, без годового бонуса. Обычно добавляются бонус от выручки или маржи, жильё, автомобиль и медицинская страховка семьи.",
+  "faq": [
+   ["Сколько зарабатывает коммерческий директор в Дубае?", "В 2026 году CCO в средней компании получает около 45 000 - 65 000 AED в месяц, в крупной группе 65 000 - 95 000 AED, в региональном холдинге 95 000 - 140 000 AED. Сверху обычно идёт годовой бонус, привязанный к выручке или марже."],
+   ["Чем CCO отличается от директора по продажам?", "Директор по продажам отвечает за команду продавцов и план. CCO управляет всей коммерцией: продажами, маркетингом, ценой и ключевыми клиентами, и отвечает за маржу. Мы помогаем понять, какая из ролей нужна вашему бизнесу сейчас."]
+  ],
+  "seek_h2": "Вы коммерческий директор и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Chief Commercial Officer",
+  "title": "Hire a Chief Commercial Officer (CCO) in Dubai | TLNT",
+  "desc": "Hire a Chief Commercial Officer in Dubai: sales, marketing and pricing under one leader. Checks on your real numbers and realistic 2026 salary ranges.",
+  "h1": "Hire a Chief Commercial Officer",
+  "h1em": "in Dubai",
+  "intro": "A Chief Commercial Officer owns all revenue: sales, marketing, pricing and key accounts. In the UAE this role is opened by distributors and trading groups, developers, hospitality and FMCG companies, and growing SaaS businesses entering the GCC. A CCO builds the commercial strategy, manages teams and answers to the owner for the numbers. We help you set expectations and KPIs, shortlist from our live database and test candidates on your own data.",
+  "find_lead": "You need a leader who owns revenue and margin end to end, not just the sales team.",
+  "find": [
+   "Commercial strategy: segments, channels, expansion into Saudi Arabia and the wider GCC",
+   "Pricing and margin: price lists, discount policy, distributor terms",
+   "Team leadership: sales, marketing, key accounts, hiring and motivating managers",
+   "Forecast and pipeline: CRM discipline, forecast accuracy, weekly reporting rhythm",
+   "Key accounts: negotiations with major retailers, government buyers and partners",
+   "Owner partnership: budget, commercial P&L, transparent reporting"
+  ],
+  "check_lead": "Test a commercial leader on your numbers and in a negotiation, not on a list of past titles.",
+  "steps": [
+   ["P&L review", "Share anonymised revenue and margin data for a year and ask for the top three growth levers within 2 hours."],
+   ["90-day plan", "Have them present the first three months: what they will check, who stays on the team, which targets they set."],
+   ["Negotiation case", "Role-play a negotiation with a major client demanding a 15% discount."],
+   ["Number-based references", "Speak to former managers and confirm the specific revenue growth they owned."]
+  ],
+  "mistake": "A common mistake: promoting the best salesperson to CCO. They sell well personally but cannot run marketing, pricing and department heads, and revenue starts to depend on their own deals. Test management experience and P&L ownership.",
+  "sal": [
+   ["CCO, mid-size company", "45,000 - 65,000"],
+   ["CCO, large group", "65,000 - 95,000"],
+   ["CCO, regional holding (GCC)", "95,000 - 140,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, AED per month gross, excluding annual bonus. Packages usually add a revenue or margin bonus, housing, a car and family health insurance.",
+  "faq": [
+   ["How much does a Chief Commercial Officer earn in Dubai?", "In 2026 a CCO at a mid-size company earns about 45,000 - 65,000 AED per month, at a large group 65,000 - 95,000 AED, and at a regional holding 95,000 - 140,000 AED. An annual bonus tied to revenue or margin usually comes on top."],
+   ["How is a CCO different from a sales director?", "A sales director runs the sales team and the target. A CCO runs all of commercial: sales, marketing, pricing and key accounts, and owns margin. We help you work out which role your business needs right now."]
+  ],
+  "seek_h2": "Are you a Chief Commercial Officer looking for a job in Dubai?"
+ }
+}

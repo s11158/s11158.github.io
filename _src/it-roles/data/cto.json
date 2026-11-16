@@ -1,0 +1,135 @@
+{
+ "slug": "cto",
+ "related": [
+  "it-manager",
+  "software-developer",
+  "product-manager",
+  "devops-engineer"
+ ],
+ "ru": {
+  "name": "Технический директор (CTO)",
+  "title": "Найм CTO в Дубае: оценка, кейсы, зарплата | TLNT",
+  "desc": "Ищем технического директора в Дубае: архитектура, команда, бюджет, продукт. Структурная оценка кейсов, шорт-лист из живой базы, зарплаты CTO на 2026 год.",
+  "h1": "Найм технического директора",
+  "h1em": "в Дубае",
+  "intro": "CTO в Дубае нужен финтех-стартапам в DIFC и ADGM, девелоперам с цифровыми продуктами, e-commerce, логистике и семейным холдингам, которые строят свою IT-функцию. Он отвечает за архитектуру, команду, бюджет и сроки релизов, а часто и за выбор подрядчиков и требования регуляторов. Ошибка на этой позиции стоит год работы. TLNT помогает понять, какой CTO нужен именно вам - строитель с нуля или масштабирующий руководитель, собирает шорт-лист из нашей живой базы и проверяет кандидатов на реальных кейсах вашего бизнеса.",
+  "find_lead": "Нужен руководитель, который одновременно понимает технологии, деньги и людей.",
+  "find": [
+   "Архитектура: умеет выбрать стек и облако (AWS, Azure, GCP) под нагрузку и бюджет, а не под моду",
+   "Команда: нанимал и выстраивал команды от 5 до 50 человек, в том числе распределённые",
+   "Бюджет: считает стоимость инфраструктуры, лицензий и подрядчиков, умеет защищать цифры перед владельцем",
+   "Продукт: переводит бизнес-цели в дорожную карту и честно говорит, что не успеть",
+   "Безопасность и регуляторика: понимает требования DFSA, ADGM FSRA, закона ОАЭ о персональных данных",
+   "Языки: свободный английский для совета директоров, русский - плюс для русскоязычных владельцев и команд"
+  ],
+  "check_lead": "Резюме CTO мало что говорит о его реальной роли. Проверяем на ваших задачах, а не на общих вопросах.",
+  "steps": [
+   [
+    "Разбор реального кейса",
+    "кандидат получает обезличенное описание вашей системы и за 60-90 минут предлагает план на первые 90 дней"
+   ],
+   [
+    "Архитектурная сессия",
+    "обсуждение с вашим техлидом или внешним экспертом: компромиссы, масштабирование, стоимость"
+   ],
+   [
+    "Бюджет и команда",
+    "кандидат раскладывает годовой IT-бюджет и план найма, объясняет, где своя команда, а где подрядчик"
+   ],
+   [
+    "Рекомендации",
+    "разговоры с бывшими руководителями и подчинёнными: как он вёл людей в кризис и релизы"
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанять сильнейшего разработчика в роли CTO. Он отлично пишет код, но не умеет нанимать, планировать бюджет и спорить с владельцем, и через полгода команда сидит без процессов. Сначала стоит решить, нужен ли вам CTO или пока достаточно сильного Head of Engineering.",
+  "sal": [
+   [
+    "Head of Engineering / CTO стартапа",
+    "35 000 - 55 000"
+   ],
+   [
+    "CTO компании среднего размера",
+    "55 000 - 85 000"
+   ],
+   [
+    "CTO группы или крупного финтеха",
+    "85 000 - 140 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, AED в месяц до вычетов. В стартапах часть дохода часто в опционах, в холдингах добавляются годовой бонус, жильё и школа для детей.",
+  "faq": [
+   [
+    "Сколько зарабатывает CTO в Дубае?",
+    "В 2026 году технический директор стартапа получает около 35 000 - 55 000 AED в месяц, CTO компании среднего размера 55 000 - 85 000 AED, в крупных группах и финтехе от 85 000 AED и выше плюс бонусы и опционы."
+   ],
+   [
+    "Можно ли нанять CTO на частичную занятость?",
+    "Да, для ранних стадий это часто разумнее: fractional CTO на 2-3 дня в неделю выстраивает архитектуру и команду. Мы помогаем понять, какой формат подходит, и найти кандидатов под него, а решение и условия остаются за вами."
+   ]
+  ],
+  "seek_h2": "Вы технический директор и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Chief Technology Officer (CTO)",
+  "title": "Hire a CTO in Dubai: Case Assessment, Salary | TLNT",
+  "desc": "Hire a CTO in Dubai: architecture, team, budget and product. Structured case-based assessment, shortlist from our live database and 2026 CTO salaries.",
+  "h1": "Hire a CTO",
+  "h1em": "in Dubai",
+  "intro": "Dubai companies hire a CTO when technology becomes the business: fintechs in DIFC and ADGM, developers with digital products, e-commerce, logistics and family groups building an in-house IT function. The CTO owns architecture, the team, the budget and release dates, and often vendor choice and regulatory requirements. A wrong hire here costs a year. TLNT helps you decide which CTO you need - a builder from zero or a scaling leader, shortlists from our live database and assesses candidates on real cases from your business.",
+  "find_lead": "You need a leader who understands technology, money and people at the same time.",
+  "find": [
+   "Architecture: chooses a stack and cloud (AWS, Azure, GCP) for load and budget, not for fashion",
+   "Team building: has hired and led teams of 5 to 50 people, including distributed ones",
+   "Budget: costs infrastructure, licences and vendors and can defend the numbers to the owner",
+   "Product: turns business goals into a roadmap and is honest about what will not ship",
+   "Security and regulation: knows DFSA, ADGM FSRA and UAE personal data law requirements",
+   "Languages: fluent English for the board, Russian is a plus for Russian-speaking owners and teams"
+  ],
+  "check_lead": "A CTO CV says little about the real role. We test on your problems, not generic questions.",
+  "steps": [
+   [
+    "Real case review",
+    "the candidate gets an anonymised description of your system and proposes a 90-day plan in 60-90 minutes"
+   ],
+   [
+    "Architecture session",
+    "a discussion with your tech lead or an external expert: trade-offs, scaling, cost"
+   ],
+   [
+    "Budget and team",
+    "the candidate lays out an annual IT budget and hiring plan and explains in-house versus vendors"
+   ],
+   [
+    "References",
+    "calls with former managers and reports: how they led people through crises and releases"
+   ]
+  ],
+  "mistake": "Typical mistake: hiring your strongest developer as CTO. They write excellent code but cannot hire, plan a budget or push back on the owner, and six months later the team has no process. Decide first whether you need a CTO or a strong Head of Engineering for now.",
+  "sal": [
+   [
+    "Head of Engineering / startup CTO",
+    "35,000 - 55,000"
+   ],
+   [
+    "CTO, mid-size company",
+    "55,000 - 85,000"
+   ],
+   [
+    "CTO, group or large fintech",
+    "85,000 - 140,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, AED per month gross. Startups often pay part in equity; groups add an annual bonus, housing and school fees.",
+  "faq": [
+   [
+    "How much does a CTO earn in Dubai?",
+    "In 2026 a startup CTO earns around 35,000 - 55,000 AED per month, a mid-size company CTO 55,000 - 85,000 AED, and large groups and fintechs pay 85,000 AED and above plus bonus and equity."
+   ],
+   [
+    "Is a part-time CTO an option?",
+    "Yes, at an early stage it is often smarter: a fractional CTO working 2-3 days a week sets up architecture and the team. We help you decide on the format and find candidates for it, while the decision and terms stay with you."
+   ]
+  ],
+  "seek_h2": "Are you a CTO looking for a job in Dubai?"
+ }
+}

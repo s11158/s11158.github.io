@@ -1,0 +1,135 @@
+{
+ "slug": "data-scientist",
+ "related": [
+  "data-engineer",
+  "data-analyst",
+  "bi-analyst",
+  "product-manager"
+ ],
+ "ru": {
+  "name": "Data scientist",
+  "title": "Найм data scientist в Дубае: ML, проверка моделей, зарплата | TLNT",
+  "desc": "Найм data scientist в Дубае: машинное обучение, прогнозы и GenAI для бизнеса. Практическая проверка на ваших данных, зарплаты 2026, шорт-лист от TLNT.",
+  "h1": "Найм data scientist",
+  "h1em": "в Дубае",
+  "intro": "Data scientists работают в банках и финтехе Дубая (скоринг, антифрод), ритейле и e-commerce (рекомендации, прогноз спроса, ценообразование), авиации и туризме, телекоме, недвижимости и госпрограммах по ИИ. Всё больше задач связано с LLM и GenAI: поиск по документам, ассистенты, автоматизация обращений, в том числе на арабском. Помогаем отделить исследовательскую роль от прикладной, даём шорт-лист из нашей живой базы и проводим практическую проверку, где кандидат решает бизнес-задачу, а не только подбирает модель.",
+  "find_lead": "Специалист, который начинает с бизнес-вопроса и метрики, честно проверяет модель на новых данных и доводит её до продакшена, а не до красивого ноутбука.",
+  "find": [
+   "Статистика и эксперименты: A/B-тесты, доверительные интервалы, понимание, когда разница случайна",
+   "Машинное обучение: scikit-learn, XGBoost, LightGBM, прогнозирование временных рядов, кластеризация",
+   "GenAI и NLP: LLM, RAG, оценка качества ответов, работа с арабским и английским текстом",
+   "Данные: SQL, Python и pandas, работа с грязными данными без ожидания идеального датасета",
+   "Внедрение: MLOps-основы, MLflow, API для модели, мониторинг дрейфа вместе с инженерами",
+   "Бизнес: перевод результата в деньги, понятное объяснение руководителю, ответственное отношение к персональным данным"
+  ],
+  "check_lead": "На собеседовании легко блеснуть терминами. Проверка строится на задаче с вашими или похожими данными, а оценивают результат ваш техлид и владелец бизнес-задачи.",
+  "steps": [
+   [
+    "Кейс на данных",
+    "обезличенный датасет, например история клиентов для прогноза оттока: за четыре-шесть часов кандидат формулирует метрику, строит базовую модель и пишет короткий вывод для бизнеса. Главное - логика и честная валидация."
+   ],
+   [
+    "Защита решения",
+    "30-45 минут разбора с вашим специалистом: почему такие признаки и модель, где может быть утечка данных, как бы проверили эффект в A/B-тесте."
+   ],
+   [
+    "Разговор о внедрении",
+    "как модель попадёт в продукт, кто будет её поддерживать, как заметить, что она деградирует, и что делать с ошибками LLM в клиентском сервисе."
+   ],
+   [
+    "Рекомендации",
+    "звонок руководителю: какие модели реально работают в продакшене, какой измеримый эффект они дали, как человек работал с инженерами и бизнесом."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанять data scientist в компанию, где данных ещё нет в хранилище и нет инженера. Специалист будет полгода чистить выгрузки из Excel и уйдёт. Ещё ошибка: оценивать кандидата только по точности модели на соревновании, не проверив, умеет ли он объяснить результат и довести модель до работы.",
+  "sal": [
+   [
+    "Младший data scientist",
+    "12 000 - 18 000"
+   ],
+   [
+    "Data scientist среднего уровня",
+    "18 000 - 30 000"
+   ],
+   [
+    "Старший data scientist или лид ML",
+    "30 000 - 50 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт с LLM в продакшене, банковский скоринг и антифрод поднимают пакет; в стартапах часть дохода может быть опционами.",
+  "faq": [
+   [
+    "Сколько зарабатывает data scientist в Дубае?",
+    "В 2026 году младший data scientist в Дубае получает около 12 000 - 18 000 AED в месяц, специалист среднего уровня 18 000 - 30 000 AED, старший data scientist или лид ML 30 000 - 50 000 AED. Банки, финтех и компании с сильной GenAI-повесткой платят по верхней границе."
+   ],
+   [
+    "Нужен data scientist или аналитик данных?",
+    "Если нужны отчёты, дашборды и ответы на вопросы о том, что произошло, подойдёт аналитик данных или BI-аналитик. Data scientist нужен, когда задача - прогноз, рекомендации, скоринг или автоматизация на моделях, и данные уже собраны. Поможем разобраться до начала поиска, чтобы не переплачивать за роль, которая пока не нужна."
+   ]
+  ],
+  "seek_h2": "Вы data scientist и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Data scientist",
+  "title": "Hire a Data Scientist in Dubai: ML, Model Checks, Salary | TLNT",
+  "desc": "Hire a data scientist in Dubai: machine learning, forecasting and GenAI for business. Practical checks on your data, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire a data scientist",
+  "h1em": "in Dubai",
+  "intro": "Data scientists work at Dubai banks and fintechs (credit scoring, fraud), retail and e-commerce (recommendations, demand forecasting, pricing), aviation and travel, telecoms, real estate and government AI programmes. More and more of the work involves LLMs and GenAI: document search, assistants, support automation, including in Arabic. We help you separate a research role from an applied one, shortlist from our live database and run a practical check where the candidate solves a business problem rather than just tuning a model.",
+  "find_lead": "A specialist who starts from the business question and the metric, honestly validates the model on new data and takes it to production, not just to a nice notebook.",
+  "find": [
+   "Statistics and experiments: A/B tests, confidence intervals, knowing when a difference is noise",
+   "Machine learning: scikit-learn, XGBoost, LightGBM, time-series forecasting, clustering",
+   "GenAI and NLP: LLMs, RAG, evaluating answer quality, working with Arabic and English text",
+   "Data: SQL, Python and pandas, working with messy data without waiting for a perfect dataset",
+   "Deployment: MLOps basics, MLflow, a model API, drift monitoring together with engineers",
+   "Business: turning results into money, explaining them clearly to management, handling personal data responsibly"
+  ],
+  "check_lead": "It is easy to impress with terminology in an interview. The check is built on a task with your data or similar data, and your tech lead and the business owner of the problem score the result.",
+  "steps": [
+   [
+    "Data case",
+    "an anonymised dataset, for example customer history for churn prediction: in four to six hours the candidate defines the metric, builds a baseline model and writes a short conclusion for the business. Logic and honest validation matter most."
+   ],
+   [
+    "Solution defence",
+    "30-45 minutes with your specialist: why these features and this model, where data leakage could hide, how they would test the effect in an A/B test."
+   ],
+   [
+    "Deployment conversation",
+    "how the model gets into the product, who maintains it, how to notice it is degrading and what to do about LLM errors in customer service."
+   ],
+   [
+    "References",
+    "a call with the manager: which models actually run in production, what measurable effect they had, how the person worked with engineers and the business."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a data scientist into a company with no data warehouse and no data engineer. The specialist spends six months cleaning Excel exports and leaves. Another one: judging a candidate only by model accuracy in a competition without checking whether they can explain the result and get the model working.",
+  "sal": [
+   [
+    "Junior data scientist",
+    "12,000 - 18,000"
+   ],
+   [
+    "Mid-level data scientist",
+    "18,000 - 30,000"
+   ],
+   [
+    "Senior data scientist or ML lead",
+    "30,000 - 50,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Production LLM experience, bank scoring and fraud work raise the package; at startups part of the pay may be equity.",
+  "faq": [
+   [
+    "How much does a data scientist earn in Dubai?",
+    "In 2026 a junior data scientist in Dubai earns about AED 12,000 - 18,000 per month, a mid-level data scientist AED 18,000 - 30,000 and a senior data scientist or ML lead AED 30,000 - 50,000. Banks, fintechs and companies with a strong GenAI agenda pay at the top of the range."
+   ],
+   [
+    "Do I need a data scientist or a data analyst?",
+    "If you need reports, dashboards and answers about what happened, a data analyst or BI analyst fits. A data scientist is needed when the task is forecasting, recommendations, scoring or model-driven automation and the data is already collected. We help you sort this out before the search so you do not pay for a role you do not need yet."
+   ]
+  ],
+  "seek_h2": "Are you a data scientist looking for a job in Dubai?"
+ }
+}
