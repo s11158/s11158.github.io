@@ -1,0 +1,136 @@
+{
+ "slug": "erp-consultant",
+ "hub": "tech",
+ "related": [
+  "sap-consultant",
+  "business-analyst",
+  "project-manager",
+  "financial-controller"
+ ],
+ "ru": {
+  "name": "ERP-консультант",
+  "title": "Найм ERP-консультанта в Дубае: Odoo, Dynamics, зарплата | TLNT",
+  "desc": "Найм ERP-консультанта в Дубае: Odoo, Microsoft Dynamics, Oracle NetSuite, VAT в ОАЭ, проверка на процессах компании, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм ERP-консультанта",
+  "h1em": "в Дубае",
+  "intro": "ERP-консультанты нужны в Дубае дистрибьюторам и трейдинговым компаниям, ритейлу, ресторанным группам, клиникам, производству и подрядчикам в строительстве, а также партнёрам-внедренцам Odoo, Microsoft Dynamics 365 и Oracle NetSuite. Консультант описывает процессы закупок, склада, продаж и финансов, настраивает систему, переносит данные, учитывает VAT 5%, корпоративный налог и электронные счета, обучает пользователей. Помогаем определить платформу и тип роли, даём шорт-лист из нашей живой базы и проводим проверку на ваших процессах, которую оценивает ваш финансовый директор или руководитель проекта.",
+  "find_lead": "Консультант, который сначала разбирается в том, как компания реально покупает, хранит и продаёт, и только потом настраивает систему.",
+  "find": [
+   "Платформа: Odoo, Microsoft Dynamics 365 Business Central или Finance and Operations, Oracle NetSuite, знание версии и редакции",
+   "Модули: закупки, склад, продажи, производство, финансы, проекты для подрядчиков",
+   "Финансы ОАЭ: VAT 5%, корпоративный налог, мультивалютность, мультикомпания и межфирменные операции",
+   "Миграция данных: справочники, остатки, открытые документы, сверка после переноса",
+   "Требования и тесты: workshop с бизнесом, документ требований, сценарии тестирования, обучение",
+   "Интеграции и отчёты: e-commerce, POS, банки, Power BI, взаимодействие с разработчиками"
+  ],
+  "check_lead": "Сертификат вендора подтверждает знание интерфейса, но не умение спорить с бизнесом о процессе. Проверка строится на ваших реальных процессах, решение принимает ваша команда.",
+  "steps": [
+   [
+    "Кейс процесса",
+    "описание процесса компании (например, закупка у иностранного поставщика, растаможка и продажа со склада в Джебель-Али): кандидат описывает, как это будет работать в системе, какие документы и проводки появятся."
+   ],
+   [
+    "Демонстрация настройки",
+    "на демо-базе кандидат показывает настройку налога, складской операции или согласования закупки и объясняет, что будет видеть бухгалтер."
+   ],
+   [
+    "Разговор о проекте",
+    "внедрение отстаёт на два месяца, пользователи продолжают вести Excel. Что делает консультант, как управляет объёмом и обучением."
+   ],
+   [
+    "Рекомендации",
+    "звонки клиентам или руководителям проектов: сколько внедрений довёл до запуска, как работал после запуска, сколько доработок было необходимо."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанимать консультанта по названию системы, не проверив опыт в вашей отрасли. Специалист по рознице плохо понимает учёт подрядчика по проектам, и внедрение превращается в бесконечные доработки. Ещё ошибка: не спросить про работу с VAT и корпоративным налогом в ОАЭ, тогда отчёты придётся переделывать.",
+  "sal": [
+   [
+    "Младший ERP-консультант",
+    "8 000 - 14 000"
+   ],
+   [
+    "ERP-консультант среднего уровня",
+    "14 000 - 24 000"
+   ],
+   [
+    "Старший консультант или руководитель внедрения",
+    "24 000 - 38 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт полных внедрений, знание Dynamics Finance and Operations или NetSuite, отраслевая специализация и арабский язык заметно поднимают пакет; бонус и жильё меняют полную сумму.",
+  "faq": [
+   [
+    "Сколько зарабатывает ERP-консультант в Дубае?",
+    "В 2026 году младший ERP-консультант в Дубае получает около 8 000 - 14 000 AED в месяц, консультант среднего уровня 14 000 - 24 000 AED, старший консультант или руководитель внедрения 24 000 - 38 000 AED. По Odoo ставки обычно ниже, по Dynamics Finance and Operations и NetSuite выше."
+   ],
+   [
+    "Нужен ERP-консультант в штат или партнёр-внедренец?",
+    "Внедрение с нуля обычно ведёт партнёр, но компании быстро понимают, что без своего человека система после запуска перестаёт развиваться. Штатный консультант ведёт доработки, обучает новых сотрудников и проверяет работу подрядчика. Поможем выбрать формат и составить профиль под вашу систему."
+   ]
+  ],
+  "seek_h2": "Вы ERP-консультант и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "ERP consultant",
+  "title": "Hire an ERP Consultant in Dubai: Odoo, Dynamics, Salary | TLNT",
+  "desc": "Hire an ERP consultant in Dubai: Odoo, Microsoft Dynamics, Oracle NetSuite, UAE VAT, a check on your real processes, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire an ERP consultant",
+  "h1em": "in Dubai",
+  "intro": "ERP consultants are in demand in Dubai at distributors and trading companies, retail, restaurant groups, clinics, manufacturing and construction contractors, and at Odoo, Microsoft Dynamics 365 and Oracle NetSuite implementation partners. The consultant maps purchasing, warehouse, sales and finance processes, configures the system, migrates data, covers 5% VAT, corporate tax and e-invoicing, and trains users. We help you define the platform and type of role, shortlist from our live database and run a check on your processes that your CFO or project lead scores.",
+  "find_lead": "A consultant who first understands how the company really buys, stores and sells, and only then configures the system.",
+  "find": [
+   "Platform: Odoo, Microsoft Dynamics 365 Business Central or Finance and Operations, Oracle NetSuite, with the right version and edition",
+   "Modules: purchasing, inventory, sales, manufacturing, finance, project accounting for contractors",
+   "UAE finance: 5% VAT, corporate tax, multi-currency, multi-company and intercompany transactions",
+   "Data migration: master data, opening balances, open documents, reconciliation after the move",
+   "Requirements and testing: business workshops, requirements documents, test scenarios, user training",
+   "Integrations and reports: e-commerce, POS, banks, Power BI, working with developers"
+  ],
+  "check_lead": "A vendor certificate proves knowledge of the interface, not the ability to push back on the business about a process. The check is built on your real processes, and your team makes the call.",
+  "steps": [
+   [
+    "Process case",
+    "a description of a company process (for example, buying from an overseas supplier, customs clearance and selling from a Jebel Ali warehouse): the candidate explains how it will run in the system and which documents and postings appear."
+   ],
+   [
+    "Configuration demo",
+    "on a demo database the candidate shows how to set up tax, a warehouse operation or purchase approval and explains what the accountant will see."
+   ],
+   [
+    "Project conversation",
+    "the implementation is two months late and users still work in Excel. What the consultant does, how they manage scope and training."
+   ],
+   [
+    "References",
+    "calls with clients or project managers: how many implementations reached go-live, how they supported after launch, how many changes were needed."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a consultant by system name without checking experience in your industry. A retail specialist struggles with contractor project accounting, and the implementation turns into endless rework. Another one: not asking about UAE VAT and corporate tax, so reports have to be rebuilt.",
+  "sal": [
+   [
+    "Junior ERP consultant",
+    "8,000 - 14,000"
+   ],
+   [
+    "Mid-level ERP consultant",
+    "14,000 - 24,000"
+   ],
+   [
+    "Senior consultant or implementation lead",
+    "24,000 - 38,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Full implementation experience, Dynamics Finance and Operations or NetSuite knowledge, industry specialisation and Arabic noticeably raise the package; bonus and housing change the total.",
+  "faq": [
+   [
+    "How much does an ERP consultant earn in Dubai?",
+    "In 2026 a junior ERP consultant in Dubai earns about AED 8,000 - 14,000 per month, a mid-level consultant AED 14,000 - 24,000 and a senior consultant or implementation lead AED 24,000 - 38,000. Odoo roles usually pay less, Dynamics Finance and Operations and NetSuite roles more."
+   ],
+   [
+    "In-house ERP consultant or an implementation partner?",
+    "A partner usually leads the initial implementation, but companies soon find that without their own person the system stops evolving after go-live. An in-house consultant handles changes, trains new staff and checks the vendor's work. We help you choose the format and define the profile for your system."
+   ]
+  ],
+  "seek_h2": "Are you an ERP consultant looking for a job in Dubai?"
+ }
+}

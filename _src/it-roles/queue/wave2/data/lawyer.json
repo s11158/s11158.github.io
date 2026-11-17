@@ -1,0 +1,77 @@
+{
+ "slug": "lawyer",
+ "hub": "business",
+ "related": ["legal-counsel", "paralegal", "company-secretary", "compliance-officer"],
+ "ru": {
+  "name": "Юрист",
+  "title": "Найм юриста в Дубае: корпоративное право, DIFC, зарплата | TLNT",
+  "desc": "Найм юриста в Дубае: корпоративное, коммерческое и трудовое право ОАЭ, DIFC и ADGM, практическая проверка на договоре, зарплаты 2026 от TLNT.",
+  "h1": "Найм юриста",
+  "h1em": "в Дубае",
+  "intro": "Юристы нужны юридическим фирмам Дубая, девелоперам, банкам и финтеху, холдингам, семейным офисам и быстрорастущим компаниям, которым нужен свой юрист вместо постоянных внешних счетов. Задачи: договоры, корпоративные сделки, трудовые вопросы по закону ОАЭ, недвижимость, споры и работа с регуляторами. Помогаем определить, нужен ли вам практикующий юрист для судов или корпоративный юрист в штат, даём шорт-лист из нашей живой базы и проводим практическую проверку на реальном документе.",
+  "find_lead": "Юрист, который знает право ОАЭ и общее право DIFC, пишет понятные договоры и даёт бизнесу ответ, а не только список рисков.",
+  "find": [
+   "Право: гражданский и коммерческий кодексы ОАЭ, закон о компаниях, трудовой закон, право DIFC и ADGM",
+   "Допуск: для выступлений в судах Дубая нужна регистрация в Департаменте юстиции Дубая, в судах DIFC своя регистрация",
+   "Договоры: поставка, дистрибуция, агентские, аренда, SPA и SHA, NDA, на английском и при необходимости арабском",
+   "Специализация: недвижимость и DLD, финансовое регулирование (DFSA, ЦБ ОАЭ), споры и арбитраж DIAC",
+   "Квалификация: диплом права, опыт в ОАЭ, для иностранных юристов признанная квалификация (solicitor, адвокатура страны)",
+   "Бизнес-подход: оценка рисков в деньгах, понятные записки для руководства, умение вести внешних консультантов"
+  ],
+  "check_lead": "Диплом и громкие фирмы в резюме не показывают, как юрист читает договор под давлением сроков. Проверяем на реальном документе, решение принимает ваш генеральный юрист или руководитель.",
+  "steps": [
+   ["Разбор договора", "кандидат получает договор поставки от контрагента: за два часа отмечает риски, предлагает правки и пишет короткую записку для директора."],
+   ["Правовой вопрос", "сотрудник уходит к конкуренту, в договоре есть запрет на конкуренцию. Кандидат объясняет позицию по закону ОАЭ и практические шаги."],
+   ["Переговоры", "ролевой разговор с юристом контрагента по двум спорным пунктам. Смотрим на аргументы и умение находить компромисс."],
+   ["Рекомендации", "звонки партнёрам или руководителям: качество работы, сроки, умение работать с бизнесом."]
+  ],
+  "mistake": "Типичная ошибка: нанимать юриста только с иностранным опытом без знания права ОАЭ и местной практики. Ещё ошибка: ждать от корпоративного юриста ведения сложных судебных дел, для этого нужен допуск и отдельный опыт.",
+  "sal": [
+   ["Младший юрист", "10 000 - 18 000"],
+   ["Юрист с опытом в ОАЭ", "18 000 - 35 000"],
+   ["Старший юрист или руководитель юротдела", "35 000 - 65 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Международные фирмы, практика DIFC, знание арабского и опыт в финансовом регулировании поднимают пакет; партнёрские роли обсуждаются индивидуально.",
+  "faq": [
+   ["Сколько зарабатывает юрист в Дубае?", "Младший юрист получает около 10 000 - 18 000 AED в месяц, юрист с опытом в ОАЭ 18 000 - 35 000 AED, старший юрист или руководитель юротдела 35 000 - 65 000 AED."],
+   ["Может ли иностранный юрист вести дела в судах Дубая?", "Для выступлений в местных судах Дубая нужна регистрация в Департаменте юстиции Дубая, требования к ней строже для иностранцев. Консультировать и вести договоры корпоративный юрист может без этого допуска."]
+  ],
+  "seek_h2": "Вы юрист и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Lawyer",
+  "title": "Hire a Lawyer in Dubai: Corporate Law, DIFC, Salary | TLNT",
+  "desc": "Hire a lawyer in Dubai: UAE corporate, commercial and employment law, DIFC and ADGM, practical checks on a real contract and 2026 salaries from TLNT.",
+  "h1": "Hire a lawyer",
+  "h1em": "in Dubai",
+  "intro": "Lawyers are needed by Dubai law firms, developers, banks and fintech, holdings, family offices and fast-growing companies that want their own lawyer instead of constant external bills. The work covers contracts, corporate transactions, UAE employment matters, real estate, disputes and regulators. We help you decide whether you need a practising lawyer for court work or an in-house corporate lawyer, shortlist from our live database and run a practical check on a real document.",
+  "find_lead": "A lawyer who knows UAE law and DIFC common law, writes clear contracts and gives the business an answer, not just a list of risks.",
+  "find": [
+   "Law: UAE civil and commercial codes, companies law, labour law, DIFC and ADGM law",
+   "Rights of audience: appearing in Dubai Courts requires registration with the Dubai Legal Affairs Department; DIFC Courts have their own register",
+   "Contracts: supply, distribution, agency, lease, SPA and SHA, NDA, in English and Arabic where needed",
+   "Specialism: real estate and DLD, financial regulation (DFSA, UAE Central Bank), disputes and DIAC arbitration",
+   "Qualification: law degree, UAE experience, and for foreign lawyers a recognised qualification (solicitor, bar admission)",
+   "Business sense: risks expressed in money, clear memos for management, managing external counsel"
+  ],
+  "check_lead": "A degree and big firms on a CV do not show how a lawyer reads a contract under deadline pressure. We check on a real document, and your general counsel or manager decides.",
+  "steps": [
+   ["Contract review", "the candidate gets a counterparty's supply agreement and, in two hours, marks risks, proposes edits and writes a short memo for the director."],
+   ["Legal question", "an employee leaves for a competitor and has a non-compete clause. The candidate explains the UAE law position and practical steps."],
+   ["Negotiation", "a role-play with the counterparty's lawyer on two disputed clauses. We look at arguments and the ability to find a compromise."],
+   ["References", "calls to partners or managers about quality, deadlines and work with the business."]
+  ],
+  "mistake": "A typical mistake: hiring a lawyer with only foreign experience and no knowledge of UAE law and local practice. Another mistake is expecting an in-house corporate lawyer to run complex litigation, which needs rights of audience and separate experience.",
+  "sal": [
+   ["Junior lawyer", "10,000 - 18,000"],
+   ["Lawyer with UAE experience", "18,000 - 35,000"],
+   ["Senior lawyer or head of legal", "35,000 - 65,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. International firms, DIFC practice, Arabic and financial regulation experience raise the package; partner roles are negotiated individually.",
+  "faq": [
+   ["How much does a lawyer earn in Dubai?", "A junior lawyer earns around AED 10,000 - 18,000 a month, a lawyer with UAE experience AED 18,000 - 35,000 and a senior lawyer or head of legal AED 35,000 - 65,000."],
+   ["Can a foreign lawyer appear in Dubai courts?", "Appearing in onshore Dubai courts requires registration with the Dubai Legal Affairs Department, with stricter rules for foreign lawyers. An in-house lawyer can advise and handle contracts without rights of audience."]
+  ],
+  "seek_h2": "Are you a lawyer looking for a job in Dubai?"
+ }
+}

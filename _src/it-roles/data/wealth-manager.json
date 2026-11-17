@@ -1,0 +1,136 @@
+{
+ "slug": "wealth-manager",
+ "hub": "finance",
+ "related": [
+  "investment-advisor",
+  "relationship-manager",
+  "family-office-assistant",
+  "risk-manager"
+ ],
+ "ru": {
+  "name": "Wealth-менеджер",
+  "title": "Найм wealth-менеджера в Дубае: частный банкинг, DIFC, зарплата | TLNT",
+  "desc": "Найм wealth-менеджера в Дубае: частный банкинг, DIFC и ADGM, лицензии и CFA, проверка на кейсе семьи и KYC, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм wealth-менеджера",
+  "h1em": "в Дубае",
+  "intro": "Wealth-менеджеры нужны частным банкам и бутикам в DIFC и ADGM, семейным офисам, мультисемейным офисам и управляющим компаниям, которые обслуживают состоятельные семьи, переехавшие в ОАЭ. Задачи: целостная картина капитала клиента, инвестиционная стратегия, структуры владения, передача капитала, работа с юристами и налоговыми советниками в разных странах. Помогаем определить профиль, даём шорт-лист из нашей живой базы и проверяем кандидата на кейсе реальной семьи.",
+  "find_lead": "Специалист, который видит капитал семьи целиком: инвестиции, недвижимость, бизнес, наследование, и управляет этим без конфликта интересов.",
+  "find": [
+   "Регулирование: DFSA, FSRA или SCA, лицензия сотрудника, правила пригодности и конфликта интересов",
+   "Квалификации: CFA, CFP, CISI Wealth Management или аналог, опыт в частном банкинге",
+   "Структуры: трасты и фонды DIFC и ADGM, холдинги, foundations, понимание CRS и налоговых резидентств",
+   "Инвестиции: распределение активов, частные рынки, недвижимость, валютный риск семьи",
+   "Источник капитала: глубокий KYC и источник состояния, работа со сложными международными структурами",
+   "Отношения: доверие нескольких поколений семьи, конфиденциальность, языки клиентов, включая русский"
+  ],
+  "check_lead": "Хороший wealth-менеджер виден по вопросам, которые он задаёт. Проверяем глубину мышления и подход к рискам, решение принимает ваш руководитель.",
+  "steps": [
+   [
+    "Кейс семьи",
+    "основатель бизнеса переехал в Дубай, активы в трёх странах, двое детей. Кандидат описывает, с чего начнёт и какие специалисты нужны."
+   ],
+   [
+    "Источник состояния",
+    "по описанию клиента собрать список подтверждений источника капитала и найти слабые места для комплаенса."
+   ],
+   [
+    "Инвестиционная стратегия",
+    "предложить стратегию на 15 лет с учётом ликвидности, валют и передачи капитала, объяснить семье на простом языке."
+   ],
+   [
+    "Рекомендации и реестр",
+    "проверка лицензии в реестре регулятора, звонки руководителям: объём активов, удержание клиентов, жалобы."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанимать продавца инвестиционных продуктов под видом wealth-менеджера. Клиент быстро чувствует, что ему продают, и уходит. Ещё ошибка: переоценить переносимость клиентской базы: в частном банкинге клиент часто остаётся с банком, а не с человеком.",
+  "sal": [
+   [
+    "Младший wealth-менеджер или ассоциат",
+    "15 000 - 25 000"
+   ],
+   [
+    "Wealth-менеджер",
+    "25 000 - 45 000"
+   ],
+   [
+    "Старший wealth-менеджер или директор",
+    "45 000 - 80 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Бонус от выручки и привлечённых активов может составлять существенную часть годового дохода, особенно в частном банкинге.",
+  "faq": [
+   [
+    "Сколько зарабатывает wealth-менеджер в Дубае?",
+    "В 2026 году младший wealth-менеджер или ассоциат в Дубае получает около 15 000 - 25 000 AED в месяц, опытный wealth-менеджер 25 000 - 45 000 AED, старший менеджер или директор 45 000 - 80 000 AED. Сверху идёт бонус от выручки и привлечённых активов."
+   ],
+   [
+    "Нужен wealth-менеджер с готовой клиентской базой?",
+    "База помогает, но её реальная переносимость часто ниже обещанной, а правила прошлого работодателя могут ограничивать переход клиентов. Важнее проверить, как кандидат привлекает и удерживает новых клиентов. Мы разбираем это на собеседовании и в рекомендациях."
+   ]
+  ],
+  "seek_h2": "Вы wealth-менеджер и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Wealth manager",
+  "title": "Hire a Wealth Manager in Dubai: Private Banking, DIFC, Salary | TLNT",
+  "desc": "Hire a wealth manager in Dubai: private banking, DIFC and ADGM, licensing and CFA, a family case and KYC check, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a wealth manager",
+  "h1em": "in Dubai",
+  "intro": "Wealth managers are hired by private banks and boutiques in DIFC and ADGM, single and multi-family offices and asset managers serving wealthy families who have moved to the UAE. The job: a complete view of the client's wealth, investment strategy, ownership structures, succession and coordination with lawyers and tax advisors across countries. We help define the profile, shortlist from our live database and test the candidate on a real family case.",
+  "find_lead": "A professional who sees the family's wealth as a whole: investments, property, business and succession, and manages it without conflicts of interest.",
+  "find": [
+   "Regulation: DFSA, FSRA or SCA, individual registration, suitability and conflict of interest rules",
+   "Qualifications: CFA, CFP, CISI Wealth Management or equivalent, private banking experience",
+   "Structures: DIFC and ADGM trusts and foundations, holding companies, CRS and tax residency awareness",
+   "Investments: asset allocation, private markets, real estate, family currency risk",
+   "Source of wealth: deep KYC and source of wealth, complex international structures",
+   "Relationships: the trust of several generations of a family, confidentiality, client languages including Russian"
+  ],
+  "check_lead": "A good wealth manager shows in the questions they ask. We test depth of thinking and approach to risk, and your manager makes the decision.",
+  "steps": [
+   [
+    "Family case",
+    "a business founder has moved to Dubai with assets in three countries and two children. The candidate explains where they start and which specialists are needed."
+   ],
+   [
+    "Source of wealth",
+    "from a client description, list the evidence for source of wealth and find the weak points for compliance."
+   ],
+   [
+    "Investment strategy",
+    "propose a 15-year strategy covering liquidity, currencies and succession, explained to the family in plain language."
+   ],
+   [
+    "References and register",
+    "checking the licence in the regulator's register, calls with managers: assets, client retention, complaints."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring an investment product salesperson under a wealth manager title. Clients quickly sense they are being sold to and leave. Another one: overestimating how portable a client book is: in private banking the client often stays with the bank, not the person.",
+  "sal": [
+   [
+    "Junior wealth manager or associate",
+    "15,000 - 25,000"
+   ],
+   [
+    "Wealth manager",
+    "25,000 - 45,000"
+   ],
+   [
+    "Senior wealth manager or director",
+    "45,000 - 80,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Bonuses on revenue and new assets can be a large share of annual pay, especially in private banking.",
+  "faq": [
+   [
+    "How much does a wealth manager earn in Dubai?",
+    "In 2026 a junior wealth manager or associate in Dubai earns about AED 15,000 - 25,000 per month, an experienced wealth manager AED 25,000 - 45,000 and a senior manager or director AED 45,000 - 80,000. A bonus on revenue and new assets comes on top."
+   ],
+   [
+    "Should I hire a wealth manager with an existing client book?",
+    "A book helps, but how much of it really moves is often lower than promised, and the previous employer's terms may restrict client transfers. It matters more to check how the candidate wins and keeps new clients. We cover this in the interview and in references."
+   ]
+  ],
+  "seek_h2": "Are you a wealth manager looking for a job in Dubai?"
+ }
+}

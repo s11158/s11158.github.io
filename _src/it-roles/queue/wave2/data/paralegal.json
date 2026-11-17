@@ -1,0 +1,77 @@
+{
+ "slug": "paralegal",
+ "hub": "business",
+ "related": ["lawyer", "legal-counsel", "company-secretary", "pro-officer"],
+ "ru": {
+  "name": "Помощник юриста",
+  "title": "Найм помощника юриста в Дубае: паралигал, зарплата | TLNT",
+  "desc": "Найм помощника юриста (паралигала) в Дубае: договоры, корпоративные документы, фризоны и суды, практическая проверка и шорт-лист от TLNT.",
+  "h1": "Найм помощника юриста",
+  "h1em": "в Дубае",
+  "intro": "Помощники юристов нужны юридическим фирмам Дубая, юротделам девелоперов, банков, холдингов и семейных офисов, а также корпоративным сервисным компаниям. Задачи: подготовка проектов договоров, ведение корпоративных записей, работа с порталами фризон и Министерства экономики, нотариальное заверение, легализация, сбор документов к делам в судах Дубая и DIFC. Помогаем определить, нужен ли вам паралигал под судебную или корпоративную практику, даём шорт-лист из нашей живой базы и проводим практическую проверку.",
+  "find_lead": "Собранный помощник, который держит сроки, правильно оформляет документы для ОАЭ и не теряет ни одной подписи.",
+  "find": [
+   "Корпоративка: учредительные документы, резолюции, доверенности, порталы DMCC, JAFZA, IFZA, DIFC",
+   "Договоры: первые проекты по шаблонам, сравнение версий, ведение реестра договоров и сроков",
+   "Легализация: нотариат Дубая, апостиль, MOFA, присяжный перевод на арабский",
+   "Суды: подготовка пакетов, работа с электронными системами судов Дубая и DIFC",
+   "Инструменты: Word с режимом правок, PDF-редакторы, системы учёта дел, e-signature",
+   "Языки: сильный английский, арабский или русский как преимущество для клиентов фирмы"
+  ],
+  "check_lead": "Резюме паралигала обычно похожи, разница видна в аккуратности. Проверяем на документах, решение принимает ваш юрист.",
+  "steps": [
+   ["Проект документа", "кандидат по шаблону готовит резолюцию о смене управляющего и доверенность: смотрим точность реквизитов и согласованность."],
+   ["Сравнение версий", "две редакции договора: за 30 минут кандидат находит все изменения и отмечает спорные."],
+   ["План легализации", "документ из другой страны нужно использовать в суде Дубая. Кандидат описывает шаги и сроки."],
+   ["Рекомендации", "звонки юристам, с которыми работал кандидат: сроки, аккуратность, конфиденциальность."]
+  ],
+  "mistake": "Типичная ошибка: брать паралигала из судебной практики в корпоративную или наоборот, ожидая одинаковой скорости. Ещё ошибка: не проверить навыки работы с порталами конкретной фризоны, из-за чего регистрационные действия затягиваются на недели.",
+  "sal": [
+   ["Младший помощник юриста", "5 000 - 9 000"],
+   ["Помощник юриста с опытом", "9 000 - 15 000"],
+   ["Старший паралигал", "15 000 - 22 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Международные юрфирмы и практика DIFC платят выше; знание арабского для судебной работы заметно поднимает пакет.",
+  "faq": [
+   ["Сколько зарабатывает помощник юриста в Дубае?", "Младший помощник получает около 5 000 - 9 000 AED в месяц, помощник с опытом 9 000 - 15 000 AED, старший паралигал 15 000 - 22 000 AED."],
+   ["Нужно ли паралигалу юридическое образование?", "Обычно да, хотя бы бакалавриат по праву или профильный сертификат. Для корпоративной практики важнее опыт работы с порталами фризон и легализацией, чем диплом конкретной страны."]
+  ],
+  "seek_h2": "Вы помощник юриста и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Paralegal",
+  "title": "Hire a Paralegal in Dubai: Corporate and Litigation, Salary | TLNT",
+  "desc": "Hire a paralegal in Dubai: contracts, corporate records, free zone filings and court support, practical checks on documents and a shortlist from TLNT.",
+  "h1": "Hire a paralegal",
+  "h1em": "in Dubai",
+  "intro": "Paralegals are needed by Dubai law firms, in-house teams at developers, banks, holdings and family offices, and corporate service providers. The work covers first drafts of contracts, corporate records, free zone and Ministry of Economy portals, notarisation, legalisation and preparing bundles for Dubai Courts and DIFC Courts. We help you decide whether you need a paralegal for litigation or corporate work, shortlist from our live database and run a practical check.",
+  "find_lead": "An organised paralegal who keeps deadlines, prepares documents correctly for the UAE and never loses a signature.",
+  "find": [
+   "Corporate: constitutional documents, resolutions, powers of attorney, DMCC, JAFZA, IFZA and DIFC portals",
+   "Contracts: first drafts from templates, version comparison, contract register and deadlines",
+   "Legalisation: Dubai notary, apostille, MOFA attestation, legal translation into Arabic",
+   "Courts: bundle preparation, Dubai Courts and DIFC Courts e-filing systems",
+   "Tools: Word track changes, PDF editors, matter management systems, e-signature",
+   "Languages: strong English, with Arabic or Russian as a plus for the firm's clients"
+  ],
+  "check_lead": "Paralegal CVs look alike; the difference shows in precision. We check on documents, and your lawyer decides.",
+  "steps": [
+   ["Drafting task", "from a template the candidate prepares a resolution to change a manager and a power of attorney: we check accuracy of details and consistency."],
+   ["Version comparison", "two drafts of a contract: in 30 minutes the candidate finds all changes and flags the contentious ones."],
+   ["Legalisation plan", "a foreign document must be used in a Dubai court. The candidate describes the steps and timing."],
+   ["References", "calls to lawyers the candidate worked with about deadlines, precision and confidentiality."]
+  ],
+  "mistake": "A typical mistake: moving a litigation paralegal into corporate work, or the reverse, and expecting the same speed. Another mistake is not checking experience with the specific free zone's portal, which can delay filings by weeks.",
+  "sal": [
+   ["Junior paralegal", "5,000 - 9,000"],
+   ["Experienced paralegal", "9,000 - 15,000"],
+   ["Senior paralegal", "15,000 - 22,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. International firms and DIFC practices pay more; Arabic for court work raises the package noticeably.",
+  "faq": [
+   ["How much does a paralegal earn in Dubai?", "A junior paralegal earns around AED 5,000 - 9,000 a month, an experienced paralegal AED 9,000 - 15,000 and a senior paralegal AED 15,000 - 22,000."],
+   ["Does a paralegal need a law degree?", "Usually yes, at least a law degree or a relevant certificate. For corporate work, experience with free zone portals and legalisation matters more than a degree from a particular country."]
+  ],
+  "seek_h2": "Are you a paralegal looking for a job in Dubai?"
+ }
+}

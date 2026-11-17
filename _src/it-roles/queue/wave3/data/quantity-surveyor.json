@@ -1,0 +1,77 @@
+{
+ "slug": "quantity-surveyor",
+ "hub": "construction",
+ "related": ["civil-engineer", "construction-project-manager", "procurement-manager", "site-engineer"],
+ "ru": {
+  "name": "Сметчик (Quantity Surveyor)",
+  "title": "Найм сметчика (QS) в Дубае: BOQ, проверка, зарплата | TLNT",
+  "desc": "Найм Quantity Surveyor в Дубае: BOQ, FIDIC, вариации и платёжные заявки, практическая проверка подсчёта объёмов, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм сметчика (Quantity Surveyor)",
+  "h1em": "в Дубае",
+  "intro": "Quantity Surveyor в Дубае работает у подрядчиков, девелоперов, консультантов по стоимости и компаний fit-out. Он считает объёмы, готовит BOQ и тендеры, ведёт вариации и платёжные заявки, спорит о деньгах по договору FIDIC и защищает маржу проекта. Помогаем понять, нужен вам QS на стороне подрядчика или заказчика, даём шорт-лист из нашей живой базы и проводим практическую проверку подсчёта и работы с контрактом, результат которой оценивает ваш коммерческий руководитель.",
+  "find_lead": "Специалист, который точно считает объёмы по чертежам, знает договор лучше прораба и не отдаёт деньги проекта без документа.",
+  "find": [
+   "Подсчёт объёмов: по чертежам и моделям, правила POMI или NRM, CESMM для инфраструктуры",
+   "Контракты: FIDIC Red и Yellow Book, субподрядные договоры, уведомления и сроки по договору",
+   "Деньги проекта: промежуточные платёжные заявки, вариации, финальный расчёт, cost report",
+   "Тендеры: BOQ, сравнение предложений субподрядчиков, переговоры по ценам",
+   "Софт: CostX, Planswift или Bluebeam, Excel на продвинутом уровне, иногда Candy",
+   "Квалификация: RICS (MRICS или в процессе) ценится, особенно у консультантов и девелоперов"
+  ],
+  "check_lead": "Ошибка QS стоит проекту реальных денег. Поэтому проверяем на настоящих чертежах и договорных ситуациях, а решение принимает ваш коммерческий директор.",
+  "steps": [
+   ["Подсчёт объёмов", "комплект чертежей небольшой виллы: за два часа посчитать бетон, арматуру и кладку по POMI и показать допущения."],
+   ["Кейс вариации", "заказчик устно попросил изменить фасад, работы уже идут. Как QS оформляет уведомление, оценивает вариацию и защищает сроки по FIDIC."],
+   ["Разбор платёжной заявки", "заявка субподрядчика завышена на 15%. Кандидат находит, где и почему, и готовит ответ."],
+   ["Рекомендации", "звонки коммерческим менеджерам: объём контрактов, финальные расчёты, споры, которые удалось закрыть."]
+  ],
+  "mistake": "Типичная ошибка: нанять QS, который хорошо считает объёмы, но не знает договора, и потерять деньги на неподанных вовремя уведомлениях. Ещё ошибка: путать QS заказчика и подрядчика, хотя у них противоположные задачи в одном и том же споре.",
+  "sal": [
+   ["Младший QS", "7 000 - 12 000"],
+   ["QS среднего уровня", "12 000 - 20 000"],
+   ["Старший QS или коммерческий менеджер", "20 000 - 38 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Статус MRICS, опыт с девелоперами и крупной инфраструктурой поднимают пакет; у подрядчиков часто добавляется жильё и машина.",
+  "faq": [
+   ["Сколько зарабатывает Quantity Surveyor в Дубае?", "В 2026 году младший Quantity Surveyor в Дубае получает около 7 000 - 12 000 AED в месяц, специалист среднего уровня 12 000 - 20 000 AED, старший QS или коммерческий менеджер 20 000 - 38 000 AED. MRICS и опыт споров по FIDIC поднимают оплату."],
+   ["Нужен ли QS статус RICS?", "Для работы у подрядчика RICS не обязателен, важнее опыт подсчётов и договоров в ОАЭ. У консультантов по стоимости и крупных девелоперов MRICS часто прямое требование. Поможем решить, стоит ли за него доплачивать в вашем случае."]
+  ],
+  "seek_h2": "Вы Quantity Surveyor и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Quantity surveyor",
+  "title": "Hire a Quantity Surveyor in Dubai: BOQ, Checks, Salary | TLNT",
+  "desc": "Hire a quantity surveyor in Dubai: BOQs, FIDIC, variations and payment applications, practical take-off checks, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a quantity surveyor",
+  "h1em": "in Dubai",
+  "intro": "Quantity surveyors in Dubai work for contractors, developers, cost consultants and fit-out companies. They measure quantities, prepare BOQs and tenders, manage variations and payment applications, argue money under FIDIC contracts and protect the project margin. We help you decide whether you need a contractor-side or client-side QS, shortlist from our live database and run a practical check of take-off and contract handling that your commercial lead scores.",
+  "find_lead": "A professional who measures accurately from drawings, knows the contract better than the site team and never gives away project money without a document.",
+  "find": [
+   "Take-off: from drawings and models, POMI or NRM rules, CESMM for infrastructure",
+   "Contracts: FIDIC Red and Yellow Book, subcontracts, notices and contractual time bars",
+   "Project money: interim payment applications, variations, final account, cost reports",
+   "Tenders: BOQs, comparing subcontractor bids, price negotiation",
+   "Software: CostX, Planswift or Bluebeam, advanced Excel, sometimes Candy",
+   "Qualification: RICS (MRICS or in progress) is valued, especially by consultants and developers"
+  ],
+  "check_lead": "A QS mistake costs the project real money. So we check on real drawings and contract situations, and your commercial director makes the call.",
+  "steps": [
+   ["Take-off", "a drawing set for a small villa: in two hours measure concrete, rebar and blockwork to POMI and show the assumptions."],
+   ["Variation case", "the client verbally asked to change the facade and work is under way. How the QS issues notice, values the variation and protects time under FIDIC."],
+   ["Payment application review", "a subcontractor application is overstated by 15%. The candidate finds where and why and drafts the response."],
+   ["References", "calls with commercial managers: contract values, final accounts, disputes they closed."]
+  ],
+  "mistake": "Typical mistake: hiring a QS who measures well but does not know the contract, and losing money on notices not served in time. Another one: mixing up client-side and contractor-side QS, although they sit on opposite sides of the same dispute.",
+  "sal": [
+   ["Junior QS", "7,000 - 12,000"],
+   ["Mid-level QS", "12,000 - 20,000"],
+   ["Senior QS or commercial manager", "20,000 - 38,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. MRICS status, developer and major infrastructure experience raise the package; contractors often add housing and a car.",
+  "faq": [
+   ["How much does a quantity surveyor earn in Dubai?", "In 2026 a junior quantity surveyor in Dubai earns about AED 7,000 - 12,000 per month, a mid-level QS AED 12,000 - 20,000 and a senior QS or commercial manager AED 20,000 - 38,000. MRICS and FIDIC dispute experience raise pay."],
+   ["Does a QS need RICS?", "On the contractor side RICS is not required; UAE take-off and contract experience matters more. Cost consultants and major developers often require MRICS. We help you decide whether it is worth paying extra for in your case."]
+  ],
+  "seek_h2": "Are you a quantity surveyor looking for a job in Dubai?"
+ }
+}

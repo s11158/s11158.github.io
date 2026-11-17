@@ -1,0 +1,136 @@
+{
+ "slug": "system-administrator",
+ "hub": "tech",
+ "related": [
+  "network-engineer",
+  "it-support-specialist",
+  "it-manager",
+  "devops-engineer"
+ ],
+ "ru": {
+  "name": "Системный администратор",
+  "title": "Найм системного администратора в Дубае: зарплата, проверка | TLNT",
+  "desc": "Найм системного администратора в Дубае: Windows Server, Microsoft 365, Linux и резервные копии, практическая проверка, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм системного администратора",
+  "h1em": "в Дубае",
+  "intro": "Системные администраторы нужны в Дубае офисам компаний, клиникам и салонам с несколькими филиалами, отелям, школам, дистрибьюторам и семейным офисам. Администратор отвечает за серверы, учётные записи, почту и Microsoft 365, резервные копии, антивирус, доступы новых и уходящих сотрудников, работу с подрядчиками и провайдерами. Помогаем понять, нужен вам администратор, специалист поддержки или DevOps, даём шорт-лист из нашей живой базы и проводим практическую проверку, результат которой оценивает ваш ИТ-руководитель или внешний эксперт.",
+  "find_lead": "Администратор, у которого всё записано, резервные копии проверены восстановлением, а доступ уволенного сотрудника закрыт в тот же день.",
+  "find": [
+   "Windows Server и Active Directory: групповые политики, DNS, DHCP, файловые серверы",
+   "Microsoft 365 и Entra ID: почта, Teams, SharePoint, MFA, лицензии, Intune для ноутбуков и телефонов",
+   "Linux: базовое администрирование, веб-серверы, обновления, скрипты на Bash или PowerShell",
+   "Резервное копирование: Veeam или аналог, правило 3-2-1, регулярная проверка восстановления",
+   "Виртуализация и облако: VMware или Hyper-V, базовые сервисы Azure или AWS",
+   "Безопасность и порядок: антивирус и EDR, обновления, учёт оборудования и лицензий, работа с провайдерами"
+  ],
+  "check_lead": "Опыт \"всё настраивал сам\" сложно проверить по резюме. Проверка показывает, как кандидат наводит порядок, восстанавливает данные и объясняет решения людям без ИТ-образования.",
+  "steps": [
+   [
+    "Практическое задание",
+    "на тестовом стенде или виртуальной машине кандидат за 2-3 часа создаёт пользователей и группы, настраивает доступы к папкам и политику паролей, а затем описывает сделанное."
+   ],
+   [
+    "Сценарий аварии",
+    "утром не открываются общие файлы, а на одном компьютере появилось требование выкупа. Кандидат рассказывает свои шаги по порядку: изоляция, проверка, восстановление, сообщение руководству."
+   ],
+   [
+    "Разговор об инфраструктуре",
+    "приход и уход сотрудника, переезд офиса, переход с локальной почты на Microsoft 365: что делать и в каком порядке."
+   ],
+   [
+    "Рекомендации",
+    "звонки руководителям с прошлых мест: сколько пользователей и филиалов вёл кандидат, как реагировал на срочные проблемы, оставил ли документацию."
+   ]
+  ],
+  "mistake": "Типичная ошибка: доверить всю ИТ-инфраструктуру одному администратору без документации и общего доступа к паролям у руководства. Когда он уходит, компания не может зайти в собственные системы. Ещё ошибка: не спросить, когда кандидат последний раз проверял восстановление из резервной копии, копии, которые не проверялись, часто не работают.",
+  "sal": [
+   [
+    "Младший системный администратор",
+    "6 000 - 10 000"
+   ],
+   [
+    "Системный администратор среднего уровня",
+    "10 000 - 16 000"
+   ],
+   [
+    "Старший администратор или руководитель инфраструктуры",
+    "16 000 - 25 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт с Microsoft 365 и Azure, сертификаты Microsoft, работа с несколькими филиалами и дежурства заметно поднимают пакет; жильё и транспорт меняют полную сумму.",
+  "faq": [
+   [
+    "Сколько зарабатывает системный администратор в Дубае?",
+    "В 2026 году младший системный администратор в Дубае получает около 6 000 - 10 000 AED в месяц, администратор среднего уровня 10 000 - 16 000 AED, старший администратор или руководитель инфраструктуры 16 000 - 25 000 AED. Банки, крупные холдинги и отели класса люкс платят по верхней границе."
+   ],
+   [
+    "Нужен системный администратор или DevOps-инженер?",
+    "Системный администратор отвечает за офисную инфраструктуру: учётные записи, почту, серверы, ноутбуки, резервные копии и безопасность сотрудников. DevOps-инженер работает с вашим программным продуктом: пайплайны, облако, контейнеры. Если у вас нет собственной разработки, вам почти наверняка нужен администратор. Поможем определить роль до поиска."
+   ]
+  ],
+  "seek_h2": "Вы системный администратор и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "System administrator",
+  "title": "Hire a System Administrator in Dubai: Salary, Checks | TLNT",
+  "desc": "Hire a system administrator in Dubai: Windows Server, Microsoft 365, Linux and backups, a practical check, 2026 salaries and a shortlist from TLNT's database.",
+  "h1": "Hire a system administrator",
+  "h1em": "in Dubai",
+  "intro": "System administrators are in demand in Dubai at company offices, clinics and salons with several branches, hotels, schools, distributors and family offices. The administrator owns servers, user accounts, email and Microsoft 365, backups, antivirus, access for joiners and leavers, and work with vendors and internet providers. We help you decide whether you need an administrator, IT support or DevOps, shortlist from our live database and run a practical check that your IT head or an external expert scores.",
+  "find_lead": "An administrator who writes everything down, tests backups by restoring them and closes a leaver's access on the same day.",
+  "find": [
+   "Windows Server and Active Directory: group policies, DNS, DHCP, file servers",
+   "Microsoft 365 and Entra ID: email, Teams, SharePoint, MFA, licences, Intune for laptops and phones",
+   "Linux: basic administration, web servers, updates, Bash or PowerShell scripting",
+   "Backups: Veeam or similar, the 3-2-1 rule, regular restore tests",
+   "Virtualisation and cloud: VMware or Hyper-V, basic Azure or AWS services",
+   "Security and order: antivirus and EDR, patching, hardware and licence inventory, vendor management"
+  ],
+  "check_lead": "\"I set everything up myself\" is hard to verify from a CV. The check shows how a candidate brings order, restores data and explains decisions to people without an IT background.",
+  "steps": [
+   [
+    "Practical task",
+    "on a test environment or virtual machine the candidate spends 2-3 hours creating users and groups, setting folder permissions and a password policy, then documents what they did."
+   ],
+   [
+    "Incident scenario",
+    "in the morning shared files will not open and one computer shows a ransom note. The candidate lists their steps in order: isolate, check, restore, report to management."
+   ],
+   [
+    "Infrastructure conversation",
+    "an employee joining and leaving, an office move, a migration from on-premise email to Microsoft 365: what to do and in which order."
+   ],
+   [
+    "References",
+    "calls with managers from previous roles: how many users and branches the candidate ran, how they handled urgent issues, whether they left documentation."
+   ]
+  ],
+  "mistake": "Typical mistake: handing the whole IT infrastructure to one administrator with no documentation and no management access to passwords. When they leave, the company cannot get into its own systems. Another one: not asking when the candidate last tested a restore from backup; untested backups often do not work.",
+  "sal": [
+   [
+    "Junior system administrator",
+    "6,000 - 10,000"
+   ],
+   [
+    "Mid-level system administrator",
+    "10,000 - 16,000"
+   ],
+   [
+    "Senior administrator or infrastructure lead",
+    "16,000 - 25,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Microsoft 365 and Azure experience, Microsoft certifications, multi-branch work and on-call duty noticeably raise the package; housing and transport change the total.",
+  "faq": [
+   [
+    "How much does a system administrator earn in Dubai?",
+    "In 2026 a junior system administrator in Dubai earns about AED 6,000 - 10,000 per month, a mid-level administrator AED 10,000 - 16,000 and a senior administrator or infrastructure lead AED 16,000 - 25,000. Banks, large holdings and luxury hotels pay at the top of the range."
+   ],
+   [
+    "Do I need a system administrator or a DevOps engineer?",
+    "A system administrator owns office infrastructure: accounts, email, servers, laptops, backups and staff security. A DevOps engineer works on your software product: pipelines, cloud, containers. If you do not build your own software, you almost certainly need an administrator. We help you define the role before the search."
+   ]
+  ],
+  "seek_h2": "Are you a system administrator looking for a job in Dubai?"
+ }
+}

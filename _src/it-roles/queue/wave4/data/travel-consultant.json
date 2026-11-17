@@ -1,0 +1,136 @@
+{
+ "slug": "travel-consultant",
+ "hub": "hospitality",
+ "related": [
+  "reservations-agent",
+  "customer-service-agent",
+  "concierge",
+  "lifestyle-manager"
+ ],
+ "ru": {
+  "name": "Тревел-консультант",
+  "title": "Найм тревел-консультанта в Дубае: GDS, продажи туров | TLNT",
+  "desc": "Найм тревел-консультанта в Дубае: Amadeus и Sabre, продажа туров и корпоративных поездок, проверка на реальном запросе, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм тревел-консультанта",
+  "h1em": "в Дубае",
+  "intro": "Тревел-консультанты нужны туроператорам и тревел-компаниям Дубая, корпоративным TMC, DMC для въездного туризма и премиальным консьерж-сервисам. Задачи: подбор и продажа перелётов, отелей и пакетов, бронирование в GDS, визовая поддержка клиентов, корпоративные поездки и группы, работа с жалобами. Помогаем определить, нужен ли вам продавец на выездной туризм, корпоративный агент или специалист по въездному, даём шорт-лист из нашей живой базы и проводим проверку на реальном запросе клиента.",
+  "find_lead": "Консультант, который быстро собирает выгодный маршрут, продаёт его клиенту и не ошибается в бронированиях.",
+  "find": [
+   "GDS: Amadeus, Sabre или Galileo, бронирование, перевыпуск и возвраты билетов",
+   "Отели и пакеты: работа с B2B-платформами и прямыми контрактами, расчёт наценки",
+   "Направления: популярные маршруты из ОАЭ (Европа, Мальдивы, СНГ, Азия) и визовые требования для резидентов",
+   "Продажи: конверсия запросов, допродажи (страховка, трансфер, экскурсии), работа с повторными клиентами",
+   "Корпоративный сегмент: travel policy, отчёты для клиентов, срочные изменения поездок",
+   "Языки: английский свободно, русский, арабский или хинди как плюс для отдельных рынков"
+  ],
+  "check_lead": "Опыт в туризме бывает очень разным: кто-то только продавал, кто-то только бронировал. Проверка показывает реальный навык, а решение принимаете вы.",
+  "steps": [
+   [
+    "Реальный запрос",
+    "семья из четырёх человек хочет на 10 дней в Европу с бюджетом. За час кандидат собирает два варианта и пишет клиенту предложение."
+   ],
+   [
+    "Тест в GDS",
+    "бронирование и изменение даты билета в Amadeus или Sabre на тренировочном терминале, расчёт штрафа за обмен."
+   ],
+   [
+    "Ролевая продажа",
+    "клиент сравнивает с онлайн-ценой и сомневается. Как кандидат показывает ценность и закрывает продажу."
+   ],
+   [
+    "Рекомендации",
+    "звонок руководителю: объём продаж, ошибки в бронированиях, отзывы клиентов."
+   ]
+  ],
+  "mistake": "Типичная ошибка: взять консультанта с опытом только онлайн-бронирований, когда нужны активные продажи и работа с клиентом. Или наоборот, сильного продавца, который не знает GDS, и билеты переделывает другой сотрудник. Ещё ошибка: не уточнить, как устроена комиссия от продаж.",
+  "sal": [
+   [
+    "Тревел-консультант (начальный уровень)",
+    "4 500 - 7 000"
+   ],
+   [
+    "Тревел-консультант",
+    "7 000 - 11 000"
+   ],
+   [
+    "Старший консультант или корпоративный агент",
+    "11 000 - 16 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, базовая ставка. Комиссия от продаж и корпоративные клиенты заметно меняют итоговый доход.",
+  "faq": [
+   [
+    "Сколько зарабатывает тревел-консультант в Дубае?",
+    "В 2026 году тревел-консультант начального уровня в Дубае получает около 4 500 - 7 000 AED в месяц, опытный консультант 7 000 - 11 000 AED, старший консультант или корпоративный агент 11 000 - 16 000 AED. Сверху часто комиссия от продаж."
+   ],
+   [
+    "Обязательно ли знание GDS?",
+    "Для продажи авиабилетов и корпоративных поездок да, Amadeus или Sabre сильно ускоряют работу. Для пакетных туров и отелей бывает достаточно B2B-платформ. Мы уточняем ваш продукт и проверяем нужные инструменты на практике."
+   ]
+  ],
+  "seek_h2": "Вы тревел-консультант и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Travel consultant",
+  "title": "Hire a Travel Consultant in Dubai: GDS, Holiday Sales | TLNT",
+  "desc": "Hire a travel consultant in Dubai: Amadeus and Sabre, leisure and corporate travel sales, a check on a real request, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire a travel consultant",
+  "h1em": "in Dubai",
+  "intro": "Travel consultants are needed by Dubai tour operators and travel companies, corporate TMCs, DMCs for inbound tourism and premium concierge services. The work: finding and selling flights, hotels and packages, GDS bookings, visa guidance for clients, corporate trips and groups, complaint handling. We help you decide whether you need an outbound leisure seller, a corporate agent or an inbound specialist, shortlist from our live database and run a check on a real client request.",
+  "find_lead": "A consultant who builds a good-value itinerary fast, sells it to the client and makes no booking errors.",
+  "find": [
+   "GDS: Amadeus, Sabre or Galileo, booking, reissue and refunds",
+   "Hotels and packages: B2B platforms and direct contracts, mark-up calculation",
+   "Destinations: popular routes from the UAE (Europe, Maldives, CIS, Asia) and visa rules for residents",
+   "Sales: request conversion, add-ons (insurance, transfers, tours), repeat clients",
+   "Corporate segment: travel policy, client reports, urgent trip changes",
+   "Languages: fluent English, Russian, Arabic or Hindi as a plus for specific markets"
+  ],
+  "check_lead": "Travel experience varies a lot: some people only sold, others only booked. The check shows the real skill, and you make the decision.",
+  "steps": [
+   [
+    "Real request",
+    "a family of four wants 10 days in Europe on a budget. In an hour the candidate builds two options and writes the client a proposal."
+   ],
+   [
+    "GDS test",
+    "booking and changing the date of a ticket in Amadeus or Sabre on a training terminal, including the change penalty."
+   ],
+   [
+    "Sales role play",
+    "the client compares with an online price and hesitates. How the candidate shows value and closes."
+   ],
+   [
+    "References",
+    "a call with a manager: sales volume, booking errors, client feedback."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a consultant with only online booking experience when you need active selling and client work. Or the opposite, a strong seller who does not know GDS, so someone else fixes the tickets. Another one: not agreeing how sales commission works.",
+  "sal": [
+   [
+    "Junior travel consultant",
+    "4,500 - 7,000"
+   ],
+   [
+    "Travel consultant",
+    "7,000 - 11,000"
+   ],
+   [
+    "Senior consultant or corporate travel agent",
+    "11,000 - 16,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, basic salary. Sales commission and corporate accounts noticeably change total earnings.",
+  "faq": [
+   [
+    "How much does a travel consultant earn in Dubai?",
+    "In 2026 a junior travel consultant in Dubai earns about AED 4,500 - 7,000 per month, an experienced consultant AED 7,000 - 11,000 and a senior or corporate consultant AED 11,000 - 16,000. Sales commission often comes on top."
+   ],
+   [
+    "Is GDS knowledge a must?",
+    "For air tickets and corporate travel, yes: Amadeus or Sabre makes the work much faster. For packages and hotels B2B platforms are often enough. We clarify your product and test the right tools in practice."
+   ]
+  ],
+  "seek_h2": "Are you a travel consultant looking for a job in Dubai?"
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "site-engineer",
+ "hub": "construction",
+ "related": ["civil-engineer", "construction-project-manager", "hse-officer", "quantity-surveyor"],
+ "ru": {
+  "name": "Инженер площадки",
+  "title": "Найм инженера площадки в Дубае: проверка, опыт, зарплата | TLNT",
+  "desc": "Найм инженера площадки (site engineer) в Дубае: исполнение, качество, субподрядчики и отчёты, проверка на кейсах, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм инженера площадки",
+  "h1em": "в Дубае",
+  "intro": "Инженер площадки в Дубае нужен генподрядчикам, компаниям fit-out, подрядчикам вилл и инфраструктуры. Он каждый день на объекте: раздаёт фронт работ бригадам и субподрядчикам, следит за качеством и безопасностью, принимает инспекции консультанта, ведёт дневные отчёты и обмеры. Помогаем определить, нужен вам гражданский инженер площадки, MEP или fit-out, даём шорт-лист из нашей живой базы и проводим практическую проверку на реальных ситуациях, результат которой оценивает ваш проект-менеджер.",
+  "find_lead": "Инженер, который держит площадку в порядке: бригады знают задачу на день, консультант получает инспекции вовремя, а отчёт совпадает с фактом.",
+  "find": [
+   "Исполнение: разбивка, контроль монтажа по чертежам, last planner или недельные планы",
+   "Качество: ITP, заявки на инспекции (IR, WIR), закрытие NCR и снаг-листов",
+   "Безопасность: допуски на работы, тулбокс-разговоры, взаимодействие с HSE",
+   "Субподрядчики: фронты, объёмы, учёт выполненных работ для QS",
+   "Отчётность: дневные и недельные отчёты, фото, ведение журнала, Primavera или MS Project на уровне чтения",
+   "Местная специфика: работа в жару, летний полуденный перерыв, пропуска в free zone и мастер-комьюнити"
+  ],
+  "check_lead": "Хороший инженер площадки виден по тому, как он решает неожиданности. Проверки построены на ситуациях с объекта, решение принимает ваш руководитель.",
+  "steps": [
+   ["Планирование дня", "кандидату дают объект, три бригады и два субподрядчика с конфликтующими фронтами. За 30 минут составить план дня и объяснить приоритеты."],
+   ["Кейс с консультантом", "инспектор отклонил армирование за час до заливки. Что делает инженер, как перестраивает график и что пишет в отчёте."],
+   ["Чтение чертежей", "найти расхождения между архитектурным и конструктивным листом и сформулировать RFI."],
+   ["Рекомендации", "звонки прорабам и проект-менеджерам: дисциплина, отношения с бригадами, работа в летний сезон."]
+  ],
+  "mistake": "Типичная ошибка: взять инженера с офисным опытом проектирования на площадку и ждать, что он сам выстроит работу бригад. Ещё ошибка: не проверить опыт в нужном типе объекта, ведь виллы, башни и fit-out в торговом центре живут по разным правилам.",
+  "sal": [
+   ["Младший инженер площадки", "6 000 - 10 000"],
+   ["Инженер площадки", "10 000 - 16 000"],
+   ["Старший инженер площадки", "16 000 - 25 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Подрядчики часто дают жильё, транспорт или машину и топливо; опыт крупных башен и инфраструктуры поднимает пакет.",
+  "faq": [
+   ["Сколько зарабатывает инженер площадки в Дубае?", "В 2026 году младший инженер площадки в Дубае получает около 6 000 - 10 000 AED в месяц, инженер с опытом 10 000 - 16 000 AED, старший инженер 16 000 - 25 000 AED. Часто к этому добавляются жильё, транспорт или машина."],
+   ["Чем инженер площадки отличается от прораба?", "Прораб (foreman) управляет бригадой и исполнением конкретных работ. Инженер площадки отвечает за соответствие чертежам, качество, инспекции и отчётность по своему участку и ставит задачи прорабам. На небольшом объекте роли иногда совмещают, и это стоит учесть в профиле."]
+  ],
+  "seek_h2": "Вы инженер площадки и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Site engineer",
+  "title": "Hire a Site Engineer in Dubai: Checks, Experience, Salary | TLNT",
+  "desc": "Hire a site engineer in Dubai: execution, quality, subcontractors and reporting, practical checks on real site cases, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a site engineer",
+  "h1em": "in Dubai",
+  "intro": "Site engineers in Dubai are needed by main contractors, fit-out companies, villa and infrastructure contractors. They are on site every day: giving work fronts to crews and subcontractors, watching quality and safety, taking consultant inspections, keeping daily reports and measurements. We help you decide whether you need a civil, MEP or fit-out site engineer, shortlist from our live database and run a practical check on real situations that your project manager scores.",
+  "find_lead": "An engineer who keeps the site in order: crews know the task for the day, the consultant gets inspections on time and the report matches reality.",
+  "find": [
+   "Execution: setting out, checking installation against drawings, weekly look-ahead plans",
+   "Quality: ITPs, inspection requests (IR, WIR), closing NCRs and snag lists",
+   "Safety: permits to work, toolbox talks, working with the HSE team",
+   "Subcontractors: work fronts, quantities, recording completed work for the QS",
+   "Reporting: daily and weekly reports, photos, site diary, reading Primavera or MS Project",
+   "Local specifics: working in heat, the summer midday break, passes for free zones and master communities"
+  ],
+  "check_lead": "A good site engineer shows in how they handle surprises. The checks are built on site situations, and your manager makes the call.",
+  "steps": [
+   ["Daily planning", "the candidate gets a site, three crews and two subcontractors with conflicting work fronts. In 30 minutes plan the day and explain the priorities."],
+   ["Consultant case", "the inspector rejected the rebar an hour before the pour. What the engineer does, how they reshuffle the programme and what goes in the report."],
+   ["Drawing reading", "find mismatches between an architectural and a structural sheet and write the RFI."],
+   ["References", "calls with foremen and project managers: discipline, relations with crews, work through the summer."]
+  ],
+  "mistake": "Typical mistake: putting an engineer with office design experience on site and expecting them to organise the crews on their own. Another one: not checking experience in the right type of project, since villas, towers and mall fit-out run by different rules.",
+  "sal": [
+   ["Junior site engineer", "6,000 - 10,000"],
+   ["Site engineer", "10,000 - 16,000"],
+   ["Senior site engineer", "16,000 - 25,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Contractors often provide housing, transport or a car with fuel; tower and infrastructure experience raises the package.",
+  "faq": [
+   ["How much does a site engineer earn in Dubai?", "In 2026 a junior site engineer in Dubai earns about AED 6,000 - 10,000 per month, an experienced site engineer AED 10,000 - 16,000 and a senior site engineer AED 16,000 - 25,000. Housing, transport or a car are often added."],
+   ["How is a site engineer different from a foreman?", "A foreman runs a crew and the execution of specific works. A site engineer owns compliance with drawings, quality, inspections and reporting for their area and sets tasks for foremen. On a small site the roles are sometimes combined, which is worth reflecting in the profile."]
+  ],
+  "seek_h2": "Are you a site engineer looking for a job in Dubai?"
+ }
+}

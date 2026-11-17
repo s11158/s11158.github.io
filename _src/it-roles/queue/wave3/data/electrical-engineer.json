@@ -1,0 +1,77 @@
+{
+ "slug": "electrical-engineer",
+ "hub": "construction",
+ "related": ["mep-engineer", "electrician", "mechanical-engineer", "maintenance-technician"],
+ "ru": {
+  "name": "Инженер-электрик",
+  "title": "Найм инженера-электрика в Дубае: DEWA, проверка, зарплата | TLNT",
+  "desc": "Найм инженера-электрика в Дубае: нормы DEWA, расчёты нагрузок, ELV и солнечные системы, практическая проверка, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм инженера-электрика",
+  "h1em": "в Дубае",
+  "intro": "Инженеры-электрики нужны MEP-подрядчикам и консультантам Дубая, девелоперам, компаниям по солнечной энергетике, facility management и промышленным объектам. Задачи: проектирование и монтаж силовых сетей и освещения, щиты и подстанции, ELV, согласования с DEWA и подключение объекта. Помогаем определить, нужен вам проектировщик, инженер площадки или инженер эксплуатации, даём шорт-лист из нашей живой базы и проводим практическую проверку расчётов и схем, результат которой оценивает ваш технический руководитель.",
+  "find_lead": "Инженер, который считает нагрузки и селективность защиты, знает регламенты DEWA и доводит объект до подачи напряжения.",
+  "find": [
+   "Нормы: DEWA Regulations for Electrical Installations, IEC и BS 7671, требования Civil Defence к аварийному освещению",
+   "Расчёты: нагрузки, сечения, падение напряжения, токи КЗ в DIALux, ETAP или Amtech",
+   "Оборудование: ГРЩ, MDB и SMDB, трансформаторы и подстанции 11 кВ, генераторы, ИБП",
+   "ELV: пожарная сигнализация, СКУД, видеонаблюдение, структурированные сети",
+   "Энергия: солнечные системы Shams Dubai, энергоэффективность по Al Sa'fat и зелёным стандартам",
+   "Регистрация: UAE Society of Engineers, для подписи в DEWA нужна аккредитация консультанта или подрядчика"
+  ],
+  "check_lead": "Инженера-электрика легко переоценить по списку объектов. Проверяем, считал ли он сам, вёл ли подачу в DEWA и как работает с дефектами, решение принимает ваш инженер.",
+  "steps": [
+   ["Расчётное задание", "однолинейная схема жилого этажа: за час проверить сечения и уставки автоматов, найти ошибки и предложить исправления."],
+   ["Кейс DEWA", "инспектор DEWA не подписал подключение из-за замечаний по заземлению и маркировке. Что кандидат делает и в какие сроки."],
+   ["Координация", "электрический лоток пересекается с воздуховодом в фальшпотолке. Как кандидат решает это с механиками и консультантом."],
+   ["Рекомендации", "звонки руководителям MEP: тип объектов, мощность, участие в T&C и подаче напряжения."]
+  ],
+  "mistake": "Типичная ошибка: нанять инженера, который хорошо проектирует, но никогда не проходил инспекции DEWA, и обнаружить это за месяц до сдачи. Ещё ошибка: не различать силовика и специалиста по ELV, хотя для объекта с большой слаботочкой нужен второй.",
+  "sal": [
+   ["Младший инженер-электрик", "7 000 - 11 000"],
+   ["Инженер-электрик среднего уровня", "11 000 - 18 000"],
+   ["Старший инженер-электрик или лид электрики", "18 000 - 30 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт подач в DEWA, высокое напряжение и солнечная энергетика поднимают пакет; подрядчики часто добавляют жильё и транспорт.",
+  "faq": [
+   ["Сколько зарабатывает инженер-электрик в Дубае?", "В 2026 году младший инженер-электрик в Дубае получает около 7 000 - 11 000 AED в месяц, инженер среднего уровня 11 000 - 18 000 AED, старший инженер или лид 18 000 - 30 000 AED. Высокое напряжение и солнечная энергетика оплачиваются выше."],
+   ["Нужен ли опыт работы с DEWA?", "Для инженера площадки и проектировщика в Дубае опыт подач и инспекций DEWA сильно сокращает сроки сдачи. Инженер с опытом только в другом эмирате быстро осваивается, но мы честно отмечаем это в шорт-листе."]
+  ],
+  "seek_h2": "Вы инженер-электрик и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Electrical engineer",
+  "title": "Hire an Electrical Engineer in Dubai: DEWA, Checks, Salary | TLNT",
+  "desc": "Hire an electrical engineer in Dubai: DEWA regulations, load calculations, ELV and solar, practical design checks, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire an electrical engineer",
+  "h1em": "in Dubai",
+  "intro": "Electrical engineers are needed by Dubai MEP contractors and consultants, developers, solar companies, facility management and industrial sites. The work covers power and lighting design and installation, panels and substations, ELV systems, DEWA approvals and connecting the building. We help you decide whether you need a design engineer, a site engineer or an operations engineer, shortlist from our live database and run a practical check of calculations and diagrams that your technical lead scores.",
+  "find_lead": "An engineer who calculates loads and protection discrimination, knows DEWA regulations and takes a building through to energisation.",
+  "find": [
+   "Codes: DEWA Regulations for Electrical Installations, IEC and BS 7671, Civil Defence emergency lighting rules",
+   "Calculations: loads, cable sizing, voltage drop, short circuit in DIALux, ETAP or Amtech",
+   "Equipment: MDBs and SMDBs, 11 kV transformers and substations, generators, UPS",
+   "ELV: fire alarm, access control, CCTV, structured cabling",
+   "Energy: Shams Dubai solar systems, efficiency under Al Sa'fat and green building rules",
+   "Registration: UAE Society of Engineers, and DEWA-accredited consultant or contractor for sign-off"
+  ],
+  "check_lead": "An electrical engineer is easy to overrate from a project list. We check whether they did the calculations, ran DEWA submissions and handled defects, and your engineer makes the call.",
+  "steps": [
+   ["Calculation task", "a single line diagram for a residential floor: in one hour check cable sizes and breaker settings, find errors and propose fixes."],
+   ["DEWA case", "the DEWA inspector refused connection over earthing and labelling comments. What the candidate does and how fast."],
+   ["Coordination", "a cable tray clashes with a duct in the ceiling void. How the candidate resolves it with the mechanical team and the consultant."],
+   ["References", "calls with MEP managers: project types, power ratings, involvement in T&C and energisation."]
+  ],
+  "mistake": "Typical mistake: hiring an engineer who designs well but has never been through DEWA inspections, and finding out a month before handover. Another one: not separating a power engineer from an ELV specialist, although a building with heavy low current systems needs the second.",
+  "sal": [
+   ["Junior electrical engineer", "7,000 - 11,000"],
+   ["Mid-level electrical engineer", "11,000 - 18,000"],
+   ["Senior electrical engineer or electrical lead", "18,000 - 30,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. DEWA submission, high voltage and solar experience raise the package; contractors often add housing and transport.",
+  "faq": [
+   ["How much does an electrical engineer earn in Dubai?", "In 2026 a junior electrical engineer in Dubai earns about AED 7,000 - 11,000 per month, a mid-level engineer AED 11,000 - 18,000 and a senior engineer or lead AED 18,000 - 30,000. High voltage and solar roles pay more."],
+   ["Is DEWA experience necessary?", "For site and design engineers in Dubai, DEWA submission and inspection experience shortens handover a lot. An engineer from another emirate adapts quickly, but we flag it honestly in the shortlist."]
+  ],
+  "seek_h2": "Are you an electrical engineer looking for a job in Dubai?"
+ }
+}

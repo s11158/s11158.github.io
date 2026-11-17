@@ -1,0 +1,77 @@
+{
+ "slug": "interior-designer",
+ "hub": "construction",
+ "related": ["architect", "3d-artist", "graphic-designer", "construction-project-manager"],
+ "ru": {
+  "name": "Дизайнер интерьера",
+  "title": "Найм дизайнера интерьера в Дубае: портфолио, зарплата | TLNT",
+  "desc": "Найм дизайнера интерьера в Дубае: жильё, гостиницы и fit-out, практическая проверка портфолио, концепции и рабочих чертежей, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм дизайнера интерьера",
+  "h1em": "в Дубае",
+  "intro": "Дизайнеры интерьера нужны студиям и fit-out компаниям Дубая, девелоперам, гостиничным группам, мебельным шоурумам и владельцам вилл и ресторанов. Задачи: концепция и мудборды, визуализация, подбор материалов и мебели, рабочие чертежи для подрядчика, согласования с управляющей компанией или мастер-девелопером и авторский надзор. Помогаем понять, нужен вам концептуальный дизайнер, технический дизайнер или руководитель проектов, даём шорт-лист из нашей живой базы и проводим практическую проверку, которую оценивает ваш арт-директор.",
+  "find_lead": "Дизайнер, который придумывает интерьер под вкус клиента Дубая и бюджет, а потом превращает идею в чертежи, по которым подрядчик реально может работать.",
+  "find": [
+   "Сегмент: жилые виллы и апартаменты, гостиницы, рестораны, офисы или ритейл, у каждого своя логика",
+   "Софт: AutoCAD, SketchUp или 3ds Max, V-Ray или Corona, Enscape, Photoshop, иногда Revit",
+   "Рабочие чертежи: планы потолков, развёртки стен, узлы столярки, спецификации FF&E",
+   "Материалы и поставщики: знание шоурумов Дубая, сроки поставки, бюджет и альтернативы",
+   "Согласования: fit-out NOC от управляющей компании, Emaar, Nakheel или free zone, требования Civil Defence",
+   "Работа с клиентом: презентации, правки, вкусы русскоязычных, арабских и европейских клиентов"
+  ],
+  "check_lead": "Красивые картинки в портфолио делает и визуализатор. Проверяем, умеет ли кандидат вести проект от идеи до монтажа, решение принимает ваш арт-директор.",
+  "steps": [
+   ["Разбор портфолио", "кандидат проводит по двум реализованным проектам: свой вклад, бюджет, что поменялось при реализации и фото готового объекта."],
+   ["Концепция", "бриф гостиной апартаментов в Dubai Marina с бюджетом: за три-четыре часа мудборд, план расстановки и подбор основных материалов с ценами."],
+   ["Рабочие чертежи", "по готовой концепции выполнить развёртку стены с ТВ-зоной и узел встроенной мебели, понятные подрядчику."],
+   ["Рекомендации", "звонки руководителям студий и клиентам: соблюдение сроков, работа с правками, отношения с подрядчиками."]
+  ],
+  "mistake": "Типичная ошибка: нанять дизайнера по рендерам без реализованных объектов и получить проект, который подрядчик не может построить в бюджете. Ещё ошибка: путать дизайнера жилых интерьеров и гостиничного или коммерческого fit-out, где другие нормы, сроки и масштаб.",
+  "sal": [
+   ["Младший дизайнер интерьера", "5 000 - 9 000"],
+   ["Дизайнер интерьера", "9 000 - 16 000"],
+   ["Старший дизайнер или руководитель проектов", "16 000 - 30 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Гостиничный и luxury-сегмент платят выше; в студиях иногда есть процент с проектов, жильё обычно не входит.",
+  "faq": [
+   ["Сколько зарабатывает дизайнер интерьера в Дубае?", "В 2026 году младший дизайнер интерьера в Дубае получает около 5 000 - 9 000 AED в месяц, дизайнер с опытом 9 000 - 16 000 AED, старший дизайнер или руководитель проектов 16 000 - 30 000 AED. Гостиничные и luxury-проекты оплачиваются выше."],
+   ["Нужен дизайнер интерьера или архитектор?", "Дизайнер интерьера работает с пространством внутри: планировка, материалы, мебель, свет, fit-out. Архитектор нужен, когда меняются конструкции, фасады или требуется разрешение на строительство. Для ремонта апартаментов и большинства fit-out достаточно дизайнера; поможем определить профиль на первой встрече."]
+  ],
+  "seek_h2": "Вы дизайнер интерьера и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Interior designer",
+  "title": "Hire an Interior Designer in Dubai: Portfolio, Salary | TLNT",
+  "desc": "Hire an interior designer in Dubai: residential, hospitality and fit-out, checks of portfolio, concept and drawings, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire an interior designer",
+  "h1em": "in Dubai",
+  "intro": "Interior designers are needed by Dubai design studios and fit-out companies, developers, hotel groups, furniture showrooms and owners of villas and restaurants. The work covers concept and mood boards, visualisation, selecting materials and furniture, technical drawings for the contractor, approvals with the management company or master developer and site supervision. We help you decide whether you need a concept designer, a technical designer or a design project lead, shortlist from our live database and run a practical check that your design director scores.",
+  "find_lead": "A designer who creates an interior that fits a Dubai client's taste and budget and then turns the idea into drawings a contractor can actually build from.",
+  "find": [
+   "Segment: villas and apartments, hotels, restaurants, offices or retail, each with its own logic",
+   "Software: AutoCAD, SketchUp or 3ds Max, V-Ray or Corona, Enscape, Photoshop, sometimes Revit",
+   "Technical drawings: ceiling plans, wall elevations, joinery details, FF&E schedules",
+   "Materials and suppliers: knowing Dubai showrooms, lead times, budget and alternatives",
+   "Approvals: fit-out NOC from the management company, Emaar, Nakheel or free zone, Civil Defence rules",
+   "Client work: presentations, revisions, the tastes of Russian-speaking, Arab and European clients"
+  ],
+  "check_lead": "A visualiser can also produce beautiful images. We check whether the candidate can run a project from idea to installation, and your design director makes the call.",
+  "steps": [
+   ["Portfolio walkthrough", "the candidate takes you through two completed projects: their contribution, the budget, what changed during execution and photos of the finished space."],
+   ["Concept", "a brief for a Dubai Marina apartment living room with a budget: in three to four hours a mood board, furniture layout and main materials with prices."],
+   ["Technical drawings", "from a given concept draw a TV wall elevation and a built-in joinery detail a contractor can follow."],
+   ["References", "calls with studio leads and clients: meeting deadlines, handling revisions, relations with contractors."]
+  ],
+  "mistake": "Typical mistake: hiring a designer for renders without completed projects and getting a design the contractor cannot build within budget. Another one: mixing up residential designers with hospitality or commercial fit-out designers, where codes, timelines and scale are different.",
+  "sal": [
+   ["Junior interior designer", "5,000 - 9,000"],
+   ["Interior designer", "9,000 - 16,000"],
+   ["Senior designer or design project lead", "16,000 - 30,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Hospitality and luxury segments pay more; studios sometimes add a project commission, housing is usually not included.",
+  "faq": [
+   ["How much does an interior designer earn in Dubai?", "In 2026 a junior interior designer in Dubai earns about AED 5,000 - 9,000 per month, an experienced designer AED 9,000 - 16,000 and a senior designer or design project lead AED 16,000 - 30,000. Hospitality and luxury projects pay more."],
+   ["Do I need an interior designer or an architect?", "An interior designer works with the space inside: layout, materials, furniture, lighting, fit-out. An architect is needed when structure or facades change or a building permit is required. For apartment renovation and most fit-out a designer is enough; we help define the profile at the first meeting."]
+  ],
+  "seek_h2": "Are you an interior designer looking for a job in Dubai?"
+ }
+}

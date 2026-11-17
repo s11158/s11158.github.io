@@ -1,0 +1,77 @@
+{
+ "slug": "freight-forwarder",
+ "hub": "logistics",
+ "related": ["import-export-coordinator", "logistics-coordinator", "supply-chain-manager", "warehouse-manager"],
+ "ru": {
+  "name": "Экспедитор грузов",
+  "title": "Найм экспедитора грузов в Дубае: Jebel Ali, таможня, зарплата | TLNT",
+  "desc": "Найм экспедитора грузов в Дубае: морские и авиаперевозки, Jebel Ali, таможня Dubai Customs, практическая проверка расчёта ставки, зарплаты 2026 от TLNT.",
+  "h1": "Найм экспедитора грузов",
+  "h1em": "в Дубае",
+  "intro": "Экспедиторы нужны логистическим компаниям в JAFZA и Dubai South, трейдинговым домам, дистрибьюторам электроники, стройматериалов и продуктов, а также e-commerce с реэкспортом в Африку, Индию и СНГ. Задачи: бронирование у линий и авиаперевозчиков, расчёт ставки, документы (B/L, AWB, инвойс, сертификат происхождения), таможня через Dubai Trade и Mirsal, контроль сроков. Помогаем определить профиль под ваш тип грузов, даём шорт-лист из нашей живой базы и проводим практическую проверку на реальном кейсе.",
+  "find_lead": "Специалист, который считает полную стоимость доставки от двери до двери, знает линии и порты региона и не теряет груз между портом, таможней и складом.",
+  "find": [
+   "Режимы перевозки: море FCL и LCL, авиа, авто по GCC, мультимодальные схемы через Jebel Ali и DWC",
+   "Документы: коносамент, AWB, инвойс, упаковочный лист, сертификат происхождения, работа с аккредитивом",
+   "Таможня ОАЭ: Dubai Trade, Mirsal 2, HS-коды, пошлины, реэкспорт и транзит через свободные зоны",
+   "Инкотермс 2020: кто за что платит и где переходит риск, умение объяснить это клиенту",
+   "Расчёт ставки: фрахт, THC, DO, хранение, демередж и детеншн, сравнение предложений нескольких линий",
+   "Системы: CargoWise, Magaya или аналог, трекинг, Excel для котировок, деловая переписка на английском"
+  ],
+  "check_lead": "В резюме экспедитора все пишут про опыт в логистике, но разница видна только на конкретном расчёте. Проверка построена на реальном грузе, решение принимает ваш руководитель логистики.",
+  "steps": [
+   ["Расчёт котировки", "контейнер 40 футов из Шанхая в Jebel Ali с доставкой на склад в Al Quoz: кандидат собирает полную стоимость, перечисляет все сборы и называет, где обычно возникают скрытые расходы."],
+   ["Проверка документов", "комплект с ошибками: расхождение веса в инвойсе и B/L, неверный HS-код, не тот грузополучатель. Нужно найти ошибки и объяснить, к чему каждая приведёт на таможне."],
+   ["Кейс с задержкой", "контейнер стоит в порту, идёт демередж, клиент нервничает. Кандидат рассказывает порядок действий, с кем говорит первым и как пишет клиенту."],
+   ["Рекомендации", "звонки руководителям с прошлых мест: объёмы и направления, с какими линиями работал, были ли потери денег по его ошибкам."]
+  ],
+  "mistake": "Типичная ошибка: нанять продавца логистических услуг, когда нужен операционист, или наоборот. Сильный в продажах экспедитор приводит клиентов, но может путаться в документах, а операционист держит процесс, но не продаёт. Ещё ошибка: не проверить знание местной таможни, тогда ошибки в HS-кодах оборачиваются штрафами и простоем.",
+  "sal": [
+   ["Младший экспедитор или координатор", "5 000 - 8 000"],
+   ["Экспедитор с опытом", "8 000 - 14 000"],
+   ["Старший экспедитор или руководитель направления", "14 000 - 25 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Свой клиентский портфель, опыт с проектными и опасными грузами, знание направлений в Африку и СНГ поднимают пакет; в продажах к окладу часто добавляется процент от маржи.",
+  "faq": [
+   ["Сколько зарабатывает экспедитор грузов в Дубае?", "В 2026 году младший экспедитор в Дубае получает около 5 000 - 8 000 AED в месяц, опытный специалист 8 000 - 14 000 AED, старший экспедитор или руководитель направления 14 000 - 25 000 AED. В продажах к окладу обычно добавляется бонус от маржи по сделкам."],
+   ["Нужен экспедитор с опытом именно в ОАЭ?", "Для операционной роли да, это сильно экономит время: местная таможня, порты Jebel Ali и Khalifa, свободные зоны и реэкспорт имеют свои правила. Специалисту из другой страны нужно 2-3 месяца на адаптацию. Поможем взвесить, что важнее для вашей задачи: знание направлений или местной процедуры."]
+  ],
+  "seek_h2": "Вы экспедитор и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Freight forwarder",
+  "title": "Hire a Freight Forwarder in Dubai: Jebel Ali, Customs, Salary | TLNT",
+  "desc": "Hire a freight forwarder in Dubai: sea and air freight, Jebel Ali, Dubai Customs, practical rate quotation checks, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a freight forwarder",
+  "h1em": "in Dubai",
+  "intro": "Freight forwarders are needed by logistics companies in JAFZA and Dubai South, trading houses, distributors of electronics, building materials and food, and e-commerce businesses re-exporting to Africa, India and the CIS. The work covers bookings with shipping lines and airlines, rate quotations, documents (B/L, AWB, invoice, certificate of origin), customs through Dubai Trade and Mirsal, and deadline control. We help define the profile for your cargo type, shortlist from our live database and run a practical check on a real case.",
+  "find_lead": "A specialist who calculates the full door-to-door cost, knows the region's lines and ports and does not lose cargo between the port, customs and the warehouse.",
+  "find": [
+   "Transport modes: sea FCL and LCL, air, GCC road freight, multimodal routes via Jebel Ali and DWC",
+   "Documents: bill of lading, AWB, invoice, packing list, certificate of origin, letters of credit",
+   "UAE customs: Dubai Trade, Mirsal 2, HS codes, duties, re-export and free zone transit",
+   "Incoterms 2020: who pays for what and where risk passes, and explaining it to the client",
+   "Rate quotation: freight, THC, DO, storage, demurrage and detention, comparing several carriers",
+   "Systems: CargoWise, Magaya or similar, tracking, Excel for quotes, clear business English"
+  ],
+  "check_lead": "Every forwarder CV mentions logistics experience, but the difference only shows in a concrete calculation. The check is built on a real shipment, and your logistics head makes the call.",
+  "steps": [
+   ["Quotation task", "a 40-foot container from Shanghai to Jebel Ali with delivery to a warehouse in Al Quoz: the candidate builds the full cost, lists every charge and names where hidden costs usually appear."],
+   ["Document review", "a set with errors: weight mismatch between invoice and B/L, a wrong HS code, the wrong consignee. The candidate finds the errors and explains what each would cause at customs."],
+   ["Delay case", "a container is stuck at the port, demurrage is running and the client is anxious. The candidate walks through the steps, who they call first and how they update the client."],
+   ["References", "calls with previous managers: volumes and lanes, carriers they worked with, whether their mistakes ever cost the company money."]
+  ],
+  "mistake": "Typical mistake: hiring a logistics salesperson when you need an operations forwarder, or the other way round. A strong sales forwarder brings clients but may struggle with documents, while an operations person runs the process but does not sell. Another one: not testing local customs knowledge, so HS code errors turn into fines and downtime.",
+  "sal": [
+   ["Junior forwarder or coordinator", "5,000 - 8,000"],
+   ["Experienced freight forwarder", "8,000 - 14,000"],
+   ["Senior forwarder or lane manager", "14,000 - 25,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. An own client portfolio, project and dangerous goods experience, and knowledge of Africa and CIS lanes raise the package; sales roles often add a share of margin on top of the base.",
+  "faq": [
+   ["How much does a freight forwarder earn in Dubai?", "In 2026 a junior freight forwarder in Dubai earns about AED 5,000 - 8,000 per month, an experienced forwarder AED 8,000 - 14,000 and a senior forwarder or lane manager AED 14,000 - 25,000. Sales roles usually add a bonus based on deal margin."],
+   ["Do I need a forwarder with UAE experience?", "For an operations role, yes, it saves a lot of time: local customs, Jebel Ali and Khalifa ports, free zones and re-export each have their own rules. Someone from another country needs 2-3 months to adapt. We help you weigh what matters more for your case: lane knowledge or local procedure."]
+  ],
+  "seek_h2": "Are you a freight forwarder looking for a job in Dubai?"
+ }
+}

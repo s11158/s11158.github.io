@@ -1,0 +1,136 @@
+{
+ "slug": "reservations-agent",
+ "hub": "hospitality",
+ "related": [
+  "hotel-receptionist",
+  "travel-consultant",
+  "front-office-manager",
+  "customer-service-agent"
+ ],
+ "ru": {
+  "name": "Агент по бронированию",
+  "title": "Найм агента по бронированию в Дубае: Opera, продажи | TLNT",
+  "desc": "Найм агента по бронированию (reservations agent) для отелей и туризма в Дубае: Opera PMS, звонки и письма, практическая проверка, зарплаты 2026 от TLNT.",
+  "h1": "Найм агента по бронированию",
+  "h1em": "в Дубае",
+  "intro": "Reservations agents нужны отелям и курортам, сетям сервисных апартаментов, ресторанам высокого уровня, туроператорам и авиационным колл-центрам. Задачи: звонки, письма и чаты гостей, бронирования в PMS, работа с тарифами и наличием, групповые заявки, допродажа категорий номеров и пакетов, контроль OTA-бронирований. Помогаем определить профиль, даём шорт-лист из нашей живой базы и проводим практическую проверку на звонке и в системе, а решение остаётся за вами.",
+  "find_lead": "Специалист, который превращает запрос в подтверждённое бронирование по лучшей цене и не допускает ошибок в датах и тарифах.",
+  "find": [
+   "PMS: Oracle Opera, Protel или аналог, создание, изменение и отмена бронирований",
+   "Тарифы и наличие: BAR, пакеты, корпоративные тарифы, условия отмены, работа с channel manager",
+   "OTA: Booking.com, Expedia, сверка бронирований и избежание овербукинга",
+   "Продажи по телефону: конверсия звонков, апселл категории номера, трансфера и ужина",
+   "Письменная коммуникация: подтверждения и ответы гостям на хорошем английском без шаблонности",
+   "Групповые заявки: rooming list, депозиты, сроки освобождения блоков"
+  ],
+  "check_lead": "Вежливый голос ещё не значит аккуратность в системе. Проверка смотрит и на продажу, и на точность, а оценку ставит ваш менеджер.",
+  "steps": [
+   [
+    "Пробный звонок",
+    "гость звонит узнать цену на выходные. Кандидат выясняет потребности, предлагает варианты и пробует продать категорию выше."
+   ],
+   [
+    "Задание в системе",
+    "в тренировочной PMS: создать бронирование с пакетом, изменить даты, применить условия отмены и отправить подтверждение."
+   ],
+   [
+    "Письмо гостю",
+    "ответ на жалобу о двойном списании с OTA-бронирования: тон, ясность, следующий шаг."
+   ],
+   [
+    "Рекомендации",
+    "звонок бывшему руководителю: конверсия, ошибки в бронированиях, работа в пиковый сезон."
+   ]
+  ],
+  "mistake": "Типичная ошибка: оценивать агента только по манере общения и не проверять работу в PMS и с тарифами. Ошибки в датах и условиях отмены потом стоят денег и отзывов. Ещё ошибка: не смотреть на письменный английский, хотя большинство заявок приходит письмами.",
+  "sal": [
+   [
+    "Агент по бронированию (начальный уровень)",
+    "4 000 - 6 000"
+   ],
+   [
+    "Агент по бронированию",
+    "6 000 - 9 000"
+   ],
+   [
+    "Старший агент или супервайзер бронирования",
+    "9 000 - 14 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Отели часто добавляют жильё или надбавку, транспорт, питание и бонус за апселл.",
+  "faq": [
+   [
+    "Сколько зарабатывает агент по бронированию в Дубае?",
+    "В 2026 году агент по бронированию начального уровня в Дубае получает около 4 000 - 6 000 AED в месяц, опытный агент 6 000 - 9 000 AED, старший агент или супервайзер 9 000 - 14 000 AED. В отелях сверху часто жильё, транспорт и бонус за допродажи."
+   ],
+   [
+    "Обязательно ли знание Opera?",
+    "Для крупных отелей знание Oracle Opera сильно сокращает обучение. Если кандидат работал в другой PMS, логика похожа, и мы проверяем навык на практике. Требования к системам задаёте вы."
+   ]
+  ],
+  "seek_h2": "Вы агент по бронированию и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Reservations agent",
+  "title": "Hire a Reservations Agent in Dubai: Opera PMS, Sales | TLNT",
+  "desc": "Hire a reservations agent for Dubai hotels and travel: Opera PMS, calls and emails, a practical check in the system, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire a reservations agent",
+  "h1em": "in Dubai",
+  "intro": "Reservations agents are needed by hotels and resorts, serviced apartment groups, fine dining restaurants, tour operators and airline contact centres. The work: guest calls, emails and chats, bookings in the PMS, rates and availability, group requests, room and package upselling, OTA booking control. We help you define the profile, shortlist from our live database and run a practical check on a call and in the system, while you make the decision.",
+  "find_lead": "A specialist who turns an enquiry into a confirmed booking at the best rate with no errors in dates or rates.",
+  "find": [
+   "PMS: Oracle Opera, Protel or similar, creating, changing and cancelling bookings",
+   "Rates and availability: BAR, packages, corporate rates, cancellation terms, channel manager",
+   "OTAs: Booking.com, Expedia, reconciling bookings and avoiding overbooking",
+   "Phone sales: call conversion, room category, transfer and dinner upsells",
+   "Written communication: confirmations and guest replies in good, natural English",
+   "Group requests: rooming lists, deposits, block release dates"
+  ],
+  "check_lead": "A polite voice is no proof of accuracy in the system. The check looks at both selling and precision, and your manager scores it.",
+  "steps": [
+   [
+    "Trial call",
+    "a guest calls about a weekend rate. The candidate finds out what they need, offers options and tries to sell a higher category."
+   ],
+   [
+    "System task",
+    "in a training PMS: create a package booking, change the dates, apply cancellation terms and send a confirmation."
+   ],
+   [
+    "Guest email",
+    "a reply to a complaint about a double charge on an OTA booking: tone, clarity, next step."
+   ],
+   [
+    "References",
+    "a call with a former manager: conversion, booking errors, peak season performance."
+   ]
+  ],
+  "mistake": "Typical mistake: judging an agent only on manner and not testing the PMS and rates. Errors in dates and cancellation terms then cost money and reviews. Another one: ignoring written English, although most requests arrive by email.",
+  "sal": [
+   [
+    "Junior reservations agent",
+    "4,000 - 6,000"
+   ],
+   [
+    "Reservations agent",
+    "6,000 - 9,000"
+   ],
+   [
+    "Senior agent or reservations supervisor",
+    "9,000 - 14,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Hotels often add accommodation or an allowance, transport, meals and an upsell bonus.",
+  "faq": [
+   [
+    "How much does a reservations agent earn in Dubai?",
+    "In 2026 a junior reservations agent in Dubai earns about AED 4,000 - 6,000 per month, an experienced agent AED 6,000 - 9,000 and a senior agent or supervisor AED 9,000 - 14,000. Hotels often add accommodation, transport and an upsell bonus."
+   ],
+   [
+    "Is Opera knowledge a must?",
+    "For large hotels Oracle Opera experience cuts training a lot. If the candidate used another PMS the logic is similar, and we test the skill in practice. You set the system requirements."
+   ]
+  ],
+  "seek_h2": "Are you a reservations agent looking for a job in Dubai?"
+ }
+}

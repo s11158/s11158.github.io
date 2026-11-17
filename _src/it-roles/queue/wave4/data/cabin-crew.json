@@ -1,0 +1,136 @@
+{
+ "slug": "cabin-crew",
+ "hub": "hospitality",
+ "related": [
+  "airport-ground-staff",
+  "guest-relations-officer",
+  "yacht-crew",
+  "butler"
+ ],
+ "ru": {
+  "name": "Бортпроводник",
+  "title": "Найм бортпроводников в Дубае: бизнес-авиация, VIP | TLNT",
+  "desc": "Найм бортпроводников в ОАЭ: бизнес-авиация и VIP-борты, сертификаты GCAA, сервис уровня люкс, практическая проверка, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм бортпроводников",
+  "h1em": "в Дубае",
+  "intro": "Бортпроводники нужны не только крупным авиакомпаниям, у которых свои массовые наборы, но и операторам бизнес-авиации в DWC и DXB, владельцам частных бортов, VIP-чартерам и семейным офисам. Задачи: безопасность полёта, сервис на борту уровня частного отеля, кейтеринг и сервировка, работа с требованиями владельца и гостей. Помогаем определить профиль под ваш тип судна и формат полётов, даём шорт-лист из нашей живой базы и проводим проверку сервиса, а допуск по стандартам GCAA и вашего оператора остаётся за вами.",
+  "find_lead": "Бортпроводник, который одинаково уверенно знает процедуры безопасности и сервис уровня частного дворецкого.",
+  "find": [
+   "Допуск и обучение: действующие сертификаты безопасности, обучение на ваш тип воздушного судна, требования GCAA",
+   "Опыт полётов: коммерческие авиакомпании или бизнес-авиация, налёт и типы бортов",
+   "VIP-сервис: сервировка, вино, кейтеринг из ресторанов, подача по стандартам частного борта",
+   "Первая помощь и безопасность: медицинская подготовка, действия при нештатных ситуациях",
+   "Конфиденциальность: опыт работы с публичными владельцами, готовность подписать NDA",
+   "Языки: английский свободно, русский, арабский или французский как плюс для отдельных владельцев"
+  ],
+  "check_lead": "Эмблема авиакомпании в резюме ещё не говорит о сервисе на частном борту. Проверка показывает реальную подачу и поведение, а решение принимает ваш оператор.",
+  "steps": [
+   [
+    "Сервисная проверка",
+    "сервировка и подача обеда на четырёх гостей по меню, работа с винной картой и особыми пожеланиями."
+   ],
+   [
+    "Сценарии безопасности",
+    "разбор действий при турбулентности, медицинском случае на борту и конфликтном госте."
+   ],
+   [
+    "Разговор о кейтеринге",
+    "как кандидат заказывает и проверяет кейтеринг в разных странах, хранит продукты и планирует меню на длинный перелёт."
+   ],
+   [
+    "Рекомендации и документы",
+    "звонки бывшим операторам или старшим бортпроводникам, проверка сертификатов и сроков их действия."
+   ]
+  ],
+  "mistake": "Типичная ошибка: взять опытного бортпроводника массовой авиакомпании и ждать от него сервиса частного борта без проверки. Это разные стандарты, и разница видна владельцу с первого полёта. Ещё ошибка: не проверить сроки действия сертификатов до начала работы.",
+  "sal": [
+   [
+    "Бортпроводник (бизнес-авиация, начальный уровень)",
+    "9 000 - 14 000"
+   ],
+   [
+    "Опытный бортпроводник VIP",
+    "14 000 - 22 000"
+   ],
+   [
+    "Старший бортпроводник частного борта",
+    "22 000 - 35 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для ОАЭ на 2026 год. Суточные в рейсах, жильё и количество лётных дней заметно меняют полный доход.",
+  "faq": [
+   [
+    "Сколько зарабатывает бортпроводник в Дубае?",
+    "В 2026 году бортпроводник в бизнес-авиации Дубая на начальном уровне получает около 9 000 - 14 000 AED в месяц, опытный VIP-бортпроводник 14 000 - 22 000 AED, старший бортпроводник частного борта 22 000 - 35 000 AED. Сверху суточные, жильё и страховка."
+   ],
+   [
+    "Кто отвечает за допуск бортпроводника к полётам?",
+    "Допуск, обучение на тип и соответствие требованиям GCAA обеспечивает оператор воздушного судна. Мы помогаем найти и оценить кандидатов, проверяем опыт и сервис, а решение и оформление остаются за работодателем."
+   ]
+  ],
+  "seek_h2": "Вы бортпроводник и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Cabin crew",
+  "title": "Hire Cabin Crew in Dubai: Business Aviation and VIP Jets | TLNT",
+  "desc": "Hire cabin crew in the UAE: business aviation and VIP jets, GCAA requirements, luxury onboard service, a practical check, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire cabin crew",
+  "h1em": "in Dubai",
+  "intro": "Cabin crew are needed not only by large airlines, which run their own mass recruitment, but by business aviation operators at DWC and DXB, private jet owners, VIP charters and family offices. The work: flight safety, onboard service at the level of a private hotel, catering and table service, and handling the owner's and guests' preferences. We help you define the profile for your aircraft type and flying pattern, shortlist from our live database and run a service check, while approval to GCAA and operator standards stays with you.",
+  "find_lead": "A crew member equally confident with safety procedures and private butler level service.",
+  "find": [
+   "Approvals and training: valid safety certificates, type training for your aircraft, GCAA requirements",
+   "Flying experience: commercial airlines or business aviation, hours and aircraft types",
+   "VIP service: table setting, wine, restaurant catering, presentation to private jet standards",
+   "First aid and safety: medical training, abnormal and emergency procedures",
+   "Discretion: experience with high-profile owners, willing to sign an NDA",
+   "Languages: fluent English, Russian, Arabic or French as a plus for some owners"
+  ],
+  "check_lead": "An airline logo on a CV says nothing about service on a private jet. The check shows real service and behaviour, and your operator makes the decision.",
+  "steps": [
+   [
+    "Service check",
+    "setting and serving lunch for four guests to a menu, handling the wine list and special requests."
+   ],
+   [
+    "Safety scenarios",
+    "walkthrough of turbulence, a medical case on board and a difficult guest."
+   ],
+   [
+    "Catering conversation",
+    "how the candidate orders and checks catering in different countries, stores food and plans a menu for a long flight."
+   ],
+   [
+    "References and documents",
+    "calls with former operators or senior crew, certificate and expiry checks."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring an experienced airline crew member and expecting private jet service without testing it. The standards differ, and the owner sees it on the first flight. Another one: not checking certificate expiry dates before the start.",
+  "sal": [
+   [
+    "Cabin crew (business aviation, entry level)",
+    "9,000 - 14,000"
+   ],
+   [
+    "Experienced VIP cabin crew",
+    "14,000 - 22,000"
+   ],
+   [
+    "Lead cabin attendant, private jet",
+    "22,000 - 35,000"
+   ]
+  ],
+  "sal_note": "Market estimate for the UAE in 2026. Per diems, accommodation and flying days noticeably change total earnings.",
+  "faq": [
+   [
+    "How much does cabin crew earn in Dubai?",
+    "In 2026 entry level business aviation cabin crew in Dubai earn about AED 9,000 - 14,000 per month, experienced VIP crew AED 14,000 - 22,000 and a lead cabin attendant on a private jet AED 22,000 - 35,000. Per diems, accommodation and insurance come on top."
+   ],
+   [
+    "Who approves cabin crew to fly?",
+    "Type training, approval and GCAA compliance are the aircraft operator's responsibility. We help find and assess candidates and check experience and service; the decision and onboarding stay with the employer."
+   ]
+  ],
+  "seek_h2": "Are you cabin crew looking for a job in Dubai?"
+ }
+}

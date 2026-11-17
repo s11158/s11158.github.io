@@ -1,0 +1,77 @@
+{
+ "slug": "fitness-manager",
+ "hub": "education",
+ "related": ["personal-trainer", "yoga-instructor", "pilates-instructor", "customer-experience-manager"],
+ "ru": {
+  "name": "Фитнес-менеджер",
+  "title": "Найм фитнес-менеджера в Дубае: клуб, продажи, зарплата | TLNT",
+  "desc": "Найм фитнес-менеджера в Дубае: управление клубом и тренерами, продажи абонементов и удержание, кейсы по P&L, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм фитнес-менеджера",
+  "h1em": "в Дубае",
+  "intro": "Фитнес-менеджеры нужны сетевым и бутиковым клубам Дубая, фитнес-центрам отелей и жилых комплексов, студиям и велнес-проектам девелоперов. Задачи: управление тренерами и отделом продаж, план по абонементам и персональным тренировкам, удержание клиентов, расписание групповых программ, сервис и бюджет клуба. Помогаем определить, нужен ли вам руководитель продаж или операционный менеджер, даём шорт-лист из нашей живой базы и проводим кейсы на реальных цифрах клуба.",
+  "find_lead": "Руководитель, который растит выручку клуба через продажи и удержание, а не только следит за чистотой зала.",
+  "find": [
+   "Продажи: план по новым абонементам и персональным тренировкам, воронка лидов, работа с отделом продаж",
+   "Удержание: отток клиентов, NPS, программы лояльности, повторные продажи",
+   "Команда тренеров: найм, обучение, KPI, проверка регистрации REPs UAE",
+   "Операции: расписание классов, оборудование, безопасность, CRM вроде Mindbody, Glofox или ABC",
+   "Финансы: P&L клуба, бюджет, расходы на персонал",
+   "Сервис: работа с жалобами, премиальный клиентский опыт для клиентов клуба и гостей отеля"
+  ],
+  "check_lead": "Опыт тренера не равен опыту управления клубом. Проверки строятся на реальных цифрах, а решение принимает ваш владелец или региональный директор.",
+  "steps": [
+   ["Кейс по цифрам", "кандидат получает отчёт клуба: выручка, отток, загрузка тренеров. За два-три часа готовит план на 90 дней с целями."],
+   ["Ролевая продажа", "кандидат проводит встречу с потенциальным клиентом и показывает, как обучает этому свою команду."],
+   ["Кейс команды", "лучший тренер грозит уйти к конкуренту вместе с клиентами. Что менеджер делает."],
+   ["Рекомендации", "звонки владельцам и региональным директорам прошлых клубов: выполнение плана, текучесть команды."]
+  ],
+  "mistake": "Типичная ошибка: повысить лучшего тренера до менеджера без опыта продаж и управления цифрами. Зал в порядке, но план по абонементам не выполняется, а сильные тренеры уходят. Ещё ошибка: не дать новому менеджеру доступа к CRM и отчётам, а потом ждать от него роста выручки.",
+  "sal": [
+   ["Заместитель или менеджер отдела", "10 000 - 16 000"],
+   ["Фитнес-менеджер клуба", "16 000 - 26 000"],
+   ["Генеральный менеджер клуба или нескольких клубов", "26 000 - 40 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Значительная часть дохода часто идёт бонусом за выполнение плана продаж и удержания; премиальные клубы и отели платят по верхней границе.",
+  "faq": [
+   ["Сколько зарабатывает фитнес-менеджер в Дубае?", "В 2026 году заместитель или менеджер отдела в Дубае получает около 10 000 - 16 000 AED в месяц, фитнес-менеджер клуба 16 000 - 26 000 AED, генеральный менеджер клуба или нескольких клубов 26 000 - 40 000 AED. Бонус за план продаж может заметно поднимать доход."],
+   ["Нужен ли фитнес-менеджеру опыт тренера?", "Полезен, но не обязателен. Важнее опыт продаж, управления командой и работы с P&L клуба. Поможем понять, какой профиль нужен именно вашему клубу, до начала поиска."]
+  ],
+  "seek_h2": "Вы фитнес-менеджер и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Fitness manager",
+  "title": "Hire a Fitness Manager in Dubai: Club, Sales, Salary | TLNT",
+  "desc": "Hire a fitness manager in Dubai: running the club and trainers, membership sales and retention, P&L case studies, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire a fitness manager",
+  "h1em": "in Dubai",
+  "intro": "Fitness managers are needed by chain and boutique clubs in Dubai, hotel and residential gyms, studios and developer wellness projects. The role covers managing trainers and the sales team, membership and personal training targets, client retention, group class schedules, service and the club budget. We help you decide whether you need a sales leader or an operations manager, shortlist from our live database and run case studies on your club's real numbers.",
+  "find_lead": "A leader who grows club revenue through sales and retention, not just keeps the gym floor tidy.",
+  "find": [
+   "Sales: new membership and personal training targets, lead funnel, managing the sales team",
+   "Retention: churn, NPS, loyalty programmes, renewals",
+   "Trainer team: hiring, training, KPIs, checking REPs UAE registration",
+   "Operations: class timetable, equipment, safety, CRM such as Mindbody, Glofox or ABC",
+   "Finance: club P&L, budget, staff costs",
+   "Service: complaint handling, a premium experience for members and hotel guests"
+  ],
+  "check_lead": "Trainer experience is not the same as running a club. The checks use real numbers, and your owner or regional director makes the call.",
+  "steps": [
+   ["Numbers case", "the candidate gets a club report: revenue, churn, trainer utilisation. In two to three hours they prepare a 90-day plan with targets."],
+   ["Sales role-play", "the candidate runs a meeting with a prospective member and shows how they coach their team to do it."],
+   ["Team case", "the best trainer threatens to leave for a competitor with their clients. What the manager does."],
+   ["References", "calls with owners and regional directors of previous clubs: target delivery, team turnover."]
+  ],
+  "mistake": "Typical mistake: promoting the best trainer to manager with no experience in sales or managing numbers. The gym looks fine, but membership targets are missed and strong trainers leave. Another one: not giving a new manager access to the CRM and reports, then expecting revenue growth.",
+  "sal": [
+   ["Assistant or department manager", "10,000 - 16,000"],
+   ["Club fitness manager", "16,000 - 26,000"],
+   ["General manager of one or several clubs", "26,000 - 40,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. A significant part of income often comes as a bonus for sales and retention targets; premium clubs and hotels pay at the top of the range.",
+  "faq": [
+   ["How much does a fitness manager earn in Dubai?", "In 2026 an assistant or department manager in Dubai earns about AED 10,000 - 16,000 per month, a club fitness manager AED 16,000 - 26,000 and a general manager of one or several clubs AED 26,000 - 40,000. A sales target bonus can raise income noticeably."],
+   ["Does a fitness manager need trainer experience?", "It helps but is not essential. Experience in sales, team management and club P&L matters more. We help you work out the right profile for your club before the search starts."]
+  ],
+  "seek_h2": "Are you a fitness manager looking for a job in Dubai?"
+ }
+}

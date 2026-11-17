@@ -1,0 +1,136 @@
+{
+ "slug": "scrum-master",
+ "hub": "tech",
+ "related": [
+  "product-owner",
+  "project-manager",
+  "product-manager",
+  "software-developer"
+ ],
+ "ru": {
+  "name": "Скрам-мастер",
+  "title": "Найм скрам-мастера в Дубае: Agile, Jira, зарплата | TLNT",
+  "desc": "Найм скрам-мастера в Дубае: Scrum, Kanban и SAFe, проверка на разборе реальной команды и ретроспективе, зарплаты 2026 и шорт-лист из живой базы TLNT.",
+  "h1": "Найм скрам-мастера",
+  "h1em": "в Дубае",
+  "intro": "Скрам-мастера нужны банкам и страховым Дубая в цифровой трансформации, госструктурам с программами умного города, телекому, авиации, финтеху и продуктовым компаниям с несколькими командами разработки. Скрам-мастер настраивает процесс, убирает препятствия, проводит встречи так, чтобы они давали решения, и помогает команде предсказуемо выпускать работу. Помогаем понять, нужен вам скрам-мастер, agile-коуч или проектный менеджер, даём шорт-лист из нашей живой базы и проводим проверку на разборе ситуации, близкой к вашей, результат оценивает ваш руководитель разработки.",
+  "find_lead": "Скрам-мастер, после которого команда выпускает работу предсказуемо и сама решает свои проблемы, а не ждёт фасилитатора.",
+  "find": [
+   "Фреймворки: Scrum, Kanban, масштабирование SAFe или LeSS, понимание, когда фреймворк не нужен",
+   "Фасилитация: планирование, ретроспективы, разбор инцидентов, встречи с бизнесом на английском",
+   "Метрики: скорость, время цикла, предсказуемость, без превращения их в KPI для наказания",
+   "Инструменты: Jira, Confluence, Azure DevOps, доски, которые отражают реальность",
+   "Работа с людьми: конфликты, распределённые команды в разных часовых поясах, многокультурная среда",
+   "Сертификаты: PSM, CSM, SAFe Scrum Master, в банках и госсекторе это часто формальное требование"
+  ],
+  "check_lead": "Сертификат PSM получают за выходные, а умение изменить поведение команды проверяется только на ситуациях. Проверка строится на реальных кейсах, решение принимает ваш руководитель.",
+  "steps": [
+   [
+    "Разбор команды",
+    "описание команды, которая три спринта подряд не закрывает план, а владелец продукта меняет приоритеты в середине спринта. Кандидат рассказывает, что выяснит и что изменит."
+   ],
+   [
+    "Пробная фасилитация",
+    "кандидат проводит 20-минутную ретроспективу с вашими сотрудниками или с нами по реальному или учебному сюжету."
+   ],
+   [
+    "Разговор о метриках",
+    "руководство просит отчёт о производительности команды. Какие метрики показать, как объяснить, почему скорость нельзя сравнивать между командами."
+   ],
+   [
+    "Рекомендации",
+    "звонки руководителям и членам команд: что изменилось при кандидате в сроках и атмосфере, сколько команд он вёл одновременно."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанять скрам-мастера, а на деле ждать от него роли проектного менеджера, который назначает сроки и отчитывается за команду. Возникает конфликт ожиданий, и через полгода человек уходит. Ещё ошибка: ставить одного скрам-мастера на четыре-пять команд, тогда он успевает только проводить встречи.",
+  "sal": [
+   [
+    "Скрам-мастер начального уровня",
+    "12 000 - 18 000"
+   ],
+   [
+    "Опытный скрам-мастер",
+    "18 000 - 28 000"
+   ],
+   [
+    "Старший скрам-мастер или agile-коуч",
+    "28 000 - 42 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт масштабирования в банках и госсекторе, сертификаты SAFe и работа с несколькими командами заметно поднимают пакет; бонус и жильё меняют полную сумму.",
+  "faq": [
+   [
+    "Сколько зарабатывает скрам-мастер в Дубае?",
+    "В 2026 году скрам-мастер начального уровня в Дубае получает около 12 000 - 18 000 AED в месяц, опытный скрам-мастер 18 000 - 28 000 AED, старший скрам-мастер или agile-коуч 28 000 - 42 000 AED. Банки, телеком и госструктуры платят по верхней границе."
+   ],
+   [
+    "Скрам-мастер или проектный менеджер, кто нужен?",
+    "Проектный менеджер отвечает за сроки, бюджет и результат проекта, часто с внешними подрядчиками. Скрам-мастер отвечает за то, как работает команда, а за содержание работы отвечает владелец продукта. Если у вас постоянная продуктовая команда, нужен скрам-мастер; если проект с фиксированным объёмом и сроком, проектный менеджер. Поможем определить роль до поиска."
+   ]
+  ],
+  "seek_h2": "Вы скрам-мастер и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Scrum master",
+  "title": "Hire a Scrum Master in Dubai: Agile, Jira, Salary | TLNT",
+  "desc": "Hire a scrum master in Dubai: Scrum, Kanban and SAFe, a check built on a real team case and a trial retrospective, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a scrum master",
+  "h1em": "in Dubai",
+  "intro": "Scrum masters are in demand at Dubai banks and insurers going through digital transformation, government entities with smart city programmes, telecom, aviation, fintech and product companies with several development teams. A scrum master sets up the process, removes impediments, runs meetings that produce decisions and helps the team deliver predictably. We help you decide whether you need a scrum master, an agile coach or a project manager, shortlist from our live database and run a check on a situation close to yours that your head of engineering scores.",
+  "find_lead": "A scrum master after whom the team delivers predictably and solves its own problems instead of waiting for a facilitator.",
+  "find": [
+   "Frameworks: Scrum, Kanban, scaling with SAFe or LeSS, and knowing when a framework is not needed",
+   "Facilitation: planning, retrospectives, incident reviews, business meetings in English",
+   "Metrics: velocity, cycle time, predictability, without turning them into KPIs for punishment",
+   "Tools: Jira, Confluence, Azure DevOps, boards that reflect reality",
+   "People: conflicts, distributed teams across time zones, a multicultural environment",
+   "Certifications: PSM, CSM, SAFe Scrum Master, often a formal requirement in banks and government"
+  ],
+  "check_lead": "A PSM certificate takes a weekend, while the ability to change team behaviour only shows in real situations. The check is built on cases, and your manager makes the call.",
+  "steps": [
+   [
+    "Team case",
+    "a team that has missed its sprint goal three times in a row while the product owner changes priorities mid-sprint. The candidate explains what they would find out and what they would change."
+   ],
+   [
+    "Trial facilitation",
+    "the candidate runs a 20-minute retrospective with your staff or with us on a real or training scenario."
+   ],
+   [
+    "Metrics conversation",
+    "management asks for a team performance report. Which metrics to show and how to explain why velocity cannot be compared across teams."
+   ],
+   [
+    "References",
+    "calls with managers and team members: what changed in delivery and atmosphere with the candidate, how many teams they supported at once."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a scrum master while actually expecting a project manager who sets deadlines and reports on behalf of the team. Expectations clash and the person leaves within six months. Another one: giving one scrum master four or five teams, so all they have time for is running meetings.",
+  "sal": [
+   [
+    "Entry-level scrum master",
+    "12,000 - 18,000"
+   ],
+   [
+    "Experienced scrum master",
+    "18,000 - 28,000"
+   ],
+   [
+    "Senior scrum master or agile coach",
+    "28,000 - 42,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Scaling experience in banks and government, SAFe certifications and multi-team work noticeably raise the package; bonus and housing change the total.",
+  "faq": [
+   [
+    "How much does a scrum master earn in Dubai?",
+    "In 2026 an entry-level scrum master in Dubai earns about AED 12,000 - 18,000 per month, an experienced scrum master AED 18,000 - 28,000 and a senior scrum master or agile coach AED 28,000 - 42,000. Banks, telecom and government entities pay at the top of the range."
+   ],
+   [
+    "Do I need a scrum master or a project manager?",
+    "A project manager owns timeline, budget and project outcome, often with external vendors. A scrum master owns how the team works, while the product owner owns what the team builds. For a permanent product team you need a scrum master; for a project with fixed scope and deadline, a project manager. We help you define the role before the search."
+   ]
+  ],
+  "seek_h2": "Are you a scrum master looking for a job in Dubai?"
+ }
+}

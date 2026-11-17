@@ -1,0 +1,77 @@
+{
+ "slug": "learning-and-development-manager",
+ "hub": "management",
+ "related": ["hr-manager", "hr-business-partner", "beauty-educator", "talent-acquisition-specialist"],
+ "ru": {
+  "name": "Менеджер по обучению и развитию",
+  "title": "Найм менеджера по обучению (L&D) в Дубае: зарплата | TLNT",
+  "desc": "Найм менеджера по обучению и развитию (L&D) в Дубае: программы адаптации, LMS, обучение продаж и сервиса, практическая проверка и шорт-лист от TLNT.",
+  "h1": "Найм менеджера по обучению и развитию",
+  "h1em": "в Дубае",
+  "intro": "Менеджеры L&D нужны гостиничным и ресторанным группам Дубая, ритейлу и люксовым брендам, сетям клиник и салонов, банкам и девелоперам, где сервис и продажи зависят от того, как быстро новый сотрудник выходит на стандарт. Задачи: анализ потребностей в обучении, программы адаптации, обучение руководителей, LMS, оценка результата в цифрах бизнеса. Помогаем определить фокус роли, даём шорт-лист из нашей живой базы и проводим практическую проверку на вашем реальном запросе.",
+  "find_lead": "Специалист, который начинает с бизнес-проблемы, а не с каталога тренингов, и может показать, что изменилось после обучения.",
+  "find": [
+   "Анализ: потребности в обучении по данным продаж, жалоб, текучести и оценок эффективности",
+   "Дизайн: ADDIE или SAM, микрообучение, смешанные форматы, обучение на рабочем месте",
+   "Платформы: Cornerstone, Docebo, TalentLMS или Moodle, авторские инструменты Articulate и Rise",
+   "Оценка: модель Киркпатрика, связь обучения с конверсией, NPS, временем выхода на норму",
+   "Отрасль: стандарты сервиса для гостиниц и люкса, обязательные обучения по охране труда и регуляторам",
+   "Фасилитация: тренинги для многоязычных команд на английском, русский или арабский как преимущество"
+  ],
+  "check_lead": "Красивые презентации тренингов есть почти у всех. Проверяем, умеет ли кандидат решить задачу бизнеса, решение принимает ваш руководитель HR или операций.",
+  "steps": [
+   ["Кейс по потребностям", "в сети салонов упала повторная запись клиентов. Кандидат за два часа предлагает диагностику, программу и метрики успеха."],
+   ["Фрагмент тренинга", "кандидат проводит 15-минутный фрагмент занятия для \"новых сотрудников\": смотрим на вовлечение и ясность."],
+   ["Бюджет и отчёт", "кандидат показывает, как отчитается перед руководством через полгода и что посчитает."],
+   ["Рекомендации", "звонки руководителям: какие программы запускал человек и что изменилось в цифрах."]
+  ],
+  "mistake": "Типичная ошибка: нанимать сильного тренера на роль менеджера L&D. Тренер хорошо ведёт занятия, но не строит систему, бюджет и оценку результата. Ещё ошибка: не договориться заранее, какими метриками будет измеряться работа.",
+  "sal": [
+   ["Специалист по обучению", "9 000 - 15 000"],
+   ["Менеджер L&D", "15 000 - 28 000"],
+   ["Руководитель L&D группы компаний", "28 000 - 45 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Сертификаты CIPD или ATD, опыт в гостиничных группах и люксе и создание электронных курсов поднимают пакет.",
+  "faq": [
+   ["Сколько зарабатывает менеджер по обучению и развитию в Дубае?", "Специалист по обучению получает около 9 000 - 15 000 AED в месяц, менеджер L&D 15 000 - 28 000 AED, руководитель L&D группы компаний 28 000 - 45 000 AED."],
+   ["С какого размера компании нужен отдельный менеджер L&D?", "Обычно со 150-200 сотрудников или при быстром росте с постоянным потоком новых людей, например в ресторанной или клинической сети. Раньше эту работу чаще берут руководители и HR."]
+  ],
+  "seek_h2": "Вы менеджер по обучению и развитию и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Learning and development manager",
+  "title": "Hire an L&D Manager in Dubai: Training, LMS, Salary | TLNT",
+  "desc": "Hire a learning and development manager in Dubai: onboarding programmes, LMS, sales and service training, practical checks and a shortlist from TLNT.",
+  "h1": "Hire a learning and development manager",
+  "h1em": "in Dubai",
+  "intro": "L&D managers are needed by Dubai hotel and restaurant groups, retail and luxury brands, clinic and salon chains, banks and developers, where service and sales depend on how quickly new staff reach the standard. The work covers training needs analysis, onboarding programmes, leadership training, LMS and measuring impact in business numbers. We help define the role's focus, shortlist from our live database and run a practical check on your real business need.",
+  "find_lead": "A professional who starts with the business problem, not a training catalogue, and can show what changed after training.",
+  "find": [
+   "Analysis: training needs based on sales, complaints, turnover and performance data",
+   "Design: ADDIE or SAM, microlearning, blended formats, on-the-job training",
+   "Platforms: Cornerstone, Docebo, TalentLMS or Moodle, authoring tools Articulate and Rise",
+   "Evaluation: Kirkpatrick model, links to conversion, NPS and time to competence",
+   "Sector: service standards for hotels and luxury, mandatory health and safety and regulatory training",
+   "Facilitation: training multilingual teams in English, with Russian or Arabic as a plus"
+  ],
+  "check_lead": "Almost everyone has polished training decks. We check whether the candidate can solve a business problem, and your HR or operations head decides.",
+  "steps": [
+   ["Needs case", "repeat bookings dropped in a salon chain. In two hours the candidate proposes a diagnosis, programme and success metrics."],
+   ["Training sample", "the candidate delivers a 15-minute segment for \"new hires\": we look at engagement and clarity."],
+   ["Budget and report", "the candidate shows how they would report to management after six months and what they would measure."],
+   ["References", "calls to former managers about programmes launched and what changed in the numbers."]
+  ],
+  "mistake": "A typical mistake: hiring a strong trainer into an L&D manager role. A trainer delivers sessions well but may not build the system, budget and impact measurement. Another mistake is not agreeing upfront on the metrics the role will be judged by.",
+  "sal": [
+   ["Training specialist", "9,000 - 15,000"],
+   ["L&D manager", "15,000 - 28,000"],
+   ["Head of L&D for a group", "28,000 - 45,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. CIPD or ATD certification, hotel group and luxury experience and e-learning development skills raise the package.",
+  "faq": [
+   ["How much does a learning and development manager earn in Dubai?", "A training specialist earns around AED 9,000 - 15,000 a month, an L&D manager AED 15,000 - 28,000 and a head of L&D for a group AED 28,000 - 45,000."],
+   ["At what company size do we need a dedicated L&D manager?", "Usually from 150-200 employees, or earlier with fast growth and a steady flow of new hires, for example in a restaurant or clinic chain. Before that, managers and HR usually cover training."]
+  ],
+  "seek_h2": "Are you a learning and development manager looking for a job in Dubai?"
+ }
+}

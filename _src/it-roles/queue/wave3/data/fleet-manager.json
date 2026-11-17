@@ -1,0 +1,77 @@
+{
+ "slug": "fleet-manager",
+ "hub": "logistics",
+ "related": ["delivery-driver", "logistics-coordinator", "warehouse-manager", "supply-chain-manager"],
+ "ru": {
+  "name": "Менеджер автопарка",
+  "title": "Найм менеджера автопарка в Дубае: RTA, телематика, зарплата | TLNT",
+  "desc": "Найм менеджера автопарка в Дубае: RTA и Salik, телематика, ТО и расход топлива, практическая проверка на данных парка, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм менеджера автопарка",
+  "h1em": "в Дубае",
+  "intro": "Менеджеры автопарка нужны службам доставки и last-mile, дистрибьюторам, строительным и клининговым компаниям, лимузин-сервисам и компаниям проката. Задачи: регистрация и страхование машин в RTA, Salik и штрафы, плановое ТО, топливо, телематика, графики водителей и безопасность на дороге в жару. Помогаем определить профиль под размер и тип вашего парка, даём шорт-лист из нашей живой базы и проверяем кандидатов на реальных цифрах.",
+  "find_lead": "Руководитель, который знает стоимость километра по каждой машине, держит парк на линии и снижает штрафы и аварии, а не только ведёт таблицу.",
+  "find": [
+   "Регуляторика ОАЭ: регистрация и продление в RTA, страхование, Salik, штрафы и их распределение на водителей",
+   "Техобслуживание: плановое ТО, шины и кондиционеры в жару, договоры с сервисами, простой машин",
+   "Затраты: топливо, стоимость километра, сравнение лизинга и покупки, бюджет парка на год",
+   "Телематика: GPS-трекинг, контроль скорости и стиля вождения, отчёты Fleetio, Samsara или локальных систем",
+   "Люди: графики и маршруты водителей, проверка UAE driving licence, обучение безопасному вождению",
+   "Отчётность: Excel или Power BI, KPI парка (доступность, расход, аварийность), отчёт руководству"
+  ],
+  "check_lead": "Опыт с парком в 200 машин не означает умения снижать затраты. Проверяем на цифрах и реальных ситуациях, финальное решение за вами.",
+  "steps": [
+   ["Анализ данных парка", "таблица на 50 машин за квартал: пробег, топливо, ремонты, штрафы. Кандидат за час находит машины и водителей, которые съедают бюджет, и предлагает три меры."],
+   ["Кейс с простоем", "в пятницу вечером встали пять фургонов доставки из-за кондиционеров, а заказы идут. Кандидат описывает, что делает сразу и что меняет в процессе ТО."],
+   ["Лизинг или покупка", "нужно расширить парк на 20 машин. Кандидат сравнивает варианты по полной стоимости владения и объясняет выбор."],
+   ["Рекомендации", "звонки руководителям: размер парка, на сколько снизились затраты или аварийность, как он работал с водителями."]
+  ],
+  "mistake": "Типичная ошибка: назначить менеджером парка самого опытного водителя. Он хорошо знает дороги и машины, но не умеет считать стоимость владения и вести бюджет. Ещё ошибка: не внедрить телематику и отчёт по штрафам, тогда Salik и штрафы RTA незаметно съедают маржу доставки.",
+  "sal": [
+   ["Координатор автопарка", "5 000 - 8 000"],
+   ["Менеджер автопарка", "9 000 - 16 000"],
+   ["Руководитель транспорта, крупный парк", "16 000 - 28 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Размер парка, опыт с электромобилями и телематикой, а также доставка 24/7 поднимают пакет; часто к окладу добавляются служебная машина и бонус за снижение затрат.",
+  "faq": [
+   ["Сколько зарабатывает менеджер автопарка в Дубае?", "В 2026 году координатор автопарка в Дубае получает около 5 000 - 8 000 AED в месяц, менеджер автопарка 9 000 - 16 000 AED, руководитель транспорта крупного парка 16 000 - 28 000 AED. К окладу часто добавляются служебная машина и бонус."],
+   ["С какого размера парка нужен отдельный менеджер?", "Обычно с 20-30 машин: на этом масштабе ТО, штрафы, страховки и графики уже требуют постоянного внимания, а экономия на топливе и простоях окупает зарплату. До этого роль может совмещать операционный менеджер или координатор логистики. Поможем посчитать, что выгоднее в вашем случае."]
+  ],
+  "seek_h2": "Вы менеджер автопарка и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Fleet manager",
+  "title": "Hire a Fleet Manager in Dubai: RTA, Telematics, Salary | TLNT",
+  "desc": "Hire a fleet manager in Dubai: RTA and Salik, telematics, maintenance and fuel control, practical checks on real fleet data, 2026 salaries from TLNT.",
+  "h1": "Hire a fleet manager",
+  "h1em": "in Dubai",
+  "intro": "Fleet managers are needed by delivery and last-mile services, distributors, construction and cleaning companies, limousine services and car rental firms. The work covers RTA registration and insurance, Salik and fines, scheduled maintenance, fuel, telematics, driver rosters and road safety in the heat. We help define the profile for the size and type of your fleet, shortlist from our live database and test candidates on real numbers.",
+  "find_lead": "A manager who knows the cost per kilometre of every vehicle, keeps the fleet on the road and cuts fines and accidents, not someone who just maintains a spreadsheet.",
+  "find": [
+   "UAE regulation: RTA registration and renewal, insurance, Salik, fines and assigning them to drivers",
+   "Maintenance: scheduled service, tyres and air conditioning in the heat, workshop contracts, downtime",
+   "Costs: fuel, cost per kilometre, lease versus buy, the annual fleet budget",
+   "Telematics: GPS tracking, speed and driving behaviour, reports from Fleetio, Samsara or local systems",
+   "People: driver rosters and routes, UAE driving licence checks, safe driving training",
+   "Reporting: Excel or Power BI, fleet KPIs (availability, fuel use, accident rate), management reports"
+  ],
+  "check_lead": "Running a fleet of 200 vehicles does not mean someone can cut costs. We check on numbers and real situations, and the final decision is yours.",
+  "steps": [
+   ["Fleet data analysis", "a sheet with 50 vehicles over a quarter: mileage, fuel, repairs, fines. In one hour the candidate finds the vehicles and drivers eating the budget and proposes three measures."],
+   ["Downtime case", "on a Friday evening five delivery vans stop because of air conditioning failures while orders keep coming. The candidate explains what they do now and what they change in the maintenance process."],
+   ["Lease or buy", "the fleet needs 20 more vehicles. The candidate compares options on total cost of ownership and explains the choice."],
+   ["References", "calls with previous managers: fleet size, how much costs or accident rates dropped, how they worked with drivers."]
+  ],
+  "mistake": "Typical mistake: promoting the most experienced driver to fleet manager. They know the roads and vehicles well but cannot calculate ownership cost or run a budget. Another one: skipping telematics and a fines report, so Salik and RTA fines quietly eat the delivery margin.",
+  "sal": [
+   ["Fleet coordinator", "5,000 - 8,000"],
+   ["Fleet manager", "9,000 - 16,000"],
+   ["Head of transport, large fleet", "16,000 - 28,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Fleet size, EV and telematics experience and 24/7 delivery raise the package; a company car and a cost-saving bonus are often added to the base.",
+  "faq": [
+   ["How much does a fleet manager earn in Dubai?", "In 2026 a fleet coordinator in Dubai earns about AED 5,000 - 8,000 per month, a fleet manager AED 9,000 - 16,000 and a head of transport for a large fleet AED 16,000 - 28,000. A company car and a bonus are often added."],
+   ["At what fleet size do I need a dedicated manager?", "Usually from 20-30 vehicles: at that scale maintenance, fines, insurance and rosters need constant attention, and savings on fuel and downtime pay for the salary. Below that, an operations manager or logistics coordinator can cover the role. We help you work out what makes sense for you."]
+  ],
+  "seek_h2": "Are you a fleet manager looking for a job in Dubai?"
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "yoga-instructor",
+ "hub": "education",
+ "related": ["pilates-instructor", "personal-trainer", "fitness-manager"],
+ "ru": {
+  "name": "Инструктор йоги",
+  "title": "Найм инструктора йоги в Дубае: RYT, REPs UAE, зарплата | TLNT",
+  "desc": "Найм инструктора йоги в Дубае: студии, отели и велнес-клубы, сертификация RYT и REPs UAE, пробное занятие, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм инструктора йоги",
+  "h1em": "в Дубае",
+  "intro": "Инструкторы йоги нужны студиям Дубая, фитнес-клубам, спа и велнес-центрам отелей, ретритам, корпоративным программам и частным клиентам. Задачи: групповые классы хатха, виньяса, инь или йога для беременных, частные занятия, программы для гостей отеля и ретриты. Помогаем определить нужные стили и формат, даём шорт-лист из нашей живой базы и организуем пробное занятие, которое оценивает ваш менеджер студии.",
+  "find_lead": "Инструктор, к которому возвращаются на классы: безопасно ведёт группу разного уровня и создаёт атмосферу, ради которой платят.",
+  "find": [
+   "Сертификация: Yoga Alliance RYT-200 или RYT-500, регистрация REPs UAE, которую требуют многие клубы",
+   "Стили: хатха, виньяса, аштанга, инь, пренатальная, йога для начинающих",
+   "Безопасность: адаптация поз при травмах, беременности и для новичков, первая помощь и CPR",
+   "Ведение группы: темп, объяснения, работа с классом разного уровня",
+   "Языки: английский, при необходимости русский или арабский для клиентов",
+   "Продажи и удержание: абонементы, частные занятия, работа с базой клиентов студии"
+  ],
+  "check_lead": "Красивые фото в Instagram не показывают, как человек ведёт класс. Проверки строятся вокруг реального занятия, а решение принимает ваш менеджер.",
+  "steps": [
+   ["Пробный класс", "кандидат ведёт 30-45 минут у реальной группы или команды студии, менеджер оценивает объяснения, безопасность и атмосферу."],
+   ["Кейс клиента", "новый клиент с болью в пояснице хочет на виньясу. Как инструктор адаптирует класс и что ему говорит."],
+   ["Частное занятие", "кандидат описывает программу на 4 недели для частного клиента под его цель."],
+   ["Документы и рекомендации", "проверка RYT и REPs UAE, звонки менеджерам студий и клубов, где кандидат вёл классы."]
+  ],
+  "mistake": "Типичная ошибка: выбирать инструктора по числу подписчиков, а не по тому, как он ведёт класс. Клиенты приходят один раз и не возвращаются. Ещё ошибка: не проверить регистрацию REPs UAE, без которой некоторые клубы и отели не допускают тренера к занятиям.",
+  "sal": [
+   ["Инструктор йоги", "6 000 - 10 000"],
+   ["Опытный инструктор с частными клиентами", "10 000 - 16 000"],
+   ["Ведущий инструктор или руководитель направления", "16 000 - 24 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Часто пакет состоит из фиксированной части и оплаты за класс или процента от частных занятий; премиальные студии и отели платят больше.",
+  "faq": [
+   ["Сколько зарабатывает инструктор йоги в Дубае?", "В 2026 году инструктор йоги в Дубае получает около 6 000 - 10 000 AED в месяц, опытный инструктор с частными клиентами 10 000 - 16 000 AED, ведущий инструктор или руководитель направления 16 000 - 24 000 AED. Частные занятия и премиальные студии поднимают доход."],
+   ["Нужна ли инструктору йоги регистрация REPs UAE?", "Многие клубы, отели и студии в ОАЭ требуют регистрацию REPs UAE как подтверждение квалификации и страховки. Поможем проверить статус кандидата заранее, чтобы он мог начать работу без задержек."]
+  ],
+  "seek_h2": "Вы инструктор йоги и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Yoga instructor",
+  "title": "Hire a Yoga Instructor in Dubai: RYT, REPs UAE, Salary | TLNT",
+  "desc": "Hire a yoga instructor in Dubai: studios, hotels and wellness clubs, RYT and REPs UAE certification, a trial class, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire a yoga instructor",
+  "h1em": "in Dubai",
+  "intro": "Yoga instructors are needed by studios in Dubai, fitness clubs, hotel spas and wellness centres, retreats, corporate programmes and private clients. The work covers group classes in hatha, vinyasa, yin or prenatal yoga, private sessions, hotel guest programmes and retreats. We help you define the styles and format, shortlist from our live database and arrange a trial class scored by your studio manager.",
+  "find_lead": "An instructor people come back to: safely leading mixed-level groups and creating the atmosphere clients pay for.",
+  "find": [
+   "Certification: Yoga Alliance RYT-200 or RYT-500, REPs UAE registration that many clubs require",
+   "Styles: hatha, vinyasa, ashtanga, yin, prenatal, beginner yoga",
+   "Safety: modifying poses for injuries, pregnancy and beginners, first aid and CPR",
+   "Class leadership: pacing, cueing, teaching mixed-level groups",
+   "Languages: English, plus Russian or Arabic for clients if needed",
+   "Sales and retention: memberships, private sessions, working with the studio's client base"
+  ],
+  "check_lead": "Nice Instagram photos do not show how someone leads a class. The checks are built around a real session, and your manager makes the call.",
+  "steps": [
+   ["Trial class", "the candidate teaches 30-45 minutes to a real group or the studio team; the manager scores cueing, safety and atmosphere."],
+   ["Client case", "a new client with lower back pain wants to join vinyasa. How the instructor adapts the class and what they tell the client."],
+   ["Private session", "the candidate outlines a 4-week programme for a private client's goal."],
+   ["Documents and references", "RYT and REPs UAE checked, calls with studio and club managers where the candidate taught."]
+  ],
+  "mistake": "Typical mistake: choosing an instructor by follower count rather than by how they teach. Clients come once and do not return. Another one: not checking REPs UAE registration, without which some clubs and hotels will not let a trainer teach.",
+  "sal": [
+   ["Yoga instructor", "6,000 - 10,000"],
+   ["Experienced instructor with private clients", "10,000 - 16,000"],
+   ["Lead instructor or head of yoga", "16,000 - 24,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Packages often combine a fixed part with pay per class or a share of private sessions; premium studios and hotels pay more.",
+  "faq": [
+   ["How much does a yoga instructor earn in Dubai?", "In 2026 a yoga instructor in Dubai earns about AED 6,000 - 10,000 per month, an experienced instructor with private clients AED 10,000 - 16,000 and a lead instructor or head of yoga AED 16,000 - 24,000. Private sessions and premium studios raise income."],
+   ["Does a yoga instructor need REPs UAE registration?", "Many clubs, hotels and studios in the UAE require REPs UAE registration as proof of qualification and insurance. We help check a candidate's status early so they can start without delays."]
+  ],
+  "seek_h2": "Are you a yoga instructor looking for a job in Dubai?"
+ }
+}

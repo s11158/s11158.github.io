@@ -1,0 +1,136 @@
+{
+ "slug": "plumber",
+ "hub": "construction",
+ "related": [
+  "maintenance-technician",
+  "facility-manager",
+  "electrician",
+  "mep-engineer"
+ ],
+ "ru": {
+  "name": "Сантехник",
+  "title": "Найм сантехника в Дубае: водоснабжение, насосы, зарплата | TLNT",
+  "desc": "Найм сантехника в Дубае: водоснабжение и канализация, насосы, бойлеры и баки, практическая проверка руками, зарплаты 2026 и шорт-лист кандидатов от TLNT.",
+  "h1": "Найм сантехника",
+  "h1em": "в Дубае",
+  "intro": "Сантехники нужны FM-компаниям и управляющим башен, отелям, ресторанам, подрядчикам по fit-out и строительству, клиникам и владельцам вилл. Задачи: водоснабжение и канализация, PPR и uPVC трубы, бойлеры, насосные станции и баки на кровле, протечки, засоры, жироуловители в ресторанах, монтаж санфаянса. Помогаем понять, нужен ли вам монтажник на проект или сантехник по эксплуатации, даём шорт-лист из нашей живой базы и проводим практическую проверку руками.",
+  "find_lead": "Сантехник, который находит протечку без лишнего вскрытия, работает аккуратно в отделке и понимает, как устроены насосы, баки и водонагреватели здания.",
+  "find": [
+   "Трубы и соединения: PPR сварка, uPVC и CPVC, медь, обжимные фитинги, опрессовка",
+   "Канализация: уклоны, ревизии, засоры, жироуловители в кухнях ресторанов и отелей",
+   "Оборудование: водонагреватели, насосные станции, баки на кровле, бустерные насосы, фильтры",
+   "Санфаянс и смесители: монтаж и ремонт унитазов, инсталляций, душевых систем, смесителей премиум-брендов",
+   "Протечки: поиск по счётчику и давлению, работа с отделкой, фото и отчёт по заявке",
+   "Требования: правила DEWA и Dubai Municipality по водоснабжению, гигиена воды в отелях и клиниках, безопасность"
+  ],
+  "check_lead": "Сантехника легко переоценить по уверенному рассказу. Проверки показывают работу руками и аккуратность, а решение принимает ваш супервайзер.",
+  "steps": [
+   [
+    "Практика на стенде",
+    "кандидат сваривает узел PPR, подключает смеситель и проводит опрессовку. Смотрим на качество соединений и чистоту работы."
+   ],
+   [
+    "Поиск протечки",
+    "сосед снизу жалуется на пятно на потолке. Кандидат рассказывает, что проверяет, в каком порядке, и как минимизирует вскрытие плитки."
+   ],
+   [
+    "Кейс на насосы",
+    "на верхних этажах башни падает давление утром. Что смотрит кандидат в насосной и баках, когда зовёт подрядчика."
+   ],
+   [
+    "Рекомендации",
+    "звонки супервайзерам: повторные вызовы, аккуратность в квартирах, дисциплина."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанять сантехника по опыту на стройке, где он ставил новые системы, и отправить на эксплуатацию в жилую башню с отделкой и жильцами. Нужен опыт поиска протечек и работы в чужом доме. Ещё ошибка: не проверить опыт с кухнями ресторанов, если они есть на объекте: жироуловители и засоры там отдельная тема.",
+  "sal": [
+   [
+    "Помощник сантехника",
+    "2 000 - 3 500"
+   ],
+   [
+    "Сантехник",
+    "3 500 - 6 000"
+   ],
+   [
+    "Старший сантехник или бригадир",
+    "6 000 - 9 500"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт с насосными станциями, отелями и премиальной отделкой поднимает пакет; жильё, транспорт и сверхурочные меняют полную сумму.",
+  "faq": [
+   [
+    "Сколько зарабатывает сантехник в Дубае?",
+    "В 2026 году помощник сантехника в Дубае получает около 2 000 - 3 500 AED в месяц, сантехник 3 500 - 6 000 AED, старший сантехник или бригадир 6 000 - 9 500 AED. Часто к этому добавляются жильё, транспорт и сверхурочные."
+   ],
+   [
+    "Сантехник нужен в штат или лучше вызывать подрядчика?",
+    "Если на объекте ежедневно есть заявки, свои насосные станции и баки, штатный сантехник окупается быстро. Для одной виллы или небольшого офиса проще договор с подрядчиком. Поможем посчитать по вашим заявкам и найти человека, если нужен штат."
+   ]
+  ],
+  "seek_h2": "Вы сантехник и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Plumber",
+  "title": "Hire a Plumber in Dubai: Water Supply, Pumps, Salary | TLNT",
+  "desc": "Hire a plumber in Dubai: water supply and drainage, pumps, water heaters and tanks, a hands-on check, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a plumber",
+  "h1em": "in Dubai",
+  "intro": "Plumbers are needed by FM companies and tower management, hotels, restaurants, fit-out and construction contractors, clinics and villa owners. The work covers water supply and drainage, PPR and uPVC pipework, water heaters, pump rooms and rooftop tanks, leaks, blockages, grease traps in restaurants and sanitaryware installation. We help you decide whether you need an installation plumber for a project or a maintenance plumber, shortlist from our live database and run a hands-on practical check.",
+  "find_lead": "A plumber who finds a leak without needless demolition, works neatly around finishes and understands how a building pumps, tanks and water heaters work.",
+  "find": [
+   "Pipes and joints: PPR welding, uPVC and CPVC, copper, compression fittings, pressure testing",
+   "Drainage: falls, access points, blockages, grease traps in restaurant and hotel kitchens",
+   "Equipment: water heaters, pump sets, rooftop tanks, booster pumps, filters",
+   "Sanitaryware and mixers: installing and repairing WCs, concealed cisterns, shower systems and premium mixers",
+   "Leaks: tracing by meter and pressure, working around finishes, photos and a work order report",
+   "Requirements: DEWA and Dubai Municipality water rules, water hygiene in hotels and clinics, safety"
+  ],
+  "check_lead": "A plumber is easy to overrate on a confident story. The checks show hands-on work and neatness, and your supervisor makes the decision.",
+  "steps": [
+   [
+    "Bench practical",
+    "the candidate welds a PPR assembly, connects a mixer and runs a pressure test. We look at joint quality and clean work."
+   ],
+   [
+    "Leak tracing",
+    "the neighbour below reports a stain on the ceiling. The candidate explains what they check, in which order, and how they keep tile removal to a minimum."
+   ],
+   [
+    "Pump case",
+    "upper floors of a tower lose pressure in the morning. What the candidate checks in the pump room and tanks, and when they call a contractor."
+   ],
+   [
+    "References",
+    "calls with supervisors: repeat calls, neatness in apartments, discipline."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a plumber with construction experience installing new systems and sending them to maintenance in an occupied residential tower with finishes and residents. You need leak-tracing experience and conduct in someone else's home. Another one: not checking restaurant kitchen experience when the site has them: grease traps and blockages are a separate skill.",
+  "sal": [
+   [
+    "Plumber helper",
+    "2,000 - 3,500"
+   ],
+   [
+    "Plumber",
+    "3,500 - 6,000"
+   ],
+   [
+    "Senior plumber or foreman",
+    "6,000 - 9,500"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Pump room, hotel and premium finish experience raises the package; housing, transport and overtime change the total.",
+  "faq": [
+   [
+    "How much does a plumber earn in Dubai?",
+    "In 2026 a plumber helper in Dubai earns about AED 2,000 - 3,500 per month, a plumber AED 3,500 - 6,000 and a senior plumber or foreman AED 6,000 - 9,500. Housing, transport and overtime are often added."
+   ],
+   [
+    "Should I hire a plumber in-house or call a contractor?",
+    "If the site has daily work orders, its own pump rooms and tanks, an in-house plumber pays off quickly. For one villa or a small office a contractor agreement is simpler. We help you work it out from your work orders and find someone if you need an in-house hire."
+   ]
+  ],
+  "seek_h2": "Are you a plumber looking for a job in Dubai?"
+ }
+}

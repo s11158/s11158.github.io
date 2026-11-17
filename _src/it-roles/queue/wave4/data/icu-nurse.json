@@ -1,0 +1,136 @@
+{
+ "slug": "icu-nurse",
+ "hub": "medical",
+ "related": [
+  "nurse",
+  "anesthesiologist",
+  "home-care-nurse",
+  "medical-director"
+ ],
+ "ru": {
+  "name": "Медсестра реанимации (ICU)",
+  "title": "Найм медсестры ICU в Дубае: лицензия DHA, BLS/ACLS, зарплата | TLNT",
+  "desc": "Найм медсестры реанимации (ICU) в Дубае: лицензия DHA, BLS и ACLS, ИВЛ и инфузии, практическая проверка на клинических сценариях, зарплаты 2026 от TLNT.",
+  "h1": "Найм медсестры реанимации",
+  "h1em": "в Дубае",
+  "intro": "Медсёстры ICU нужны частным и государственным больницам Дубая, кардиоцентрам, хирургическим госпиталям, отделениям интенсивной терапии новорождённых и сервисам медицинской эвакуации. Задачи: мониторинг тяжёлых пациентов, ИВЛ, вазопрессоры и инфузии, реанимационные мероприятия, точная документация и работа в смене с врачами. Нужна лицензия DHA (Registered Nurse) и действующие BLS и ACLS. Помогаем определить профиль, даём шорт-лист из нашей живой базы и проводим практическую проверку на клинических сценариях.",
+  "find_lead": "Медсестра с опытом в интенсивной терапии, которая сохраняет точность в ночную смену и первой замечает ухудшение пациента.",
+  "find": [
+   "Лицензия DHA: Registered Nurse, Prometric и DataFlow, плюс BLS и ACLS с действующим сроком",
+   "ИВЛ: режимы вентиляции, санация, уход за трахеостомой, отлучение по протоколу",
+   "Препараты: вазопрессоры, седация, инсулиновые протоколы, расчёт доз и инфузоматы",
+   "Мониторинг: инвазивное давление, ЦВД, газы крови, шкалы ранней тревоги",
+   "Профилактика: инфекции, пролежни, падения, стандарты JCI и проверки DHA",
+   "Документация и смена: EMR, передача смены по SBAR, английский язык на рабочем уровне"
+  ],
+  "check_lead": "В интенсивной терапии цена ошибки высока, поэтому проверки построены на сценариях. Решение принимает ваш старший медбрат или руководитель отделения.",
+  "steps": [
+   [
+    "Клинический сценарий",
+    "пациент на ИВЛ, давление падает, сатурация снижается. Кандидат по шагам описывает действия и кого вызывает."
+   ],
+   [
+    "Расчёт доз",
+    "короткий тест на расчёт инфузий и титрование норадреналина по протоколу."
+   ],
+   [
+    "Передача смены",
+    "кандидат передаёт тяжёлого пациента по SBAR. Смотрим на полноту и порядок."
+   ],
+   [
+    "Документы и рекомендации",
+    "лицензия DHA, BLS, ACLS, опыт по годам именно в ICU, отзывы старших сестёр."
+   ]
+  ],
+  "mistake": "Типичная ошибка: брать медсестру общего профиля с обещанием быстро обучить ICU. Без реального опыта с ИВЛ и вазопрессорами адаптация занимает месяцы и нагружает всю смену. Вторая ошибка: не проверить сроки BLS и ACLS до выхода.",
+  "sal": [
+   [
+    "Медсестра ICU",
+    "9 000 - 14 000"
+   ],
+   [
+    "Старшая медсестра ICU",
+    "14 000 - 20 000"
+   ],
+   [
+    "Руководитель сестринской службы ICU",
+    "20 000 - 30 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Частные больницы часто добавляют жильё, транспорт и доплаты за ночные смены; опыт в кардио- или неонатальной ICU поднимает пакет.",
+  "faq": [
+   [
+    "Сколько зарабатывает медсестра ICU в Дубае?",
+    "В 2026 году медсестра реанимации в Дубае получает около 9 000 - 14 000 AED в месяц, старшая медсестра 14 000 - 20 000 AED, руководитель сестринской службы ICU 20 000 - 30 000 AED. Жильё и ночные доплаты часто идут сверху."
+   ],
+   [
+    "Можно ли нанять медсестру ICU без лицензии DHA?",
+    "Работать с пациентами без лицензии DHA нельзя. Можно выбрать кандидата, который уже сдал Prometric и прошёл DataFlow, и планировать выход после выдачи лицензии. Мы показываем этот этап по каждому кандидату в шорт-листе."
+   ]
+  ],
+  "seek_h2": "Вы медсестра ICU и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "ICU nurse",
+  "title": "Hire an ICU Nurse in Dubai: DHA Licence, BLS/ACLS, Salary | TLNT",
+  "desc": "Hire an ICU nurse in Dubai: DHA licence, BLS and ACLS, ventilators and infusions, practical checks on clinical scenarios, 2026 salaries and a shortlist.",
+  "h1": "Hire an ICU nurse",
+  "h1em": "in Dubai",
+  "intro": "ICU nurses are in demand at private and government hospitals in Dubai, cardiac centres, surgical hospitals, neonatal intensive care units and medical evacuation services. The work covers monitoring critically ill patients, ventilation, vasopressors and infusions, resuscitation, accurate documentation and shift work with doctors. A DHA licence (Registered Nurse) and current BLS and ACLS are required. We help define the profile, shortlist from our live database and run a practical check on clinical scenarios.",
+  "find_lead": "A nurse with real intensive care experience who stays precise on a night shift and is the first to notice a patient deteriorating.",
+  "find": [
+   "DHA licence: Registered Nurse, Prometric and DataFlow, plus current BLS and ACLS",
+   "Ventilation: modes, suctioning, tracheostomy care, weaning by protocol",
+   "Medication: vasopressors, sedation, insulin protocols, dose calculation and infusion pumps",
+   "Monitoring: arterial lines, CVP, blood gases, early warning scores",
+   "Prevention: infections, pressure injuries, falls, JCI standards and DHA inspections",
+   "Documentation and shifts: EMR, SBAR handover, working-level English"
+  ],
+  "check_lead": "In intensive care mistakes are costly, so the checks are scenario-based. Your nurse manager or unit head makes the call.",
+  "steps": [
+   [
+    "Clinical scenario",
+    "a ventilated patient with falling blood pressure and saturation. The candidate walks through each step and who they call."
+   ],
+   [
+    "Dose calculation",
+    "a short test on infusion rates and titrating noradrenaline by protocol."
+   ],
+   [
+    "Shift handover",
+    "the candidate hands over a critical patient using SBAR. We look at completeness and order."
+   ],
+   [
+    "Documents and references",
+    "DHA licence, BLS, ACLS, years specifically in ICU, feedback from charge nurses."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a general ward nurse with a promise to train them for ICU quickly. Without real ventilator and vasopressor experience adaptation takes months and loads the whole shift. Another one: not checking BLS and ACLS expiry before the start date.",
+  "sal": [
+   [
+    "ICU nurse",
+    "9,000 - 14,000"
+   ],
+   [
+    "Senior ICU nurse",
+    "14,000 - 20,000"
+   ],
+   [
+    "ICU nurse manager",
+    "20,000 - 30,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Private hospitals often add housing, transport and night shift allowances; cardiac or neonatal ICU experience raises the package.",
+  "faq": [
+   [
+    "How much does an ICU nurse earn in Dubai?",
+    "In 2026 an ICU nurse in Dubai earns about AED 9,000 - 14,000 per month, a senior ICU nurse AED 14,000 - 20,000 and an ICU nurse manager AED 20,000 - 30,000. Housing and night allowances are often on top."
+   ],
+   [
+    "Can I hire an ICU nurse without a DHA licence?",
+    "Seeing patients without a DHA licence is not allowed. You can choose a candidate who has passed Prometric and completed DataFlow and plan the start after the licence is issued. We show this stage for every candidate on the shortlist."
+   ]
+  ],
+  "seek_h2": "Are you an ICU nurse looking for a job in Dubai?"
+ }
+}

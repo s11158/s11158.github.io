@@ -1,0 +1,77 @@
+{
+ "slug": "mep-engineer",
+ "hub": "construction",
+ "related": ["mechanical-engineer", "electrical-engineer", "construction-project-manager", "facility-manager"],
+ "ru": {
+  "name": "MEP-инженер",
+  "title": "Найм MEP-инженера в Дубае: координация, проверка, зарплата | TLNT",
+  "desc": "Найм MEP-инженера в Дубае: HVAC, электрика, пожарка, DEWA и Civil Defence, практическая проверка координации и сдачи, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм MEP-инженера",
+  "h1em": "в Дубае",
+  "intro": "MEP-инженеры в Дубае нужны генподрядчикам, MEP-подрядчикам, консультантам, девелоперам, компаниям fit-out и facility management. Это человек, который связывает механику, электрику и сантехнику в одну работающую систему: координация в BIM, шоп-дроуинги, подачи в DEWA и Civil Defence, испытания и сдача. Помогаем понять, нужен вам координатор, инженер площадки или MEP-менеджер, даём шорт-лист из нашей живой базы и проводим практическую проверку, которую оценивает ваш технический директор.",
+  "find_lead": "Инженер, который видит объект целиком, разводит коллизии до монтажа и доводит все системы до сдачи без авралов.",
+  "find": [
+   "Широта: HVAC, электрика, водоснабжение и канализация, пожаротушение и ELV на уровне, достаточном для координации",
+   "BIM: Revit MEP, Navisworks, совместные модели и протоколы разрешения коллизий",
+   "Согласования: DEWA, Dubai Civil Defence, Dubai Municipality, district cooling провайдеры",
+   "Документы: шоп-дроуинги, материал-апрувы, RFI, as-built, O&M мануалы",
+   "Сдача: testing and commissioning, снаг-листы, передача объекта эксплуатации",
+   "Работа с субподрядчиками: графики, объёмы, контроль качества монтажа"
+  ],
+  "check_lead": "MEP-инженер должен разбираться во всех системах, но обычно силён в одной. Проверка показывает, где его сильная сторона и где ему понадобится поддержка, решение за вашим руководителем.",
+  "steps": [
+   ["Координация", "фрагмент сводной модели или чертежей коридора: за час найти коллизии систем, предложить приоритеты трасс и порядок согласования."],
+   ["Кейс сдачи", "до передачи объекта две недели, не пройдены испытания пожарки и не подписан DEWA. Как кандидат строит план и кого подключает."],
+   ["Разговор о субподрядчиках", "монтажник отстаёт на три недели и спорит об объёмах. Как кандидат фиксирует факты и решает вопрос с проект-менеджером."],
+   ["Рекомендации", "звонки руководителям проектов: масштаб объектов, какие системы вёл сам, как прошла сдача."]
+  ],
+  "mistake": "Типичная ошибка: ждать от одного MEP-инженера глубокой экспертизы во всех системах на крупном объекте. Он координирует, а для расчётов нужны профильные инженеры. Ещё ошибка: нанимать без опыта сдачи, тогда проект зависает на испытаниях и инспекциях.",
+  "sal": [
+   ["MEP-инженер или координатор", "9 000 - 15 000"],
+   ["Старший MEP-инженер", "15 000 - 25 000"],
+   ["MEP-менеджер проекта", "25 000 - 40 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Крупные девелоперы, гостиницы и больницы платят выше, BIM-координация и опыт сдачи поднимают пакет; у подрядчиков часто есть жильё и машина.",
+  "faq": [
+   ["Сколько зарабатывает MEP-инженер в Дубае?", "В 2026 году MEP-инженер или координатор в Дубае получает около 9 000 - 15 000 AED в месяц, старший MEP-инженер 15 000 - 25 000 AED, MEP-менеджер проекта 25 000 - 40 000 AED. Сложные объекты вроде больниц и гостиниц оплачиваются выше."],
+   ["Нужен MEP-инженер или MEP-менеджер?", "Инженер ведёт координацию и документацию по системам, менеджер отвечает за бюджет, график и субподрядчиков всей MEP-части проекта. Для объекта до нескольких этажей обычно хватает сильного инженера; поможем определить профиль на первой встрече."]
+  ],
+  "seek_h2": "Вы MEP-инженер и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "MEP engineer",
+  "title": "Hire an MEP Engineer in Dubai: Coordination, Checks, Salary | TLNT",
+  "desc": "Hire an MEP engineer in Dubai: HVAC, electrical, fire, DEWA and Civil Defence, practical coordination and handover checks, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire an MEP engineer",
+  "h1em": "in Dubai",
+  "intro": "MEP engineers in Dubai are needed by main contractors, MEP contractors, consultants, developers, fit-out and facility management companies. This is the person who ties mechanical, electrical and plumbing into one working system: BIM coordination, shop drawings, DEWA and Civil Defence submissions, testing and handover. We help you decide whether you need a coordinator, a site engineer or an MEP manager, shortlist from our live database and run a practical check that your technical director scores.",
+  "find_lead": "An engineer who sees the whole building, resolves clashes before installation and takes every system to handover without last-minute panic.",
+  "find": [
+   "Breadth: HVAC, power, plumbing and drainage, fire fighting and ELV at a level good enough to coordinate",
+   "BIM: Revit MEP, Navisworks, federated models and clash resolution workflows",
+   "Approvals: DEWA, Dubai Civil Defence, Dubai Municipality, district cooling providers",
+   "Documents: shop drawings, material approvals, RFIs, as-builts, O&M manuals",
+   "Handover: testing and commissioning, snag lists, handover to operations",
+   "Subcontractors: programmes, quantities, installation quality control"
+  ],
+  "check_lead": "An MEP engineer should understand every system but is usually strong in one. The check shows where their strength is and where they will need support, and your manager makes the call.",
+  "steps": [
+   ["Coordination", "part of a federated model or corridor drawings: in one hour find system clashes, propose routing priorities and the approval sequence."],
+   ["Handover case", "two weeks to handover, fire system tests not passed and DEWA not signed. How the candidate builds the plan and who they bring in."],
+   ["Subcontractor conversation", "an installer is three weeks behind and disputes quantities. How the candidate records facts and resolves it with the project manager."],
+   ["References", "calls with project managers: project scale, which systems they owned, how the handover went."]
+  ],
+  "mistake": "Typical mistake: expecting one MEP engineer to have deep expertise in every system on a large project. They coordinate, while calculations need discipline engineers. Another one: hiring without handover experience, so the project stalls at testing and inspections.",
+  "sal": [
+   ["MEP engineer or coordinator", "9,000 - 15,000"],
+   ["Senior MEP engineer", "15,000 - 25,000"],
+   ["MEP project manager", "25,000 - 40,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Major developers, hotels and hospitals pay more, BIM coordination and handover experience raise the package; contractors often provide housing and a car.",
+  "faq": [
+   ["How much does an MEP engineer earn in Dubai?", "In 2026 an MEP engineer or coordinator in Dubai earns about AED 9,000 - 15,000 per month, a senior MEP engineer AED 15,000 - 25,000 and an MEP project manager AED 25,000 - 40,000. Complex projects such as hospitals and hotels pay more."],
+   ["Do I need an MEP engineer or an MEP manager?", "An engineer runs coordination and documentation for the systems, a manager owns the budget, programme and subcontractors for the whole MEP package. For a building of a few floors a strong engineer is usually enough; we help define the profile at the first meeting."]
+  ],
+  "seek_h2": "Are you an MEP engineer looking for a job in Dubai?"
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "construction-project-manager",
+ "hub": "construction",
+ "related": ["project-manager", "quantity-surveyor", "mep-engineer", "site-engineer"],
+ "ru": {
+  "name": "Руководитель строительного проекта",
+  "title": "Найм руководителя стройпроекта в Дубае: проверка, зарплата | TLNT",
+  "desc": "Найм руководителя строительного проекта в Дубае: сроки, бюджет, FIDIC и разрешения, практическая проверка на кейсах, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм руководителя строительного проекта",
+  "h1em": "в Дубае",
+  "intro": "Руководители строительных проектов нужны девелоперам Дубая, генподрядчикам, project management консультантам, компаниям fit-out и владельцам частных вилл. Они отвечают за сроки, бюджет и качество: ведут график в Primavera, управляют подрядчиками и консультантами, получают разрешения Dubai Municipality, Trakhees или free zone и доводят объект до completion certificate. Помогаем определить, нужен вам PM заказчика или подрядчика, даём шорт-лист из нашей живой базы и проводим практическую проверку, которую оценивает ваше руководство.",
+  "find_lead": "Руководитель, который сдаёт объект в срок и в бюджет, умеет говорить с инвестором, консультантом и прорабом и не теряет деньги на договорных сроках.",
+  "find": [
+   "График: Primavera P6, критический путь, recovery-планы и отчёты о задержках",
+   "Деньги: бюджет проекта, cash flow, вариации и экономия вместе с QS",
+   "Договоры: FIDIC, уведомления, претензии по срокам, работа с юристами при спорах",
+   "Разрешения: Dubai Municipality, Civil Defence, DEWA, Trakhees, DDA и NOC мастер-девелоперов",
+   "Команда: координация консультантов, подрядчиков и субподрядчиков, совещания и протоколы",
+   "Квалификация: PMP ценится, опыт сданных объектов в ОАЭ важнее любого сертификата"
+  ],
+  "check_lead": "Список проектов в резюме PM почти всегда впечатляет. Проверяем, за что человек отвечал лично и как вёл себя в кризисе, решение за вами.",
+  "steps": [
+   ["Разбор графика", "график проекта с задержкой в шесть недель: найти критический путь, причины и предложить recovery-план с ценой."],
+   ["Кейс с инвестором", "инвестор требует сдать на месяц раньше и не готов платить за ускорение. Как кандидат ведёт разговор и что предлагает."],
+   ["Договорная ситуация", "подрядчик заявил продление сроков из-за задержки NOC. Как оценить претензию по FIDIC и что ответить."],
+   ["Рекомендации", "звонки девелоперам и консультантам: сданные объекты, отклонения по срокам и бюджету, работа с командой."]
+  ],
+  "mistake": "Типичная ошибка: нанять PM с крупных башен на проект частной виллы или небольшой fit-out, где он не умеет работать без большой команды. Ещё ошибка: судить по стоимости прошлых проектов, а не по тому, сдавал ли человек объекты сам до конца.",
+  "sal": [
+   ["Руководитель небольших проектов или fit-out", "15 000 - 25 000"],
+   ["Руководитель строительного проекта", "25 000 - 40 000"],
+   ["Старший PM или руководитель программы", "40 000 - 65 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Девелоперы и PM-консультанты платят выше, опыт гостиниц, больниц и инфраструктуры поднимает пакет; бонус за сдачу встречается часто.",
+  "faq": [
+   ["Сколько зарабатывает руководитель строительного проекта в Дубае?", "В 2026 году руководитель небольших проектов или fit-out в Дубае получает около 15 000 - 25 000 AED в месяц, руководитель строительного проекта 25 000 - 40 000 AED, старший PM или руководитель программы 40 000 - 65 000 AED. Часто есть бонус за сдачу объекта."],
+   ["Нужен PM заказчика или подрядчика?", "PM заказчика защищает интересы инвестора: бюджет, качество, контроль подрядчиков. PM подрядчика отвечает за исполнение и маржу своей компании. Опыт и стиль у них разные, поэтому определяем сторону до поиска."]
+  ],
+  "seek_h2": "Вы руководитель строительных проектов и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Construction project manager",
+  "title": "Hire a Construction Project Manager in Dubai: Salary | TLNT",
+  "desc": "Hire a construction project manager in Dubai: programme, budget, FIDIC and permits, practical checks on real cases, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a construction project manager",
+  "h1em": "in Dubai",
+  "intro": "Construction project managers are needed by Dubai developers, main contractors, project management consultants, fit-out companies and private villa owners. They own time, budget and quality: running the Primavera programme, managing contractors and consultants, getting Dubai Municipality, Trakhees or free zone permits and taking the building to a completion certificate. We help you decide whether you need a client-side or contractor-side PM, shortlist from our live database and run a practical check that your leadership scores.",
+  "find_lead": "A manager who delivers on time and on budget, can talk to the investor, the consultant and the foreman, and never loses money on contractual time bars.",
+  "find": [
+   "Programme: Primavera P6, critical path, recovery plans and delay reports",
+   "Money: project budget, cash flow, variations and savings together with the QS",
+   "Contracts: FIDIC, notices, extension of time claims, working with lawyers in disputes",
+   "Permits: Dubai Municipality, Civil Defence, DEWA, Trakhees, DDA and master developer NOCs",
+   "Team: coordinating consultants, contractors and subcontractors, meetings and minutes",
+   "Qualification: PMP is valued, delivered UAE projects matter more than any certificate"
+  ],
+  "check_lead": "The project list on a PM's CV is almost always impressive. We check what the person personally owned and how they behaved in a crisis, and you make the call.",
+  "steps": [
+   ["Programme review", "a project programme six weeks late: find the critical path and causes and propose a priced recovery plan."],
+   ["Investor case", "the investor wants handover a month early and will not pay for acceleration. How the candidate runs the conversation and what they offer."],
+   ["Contract situation", "the contractor claims an extension of time over a delayed NOC. How to assess the claim under FIDIC and what to reply."],
+   ["References", "calls with developers and consultants: delivered projects, time and budget variances, how they led the team."]
+  ],
+  "mistake": "Typical mistake: hiring a PM from large towers for a private villa or small fit-out where they cannot work without a big team. Another one: judging by the value of past projects instead of whether the person personally delivered them to the end.",
+  "sal": [
+   ["Small projects or fit-out manager", "15,000 - 25,000"],
+   ["Construction project manager", "25,000 - 40,000"],
+   ["Senior PM or programme manager", "40,000 - 65,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Developers and PM consultants pay more, hotel, hospital and infrastructure experience raises the package; completion bonuses are common.",
+  "faq": [
+   ["How much does a construction project manager earn in Dubai?", "In 2026 a small projects or fit-out manager in Dubai earns about AED 15,000 - 25,000 per month, a construction project manager AED 25,000 - 40,000 and a senior PM or programme manager AED 40,000 - 65,000. A completion bonus is common."],
+   ["Do I need a client-side or contractor-side PM?", "A client-side PM protects the investor: budget, quality, control of contractors. A contractor-side PM owns execution and their company's margin. Their experience and style differ, so we settle the side before the search."]
+  ],
+  "seek_h2": "Are you a construction project manager looking for a job in Dubai?"
+ }
+}

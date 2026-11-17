@@ -1,0 +1,77 @@
+{
+ "slug": "car-sales-executive",
+ "hub": "retail",
+ "related": ["automotive-technician", "sales-executive", "sales-manager", "luxury-sales-advisor"],
+ "ru": {
+  "name": "Менеджер по продаже автомобилей",
+  "title": "Найм менеджера по продаже авто в Дубае: зарплата | TLNT",
+  "desc": "Найм менеджера по продаже автомобилей в Дубае: дилерские центры и премиум, тест-драйв, финансирование и trade-in, практическая проверка и зарплаты 2026.",
+  "h1": "Найм менеджера по продаже автомобилей",
+  "h1em": "в Дубае",
+  "intro": "Менеджеры по продаже автомобилей нужны официальным дилерам на Sheikh Zayed Road и в Al Quoz, премиальным и люксовым шоурумам, продавцам автомобилей с пробегом и китайским брендам, которые быстро растут в ОАЭ. Задачи: встреча клиента, тест-драйв, подбор комплектации, оформление кредита и trade-in, регистрация в RTA и выдача машины. Помогаем определить профиль под ваш бренд, даём шорт-лист из нашей живой базы и проводим практическую проверку продажи, решение принимаете вы.",
+  "find_lead": "Продавец, который ведёт клиента от первого звонка до выдачи ключей, знает финансирование и trade-in и не теряет лиды из онлайна.",
+  "find": [
+   "Продукт: комплектации, сравнение с конкурентами, электромобили и гибриды, гарантийные условия производителя и сервисные пакеты",
+   "Сделка: финансирование через банки ОАЭ, лизинг, trade-in и оценка машины клиента",
+   "Оформление: регистрация и номера через RTA, страховка, техосмотр, документы для корпоративных клиентов",
+   "Лиды: CRM дилера, ответы на запросы с Dubizzle и сайта, звонки и WhatsApp в течение часа",
+   "Права: водительское удостоверение ОАЭ для тест-драйвов и выдачи машин",
+   "Языки: английский обязательно, арабский или русский дают преимущество с частью клиентов"
+  ],
+  "check_lead": "Цифры продаж в резюме проверить сложно, поэтому смотрим на поведение в сделке и подтверждаем результат через рекомендации. Итог оценивает ваш sales manager.",
+  "steps": [
+   ["Ролевая продажа в шоуруме", "клиент сравнивает вашу модель с конкурентом и хочет скидку. Кандидат проводит встречу, предлагает тест-драйв и финансирование, работает с возражениями."],
+   ["Разбор сделки с trade-in", "клиент сдаёт свою машину и берёт кредит. Кандидат объясняет порядок шагов, документы и как не потерять маржу на оценке старой машины."],
+   ["Проверка работы с лидами", "кандидат отвечает на запрос из онлайна письменно и по телефону. Смотрим на скорость, точность и умение назначить визит."],
+   ["Рекомендации", "звонки руководителям продаж: выполнение плана по машинам и допродажам, отзывы клиентов, дисциплина в CRM."]
+  ],
+  "mistake": "Типичная ошибка: нанимать по громкому бренду в резюме, не проверив, сколько машин человек продавал в месяц и какую долю давали финансирование и допродажи. Ещё ошибка: держать продавца без регламента ответа на онлайн-лиды, тогда большая часть запросов остывает за день.",
+  "sal": [
+   ["Младший менеджер по продажам", "5 000 - 8 000"],
+   ["Менеджер по продажам", "8 000 - 14 000"],
+   ["Старший менеджер или sales manager", "14 000 - 25 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, базовая часть. Комиссия за машины, финансирование и допродажи часто удваивает доход; в премиальном и люксовом сегменте она выше.",
+  "faq": [
+   ["Сколько зарабатывает менеджер по продаже автомобилей в Дубае?", "В 2026 году младший менеджер получает около 5 000 - 8 000 AED в месяц базы, опытный 8 000 - 14 000 AED, старший менеджер или sales manager 14 000 - 25 000 AED. Комиссия часто удваивает доход, особенно в премиальных брендах."],
+   ["Нужны ли кандидату права ОАЭ?", "Для тест-драйвов, перегона и выдачи машин водительское удостоверение ОАЭ практически обязательно. Если у кандидата права другой страны, уточните, можно ли их обменять сразу или нужен экзамен, это влияет на дату выхода."]
+  ],
+  "seek_h2": "Вы продаёте автомобили и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Car sales executive",
+  "title": "Hire a Car Sales Executive in Dubai: Salary | TLNT",
+  "desc": "Hire a car sales executive in Dubai: dealerships and premium brands, test drives, finance and trade-in, a practical sales check and 2026 salary ranges.",
+  "h1": "Hire a car sales executive",
+  "h1em": "in Dubai",
+  "intro": "Car sales executives are needed by official dealers on Sheikh Zayed Road and in Al Quoz, premium and luxury showrooms, used car dealers and the Chinese brands growing fast in the UAE. The work covers meeting the client, test drives, choosing the trim, arranging finance and trade-in, RTA registration and handover. We help you define the profile for your brand, shortlist from our live database and run a practical sales check, and you make the decision.",
+  "find_lead": "A seller who takes the client from the first call to the key handover, knows finance and trade-in and does not lose online leads.",
+  "find": [
+   "Product: trims, comparison with competitors, EVs and hybrids, warranty and service packages",
+   "Deal: finance through UAE banks, leasing, trade-in and valuation of the client's car",
+   "Paperwork: RTA registration and plates, insurance, inspection, documents for corporate clients",
+   "Leads: dealer CRM, replies to Dubizzle and website enquiries, calls and WhatsApp within an hour",
+   "Licence: UAE driving licence for test drives and handovers",
+   "Languages: English is a must; Arabic or Russian help with part of the clients"
+  ],
+  "check_lead": "Sales numbers on a CV are hard to verify, so we look at behaviour in a deal and confirm results through references. Your sales manager scores the outcome.",
+  "steps": [
+   ["Showroom role-play", "a client compares your model with a competitor and wants a discount. The candidate runs the meeting, offers a test drive and finance and handles objections."],
+   ["Trade-in deal walkthrough", "the client trades in their car and takes a loan. The candidate explains the order of steps, documents and how not to lose margin on the valuation."],
+   ["Lead handling check", "the candidate answers an online enquiry in writing and by phone. We look at speed, accuracy and the ability to book a visit."],
+   ["References", "calls with sales managers: unit targets and add-on sales, client feedback, CRM discipline."]
+  ],
+  "mistake": "Typical mistake: hiring for a big brand name on the CV without checking how many cars the person sold per month and what share came from finance and add-ons. Another one: no rule for answering online leads, so most enquiries go cold within a day.",
+  "sal": [
+   ["Junior sales executive", "5,000 - 8,000"],
+   ["Sales executive", "8,000 - 14,000"],
+   ["Senior executive or sales manager", "14,000 - 25,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, base pay. Commission on units, finance and add-ons often doubles income; it is higher in premium and luxury brands.",
+  "faq": [
+   ["How much does a car sales executive earn in Dubai?", "In 2026 a junior executive earns about AED 5,000 - 8,000 per month base, an experienced executive AED 8,000 - 14,000 and a senior executive or sales manager AED 14,000 - 25,000. Commission often doubles income, especially at premium brands."],
+   ["Does the candidate need a UAE driving licence?", "For test drives, car moves and handovers a UAE driving licence is practically required. If the candidate holds a foreign licence, check whether it can be converted directly or needs a test, as this affects the start date."]
+  ],
+  "seek_h2": "Are you a car sales executive looking for a job in Dubai?"
+ }
+}

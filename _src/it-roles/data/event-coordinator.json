@@ -1,0 +1,136 @@
+{
+ "slug": "event-coordinator",
+ "hub": "hospitality",
+ "related": [
+  "event-manager",
+  "project-manager",
+  "administrative-assistant",
+  "guest-relations-officer"
+ ],
+ "ru": {
+  "name": "Ивент-координатор",
+  "title": "Найм ивент-координатора в Дубае: логистика, тайминг | TLNT",
+  "desc": "Найм ивент-координатора в Дубае: логистика событий, подрядчики, run of show, практическая проверка на тайминге, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм ивент-координатора",
+  "h1em": "в Дубае",
+  "intro": "Ивент-координаторы нужны event-компаниям, отелям и банкетным службам, выставочным организаторам, DMC и корпоративным отделам маркетинга. Задачи: тайминг и run of show, списки гостей и регистрация, подтверждения подрядчиков, трансферы и размещение спикеров, монтаж и демонтаж на площадке. Помогаем определить профиль под ваши события, даём шорт-лист из нашей живой базы и проводим практическую проверку на реальном тайминге, а решение принимает ваш ивент-менеджер.",
+  "find_lead": "Человек, у которого ничего не теряется: каждый подрядчик подтверждён, каждый гость в списке, каждый слот в тайминге.",
+  "find": [
+   "Опыт на событиях: конференции, свадьбы, выставки, корпоративы, количество гостей и задачи на площадке",
+   "Документы события: run of show, production schedule, rooming list, списки гостей в Excel или Google Sheets",
+   "Подрядчики: подтверждения, сверка доставки и монтажа, контроль по чек-листу в день события",
+   "Регистрация и гости: системы регистрации, бейджи, RSVP, работа на стойке с VIP",
+   "Площадки Дубая: знание отелей, DWTC, правил доступа, погрузки и времени монтажа",
+   "Выносливость и график: длинные дни, вечера и выходные, водительские права ОАЭ как плюс"
+  ],
+  "check_lead": "Координатор хорош, когда о нём не вспоминают в день события. Проверка ищет аккуратность и скорость, а оценку ставит ваш менеджер.",
+  "steps": [
+   [
+    "Тайминг из хаоса",
+    "набор писем и заметок от клиента и подрядчиков. За полтора-два часа кандидат собирает run of show и список открытых вопросов."
+   ],
+   [
+    "Список гостей",
+    "таблица из 200 гостей с дублями и ошибками: почистить, разбить по столам и подготовить к регистрации."
+   ],
+   [
+    "Ситуации на площадке",
+    "грузовик с декором опаздывает, VIP-гостя нет в списке, спикер не может найти зал. Действия по шагам."
+   ],
+   [
+    "Рекомендации",
+    "звонок ивент-менеджеру: надёжность, внимательность, как держался в длинные смены."
+   ]
+  ],
+  "mistake": "Типичная ошибка: брать координатора по обаянию на интервью без проверки работы с таблицами и документами. В день события выясняется, что тайминг не сходится, а подрядчики не подтверждены. Ещё ошибка: не обсудить вечерние и выходные смены заранее.",
+  "sal": [
+   [
+    "Ивент-координатор (начальный уровень)",
+    "5 000 - 8 000"
+   ],
+   [
+    "Ивент-координатор",
+    "8 000 - 12 000"
+   ],
+   [
+    "Старший координатор",
+    "12 000 - 16 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Сезон событий (октябрь - апрель), переработки и опыт на крупных выставках влияют на пакет.",
+  "faq": [
+   [
+    "Сколько зарабатывает ивент-координатор в Дубае?",
+    "В 2026 году ивент-координатор начального уровня в Дубае получает около 5 000 - 8 000 AED в месяц, опытный координатор 8 000 - 12 000 AED, старший координатор 12 000 - 16 000 AED."
+   ],
+   [
+    "Можно ли взять координатора на сезон?",
+    "Да, многие компании усиливают команду на сезон с октября по апрель. Формат и срок договора определяет работодатель, сотрудник оформляется напрямую в вашу компанию. Мы помогаем найти кандидатов, готовых к такому формату."
+   ]
+  ],
+  "seek_h2": "Вы ивент-координатор и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Event coordinator",
+  "title": "Hire an Event Coordinator in Dubai: Logistics, Timing | TLNT",
+  "desc": "Hire an event coordinator in Dubai: event logistics, suppliers, run of show, a practical timing check, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire an event coordinator",
+  "h1em": "in Dubai",
+  "intro": "Event coordinators are needed by event companies, hotels and banqueting teams, exhibition organisers, DMCs and corporate marketing departments. The work: timings and run of show, guest lists and registration, supplier confirmations, speaker transfers and rooms, build-up and breakdown on site. We help you define the profile for your events, shortlist from our live database and run a practical check on a real timing plan, while your event manager makes the decision.",
+  "find_lead": "Someone who loses nothing: every supplier confirmed, every guest on the list, every slot in the timing.",
+  "find": [
+   "Event experience: conferences, weddings, exhibitions, corporate events, guest numbers and on-site tasks",
+   "Event documents: run of show, production schedule, rooming list, guest lists in Excel or Google Sheets",
+   "Suppliers: confirmations, delivery and build-up checks, a show day checklist",
+   "Registration and guests: registration systems, badges, RSVP, desk work with VIPs",
+   "Dubai venues: hotels, DWTC, access rules, loading and build-up windows",
+   "Stamina and schedule: long days, evenings and weekends, a UAE driving licence as a plus"
+  ],
+  "check_lead": "A coordinator is good when nobody thinks about them on show day. The check looks for accuracy and speed, and your manager scores it.",
+  "steps": [
+   [
+    "Timing from chaos",
+    "a set of emails and notes from the client and suppliers. In 90-120 minutes the candidate builds a run of show and a list of open questions."
+   ],
+   [
+    "Guest list",
+    "a 200-guest sheet with duplicates and errors: clean it, seat it by table and prepare it for registration."
+   ],
+   [
+    "On-site situations",
+    "the decor truck is late, a VIP is not on the list, a speaker cannot find the room. Step by step actions."
+   ],
+   [
+    "References",
+    "a call with an event manager: reliability, attention, how they coped with long shifts."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a coordinator on interview charm without testing spreadsheets and documents. On show day the timing does not add up and suppliers are not confirmed. Another one: not discussing evening and weekend shifts up front.",
+  "sal": [
+   [
+    "Junior event coordinator",
+    "5,000 - 8,000"
+   ],
+   [
+    "Event coordinator",
+    "8,000 - 12,000"
+   ],
+   [
+    "Senior event coordinator",
+    "12,000 - 16,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Event season (October to April), overtime and large exhibition experience affect the package.",
+  "faq": [
+   [
+    "How much does an event coordinator earn in Dubai?",
+    "In 2026 a junior event coordinator in Dubai earns about AED 5,000 - 8,000 per month, an experienced coordinator AED 8,000 - 12,000 and a senior coordinator AED 12,000 - 16,000."
+   ],
+   [
+    "Can I hire a coordinator for the season?",
+    "Yes, many companies add people for the October to April season. The contract format and term are set by the employer, and the person is employed directly by your company. We help find candidates who are open to that format."
+   ]
+  ],
+  "seek_h2": "Are you an event coordinator looking for a job in Dubai?"
+ }
+}

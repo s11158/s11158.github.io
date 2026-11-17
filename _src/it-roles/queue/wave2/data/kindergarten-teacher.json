@@ -1,0 +1,77 @@
+{
+ "slug": "kindergarten-teacher",
+ "hub": "education",
+ "related": ["teacher", "nanny", "governess", "special-needs-teacher"],
+ "ru": {
+  "name": "Воспитатель детского сада",
+  "title": "Найм воспитателя детского сада в Дубае: EYFS, зарплата | TLNT",
+  "desc": "Найм воспитателя детского сада в Дубае: EYFS и Монтессори, требования KHDA и MOE, пробное занятие с детьми, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм воспитателя детского сада",
+  "h1em": "в Дубае",
+  "intro": "Воспитатели нужны частным детским садам и nursery Дубая, школам с подготовительными классами FS1 и FS2, русскоязычным и билингвальным садам, развивающим центрам. Задачи: занятия по программе EYFS, Монтессори или Reggio Emilia, наблюдения и отчёты по развитию, режим дня, общение с родителями и безопасность детей. Помогаем определить профиль, даём шорт-лист из нашей живой базы и организуем пробное занятие, которое оценивает ваш руководитель.",
+  "find_lead": "Воспитатель, который держит группу малышей спокойно и безопасно и умеет показать родителям, как развивается их ребёнок.",
+  "find": [
+   "Квалификация: диплом в дошкольном образовании, CACHE Level 3 или эквивалент, аттестация для KHDA или MOE",
+   "Программы: EYFS, Монтессори, Reggio Emilia, обучение через игру",
+   "Наблюдения: фиксация развития, learning journals, отчёты родителям в Tapestry или аналогах",
+   "Безопасность: первая помощь детям (Paediatric First Aid), правила safeguarding, справка о несудимости",
+   "Языки: английский, при необходимости русский или арабский для билингвальной группы",
+   "Работа с родителями: адаптация ребёнка, сложные разговоры, ежедневная обратная связь"
+  ],
+  "check_lead": "С детьми видно то, что не видно на интервью. Проверки построены вокруг реальной группы, а решение принимает ваш руководитель сада.",
+  "steps": [
+   ["Пробное занятие", "кандидат проводит 20-30 минут с группой: песня, игра, короткая активность. Руководитель смотрит, как он держит внимание и реагирует на детей."],
+   ["Наблюдение и отчёт", "по короткому видео или описанию ситуации кандидат пишет наблюдение о развитии ребёнка по EYFS."],
+   ["Кейс адаптации", "ребёнок плачет каждое утро вторую неделю. Что делает воспитатель и что говорит родителям."],
+   ["Документы и рекомендации", "проверка диплома, первой помощи и справки о несудимости, звонки руководителям прошлых садов."]
+  ],
+  "mistake": "Типичная ошибка: брать на позицию воспитателя няню без педагогической квалификации, и сад потом не проходит требования регулятора к штату. Ещё ошибка: не посмотреть кандидата в работе с детьми и судить только по интервью.",
+  "sal": [
+   ["Помощник воспитателя", "4 000 - 6 500"],
+   ["Воспитатель", "6 500 - 11 000"],
+   ["Старший воспитатель или руководитель группы", "11 000 - 17 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Сады премиум-сегмента и школы с британской программой платят больше; квалификация EYFS и опыт Монтессори поднимают пакет.",
+  "faq": [
+   ["Сколько зарабатывает воспитатель детского сада в Дубае?", "В 2026 году помощник воспитателя в Дубае получает около 4 000 - 6 500 AED в месяц, воспитатель 6 500 - 11 000 AED, старший воспитатель или руководитель группы 11 000 - 17 000 AED. Премиальные сады и школы с британской программой платят больше."],
+   ["Чем воспитатель отличается от помощника воспитателя?", "Воспитатель отвечает за программу, наблюдения и отчёты по развитию детей и должен иметь педагогическую квалификацию. Помощник поддерживает группу в режиме дня, гигиене и занятиях. Регулятор требует определённое соотношение квалифицированного штата к числу детей, поможем это учесть при поиске."]
+  ],
+  "seek_h2": "Вы воспитатель и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Kindergarten teacher",
+  "title": "Hire a Kindergarten Teacher in Dubai: EYFS, Salary | TLNT",
+  "desc": "Hire a kindergarten teacher in Dubai: EYFS and Montessori, KHDA and MOE requirements, a trial session with children, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire a kindergarten teacher",
+  "h1em": "in Dubai",
+  "intro": "Kindergarten teachers are needed by private nurseries in Dubai, schools with FS1 and FS2 classes, Russian-speaking and bilingual nurseries and early learning centres. The work covers sessions to EYFS, Montessori or Reggio Emilia, developmental observations and reports, daily routines, parent communication and child safety. We help you define the profile, shortlist from our live database and arrange a trial session scored by your nursery manager.",
+  "find_lead": "A teacher who keeps a group of young children calm and safe and can show parents how their child is developing.",
+  "find": [
+   "Qualifications: early years degree, CACHE Level 3 or equivalent, attested for KHDA or MOE",
+   "Approaches: EYFS, Montessori, Reggio Emilia, learning through play",
+   "Observations: tracking development, learning journals, parent reports in Tapestry or similar",
+   "Safety: Paediatric First Aid, safeguarding policy, a police clearance certificate",
+   "Languages: English, plus Russian or Arabic for a bilingual group if needed",
+   "Parent relations: settling-in, difficult conversations, daily feedback"
+  ],
+  "check_lead": "Time with children shows what an interview cannot. The checks are built around a real group, and your nursery manager makes the call.",
+  "steps": [
+   ["Trial session", "the candidate runs 20-30 minutes with a group: a song, a game, a short activity. The manager watches how they hold attention and respond to children."],
+   ["Observation and report", "from a short video or written scenario the candidate writes an EYFS observation of a child's development."],
+   ["Settling-in case", "a child has cried every morning for two weeks. What the teacher does and what they tell the parents."],
+   ["Documents and references", "degree, first aid and police clearance checked, calls with previous nursery managers."]
+  ],
+  "mistake": "Typical mistake: hiring a nanny with no teaching qualification as a kindergarten teacher, and the nursery then fails the regulator's staffing requirements. Another one: judging only by the interview without seeing the candidate with children.",
+  "sal": [
+   ["Teaching assistant", "4,000 - 6,500"],
+   ["Kindergarten teacher", "6,500 - 11,000"],
+   ["Senior teacher or room leader", "11,000 - 17,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Premium nurseries and British-curriculum schools pay more; EYFS qualifications and Montessori experience raise the package.",
+  "faq": [
+   ["How much does a kindergarten teacher earn in Dubai?", "In 2026 a teaching assistant in Dubai earns about AED 4,000 - 6,500 per month, a kindergarten teacher AED 6,500 - 11,000 and a senior teacher or room leader AED 11,000 - 17,000. Premium nurseries and British-curriculum schools pay more."],
+   ["What is the difference between a kindergarten teacher and a teaching assistant?", "The teacher owns the curriculum, observations and development reports and needs a teaching qualification. The assistant supports the group with routines, hygiene and activities. The regulator sets a ratio of qualified staff to children, and we help you take it into account in the search."]
+  ],
+  "seek_h2": "Are you a kindergarten teacher looking for a job in Dubai?"
+ }
+}

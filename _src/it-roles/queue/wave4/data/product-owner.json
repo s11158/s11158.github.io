@@ -1,0 +1,136 @@
+{
+ "slug": "product-owner",
+ "hub": "tech",
+ "related": [
+  "product-manager",
+  "scrum-master",
+  "business-analyst",
+  "project-manager"
+ ],
+ "ru": {
+  "name": "Владелец продукта",
+  "title": "Найм владельца продукта в Дубае: бэклог, Agile, зарплата | TLNT",
+  "desc": "Найм владельца продукта (product owner) в Дубае: бэклог, приоритеты и работа с бизнесом, проверка на кейсе продукта, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм владельца продукта",
+  "h1em": "в Дубае",
+  "intro": "Владельцы продукта (product owner) нужны банкам Дубая с мобильными приложениями, страховым, госсервисам, авиакомпаниям, ритейлу и e-commerce, финтеху и сервисам доставки. Владелец продукта отвечает за то, что делает команда разработки: собирает требования бизнеса и пользователей, ведёт бэклог, расставляет приоритеты, принимает готовую работу и защищает команду от хаоса запросов. Помогаем понять, нужен вам владелец продукта или продакт-менеджер, даём шорт-лист из нашей живой базы и проводим проверку на кейсе, близком к вашему продукту, которую оценивает ваш руководитель направления.",
+  "find_lead": "Владелец продукта, который умеет сказать бизнесу \"нет\" с аргументами и даёт команде понятные задачи с критериями готовности.",
+  "find": [
+   "Бэклог: пользовательские истории, критерии приёмки, разбиение больших задач, порядок по ценности",
+   "Приоритеты: RICE, MoSCoW или собственная логика, связь задач с целями бизнеса",
+   "Работа с людьми: стейкхолдеры в банке или госструктуре, юристы, комплаенс, на английском и при необходимости арабском",
+   "Пользователи: интервью, аналитика (Amplitude, Mixpanel, Google Analytics), тестирование гипотез",
+   "Agile: Scrum и Kanban, работа со скрам-мастером, Jira и Confluence",
+   "Предметная область: платежи, KYC, UAE PASS, локальные требования к приложениям банков и госсервисов"
+  ],
+  "check_lead": "Красивая презентация о продукте не показывает, как человек делит задачу на части и спорит о приоритетах. Проверка строится на практике, решение принимает ваш руководитель.",
+  "steps": [
+   [
+    "Кейс бэклога",
+    "описание функции (например, открытие счёта в приложении с UAE PASS): за 2-3 часа кандидат пишет эпик и 5-7 историй с критериями приёмки и объясняет порядок."
+   ],
+   [
+    "Расстановка приоритетов",
+    "список из 12 запросов от продаж, комплаенса, руководства и пользователей при ресурсе на четыре. Кандидат выбирает и объясняет, как скажет \"нет\" остальным."
+   ],
+   [
+    "Разговор о метриках",
+    "как понять, что выпущенная функция работает, какие данные нужны и что делать, если результат хуже ожиданий."
+   ],
+   [
+    "Рекомендации",
+    "звонки руководителям и разработчикам с прошлых мест: понятность задач, умение держать приоритеты, что изменилось в продукте при кандидате."
+   ]
+  ],
+  "mistake": "Типичная ошибка: назначить владельцем продукта человека, у которого нет полномочий принимать решения, и все приоритеты всё равно утверждает руководство. Команда ждёт, а владелец продукта превращается в передатчика писем. Ещё ошибка: путать владельца продукта с бизнес-аналитиком и ждать только подробных требований без ответственности за результат.",
+  "sal": [
+   [
+    "Владелец продукта начального уровня",
+    "14 000 - 22 000"
+   ],
+   [
+    "Опытный владелец продукта",
+    "22 000 - 34 000"
+   ],
+   [
+    "Старший владелец продукта или руководитель группы продуктов",
+    "34 000 - 50 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт в банковских приложениях, платежах и госсервисах, работа с метриками и арабский язык заметно поднимают пакет; бонус и жильё меняют полную сумму.",
+  "faq": [
+   [
+    "Сколько зарабатывает владелец продукта в Дубае?",
+    "В 2026 году владелец продукта начального уровня в Дубае получает около 14 000 - 22 000 AED в месяц, опытный владелец продукта 22 000 - 34 000 AED, старший владелец продукта или руководитель группы продуктов 34 000 - 50 000 AED. Банки, финтех и госсервисы платят по верхней границе."
+   ],
+   [
+    "Владелец продукта или продакт-менеджер, в чём разница?",
+    "Владелец продукта чаще работает внутри Scrum: бэклог, приоритеты, приёмка работы одной-двух команд. Продакт-менеджер шире отвечает за стратегию, рынок, ценообразование и результат продукта в бизнесе. В небольших компаниях это одна роль, в банках и крупных компаниях их разделяют. Поможем определить, кто вам нужен."
+   ]
+  ],
+  "seek_h2": "Вы владелец продукта и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Product owner",
+  "title": "Hire a Product Owner in Dubai: Backlog, Agile, Salary | TLNT",
+  "desc": "Hire a product owner in Dubai: backlog, priorities and stakeholder work, a practical check on a product case, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a product owner",
+  "h1em": "in Dubai",
+  "intro": "Product owners are in demand at Dubai banks with mobile apps, insurers, government services, airlines, retail and e-commerce, fintech and delivery services. The product owner decides what the development team builds: gathers business and user requirements, runs the backlog, sets priorities, accepts finished work and protects the team from a flood of requests. We help you decide whether you need a product owner or a product manager, shortlist from our live database and run a check on a case close to your product that your head of the area scores.",
+  "find_lead": "A product owner who can say \"no\" to the business with reasons and gives the team clear tasks with acceptance criteria.",
+  "find": [
+   "Backlog: user stories, acceptance criteria, splitting large items, ordering by value",
+   "Priorities: RICE, MoSCoW or their own logic, linking work to business goals",
+   "Stakeholders: bank or government stakeholders, legal and compliance, in English and Arabic where needed",
+   "Users: interviews, analytics (Amplitude, Mixpanel, Google Analytics), hypothesis testing",
+   "Agile: Scrum and Kanban, working with a scrum master, Jira and Confluence",
+   "Domain: payments, KYC, UAE PASS, local requirements for banking and government apps"
+  ],
+  "check_lead": "A polished product presentation does not show how someone splits work and argues about priorities. The check is practical, and your manager makes the call.",
+  "steps": [
+   [
+    "Backlog case",
+    "a feature description (for example, opening an account in an app with UAE PASS): in 2-3 hours the candidate writes an epic and 5-7 stories with acceptance criteria and explains the order."
+   ],
+   [
+    "Prioritisation",
+    "12 requests from sales, compliance, management and users with capacity for four. The candidate chooses and explains how they will say \"no\" to the rest."
+   ],
+   [
+    "Metrics conversation",
+    "how to know whether a shipped feature works, which data is needed and what to do if results are worse than expected."
+   ],
+   [
+    "References",
+    "calls with managers and developers from previous roles: clarity of tasks, ability to hold priorities, what changed in the product with the candidate."
+   ]
+  ],
+  "mistake": "Typical mistake: appointing a product owner with no authority to decide, while senior management still approves every priority. The team waits and the product owner becomes an email relay. Another one: confusing a product owner with a business analyst and expecting only detailed requirements without ownership of the outcome.",
+  "sal": [
+   [
+    "Entry-level product owner",
+    "14,000 - 22,000"
+   ],
+   [
+    "Experienced product owner",
+    "22,000 - 34,000"
+   ],
+   [
+    "Senior product owner or group product lead",
+    "34,000 - 50,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Experience in banking apps, payments and government services, working with metrics and Arabic noticeably raise the package; bonus and housing change the total.",
+  "faq": [
+   [
+    "How much does a product owner earn in Dubai?",
+    "In 2026 an entry-level product owner in Dubai earns about AED 14,000 - 22,000 per month, an experienced product owner AED 22,000 - 34,000 and a senior product owner or group product lead AED 34,000 - 50,000. Banks, fintech and government services pay at the top of the range."
+   ],
+   [
+    "What is the difference between a product owner and a product manager?",
+    "A product owner usually works inside Scrum: backlog, priorities and acceptance for one or two teams. A product manager owns a wider scope: strategy, market, pricing and the product's business results. In small companies it is one role; banks and large companies split them. We help you work out which one you need."
+   ]
+  ],
+  "seek_h2": "Are you a product owner looking for a job in Dubai?"
+ }
+}

@@ -1,0 +1,136 @@
+{
+ "slug": "facility-manager",
+ "hub": "construction",
+ "related": [
+  "maintenance-technician",
+  "hvac-technician",
+  "operations-manager",
+  "hse-officer"
+ ],
+ "ru": {
+  "name": "Фасилити-менеджер",
+  "title": "Найм фасилити-менеджера в Дубае: здания, подрядчики, зарплата | TLNT",
+  "desc": "Найм фасилити-менеджера в Дубае: эксплуатация зданий, подрядчики FM, CAFM и Civil Defence, практическая проверка, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм фасилити-менеджера",
+  "h1em": "в Дубае",
+  "intro": "Фасилити-менеджеры нужны управляющим компаниям жилых башен, бизнес-центрам, отелям, клиникам, школам, торговым центрам и владельцам частных вилл и портфелей. Задачи: плановое и аварийное обслуживание, контракты с FM-подрядчиками, Civil Defence и пожарная безопасность, лифты, чиллеры, District Cooling, сервисные сборы и отчёт владельцу. Помогаем понять, нужен ли вам менеджер одного объекта или портфеля, даём шорт-лист из нашей живой базы и проводим практическую проверку на ваших реальных кейсах.",
+  "find_lead": "Менеджер, который держит здание в рабочем состоянии без сюрпризов: знает регламенты ОАЭ, считает бюджет обслуживания и умеет управлять подрядчиками по SLA.",
+  "find": [
+   "Планово-предупредительное обслуживание: график PPM, CAFM-системы (Maximo, FSI Concept Evolution, Archibus), учёт заявок и KPI",
+   "Подрядчики: тендеры на hard и soft services, SLA, штрафы, приёмка работ, сравнение коммерческих предложений",
+   "Регуляторика: Dubai Civil Defence, сертификаты пожарных систем, лифтов и Dubai Municipality, работа с RERA и сервисными сборами в Mollak для жилых комплексов",
+   "Инженерные системы: HVAC, District Cooling (Empower, Emicool), насосы, генераторы, BMS на уровне, достаточном для контроля подрядчика",
+   "Бюджет и отчётность: OPEX и CAPEX, план замены оборудования, ежемесячный отчёт собственнику или ассоциации владельцев",
+   "Люди и жильцы: руководство техниками и уборкой, жалобы резидентов, аварии в 3 часа ночи без паники"
+  ],
+  "check_lead": "Резюме фасилити-менеджера часто перечисляет все системы здания, но не показывает, как человек управлял деньгами и подрядчиками. Проверки построены на реальных ситуациях, решение принимаете вы.",
+  "steps": [
+   [
+    "Разбор бюджета",
+    "кандидат получает упрощённый бюджет обслуживания башни на год и находит, где переплата, что не заложено и какие работы можно перевести с аварийных на плановые."
+   ],
+   [
+    "Аварийный кейс",
+    "в пятницу вечером отключился чиллер, жильцы жалуются, подрядчик не отвечает. Кандидат рассказывает, кого поднимает, что сообщает резидентам и как потом разбирает ответственность по SLA."
+   ],
+   [
+    "Проверка на регламенты",
+    "вопросы про сроки продления сертификатов Civil Defence, обслуживание лифтов и подготовку к инспекции, а также какие документы должны лежать в папке объекта."
+   ],
+   [
+    "Рекомендации",
+    "звонки владельцам или директорам управляющих компаний с прошлых мест: размер портфеля, как держал бюджет, были ли штрафы и предписания."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанять сильного инженера-технаря на позицию, где 70% работы - подрядчики, бюджет и общение с владельцами. Он чинит сам, но не управляет. Ещё ошибка: не проверить опыт именно с Civil Defence и сервисными сборами в Дубае, тогда первые месяцы уходят на штрафы и обучение.",
+  "sal": [
+   [
+    "Фасилити-координатор или менеджер небольшого объекта",
+    "9 000 - 15 000"
+   ],
+   [
+    "Фасилити-менеджер объекта или комплекса",
+    "15 000 - 25 000"
+   ],
+   [
+    "Старший фасилити-менеджер портфеля",
+    "25 000 - 40 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Портфель из нескольких башен, отели и клиники с круглосуточной работой, а также инженерное образование и сертификаты IFMA или BIFM поднимают пакет; машина и жильё меняют полную сумму.",
+  "faq": [
+   [
+    "Сколько зарабатывает фасилити-менеджер в Дубае?",
+    "В 2026 году фасилити-координатор или менеджер небольшого объекта в Дубае получает около 9 000 - 15 000 AED в месяц, менеджер комплекса 15 000 - 25 000 AED, старший менеджер портфеля 25 000 - 40 000 AED. Больше платят за портфели башен, отели и объекты с круглосуточной работой."
+   ],
+   [
+    "Нужен свой фасилити-менеджер или достаточно FM-подрядчика?",
+    "FM-подрядчик выполняет работы, но кто-то со стороны владельца должен ставить задачи, проверять качество, держать бюджет и спорить по SLA. Для одной небольшой башни это может быть совмещённая роль, для портфеля или отеля нужен отдельный менеджер. Поможем определить формат до начала поиска."
+   ]
+  ],
+  "seek_h2": "Вы фасилити-менеджер и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Facility manager",
+  "title": "Hire a Facility Manager in Dubai: Buildings, FM, Salary | TLNT",
+  "desc": "Hire a facility manager in Dubai: building operations, FM contractors, CAFM and Civil Defence, practical checks, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a facility manager",
+  "h1em": "in Dubai",
+  "intro": "Facility managers are in demand at community and tower management companies, business centres, hotels, clinics, schools, malls and owners of private villas and portfolios. The work covers planned and reactive maintenance, FM contracts, Dubai Civil Defence and fire safety, lifts, chillers, district cooling, service charges and owner reporting. We help you decide whether you need a single-site or a portfolio manager, shortlist from our live database and run a practical check built on your real cases.",
+  "find_lead": "A manager who keeps a building running with no surprises: knows UAE regulations, plans the maintenance budget and manages contractors by SLA.",
+  "find": [
+   "Planned maintenance: PPM schedules, CAFM systems (Maximo, FSI Concept Evolution, Archibus), work orders and KPIs",
+   "Contractors: tenders for hard and soft services, SLAs, penalties, sign-off of works, comparing quotations",
+   "Regulation: Dubai Civil Defence, fire system, lift and Dubai Municipality certificates, RERA and service charges in Mollak for residential communities",
+   "Building systems: HVAC, district cooling (Empower, Emicool), pumps, generators, BMS at a level enough to control a contractor",
+   "Budget and reporting: OPEX and CAPEX, asset replacement plan, a monthly report to the owner or owners association",
+   "People and residents: leading technicians and cleaning teams, resident complaints, a 3 am emergency handled calmly"
+  ],
+  "check_lead": "A facility manager CV usually lists every system in the building but not how the person managed money and contractors. The checks are built on real situations, and you make the decision.",
+  "steps": [
+   [
+    "Budget review",
+    "the candidate gets a simplified annual maintenance budget for a tower and finds overspend, missing items and reactive work that could move to planned maintenance."
+   ],
+   [
+    "Emergency case",
+    "a chiller trips on Friday evening, residents complain and the contractor does not answer. The candidate explains who they call, what they tell residents and how they settle responsibility under the SLA afterwards."
+   ],
+   [
+    "Regulation check",
+    "questions on Civil Defence certificate renewals, lift maintenance, inspection readiness and which documents must be in the building file."
+   ],
+   [
+    "References",
+    "calls with owners or management company directors from previous roles: portfolio size, how they held the budget, any fines or violation notices."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a strong hands-on engineer for a role that is 70% contractors, budgets and owner communication. They fix things themselves but do not manage. Another one: not checking experience with Dubai Civil Defence and service charges specifically, so the first months go on fines and learning.",
+  "sal": [
+   [
+    "Facility coordinator or small-site manager",
+    "9,000 - 15,000"
+   ],
+   [
+    "Facility manager of a site or community",
+    "15,000 - 25,000"
+   ],
+   [
+    "Senior portfolio facility manager",
+    "25,000 - 40,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. A portfolio of several towers, 24/7 hotels and clinics, an engineering degree and IFMA or BIFM credentials raise the package; car and housing change the total.",
+  "faq": [
+   [
+    "How much does a facility manager earn in Dubai?",
+    "In 2026 a facility coordinator or small-site manager in Dubai earns about AED 9,000 - 15,000 per month, a site or community facility manager AED 15,000 - 25,000 and a senior portfolio manager AED 25,000 - 40,000. Tower portfolios, hotels and 24/7 sites pay more."
+   ],
+   [
+    "Do I need an in-house facility manager or is an FM contractor enough?",
+    "An FM contractor does the work, but someone on the owner side has to set tasks, check quality, hold the budget and push back on the SLA. For one small tower this can be a combined role; for a portfolio or a hotel you need a dedicated manager. We help you choose the format before the search starts."
+   ]
+  ],
+  "seek_h2": "Are you a facility manager looking for a job in Dubai?"
+ }
+}

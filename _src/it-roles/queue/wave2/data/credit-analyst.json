@@ -1,0 +1,136 @@
+{
+ "slug": "credit-analyst",
+ "hub": "finance",
+ "related": [
+  "financial-analyst",
+  "risk-manager",
+  "relationship-manager",
+  "aml-analyst"
+ ],
+ "ru": {
+  "name": "Кредитный аналитик",
+  "title": "Найм кредитного аналитика в Дубае: оценка заёмщика, зарплата | TLNT",
+  "desc": "Найм кредитного аналитика в Дубае: финансовый анализ, кредитные заявки и мониторинг, практическая проверка на отчётности, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм кредитного аналитика",
+  "h1em": "в Дубае",
+  "intro": "Кредитные аналитики нужны банкам Дубая в корпоративном, SME и розничном блоке, финансовым компаниям, лизингу, торговым домам с кредитом покупателям и финтехам с кредитными продуктами. Задачи: анализ отчётности и денежного потока заёмщика, кредитные меморандумы, рейтинг, структура обеспечения и мониторинг портфеля по IFRS 9. Помогаем определить профиль, даём шорт-лист из нашей живой базы и проводим практическую проверку на реальной отчётности.",
+  "find_lead": "Аналитик, который видит за цифрами бизнес заёмщика и пишет меморандум, по которому кредитный комитет может принять решение.",
+  "find": [
+   "Финансовый анализ: отчётность по IFRS, денежный поток, долговая нагрузка, оборотный капитал, ковенанты",
+   "Кредитные меморандумы: структура сделки, обеспечение, условия, риски и меры их снижения",
+   "Модели и рейтинги: внутренние рейтинговые модели, PD и LGD, понимание резервов по IFRS 9",
+   "Источники: AECB, Al Etihad Credit Bureau, проверки торговых лицензий, аудированная отчётность",
+   "Инструменты: Excel на уровне моделей, Moody's или S&P инструменты, банковские кредитные системы",
+   "Квалификации: CFA, ACCA или профильное финансовое образование, опыт в банке ОАЭ как сильный плюс"
+  ],
+  "check_lead": "Знание формул коэффициентов не делает человека кредитным аналитиком. Проверяем суждение на реальных данных, решение принимает ваш кредитный руководитель.",
+  "steps": [
+   [
+    "Анализ отчётности",
+    "трёхлетняя отчётность торговой компании: кандидат за три часа считает ключевые показатели, денежный поток и делает вывод о кредитоспособности."
+   ],
+   [
+    "Мини-меморандум",
+    "на основе анализа одна-две страницы для кредитного комитета: сумма, структура, обеспечение, ковенанты, главные риски."
+   ],
+   [
+    "Ранние сигналы",
+    "по данным мониторинга найти признаки ухудшения заёмщика и предложить действия до дефолта."
+   ],
+   [
+    "Рекомендации",
+    "звонки руководителям: какой портфель вёл, качество меморандумов, сколько его кредитов ушло в проблемные."
+   ]
+  ],
+  "mistake": "Типичная ошибка: искать кандидата только по стажу в банке. Человек мог годами вводить данные в систему без самостоятельных выводов. Ещё ошибка: не проверить письменный английский, хотя меморандум читает кредитный комитет, и слабый текст тормозит каждое решение.",
+  "sal": [
+   [
+    "Младший кредитный аналитик",
+    "8 000 - 13 000"
+   ],
+   [
+    "Кредитный аналитик",
+    "13 000 - 22 000"
+   ],
+   [
+    "Старший аналитик или руководитель кредитного анализа",
+    "22 000 - 38 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Корпоративный кредит и проектное финансирование платят выше розничного скоринга; годовой бонус меняет полную сумму.",
+  "faq": [
+   [
+    "Сколько зарабатывает кредитный аналитик в Дубае?",
+    "В 2026 году младший кредитный аналитик в Дубае получает около 8 000 - 13 000 AED в месяц, опытный аналитик 13 000 - 22 000 AED, старший аналитик или руководитель кредитного анализа 22 000 - 38 000 AED. Корпоративный кредит платит по верхней границе."
+   ],
+   [
+    "Нужен кредитный аналитик или риск-менеджер?",
+    "Кредитный аналитик оценивает конкретных заёмщиков и сделки. Риск-менеджер смотрит на портфель и компанию в целом: лимиты, концентрации, стресс-тесты, рыночный и операционный риск. Небольшой компании с кредитом покупателям часто достаточно сильного аналитика. Поможем определить роль до начала поиска."
+   ]
+  ],
+  "seek_h2": "Вы кредитный аналитик и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Credit analyst",
+  "title": "Hire a Credit Analyst in Dubai: Borrower Analysis, Salary | TLNT",
+  "desc": "Hire a credit analyst in Dubai: financial analysis, credit memos and monitoring, a practical check on real accounts, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire a credit analyst",
+  "h1em": "in Dubai",
+  "intro": "Credit analysts are hired by Dubai banks in corporate, SME and retail lending, finance companies, leasing firms, trading houses that extend credit to buyers and fintechs with lending products. The work covers financial statements and borrower cash flow, credit memos, ratings, collateral structure and portfolio monitoring under IFRS 9. We help define the profile, shortlist from our live database and run a practical check on real financial statements.",
+  "find_lead": "An analyst who sees the borrower's business behind the numbers and writes a memo the credit committee can decide on.",
+  "find": [
+   "Financial analysis: IFRS statements, cash flow, leverage, working capital, covenants",
+   "Credit memos: deal structure, collateral, terms, risks and mitigants",
+   "Models and ratings: internal rating models, PD and LGD, understanding IFRS 9 provisions",
+   "Sources: AECB, the Al Etihad Credit Bureau, trade licence checks, audited accounts",
+   "Tools: model-level Excel, Moody's or S&P tools, bank credit systems",
+   "Qualifications: CFA, ACCA or a finance degree, UAE banking experience as a strong plus"
+  ],
+  "check_lead": "Knowing ratio formulas does not make someone a credit analyst. We test judgement on real data, and your head of credit makes the decision.",
+  "steps": [
+   [
+    "Statement analysis",
+    "three years of a trading company's accounts: in three hours the candidate calculates key ratios and cash flow and concludes on creditworthiness."
+   ],
+   [
+    "Mini credit memo",
+    "based on the analysis, one or two pages for the credit committee: amount, structure, collateral, covenants, key risks."
+   ],
+   [
+    "Early warning signs",
+    "from monitoring data, spot signs of a deteriorating borrower and propose actions before default."
+   ],
+   [
+    "References",
+    "calls with managers: portfolio covered, quality of memos, how many of their loans went bad."
+   ]
+  ],
+  "mistake": "Typical mistake: shortlisting only on years at a bank. Someone may have spent years entering data into a system without drawing their own conclusions. Another one: not checking written English, although the credit committee reads the memo and weak writing slows every decision.",
+  "sal": [
+   [
+    "Junior credit analyst",
+    "8,000 - 13,000"
+   ],
+   [
+    "Credit analyst",
+    "13,000 - 22,000"
+   ],
+   [
+    "Senior analyst or head of credit analysis",
+    "22,000 - 38,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Corporate lending and project finance pay more than retail scoring; the annual bonus changes the total.",
+  "faq": [
+   [
+    "How much does a credit analyst earn in Dubai?",
+    "In 2026 a junior credit analyst in Dubai earns about AED 8,000 - 13,000 per month, an experienced analyst AED 13,000 - 22,000 and a senior analyst or head of credit analysis AED 22,000 - 38,000. Corporate lending pays at the top of the range."
+   ],
+   [
+    "Do I need a credit analyst or a risk manager?",
+    "A credit analyst assesses specific borrowers and deals. A risk manager looks at the portfolio and the company as a whole: limits, concentrations, stress tests, market and operational risk. A small company extending trade credit often only needs a strong analyst. We help you define the role before the search starts."
+   ]
+  ],
+  "seek_h2": "Are you a credit analyst looking for a job in Dubai?"
+ }
+}

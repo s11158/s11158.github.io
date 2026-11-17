@@ -1,0 +1,136 @@
+{
+ "slug": "property-consultant",
+ "hub": "salesmkt",
+ "related": [
+  "real-estate-agent",
+  "off-plan-sales-consultant",
+  "real-estate-broker",
+  "leasing-consultant"
+ ],
+ "ru": {
+  "name": "Консультант по недвижимости",
+  "title": "Консультант по недвижимости в Дубае: RERA, сделки, зарплата | TLNT",
+  "desc": "Найм консультанта по недвижимости в Дубае: карта RERA, знание районов и DLD, практическая проверка на звонке и показе, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм консультанта по недвижимости",
+  "h1em": "в Дубае",
+  "intro": "Консультанты по недвижимости нужны брокерским компаниям Дубая, отделам продаж застройщиков, семейным офисам и управляющим компаниям. Задачи: работа с лидами с порталов и рекламы, подбор объектов, показы, переговоры, сопровождение сделки купли-продажи или аренды через DLD и Ejari. Отдельная линия - русскоязычные и европейские инвесторы. Помогаем определить, нужен ли вам охотник за новыми клиентами или консультант по базе, даём шорт-лист из нашей живой базы и проверяем навыки на практике.",
+  "find_lead": "Консультант, который знает районы и цены лучше портала, быстро отвечает на лид и доводит клиента от первого звонка до трансфера.",
+  "find": [
+   "Лицензия: карта брокера RERA после курса и экзамена DREI или готовность получить её в первые недели",
+   "Рынок: районы, цены за кв. фут, сервисные сборы, доходность аренды, вторичка против офф-плана",
+   "Процесс: форма A, B, F, NOC застройщика, трансфер в DLD, Ejari для аренды, работа с ипотечным консультантом",
+   "Лиды: Property Finder, Bayut, Dubizzle, реклама, ответ за минуты, а не за день, работа в CRM",
+   "Переговоры: торг по цене, условия оплаты, несколько предложений одновременно, честность с обеими сторонами",
+   "Языки и сеть: английский свободно, русский или другой язык целевых клиентов, своя база контактов"
+  ],
+  "check_lead": "Объявление о миллионных сделках легко написать. Мы проверяем, как кандидат работает с живым клиентом, а решение принимаете вы.",
+  "steps": [
+   [
+    "Звонок по лиду",
+    "ролевая игра: клиент оставил заявку на квартиру в Dubai Marina. Кандидат выясняет бюджет, цели и сроки и назначает показ за 5-7 минут."
+   ],
+   [
+    "Задание на рынок",
+    "подобрать три объекта под инвестора с бюджетом 2 млн AED и обосновать доходность, сервисные сборы и ликвидность."
+   ],
+   [
+    "Разбор сделки",
+    "по шагам: от оффера до трансфера в DLD, какие документы, сборы 4% и комиссии, где обычно сделки срываются."
+   ],
+   [
+    "Рекомендации и цифры",
+    "подтверждённые сделки за последний год, отзывы руководителей, наличие активной карты RERA и отсутствие нарушений."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанимать по громким цифрам в резюме без проверки, что сделки реально закрыл кандидат, а не его команда. Ещё ошибка: взять человека без карты RERA и рассчитывать, что он начнёт продавать с первого дня, хотя без лицензии он не может работать с клиентами официально.",
+  "sal": [
+   [
+    "Начинающий консультант",
+    "5 000 - 8 000"
+   ],
+   [
+    "Консультант с опытом",
+    "8 000 - 15 000"
+   ],
+   [
+    "Старший консультант или тимлид",
+    "15 000 - 25 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, фиксированная часть. Многие компании платят меньший фикс или работают только на комиссии, которая составляет основную часть дохода.",
+  "faq": [
+   [
+    "Сколько зарабатывает консультант по недвижимости в Дубае?",
+    "В 2026 году начинающий консультант в Дубае получает около 5 000 - 8 000 AED в месяц фиксированной части, консультант с опытом 8 000 - 15 000 AED, старший консультант или тимлид 15 000 - 25 000 AED. Основной доход дают комиссии со сделок."
+   ],
+   [
+    "Можно ли нанять консультанта без карты RERA?",
+    "Можно, если вы готовы оплатить курс DREI, экзамен и оформление карты и выделить на это несколько недель. До получения карты консультант не может официально вести сделки. Для быстрого старта подбираем кандидатов с активной картой из нашей базы."
+   ]
+  ],
+  "seek_h2": "Вы консультант по недвижимости и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Property consultant",
+  "title": "Hire a Property Consultant in Dubai: RERA, Deals, Salary | TLNT",
+  "desc": "Hire a property consultant in Dubai: RERA card, area and DLD knowledge, practical lead-call and viewing checks, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a property consultant",
+  "h1em": "in Dubai",
+  "intro": "Property consultants are hired by Dubai brokerages, developer sales teams, family offices and property management firms. The work covers leads from portals and ads, matching properties, viewings, negotiation and running sale or rental deals through DLD and Ejari. Russian-speaking and European investors are a line of their own. We help you decide whether you need a hunter for new clients or a consultant for your existing database, shortlist from our live database and test skills in practice.",
+  "find_lead": "A consultant who knows areas and prices better than the portal, answers a lead fast and takes the client from the first call to transfer.",
+  "find": [
+   "Licence: a RERA broker card after the DREI course and exam, or readiness to get one in the first weeks",
+   "Market: areas, price per sq ft, service charges, rental yields, secondary versus off-plan",
+   "Process: forms A, B, F, developer NOC, DLD transfer, Ejari for rentals, working with a mortgage advisor",
+   "Leads: Property Finder, Bayut, Dubizzle, ads, replying in minutes not days, working in a CRM",
+   "Negotiation: price, payment terms, multiple offers at once, honesty with both sides",
+   "Languages and network: fluent English, Russian or another language of target clients, their own contact base"
+  ],
+  "check_lead": "Anyone can write about million-dirham deals on a CV. We check how the candidate works with a live client, and you make the decision.",
+  "steps": [
+   [
+    "Lead call",
+    "role-play: a client enquired about an apartment in Dubai Marina. In 5-7 minutes the candidate finds out budget, goals and timing and books a viewing."
+   ],
+   [
+    "Market task",
+    "pick three properties for an investor with an AED 2 million budget and justify yield, service charges and liquidity."
+   ],
+   [
+    "Deal walkthrough",
+    "step by step from offer to DLD transfer: documents, the 4% fee and commissions, and where deals usually fall through."
+   ],
+   [
+    "References and numbers",
+    "verified deals over the last year, feedback from managers, an active RERA card and no violations."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring on big CV numbers without checking that the candidate, not their team, actually closed the deals. Another one: hiring someone without a RERA card and expecting sales from day one, when without a licence they cannot officially work with clients.",
+  "sal": [
+   [
+    "Entry-level consultant",
+    "5,000 - 8,000"
+   ],
+   [
+    "Experienced consultant",
+    "8,000 - 15,000"
+   ],
+   [
+    "Senior consultant or team leader",
+    "15,000 - 25,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, fixed salary. Many firms pay a lower base or commission only, and commission makes up most of the income.",
+  "faq": [
+   [
+    "How much does a property consultant earn in Dubai?",
+    "In 2026 an entry-level property consultant in Dubai earns about AED 5,000 - 8,000 per month in fixed salary, an experienced consultant AED 8,000 - 15,000 and a senior consultant or team leader AED 15,000 - 25,000. Most income comes from deal commissions."
+   ],
+   [
+    "Can I hire a consultant without a RERA card?",
+    "Yes, if you are ready to pay for the DREI course, exam and card and allow a few weeks for it. Until the card is issued the consultant cannot officially handle deals. For a fast start we shortlist candidates with an active card from our database."
+   ]
+  ],
+  "seek_h2": "Are you a property consultant looking for a job in Dubai?"
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "category-manager",
+ "hub": "retail",
+ "related": ["procurement-manager", "visual-merchandiser", "store-manager", "supply-chain-manager"],
+ "ru": {
+  "name": "Категорийный менеджер",
+  "title": "Найм категорийного менеджера в Дубае: ассортимент, маржа | TLNT",
+  "desc": "Найм категорийного менеджера в Дубае: ассортимент, цены и маржа, переговоры с поставщиками, практическая проверка на данных категории, зарплаты 2026 от TLNT.",
+  "h1": "Найм категорийного менеджера",
+  "h1em": "в Дубае",
+  "intro": "Категорийные менеджеры нужны супермаркетам и гипермаркетам, сетям электроники и товаров для дома, аптечным сетям, маркетплейсам и quick commerce, а также дистрибьюторам в ОАЭ. Задачи: ассортиментная матрица, цены и промо, маржа и оборачиваемость, переговоры с поставщиками о бэк-маржинальных условиях, запуск новых товаров. Помогаем определить профиль под вашу категорию и канал, даём шорт-лист из нашей живой базы и проверяем кандидатов на реальных данных продаж.",
+  "find_lead": "Менеджер, который управляет категорией как бизнесом: знает свою маржу, оборачиваемость и долю рынка и умеет торговаться с поставщиками.",
+  "find": [
+   "Ассортимент: матрица, роли товаров в категории, вывод слабых позиций, запуск новинок и частной марки",
+   "Цены и промо: ценовое позиционирование против Carrefour, Lulu, Noon и Amazon, промо-календарь Рамадана и DSF",
+   "Финансы категории: маржа, бэк-маржа, оборачиваемость, списания, P&L категории",
+   "Поставщики: годовые переговоры, листинговые платежи, маркетинговые бюджеты, условия оплаты",
+   "Данные: Excel на продвинутом уровне, Power BI, данные NielsenIQ или маркетплейса, анализ корзины",
+   "Взаимодействие: закупки, цепочка поставок, маркетинг, магазины и онлайн-команда"
+  ],
+  "check_lead": "Опыт в большой сети не означает, что человек сам принимал решения по категории. Проверяем на реальных цифрах и переговорах, решение принимает ваш коммерческий директор.",
+  "steps": [
+   ["Анализ категории", "выгрузка продаж по 200 позициям за год. За 3-4 часа кандидат находит, какие товары вывести, где поднять цену и какие промо не окупились, и готовит короткую презентацию."],
+   ["Переговоры с поставщиком", "ролевая игра: поставщик требует повышения цены на 8%. Кандидат защищает маржу и ищет компромисс через объёмы, промо или условия оплаты."],
+   ["Кейс с запуском", "нужно запустить частную марку в категории. Кандидат описывает шаги, риски и как измерит успех."],
+   ["Рекомендации", "звонки руководителям: размер категории, рост маржи и продаж, качество отношений с поставщиками."]
+  ],
+  "mistake": "Типичная ошибка: нанять закупщика, который хорошо снижает цену, но не думает об ассортименте, полке и покупателе. Категория дешевеет, а продажи не растут. Ещё ошибка: не проверить опыт в нужном канале, офлайн-сеть и маркетплейс управляют категорией очень по-разному.",
+  "sal": [
+   ["Младший категорийный менеджер или аналитик", "8 000 - 13 000"],
+   ["Категорийный менеджер", "14 000 - 25 000"],
+   ["Старший категорийный менеджер или руководитель направления", "25 000 - 40 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Размер оборота категории, опыт в FMCG, электронике или e-commerce и региональная ответственность по GCC поднимают пакет; годовой бонус часто привязан к марже.",
+  "faq": [
+   ["Сколько зарабатывает категорийный менеджер в Дубае?", "В 2026 году младший категорийный менеджер или аналитик в Дубае получает около 8 000 - 13 000 AED в месяц, категорийный менеджер 14 000 - 25 000 AED, старший менеджер или руководитель направления 25 000 - 40 000 AED. Плюс годовой бонус по результатам категории."],
+   ["Чем категорийный менеджер отличается от закупщика?", "Закупщик отвечает за условия поставки: цену, сроки, объёмы. Категорийный менеджер отвечает за результат категории целиком: что продавать, по какой цене, как выставлять и продвигать, какую маржу получать. В небольших компаниях роли совмещают. Поможем понять, какой профиль нужен вам."]
+  ],
+  "seek_h2": "Вы категорийный менеджер и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Category manager",
+  "title": "Hire a Category Manager in Dubai: Range, Margin, Salary | TLNT",
+  "desc": "Hire a category manager in Dubai: range, pricing and margin, supplier negotiations, a practical check on real category data and 2026 salaries from TLNT.",
+  "h1": "Hire a category manager",
+  "h1em": "in Dubai",
+  "intro": "Category managers are needed by supermarkets and hypermarkets, electronics and home chains, pharmacy chains, marketplaces and quick commerce, and distributors in the UAE. The work covers the range, pricing and promotions, margin and stock turn, supplier negotiations on back margin, and new product launches. We help define the profile for your category and channel, shortlist from our live database and test candidates on real sales data.",
+  "find_lead": "A manager who runs the category as a business: knows its margin, stock turn and market share and can negotiate hard with suppliers.",
+  "find": [
+   "Range: the assortment matrix, product roles, delisting weak lines, launches and private label",
+   "Pricing and promotions: price positioning against Carrefour, Lulu, Noon and Amazon, Ramadan and DSF promo calendar",
+   "Category finance: margin, back margin, stock turn, write-offs, category P&L",
+   "Suppliers: annual negotiations, listing fees, marketing budgets, payment terms",
+   "Data: advanced Excel, Power BI, NielsenIQ or marketplace data, basket analysis",
+   "Collaboration: buying, supply chain, marketing, stores and the online team"
+  ],
+  "check_lead": "Experience at a big chain does not mean someone made the category decisions themselves. We check on real numbers and negotiations, and your commercial director decides.",
+  "steps": [
+   ["Category analysis", "a year of sales for 200 SKUs. In 3-4 hours the candidate identifies what to delist, where to raise prices and which promotions did not pay off, and prepares a short presentation."],
+   ["Supplier negotiation", "role play: a supplier demands an 8% price increase. The candidate protects margin and looks for a compromise through volumes, promotions or payment terms."],
+   ["Launch case", "launching a private label in the category. The candidate describes the steps, risks and how they will measure success."],
+   ["References", "calls with previous managers: category size, margin and sales growth, quality of supplier relationships."]
+  ],
+  "mistake": "Typical mistake: hiring a buyer who is good at cutting prices but does not think about range, shelf and shopper. The category gets cheaper but sales do not grow. Another one: not checking experience in the right channel, as a store chain and a marketplace run categories very differently.",
+  "sal": [
+   ["Junior category manager or analyst", "8,000 - 13,000"],
+   ["Category manager", "14,000 - 25,000"],
+   ["Senior category manager or head of category", "25,000 - 40,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Category turnover, FMCG, electronics or e-commerce experience and GCC-wide responsibility raise the package; the annual bonus is often tied to margin.",
+  "faq": [
+   ["How much does a category manager earn in Dubai?", "In 2026 a junior category manager or analyst in Dubai earns about AED 8,000 - 13,000 per month, a category manager AED 14,000 - 25,000 and a senior category manager or head of category AED 25,000 - 40,000, plus an annual bonus based on category results."],
+   ["How is a category manager different from a buyer?", "A buyer owns supply terms: price, lead times, volumes. A category manager owns the whole category result: what to sell, at what price, how to display and promote it and what margin to earn. Small companies often combine the roles. We help you work out which profile you need."]
+  ],
+  "seek_h2": "Are you a category manager looking for a job in Dubai?"
+ }
+}

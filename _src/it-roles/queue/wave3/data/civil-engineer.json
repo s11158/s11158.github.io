@@ -1,0 +1,77 @@
+{
+ "slug": "civil-engineer",
+ "hub": "construction",
+ "related": ["site-engineer", "mep-engineer", "quantity-surveyor", "construction-project-manager"],
+ "ru": {
+  "name": "Инженер-строитель",
+  "title": "Найм инженера-строителя в Дубае: проверка, лицензии, зарплата | TLNT",
+  "desc": "Найм инженера-строителя в Дубае: Society of Engineers, Dubai Municipality, практическая проверка чертежей и BOQ, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм инженера-строителя",
+  "h1em": "в Дубае",
+  "intro": "Инженеры-строители нужны генподрядчикам и девелоперам Дубая, консультантам по надзору, инфраструктурным подрядчикам дорог и сетей, а также компаниям fit-out. Задачи: проектирование и проверка конструкций, работа с консультантом и Dubai Municipality, контроль качества бетона и арматуры, технические запросы и согласования на площадке. Помогаем определить, нужен вам проектировщик, инженер надзора или исполнительный инженер подрядчика, даём шорт-лист из нашей живой базы и проводим практическую проверку, которую оценивает ваш главный инженер.",
+  "find_lead": "Инженер, который читает чертежи и спецификации так же уверенно, как ведёт разговор с консультантом, и знает, что проходит согласование в Дубае, а что нет.",
+  "find": [
+   "Регистрация: членство в UAE Society of Engineers и классификация инженера в Dubai Municipality для подписи документов",
+   "Нормы: Dubai Building Code, британские и американские стандарты (BS EN, ACI), требования Civil Defence",
+   "Софт: AutoCAD, ETABS или SAP2000, SAFE, Revit, для подрядчика также Primavera P6 или MS Project",
+   "Качество: ITP, приёмка бетона и арматуры, испытания кубов, NCR и закрытие замечаний консультанта",
+   "Документация: RFI, шоп-дроуинги, method statements, submittals и материал-апрувы",
+   "Регион: опыт на проектах ОАЭ или Залива, понимание жары, грунтов с высоким уровнем грунтовых вод и сроков DM"
+  ],
+  "check_lead": "Диплом и стаж в резюме не показывают, как человек поведёт себя с отклонённым шоп-дроуингом. Проверки построены на реальных документах, решение принимает ваш инженер.",
+  "steps": [
+   ["Разбор чертежа", "кандидату дают лист армирования плиты или фундамента с несколькими ошибками: за 40 минут найти несоответствия нормам и спецификации и написать RFI консультанту."],
+   ["Кейс с площадки", "бетон пришёл с высокой температурой и просроченной накладной, бригада уже готова заливать. Что делает инженер, кого уведомляет, как фиксирует решение."],
+   ["Проверка регистрации", "сверяем членство в Society of Engineers и классификацию в Dubai Municipality, если роль предполагает подпись документов."],
+   ["Рекомендации", "звонки руководителям проектов и консультантам: масштаб объектов, сколько NCR закрыл, как работал с подрядчиками и сроками."]
+  ],
+  "mistake": "Типичная ошибка: нанять сильного проектировщика на роль исполнительного инженера площадки или наоборот. Это разные навыки и разный ритм работы, и через пару месяцев одна из сторон разочаровывается. Ещё ошибка: не проверить классификацию в Dubai Municipality, когда она нужна для подписи, и узнать об этом на этапе подачи документов.",
+  "sal": [
+   ["Младший инженер-строитель", "7 000 - 12 000"],
+   ["Инженер-строитель среднего уровня", "12 000 - 20 000"],
+   ["Старший инженер или ведущий инженер проекта", "20 000 - 35 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Классификация Dubai Municipality, опыт крупных девелоперов и инфраструктуры поднимают пакет; у подрядчиков часто добавляются жильё, транспорт и билеты.",
+  "faq": [
+   ["Сколько зарабатывает инженер-строитель в Дубае?", "В 2026 году младший инженер-строитель в Дубае получает около 7 000 - 12 000 AED в месяц, инженер среднего уровня 12 000 - 20 000 AED, старший или ведущий инженер 20 000 - 35 000 AED. Консультанты и крупные девелоперы платят выше, подрядчики чаще дают жильё и транспорт."],
+   ["Нужна ли инженеру регистрация в Society of Engineers?", "Для работы инженером в ОАЭ регистрация в UAE Society of Engineers обычно обязательна, а для подписи чертежей и подачи в Dubai Municipality нужна ещё классификация инженера. Проверяем статус кандидата до интервью и подсказываем, что потребуется оформить после выхода."]
+  ],
+  "seek_h2": "Вы инженер-строитель и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Civil engineer",
+  "title": "Hire a Civil Engineer in Dubai: Checks, Licences, Salary | TLNT",
+  "desc": "Hire a civil engineer in Dubai: Society of Engineers, Dubai Municipality, practical drawing and site checks, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a civil engineer",
+  "h1em": "in Dubai",
+  "intro": "Civil engineers are needed by Dubai main contractors and developers, supervision consultants, road and utilities contractors and fit-out companies. The work covers structural design and review, coordination with the consultant and Dubai Municipality, concrete and rebar quality control, RFIs and site approvals. We help you decide whether you need a design engineer, a supervision engineer or a contractor's site engineer, shortlist from our live database and run a practical check that your chief engineer scores.",
+  "find_lead": "An engineer who reads drawings and specifications as confidently as they talk to the consultant, and knows what gets approved in Dubai and what does not.",
+  "find": [
+   "Registration: UAE Society of Engineers membership and Dubai Municipality engineer classification where signing is required",
+   "Codes: Dubai Building Code, BS EN and ACI standards, Civil Defence requirements",
+   "Software: AutoCAD, ETABS or SAP2000, SAFE, Revit, and Primavera P6 or MS Project on the contractor side",
+   "Quality: ITPs, concrete and rebar inspection, cube tests, NCRs and closing consultant comments",
+   "Documentation: RFIs, shop drawings, method statements, submittals and material approvals",
+   "Region: UAE or GCC project experience, working in heat, high groundwater soils and DM timelines"
+  ],
+  "check_lead": "A degree and years on a CV do not show how someone handles a rejected shop drawing. The checks use real documents, and your engineer makes the call.",
+  "steps": [
+   ["Drawing review", "the candidate gets a slab or foundation reinforcement sheet with several errors: in 40 minutes find what breaks the code or specification and write an RFI to the consultant."],
+   ["Site case", "concrete arrives too hot with an expired delivery note and the crew is ready to pour. What the engineer does, who they notify and how they record the decision."],
+   ["Registration check", "we verify Society of Engineers membership and Dubai Municipality classification when the role involves signing documents."],
+   ["References", "calls with project managers and consultants: project scale, how many NCRs they closed, how they worked with subcontractors and deadlines."]
+  ],
+  "mistake": "Typical mistake: hiring a strong design engineer as a site execution engineer, or the other way round. The skills and pace are different, and within a couple of months one side is disappointed. Another one: not checking Dubai Municipality classification when the role needs it and finding out only at submission stage.",
+  "sal": [
+   ["Junior civil engineer", "7,000 - 12,000"],
+   ["Mid-level civil engineer", "12,000 - 20,000"],
+   ["Senior or lead project engineer", "20,000 - 35,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Dubai Municipality classification, major developer and infrastructure experience raise the package; contractors often add housing, transport and flights.",
+  "faq": [
+   ["How much does a civil engineer earn in Dubai?", "In 2026 a junior civil engineer in Dubai earns about AED 7,000 - 12,000 per month, a mid-level engineer AED 12,000 - 20,000 and a senior or lead engineer AED 20,000 - 35,000. Consultants and major developers pay more, contractors more often add housing and transport."],
+   ["Does a civil engineer need Society of Engineers registration?", "Working as an engineer in the UAE usually requires UAE Society of Engineers registration, and signing drawings or submitting to Dubai Municipality also needs an engineer classification. We check the candidate's status before interviews and tell you what will need to be arranged after joining."]
+  ],
+  "seek_h2": "Are you a civil engineer looking for a job in Dubai?"
+ }
+}

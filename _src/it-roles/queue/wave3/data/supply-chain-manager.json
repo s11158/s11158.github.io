@@ -1,0 +1,136 @@
+{
+ "slug": "supply-chain-manager",
+ "hub": "logistics",
+ "related": [
+  "procurement-manager",
+  "warehouse-manager",
+  "logistics-coordinator",
+  "operations-manager"
+ ],
+ "ru": {
+  "name": "Менеджер по цепочкам поставок",
+  "title": "Найм менеджера по цепочкам поставок в Дубае: S&OP, зарплата | TLNT",
+  "desc": "Найм менеджера по цепочкам поставок в Дубае: планирование спроса, запасы, S&OP и Jebel Ali, практический кейс, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм менеджера по цепочкам поставок",
+  "h1em": "в Дубае",
+  "intro": "Менеджеры по цепочкам поставок нужны дистрибьюторам и торговым домам в JAFZA, FMCG и фармкомпаниям, ритейлу и e-commerce, ресторанным группам и производствам. Дубай работает как хаб на Залив, Африку и Индию, поэтому задачи включают планирование спроса и запасов, S&OP, импорт через Jebel Ali, реэкспорт, склады и 3PL. Помогаем определить, нужен ли вам планировщик или руководитель всей цепочки, даём шорт-лист из нашей живой базы и проводим практический кейс на ваших данных.",
+  "find_lead": "Руководитель, который держит баланс между наличием товара, запасами на складе и деньгами в обороте, и видит цепочку целиком от заказа поставщику до клиента.",
+  "find": [
+   "Планирование: прогноз спроса, S&OP, уровни запасов, страховой запас, оборачиваемость",
+   "Логистика: импорт и реэкспорт через Jebel Ali и DXB, свободные зоны, таможня Dubai Customs, Incoterms",
+   "Склады и 3PL: выбор и контроль логистических операторов, SLA, стоимость хранения и обработки",
+   "Системы: SAP, Oracle, Microsoft Dynamics, Blue Yonder или Kinaxis, сильный Excel и Power BI",
+   "KPI: OTIF, fill rate, дни запаса, стоимость логистики к выручке, просроченные и неликвидные остатки",
+   "Риски: альтернативные маршруты при сбоях в Красном море, двойные поставщики, срок годности для FMCG и фармы"
+  ],
+  "check_lead": "Слова S&OP и OTIF есть почти в каждом резюме. Проверки показывают, умеет ли человек принимать решения на цифрах, а решение о найме принимаете вы.",
+  "steps": [
+   [
+    "Кейс по запасам",
+    "выгрузка продаж и остатков по 30 SKU за год. Кандидат находит дефицит и излишки, предлагает уровни запаса и объясняет, сколько денег освободится."
+   ],
+   [
+    "Сбой в цепочке",
+    "контейнер задерживается на три недели, ключевой клиент ждёт поставку. Кандидат рассказывает, какие варианты считает и как говорит с продажами и клиентом."
+   ],
+   [
+    "Процесс S&OP",
+    "как кандидат запустит ежемесячный S&OP в компании, где продажи и закупки не разговаривают друг с другом."
+   ],
+   [
+    "Рекомендации",
+    "звонки руководителям: размер ассортимента и бюджета, какие KPI реально улучшил."
+   ]
+  ],
+  "mistake": "Типичная ошибка: назвать менеджером по цепочкам поставок координатора по отгрузкам и ждать от него стратегии запасов. Или наоборот: нанять стратега из глобальной корпорации в компанию без систем, где нужно самому строить таблицы и звонить экспедиторам. Масштаб и зрелость процессов надо сверять заранее.",
+  "sal": [
+   [
+    "Специалист по планированию",
+    "9 000 - 15 000"
+   ],
+   [
+    "Менеджер по цепочкам поставок",
+    "18 000 - 32 000"
+   ],
+   [
+    "Директор по цепочкам поставок",
+    "35 000 - 60 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. FMCG и фарма, региональная ответственность на несколько стран, опыт внедрения ERP или APS и сертификаты APICS (CSCP, CPIM) поднимают пакет; бонус и жильё меняют полную сумму.",
+  "faq": [
+   [
+    "Сколько зарабатывает менеджер по цепочкам поставок в Дубае?",
+    "В 2026 году специалист по планированию в Дубае получает около 9 000 - 15 000 AED в месяц, менеджер по цепочкам поставок 18 000 - 32 000 AED, директор 35 000 - 60 000 AED. Региональные роли в FMCG и фарме платят по верхней границе."
+   ],
+   [
+    "Чем менеджер по цепочкам поставок отличается от логиста?",
+    "Логист отвечает за движение грузов: перевозки, таможню, склад. Менеджер по цепочкам поставок отвечает за всю систему: сколько закупать, где держать запас и как это влияет на деньги и продажи. Поможем понять, какая роль нужна вам сейчас."
+   ]
+  ],
+  "seek_h2": "Вы менеджер по цепочкам поставок и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Supply chain manager",
+  "title": "Hire a Supply Chain Manager in Dubai: S&OP, Inventory, Salary | TLNT",
+  "desc": "Hire a supply chain manager in Dubai: demand planning, inventory, S&OP and Jebel Ali logistics, a practical case, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a supply chain manager",
+  "h1em": "in Dubai",
+  "intro": "Supply chain managers are in demand at distributors and trading houses in JAFZA, FMCG and pharma companies, retail and e-commerce, restaurant groups and manufacturers. Dubai is a hub for the Gulf, Africa and India, so the work covers demand and inventory planning, S&OP, imports through Jebel Ali, re-export, warehousing and 3PLs. We help you decide whether you need a planner or a head of the whole chain, shortlist from our live database and run a practical case on your data.",
+  "find_lead": "A leader who balances product availability, stock on hand and working capital, and sees the chain end to end from supplier order to customer.",
+  "find": [
+   "Planning: demand forecasting, S&OP, stock levels, safety stock, inventory turns",
+   "Logistics: import and re-export through Jebel Ali and DXB, free zones, Dubai Customs, Incoterms",
+   "Warehousing and 3PL: selecting and managing logistics providers, SLAs, storage and handling costs",
+   "Systems: SAP, Oracle, Microsoft Dynamics, Blue Yonder or Kinaxis, strong Excel and Power BI",
+   "KPIs: OTIF, fill rate, days of stock, logistics cost to sales, expired and slow-moving stock",
+   "Risk: alternative routes during Red Sea disruption, dual sourcing, shelf life for FMCG and pharma"
+  ],
+  "check_lead": "S&OP and OTIF appear on almost every CV. The checks show whether a person can make decisions on numbers, and you make the hiring decision.",
+  "steps": [
+   [
+    "Inventory case",
+    "a year of sales and stock data for 30 SKUs. The candidate finds shortages and overstock, proposes stock levels and explains how much cash is released."
+   ],
+   [
+    "Disruption scenario",
+    "a container is delayed three weeks and a key customer is waiting. The candidate explains which options they cost out and how they talk to sales and the customer."
+   ],
+   [
+    "S&OP process",
+    "how the candidate would launch a monthly S&OP in a company where sales and purchasing do not talk to each other."
+   ],
+   [
+    "References",
+    "calls with managers: range size and budget, which KPIs they actually improved."
+   ]
+  ],
+  "mistake": "Typical mistake: calling a shipping coordinator a supply chain manager and expecting an inventory strategy. Or the opposite: hiring a strategist from a global corporation into a company with no systems, where you have to build spreadsheets and call forwarders yourself. Scale and process maturity need to be matched up front.",
+  "sal": [
+   [
+    "Supply planner",
+    "9,000 - 15,000"
+   ],
+   [
+    "Supply chain manager",
+    "18,000 - 32,000"
+   ],
+   [
+    "Supply chain director",
+    "35,000 - 60,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. FMCG and pharma, regional responsibility for several countries, ERP or APS implementation and APICS credentials (CSCP, CPIM) raise the package; bonus and housing change the total.",
+  "faq": [
+   [
+    "How much does a supply chain manager earn in Dubai?",
+    "In 2026 a supply planner in Dubai earns about AED 9,000 - 15,000 per month, a supply chain manager AED 18,000 - 32,000 and a director AED 35,000 - 60,000. Regional roles in FMCG and pharma pay at the top of the range."
+   ],
+   [
+    "How is a supply chain manager different from a logistics manager?",
+    "A logistics manager is responsible for moving goods: transport, customs, warehousing. A supply chain manager owns the whole system: how much to buy, where to hold stock and how that affects cash and sales. We help you decide which role you need now."
+   ]
+  ],
+  "seek_h2": "Are you a supply chain manager looking for a job in Dubai?"
+ }
+}

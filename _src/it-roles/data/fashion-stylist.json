@@ -1,0 +1,77 @@
+{
+ "slug": "fashion-stylist",
+ "hub": "retail",
+ "related": ["luxury-sales-advisor", "visual-merchandiser", "photographer", "personal-assistant"],
+ "ru": {
+  "name": "Стилист",
+  "title": "Найм стилиста в Дубае: бутики, съёмки, персональный шопинг | TLNT",
+  "desc": "Найм стилиста в Дубае: персональный шопинг, стилизация съёмок и бутиков, практическая проверка на образе для клиента, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм стилиста",
+  "h1em": "в Дубае",
+  "intro": "Стилисты нужны универмагам и люксовым бутикам с услугой персонального шопинга, онлайн-ритейлерам и маркетплейсам моды, продакшн-студиям и брендам для съёмок, а также частным клиентам и семейным офисам. Задачи: подбор гардероба, образы для событий, стилизация съёмок и лукбуков, работа с байерами и сезонными трендами с учётом климата и культурных норм ОАЭ. Помогаем определить профиль, даём шорт-лист из нашей живой базы и проверяем кандидатов на практическом задании.",
+  "find_lead": "Стилист, который слышит клиента и бюджет, собирает образы, в которых человеку удобно, и при этом продаёт вещи бренда.",
+  "find": [
+   "Персональный стайлинг: анализ типажа и образа жизни, гардероб под жаркий климат и деловую среду Дубая",
+   "Модест-фэшн и культурный контекст: образы для Рамадана, свадеб и официальных событий в ОАЭ",
+   "Коммерция: персональный шопинг в бутике, рост среднего чека, клиентская база и повторные визиты",
+   "Съёмки: стилизация лукбуков, e-commerce и рекламы, работа с фотографом, моделями и продакшн-командой",
+   "Тренды и бренды: знание люкса и масс-маркета, байерские показы, локальные дизайнеры региона",
+   "Инструменты: мудборды, Pinterest и Instagram, CRM бутика, языки клиентов (английский, русский, арабский)"
+  ],
+  "check_lead": "Красивый Instagram стилиста не показывает, как он работает с реальным клиентом и бюджетом. Проверка строится на конкретной задаче, решение принимаете вы.",
+  "steps": [
+   ["Образ для клиента", "бриф: клиент едет на деловой ужин и свадьбу в Дубае, бюджет ограничен ассортиментом вашего бутика. Кандидат за 2-3 часа собирает два образа и объясняет выбор."],
+   ["Разбор портфолио", "кандидат показывает работы и рассказывает, что было задачей клиента или бренда, какие были ограничения и что получилось в итоге."],
+   ["Практика с моделью", "кандидат за час подбирает образ для модели прямо в зале и общается с ней как с клиентом. Смотрим на вкус, скорость и деликатность."],
+   ["Рекомендации", "звонки работодателям или постоянным заказчикам: качество работы, соблюдение сроков, отношения с клиентами."]
+  ],
+  "mistake": "Типичная ошибка: выбрать стилиста по личному стилю и подписчикам, не проверив, умеет ли он работать с чужим вкусом и бюджетом. Ещё ошибка: не определиться, нужен стилист для продаж в бутике или для съёмок, это разные навыки и разный ритм работы.",
+  "sal": [
+   ["Младший стилист или ассистент стилиста", "4 500 - 7 500"],
+   ["Стилист", "7 500 - 14 000"],
+   ["Старший стилист или руководитель персонального шопинга", "14 000 - 25 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. В бутиках к окладу добавляется комиссия с продаж клиентов стилиста; люкс, частные клиенты и опыт крупных съёмок поднимают пакет.",
+  "faq": [
+   ["Сколько зарабатывает стилист в Дубае?", "В 2026 году младший стилист или ассистент в Дубае получает около 4 500 - 7 500 AED в месяц, стилист 7 500 - 14 000 AED, старший стилист или руководитель персонального шопинга 14 000 - 25 000 AED. В бутиках сверху идёт комиссия с продаж."],
+   ["Стилист в штат или на проектной основе?", "Для съёмок и разовых кампаний обычно выгоднее стилист на проект. Если у вас постоянный поток клиентов персонального шопинга или еженедельные съёмки для онлайн-магазина, штатный стилист дешевле и держит единый стиль бренда. Поможем выбрать формат и найти подходящего специалиста."]
+  ],
+  "seek_h2": "Вы стилист и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Fashion stylist",
+  "title": "Hire a Fashion Stylist in Dubai: Personal Shopping, Salary | TLNT",
+  "desc": "Hire a fashion stylist in Dubai: personal shopping, styling for shoots and boutiques, a practical check on a client look, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire a fashion stylist",
+  "h1em": "in Dubai",
+  "intro": "Fashion stylists are needed by department stores and luxury boutiques with personal shopping, fashion e-commerce and marketplaces, production studios and brands for shoots, and by private clients and family offices. The work covers wardrobe building, event looks, styling shoots and lookbooks, and working with buyers and seasonal trends while respecting the UAE climate and cultural norms. We help define the profile, shortlist from our live database and test candidates on a practical task.",
+  "find_lead": "A stylist who listens to the client and the budget, builds looks the person feels comfortable in and still sells the brand's pieces.",
+  "find": [
+   "Personal styling: body type and lifestyle, wardrobes for the hot climate and Dubai business settings",
+   "Modest fashion and cultural context: looks for Ramadan, weddings and formal events in the UAE",
+   "Commerce: personal shopping in the boutique, higher basket size, a client book and repeat visits",
+   "Shoots: styling lookbooks, e-commerce and campaigns, working with photographers, models and production",
+   "Trends and brands: luxury and high street, buyer previews, regional designers",
+   "Tools: mood boards, Pinterest and Instagram, the boutique CRM, client languages (English, Russian, Arabic)"
+  ],
+  "check_lead": "A stylist's beautiful Instagram does not show how they work with a real client and budget. The check is built on a concrete task, and you make the decision.",
+  "steps": [
+   ["Client look", "brief: a client is going to a business dinner and a wedding in Dubai, and the budget is limited to your boutique's range. In 2-3 hours the candidate builds two looks and explains the choices."],
+   ["Portfolio review", "the candidate shows their work and explains the client or brand objective, the constraints and the outcome."],
+   ["Practice with a model", "in one hour the candidate styles a model on the shop floor and talks to her as a client. We look at taste, speed and tact."],
+   ["References", "calls with employers or regular clients: quality of work, deadlines, client relationships."]
+  ],
+  "mistake": "Typical mistake: choosing a stylist on their personal style and follower count without checking whether they can work with someone else's taste and budget. Another one: not deciding whether you need a stylist for boutique sales or for shoots, as these are different skills and a different pace.",
+  "sal": [
+   ["Junior stylist or styling assistant", "4,500 - 7,500"],
+   ["Fashion stylist", "7,500 - 14,000"],
+   ["Senior stylist or head of personal shopping", "14,000 - 25,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. In boutiques, commission on the stylist's client sales is added to the base; luxury, private clients and major shoot experience raise the package.",
+  "faq": [
+   ["How much does a fashion stylist earn in Dubai?", "In 2026 a junior stylist or styling assistant in Dubai earns about AED 4,500 - 7,500 per month, a fashion stylist AED 7,500 - 14,000 and a senior stylist or head of personal shopping AED 14,000 - 25,000. Boutiques add commission on sales."],
+   ["In-house or freelance stylist?", "For shoots and one-off campaigns a freelance stylist is usually better value. With a steady flow of personal shopping clients or weekly shoots for an online store, an in-house stylist costs less and keeps the brand look consistent. We help you choose the format and find the right specialist."]
+  ],
+  "seek_h2": "Are you a fashion stylist looking for a job in Dubai?"
+ }
+}

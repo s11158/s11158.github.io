@@ -1,0 +1,77 @@
+{
+ "slug": "bartender",
+ "hub": "hospitality",
+ "related": ["barista", "waiter", "f-and-b-manager", "restaurant-manager"],
+ "ru": {
+  "name": "Бармен",
+  "title": "Найм бармена в Дубае: коктейли, сервис, зарплата | TLNT",
+  "desc": "Найм бармена в Дубае: отели, бары, бич-клубы и рестораны, коктейли и правила подачи алкоголя, проверка за стойкой, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм бармена",
+  "h1em": "в Дубае",
+  "intro": "Бармены нужны барам в отелях, коктейльным барам на DIFC и в Dubai Marina, бич-клубам, ресторанам с бранчами и кейтерингу на мероприятиях. Задачи: классика и авторские коктейли, безалкогольное меню, скорость в пик, общение с гостями, учёт и инвентаризация, соблюдение лицензии на алкоголь. Помогаем определить профиль под ваш формат, даём шорт-лист из нашей живой базы и проводим практическую проверку за стойкой, решение принимает ваш бар-менеджер.",
+  "find_lead": "Бармен, который быстро и одинаково делает коктейли, держит стойку в порядке, продаёт и знает правила подачи алкоголя в Дубае.",
+  "find": [
+   "Коктейли: классика IBA, авторские рецепты, безалкогольные коктейли, которые в Дубае заказывают всё чаще",
+   "Скорость: работа в пик на бранче и в выходные, порядок заказов, связь с официантами",
+   "Продажа: рекомендации, допродажи премиальных позиций, знание вина и крепкого алкоголя",
+   "Правила: подача алкоголя только по лицензии заведения, проверка возраста гостей, отказ нетрезвому гостю",
+   "Учёт: инвентаризация, потери, заготовки, POS и кассовая дисциплина",
+   "Гигиена и сервис: чистота стойки, лёд и сиропы по нормам Dubai Municipality, общение с гостями"
+  ],
+  "check_lead": "Красивые видео с флэром не показывают скорость в загрузку и честность с кассой. Проверка проходит за стойкой, а решение за вашим бар-менеджером.",
+  "steps": [
+   ["Проверка за стойкой", "кандидат делает пять-шесть коктейлей из вашего меню и классики. Смотрим на точность рецептуры, скорость, подачу и чистоту."],
+   ["Практическая проверка в рабочие часы", "проверка навыков в загрузку: работа с потоком заказов, общение с гостями, порядок на стойке в конце."],
+   ["Ситуации с гостями", "нетрезвый гость требует ещё, гость просит безалкогольную альтернативу, VIP-стол ждёт заказ. Как кандидат действует."],
+   ["Рекомендации", "звонки бар-менеджерам: надёжность, результаты инвентаризаций, отношения с командой."]
+  ],
+  "mistake": "Типичная ошибка: нанимать бармена за шоу и подписчиков, не проверив скорость и стабильность в загрузку. Ещё ошибка: не проверять честность и учёт, ведь потери на баре быстро съедают маржу, если инвентаризация не сходится.",
+  "sal": [
+   ["Помощник бармена (barback)", "2 500 - 3 500"],
+   ["Бармен", "3 500 - 6 000"],
+   ["Старший бармен или head bartender", "6 000 - 12 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Чаевые и сервисный сбор в барах и бич-клубах заметно добавляют к доходу; в отелях часто есть жильё, питание и транспорт.",
+  "faq": [
+   ["Сколько зарабатывает бармен в Дубае?", "В 2026 году помощник бармена в Дубае получает около 2 500 - 3 500 AED в месяц, бармен 3 500 - 6 000 AED, старший бармен или head bartender 6 000 - 12 000 AED. Чаевые и сервисный сбор заметно добавляют к доходу."],
+   ["Что важно знать о подаче алкоголя в Дубае?", "Алкоголь подают только в заведениях с лицензией, гостю должно быть не меньше 21 года, а нетрезвому гостю нужно уметь вежливо отказать. Бармен должен знать эти правила и действовать по ним. Проверяем это на ситуационных вопросах во время отбора."]
+  ],
+  "seek_h2": "Вы бармен и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Bartender",
+  "title": "Hire a Bartender in Dubai: Cocktails, Service, Salary | TLNT",
+  "desc": "Hire a bartender in Dubai: hotels, bars, beach clubs and restaurants, cocktails and alcohol service rules, a check behind the bar, 2026 salaries, shortlist.",
+  "h1": "Hire a bartender",
+  "h1em": "in Dubai",
+  "intro": "Bartenders are needed by hotel bars, cocktail bars in DIFC and Dubai Marina, beach clubs, restaurants with brunches and event caterers. The work covers classic and signature cocktails, a non-alcoholic menu, speed at peak, guest interaction, stock control and following the venue's liquor licence. We help you define the profile for your format, shortlist from our live database and run a practical check behind the bar, and your bar manager decides.",
+  "find_lead": "A bartender who makes cocktails fast and consistently, keeps the bar in order, sells well and knows the alcohol service rules in Dubai.",
+  "find": [
+   "Cocktails: IBA classics, signature recipes, non-alcoholic cocktails that Dubai guests order more and more",
+   "Speed: peak service at brunch and weekends, ticket order, teamwork with waiters",
+   "Selling: recommendations, upselling premium items, wine and spirits knowledge",
+   "Rules: alcohol served only under the venue licence, checking guest age, refusing an intoxicated guest",
+   "Control: inventory, losses, prep, POS and cash discipline",
+   "Hygiene and service: a clean bar, ice and syrups to Dubai Municipality standards, guest rapport"
+  ],
+  "check_lead": "Flair videos do not show speed at peak or honesty with the till. The check happens behind the bar, and your bar manager decides.",
+  "steps": [
+   ["Bar check", "the candidate makes five or six cocktails from your menu and the classics. We look at recipe accuracy, speed, presentation and cleanliness."],
+   ["Practical check at peak", "a skills check during peak hours: handling the ticket flow, talking to guests, leaving the bar in order at the end."],
+   ["Guest situations", "an intoxicated guest wants another drink, a guest asks for a non-alcoholic option, a VIP table is waiting. How the candidate acts."],
+   ["References", "calls with bar managers: reliability, inventory results, relations with the team."]
+  ],
+  "mistake": "Typical mistake: hiring a bartender for the show and followers without checking speed and consistency at peak. Another one: not checking honesty and stock control, because bar losses quickly eat the margin when inventory does not match.",
+  "sal": [
+   ["Barback", "2,500 - 3,500"],
+   ["Bartender", "3,500 - 6,000"],
+   ["Senior or head bartender", "6,000 - 12,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Tips and service charge at bars and beach clubs add noticeably to income; hotels often provide housing, meals and transport.",
+  "faq": [
+   ["How much does a bartender earn in Dubai?", "In 2026 a barback in Dubai earns about AED 2,500 - 3,500 per month, a bartender AED 3,500 - 6,000 and a senior or head bartender AED 6,000 - 12,000. Tips and service charge add noticeably to income."],
+   ["What should a bartender know about alcohol service in Dubai?", "Alcohol is served only in licensed venues, guests must be at least 21, and a bartender must be able to politely refuse an intoxicated guest. The bartender needs to know and follow these rules. We test this with situational questions during selection."]
+  ],
+  "seek_h2": "Are you a bartender looking for a job in Dubai?"
+ }
+}

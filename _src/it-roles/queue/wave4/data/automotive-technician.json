@@ -1,0 +1,77 @@
+{
+ "slug": "automotive-technician",
+ "hub": "retail",
+ "related": ["car-sales-executive", "maintenance-technician", "fleet-manager"],
+ "ru": {
+  "name": "Автомеханик",
+  "title": "Найм автомеханика в Дубае: диагностика, EV, зарплата | TLNT",
+  "desc": "Найм автомеханика в Дубае: дилерские сервисы и независимые СТО, диагностика, гибриды и электромобили, практическая проверка в боксе и зарплаты 2026.",
+  "h1": "Найм автомеханика",
+  "h1em": "в Дубае",
+  "intro": "Автомеханики нужны сервисам официальных дилеров, независимым СТО в Al Quoz и Ras Al Khor, автопаркам такси и лимузинов, компаниям по аренде и обслуживанию корпоративных машин. Задачи: диагностика, ТО, ремонт двигателя, ходовой и электрики, работа с кондиционером в жару и всё больше гибридов и электромобилей. Помогаем определить профиль под ваши марки, даём шорт-лист из нашей живой базы и проводим практическую проверку в боксе, решение принимает ваш мастер-приёмщик или руководитель сервиса.",
+  "find_lead": "Механик, который находит причину неисправности по данным диагностики, а не меняет детали наугад, и сдаёт машину в срок.",
+  "find": [
+   "Диагностика: сканеры дилера и мультимарочные (Launch, Autel, Bosch), чтение схем и живых данных",
+   "Механика: двигатель, КПП, ходовая, тормоза, ТО по регламенту производителя",
+   "Электрика и климат: проводка, блоки управления, кондиционер, который в ОАЭ работает на пределе",
+   "Гибриды и EV: допуск к работе с высоким напряжением, обучение производителя",
+   "Документы: заказ-наряды в DMS, фото и видео для клиента, учёт запчастей и гарантийные случаи",
+   "Права ОАЭ: для перегона и тест-драйва после ремонта, сертификаты бренда как плюс"
+  ],
+  "check_lead": "Сертификат производителя показывает пройденный курс, но не скорость и точность в реальном боксе. Поэтому проверка практическая, а оценку ставит ваш мастер.",
+  "steps": [
+   ["Диагностика неисправности", "машина с заложенной ошибкой или описанием симптома. Кандидат подключает сканер, читает данные и объясняет, что проверит дальше и почему."],
+   ["Практическая работа", "типовая операция по вашим маркам: замена тормозов, ТО, проверка кондиционера. Смотрим на порядок, инструмент, чистоту и время."],
+   ["Разговор о безопасности и EV", "как кандидат работает с высоким напряжением, какие допуски есть, как действует при подозрении на неисправность батареи."],
+   ["Рекомендации", "звонки руководителям сервиса: возвраты машин после ремонта, выработка нормо-часов, отношение к инструменту и чистоте."]
+  ],
+  "mistake": "Типичная ошибка: брать механика под одну марку и ожидать, что он сразу будет так же эффективен на других. Ещё ошибка: не проверять процент повторных обращений после ремонта, а именно он показывает, чинит ли человек причину или симптом.",
+  "sal": [
+   ["Младший механик", "3 000 - 5 000"],
+   ["Механик", "5 000 - 8 000"],
+   ["Старший техник или мастер участка", "8 000 - 14 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Дилеры премиальных марок и специалисты по электромобилям получают больше; часто есть бонус за нормо-часы, жильё и транспорт от работодателя.",
+  "faq": [
+   ["Сколько зарабатывает автомеханик в Дубае?", "В 2026 году младший механик в Дубае получает около 3 000 - 5 000 AED в месяц, механик со стажем 5 000 - 8 000 AED, старший техник или мастер участка 8 000 - 14 000 AED. У премиальных дилеров и специалистов по EV ставки выше, часто плюс бонус за выработку."],
+   ["Стоит ли искать механика с опытом по электромобилям?", "Если в вашем парке или у клиентов растёт доля гибридов и EV, да: работа с высоким напряжением требует допуска и обучения. Поможем найти кандидатов с подтверждённым опытом или тех, кого реально обучить за короткий срок."]
+  ],
+  "seek_h2": "Вы автомеханик и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Automotive technician",
+  "title": "Hire an Automotive Technician in Dubai: EV, Salary | TLNT",
+  "desc": "Hire an automotive technician in Dubai: dealer workshops and independent garages, diagnostics, hybrids and EVs, a practical bay check and 2026 salaries.",
+  "h1": "Hire an automotive technician",
+  "h1em": "in Dubai",
+  "intro": "Automotive technicians are needed by official dealer workshops, independent garages in Al Quoz and Ras Al Khor, taxi and limousine fleets, and rental and corporate fleet service companies. The work covers diagnostics, servicing, engine, suspension and electrical repairs, air conditioning under extreme heat and a growing share of hybrids and EVs. We help you define the profile for your brands, shortlist from our live database and run a practical bay check, and your service manager decides.",
+  "find_lead": "A technician who finds the root cause from diagnostic data instead of swapping parts at random, and delivers the car on time.",
+  "find": [
+   "Diagnostics: dealer and multi-brand scanners (Launch, Autel, Bosch), wiring diagrams and live data",
+   "Mechanical: engine, gearbox, suspension, brakes, servicing to the manufacturer schedule",
+   "Electrical and AC: wiring, control units, air conditioning that runs at its limit in the UAE",
+   "Hybrids and EVs: high-voltage safety qualification, manufacturer training",
+   "Paperwork: job cards in the DMS, photos and video for the client, parts and warranty claims",
+   "UAE licence: for car moves and road tests after repair; brand certificates are a plus"
+  ],
+  "check_lead": "A manufacturer certificate shows a completed course, not speed and accuracy in a real bay. So the check is practical, and your foreman scores it.",
+  "steps": [
+   ["Fault diagnosis", "a car with a planted fault or a described symptom. The candidate connects the scanner, reads the data and explains what to check next and why."],
+   ["Hands-on task", "a typical job on your brands: brake replacement, service, AC check. We look at the sequence, tools, cleanliness and time."],
+   ["Safety and EV conversation", "how the candidate works with high voltage, which qualifications they hold, what they do when a battery fault is suspected."],
+   ["References", "calls with service managers: comebacks after repair, billed hours, attitude to tools and cleanliness."]
+  ],
+  "mistake": "Typical mistake: hiring a technician trained on one brand and expecting the same efficiency on others straight away. Another one: not checking the comeback rate after repairs, which shows whether the person fixes the cause or the symptom.",
+  "sal": [
+   ["Junior technician", "3,000 - 5,000"],
+   ["Technician", "5,000 - 8,000"],
+   ["Senior technician or workshop foreman", "8,000 - 14,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Premium brand dealers and EV specialists pay more; there is often a billed-hours bonus, and housing and transport from the employer.",
+  "faq": [
+   ["How much does an automotive technician earn in Dubai?", "In 2026 a junior technician in Dubai earns about AED 3,000 - 5,000 per month, an experienced technician AED 5,000 - 8,000 and a senior technician or workshop foreman AED 8,000 - 14,000. Premium dealers and EV specialists pay more, often with a productivity bonus."],
+   ["Should I look for a technician with EV experience?", "If hybrids and EVs are a growing share of your fleet or clients, yes: high-voltage work needs qualification and training. We help you find candidates with proven experience or those who can realistically be trained quickly."]
+  ],
+  "seek_h2": "Are you an automotive technician looking for a job in Dubai?"
+ }
+}

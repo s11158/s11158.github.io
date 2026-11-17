@@ -1,0 +1,136 @@
+{
+ "slug": "cloud-architect",
+ "hub": "tech",
+ "related": [
+  "devops-engineer",
+  "site-reliability-engineer",
+  "cybersecurity-specialist",
+  "cto"
+ ],
+ "ru": {
+  "name": "Облачный архитектор",
+  "title": "Найм облачного архитектора в Дубае: AWS, Azure, зарплата | TLNT",
+  "desc": "Найм облачного архитектора в Дубае: AWS, Azure, GCP, миграция и локализация данных в ОАЭ, проверка на кейсе архитектуры, зарплаты 2026 и шорт-лист TLNT.",
+  "h1": "Найм облачного архитектора",
+  "h1em": "в Дубае",
+  "intro": "Облачные архитекторы нужны банкам, страховым и госкомпаниям Дубая, девелоперам, ритейлу и авиации, которые переносят системы из своих дата-центров в облако или строят новые продукты сразу в нём. Архитектор выбирает платформу и регион (AWS me-central-1, Azure UAE North, Oracle и G42 Cloud), проектирует сеть, безопасность, резервирование и бюджет, учитывает требования ЦБ ОАЭ, TDRA и закона о персональных данных. Помогаем определить нужный уровень и платформу, даём шорт-лист из нашей живой базы и проводим проверку на кейсе архитектуры, которую оценивает ваш CTO.",
+  "find_lead": "Архитектор, который проектирует облако под требования бизнеса и регулятора, а не под любимый набор сервисов, и умеет объяснить решение финансовому директору.",
+  "find": [
+   "Платформы: AWS, Azure или GCP на уровне архитектуры, знание локальных регионов и облаков в ОАЭ",
+   "Сеть и безопасность: landing zone, VPC и VNet, гибридное подключение к офису, IAM, шифрование, Zero Trust",
+   "Миграция: оценка портфеля приложений, стратегии 6R, план без остановки бизнеса",
+   "Надёжность: мультизонность, резервное копирование, план аварийного восстановления с RTO и RPO",
+   "Регуляторика: локализация данных, требования ЦБ ОАЭ для банков, NESA и ISO 27001",
+   "Деньги: FinOps, резервирование мощностей, прогноз счёта, сертификаты уровня Solutions Architect Professional"
+  ],
+  "check_lead": "Сертификат Professional подтверждает знание сервисов, но не умение выбрать между ними под ваши ограничения. Проверка строится на кейсе, близком к вашей компании, решение принимает ваш CTO.",
+  "steps": [
+   [
+    "Кейс архитектуры",
+    "описание компании и её систем: кандидат за несколько часов рисует целевую архитектуру в облаке, объясняет регион, сеть, безопасность и бюджет, а затем защищает решение перед вашей командой."
+   ],
+   [
+    "План миграции",
+    "старая ERP и десяток внутренних сервисов в серверной офиса. Кандидат рассказывает, что переносить первым, что оставить и как избежать простоя."
+   ],
+   [
+    "Разговор о рисках",
+    "аудит регулятора, утечка ключей доступа, падение зоны облака: как архитектура это выдерживает и кто за что отвечает."
+   ],
+   [
+    "Рекомендации",
+    "звонки CTO и руководителям ИТ с прошлых мест: какие миграции кандидат вёл до конца, масштаб бюджета, как работал с подрядчиками и безопасностью."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанять архитектора, который знает только одну платформу, и позволить ему перестроить всё под неё без оценки стоимости. Через год счёт за облако выше, чем старый дата-центр. Ещё ошибка: не проверить знание требований к данным в ОАЭ, банку или госкомпании это может стоить переделки всего проекта.",
+  "sal": [
+   [
+    "Облачный архитектор",
+    "25 000 - 35 000"
+   ],
+   [
+    "Старший облачный архитектор",
+    "35 000 - 50 000"
+   ],
+   [
+    "Главный архитектор или руководитель облачного направления",
+    "50 000 - 70 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт миграций в банках и госсекторе, гибридных облаков и сертификаты уровня Professional заметно поднимают пакет; бонус и жильё меняют полную сумму.",
+  "faq": [
+   [
+    "Сколько зарабатывает облачный архитектор в Дубае?",
+    "В 2026 году облачный архитектор в Дубае получает около 25 000 - 35 000 AED в месяц на уровне специалиста, 35 000 - 50 000 AED на уровне старшего архитектора и 50 000 - 70 000 AED как главный архитектор или руководитель облачного направления. Банки и госкомпании платят по верхней границе."
+   ],
+   [
+    "Нужен облачный архитектор в штат или на проект?",
+    "Если вы разово переносите системы в облако, иногда достаточно архитектора на период миграции и сильного DevOps-инженера после неё. Если облако становится основой продуктов, а требования регулятора растут, архитектор в штате окупается. Поможем оценить, какой формат подходит, и составить профиль до начала поиска."
+   ]
+  ],
+  "seek_h2": "Вы облачный архитектор и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Cloud architect",
+  "title": "Hire a Cloud Architect in Dubai: AWS, Azure, Salary | TLNT",
+  "desc": "Hire a cloud architect in Dubai: AWS, Azure, GCP, migration and UAE data residency, a practical architecture case, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a cloud architect",
+  "h1em": "in Dubai",
+  "intro": "Cloud architects are in demand at Dubai banks, insurers and government entities, developers, retail and aviation companies that move systems from their own data centres to the cloud or build new products there. The architect chooses the platform and region (AWS me-central-1, Azure UAE North, Oracle and G42 Cloud), designs networking, security, resilience and budget, and covers Central Bank of the UAE, TDRA and personal data law requirements. We help you define the level and platform, shortlist from our live database and run an architecture case that your CTO scores.",
+  "find_lead": "An architect who designs the cloud around business and regulatory requirements rather than a favourite set of services, and can explain the decision to a CFO.",
+  "find": [
+   "Platforms: AWS, Azure or GCP at architecture level, knowledge of local regions and UAE clouds",
+   "Network and security: landing zone, VPC and VNet, hybrid office connectivity, IAM, encryption, Zero Trust",
+   "Migration: application portfolio assessment, 6R strategies, a plan with no business downtime",
+   "Resilience: multi-zone design, backups, disaster recovery plans with RTO and RPO",
+   "Regulation: data residency, Central Bank rules for banks, NESA and ISO 27001",
+   "Cost: FinOps, reserved capacity, bill forecasting, Solutions Architect Professional level certifications"
+  ],
+  "check_lead": "A Professional certificate proves knowledge of services, not the ability to choose between them under your constraints. The check is built on a case close to your company, and your CTO makes the call.",
+  "steps": [
+   [
+    "Architecture case",
+    "a description of a company and its systems: in a few hours the candidate draws the target cloud architecture, explains region, network, security and budget, then defends it in front of your team."
+   ],
+   [
+    "Migration plan",
+    "a legacy ERP and a dozen internal services in an office server room. The candidate explains what moves first, what stays and how to avoid downtime."
+   ],
+   [
+    "Risk conversation",
+    "a regulator audit, leaked access keys, a cloud zone outage: how the architecture copes and who owns what."
+   ],
+   [
+    "References",
+    "calls with CTOs and IT heads from previous roles: which migrations the candidate completed, budget scale, how they worked with vendors and security."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring an architect who knows only one platform and letting them rebuild everything around it without a cost estimate. A year later the cloud bill is higher than the old data centre. Another one: not checking knowledge of UAE data requirements, which can force a bank or government entity to redo the whole project.",
+  "sal": [
+   [
+    "Cloud architect",
+    "25,000 - 35,000"
+   ],
+   [
+    "Senior cloud architect",
+    "35,000 - 50,000"
+   ],
+   [
+    "Principal architect or head of cloud",
+    "50,000 - 70,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Migrations in banking and government, hybrid cloud experience and Professional level certifications noticeably raise the package; bonus and housing change the total.",
+  "faq": [
+   [
+    "How much does a cloud architect earn in Dubai?",
+    "In 2026 a cloud architect in Dubai earns about AED 25,000 - 35,000 per month, a senior architect AED 35,000 - 50,000 and a principal architect or head of cloud AED 50,000 - 70,000. Banks and government entities pay at the top of the range."
+   ],
+   [
+    "Should a cloud architect be in-house or project-based?",
+    "For a one-off move to the cloud, an architect for the migration period plus a strong DevOps engineer afterwards is sometimes enough. When the cloud becomes the base of your products and regulatory demands grow, an in-house architect pays off. We help you choose the format and define the profile before the search."
+   ]
+  ],
+  "seek_h2": "Are you a cloud architect looking for a job in Dubai?"
+ }
+}

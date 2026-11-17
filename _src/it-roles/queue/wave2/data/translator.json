@@ -1,0 +1,77 @@
+{
+ "slug": "translator",
+ "hub": "business",
+ "related": ["paralegal", "lawyer", "administrative-assistant", "company-secretary"],
+ "ru": {
+  "name": "Переводчик",
+  "title": "Найм переводчика в Дубае: арабский, русский, английский | TLNT",
+  "desc": "Найм переводчика в Дубае: юридический и устный перевод, арабский, русский и английский, лицензия Минюста ОАЭ, практическая проверка и зарплаты 2026.",
+  "h1": "Найм переводчика",
+  "h1em": "в Дубае",
+  "intro": "Переводчики нужны юридическим фирмам, девелоперам и брокерам, клиникам, госконтрактникам, семейным офисам и компаниям, которые работают с клиентами из СНГ. Задачи: письменный перевод договоров и корпоративных документов, устный перевод на переговорах, сопровождение руководителя, локализация сайта и маркетинга. Помогаем определить нужные языковые пары и специализацию, даём шорт-лист из нашей живой базы и проводим практическую проверку на ваших реальных текстах.",
+  "find_lead": "Переводчик, который точно передаёт смысл и терминологию в вашей отрасли, а не только слова.",
+  "find": [
+   "Языковые пары: арабский, английский, русский, иногда китайский или фарси, с уровнем носителя хотя бы в одном",
+   "Лицензия: для официального юридического перевода в ОАЭ нужен присяжный переводчик с лицензией Минюста ОАЭ",
+   "Специализация: право, недвижимость, медицина, нефтегаз или финансы, своя терминология и глоссарий",
+   "Устный перевод: последовательный на переговорах, синхронный на конференциях, этикет деловых встреч",
+   "Инструменты: Trados, memoQ или Smartcat, память переводов, работа с PDF и сканами",
+   "Конфиденциальность: NDA, аккуратность с персональными данными и коммерческой тайной"
+  ],
+  "check_lead": "Диплом лингвиста не показывает, как человек переведёт ваш договор аренды или медицинскую выписку. Проверки строятся на ваших текстах, а решение принимает ваш юрист или руководитель.",
+  "steps": [
+   ["Письменный тест", "страница реального документа из вашей отрасли (без конфиденциальных данных) в обе стороны за ограниченное время, оценка точности терминов и стиля."],
+   ["Устная проба", "короткая ролевая встреча: кандидат переводит диалог клиента и менеджера, включая цифры, даты и юридические условия."],
+   ["Глоссарий и инструменты", "рассказ, как кандидат ведёт глоссарий проекта и проверяет согласованность, демонстрация работы в CAT-инструменте."],
+   ["Рекомендации", "звонки юристам или руководителям, с которыми работал кандидат: сроки, точность, работа с конфиденциальными документами."]
+  ],
+  "mistake": "Типичная ошибка: нанимать сотрудника, который свободно говорит на трёх языках, и ждать от него юридически значимых переводов. Для суда, нотариуса и госорганов ОАЭ нужен лицензированный переводчик, иначе документ просто не примут. Ещё ошибка: не проверить письменный арабский отдельно от разговорного.",
+  "sal": [
+   ["Младший переводчик", "6 000 - 10 000"],
+   ["Переводчик с опытом", "10 000 - 16 000"],
+   ["Старший или лицензированный юридический переводчик", "16 000 - 28 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Лицензия Минюста ОАЭ, синхронный перевод и редкие языковые пары поднимают пакет; у фрилансеров ставка считается за страницу или за час.",
+  "faq": [
+   ["Сколько зарабатывает переводчик в Дубае?", "В 2026 году младший переводчик в Дубае получает около 6 000 - 10 000 AED в месяц, переводчик с опытом 10 000 - 16 000 AED, старший или лицензированный юридический переводчик 16 000 - 28 000 AED. Юридические фирмы и госконтракты платят по верхней границе."],
+   ["Нужен штатный переводчик или фрилансер?", "Если перевод нужен каждый день (переговоры, переписка, сопровождение руководителя), выгоднее штатный сотрудник. Для разовых официальных документов достаточно лицензированного бюро. Поможем оценить объём и подобрать формат до начала поиска."]
+  ],
+  "seek_h2": "Вы переводчик и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Translator",
+  "title": "Hire a Translator in Dubai: Arabic, Russian, English | TLNT",
+  "desc": "Hire a translator in Dubai: legal and interpreting work, Arabic, Russian and English, UAE Ministry of Justice licence, practical checks, 2026 salaries.",
+  "h1": "Hire a translator",
+  "h1em": "in Dubai",
+  "intro": "Translators are needed by law firms, developers and brokers, clinics, government contractors, family offices and companies serving clients from Russian-speaking markets. The work covers written translation of contracts and corporate documents, interpreting at negotiations, supporting executives and localising websites and marketing. We help you define the language pairs and specialisation, shortlist from our live database and run a practical check on your real texts.",
+  "find_lead": "A translator who conveys meaning and terminology in your industry precisely, not just words.",
+  "find": [
+   "Language pairs: Arabic, English, Russian, sometimes Chinese or Farsi, with native level in at least one",
+   "Licence: official legal translation in the UAE requires a sworn translator licensed by the UAE Ministry of Justice",
+   "Specialisation: law, real estate, medicine, oil and gas or finance, with its own terminology and glossary",
+   "Interpreting: consecutive at negotiations, simultaneous at conferences, business meeting etiquette",
+   "Tools: Trados, memoQ or Smartcat, translation memory, working with PDFs and scans",
+   "Confidentiality: NDAs, care with personal data and commercial secrets"
+  ],
+  "check_lead": "A linguistics degree does not show how someone will translate your lease or a medical report. The checks use your texts, and your lawyer or manager makes the call.",
+  "steps": [
+   ["Written test", "one page of a real document from your industry (with no confidential data) in both directions under time limits, scored on terminology and style."],
+   ["Interpreting trial", "a short role-play meeting: the candidate interprets a client and manager dialogue, including figures, dates and legal terms."],
+   ["Glossary and tools", "how the candidate keeps a project glossary and checks consistency, plus a demo in a CAT tool."],
+   ["References", "calls with lawyers or managers the candidate worked for: deadlines, accuracy, handling confidential documents."]
+  ],
+  "mistake": "Typical mistake: hiring someone who speaks three languages fluently and expecting legally valid translations. UAE courts, notaries and government bodies require a licensed translator, otherwise the document is simply rejected. Another one: not testing written Arabic separately from spoken Arabic.",
+  "sal": [
+   ["Junior translator", "6,000 - 10,000"],
+   ["Experienced translator", "10,000 - 16,000"],
+   ["Senior or licensed legal translator", "16,000 - 28,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. A UAE Ministry of Justice licence, simultaneous interpreting and rare language pairs raise the package; freelancers usually charge per page or per hour.",
+  "faq": [
+   ["How much does a translator earn in Dubai?", "In 2026 a junior translator in Dubai earns about AED 6,000 - 10,000 per month, an experienced translator AED 10,000 - 16,000 and a senior or licensed legal translator AED 16,000 - 28,000. Law firms and government contracts pay at the top of the range."],
+   ["Should I hire an in-house translator or a freelancer?", "If you need translation every day (negotiations, correspondence, executive support), an in-house hire pays off. For occasional official documents a licensed translation office is enough. We help you assess the volume and choose the format before the search starts."]
+  ],
+  "seek_h2": "Are you a translator looking for a job in Dubai?"
+ }
+}

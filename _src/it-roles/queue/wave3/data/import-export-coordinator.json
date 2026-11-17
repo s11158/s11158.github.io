@@ -1,0 +1,77 @@
+{
+ "slug": "import-export-coordinator",
+ "hub": "logistics",
+ "related": ["freight-forwarder", "logistics-coordinator", "procurement-officer", "supply-chain-manager"],
+ "ru": {
+  "name": "Координатор импорта и экспорта",
+  "title": "Найм координатора импорта и экспорта в Дубае: зарплата | TLNT",
+  "desc": "Найм координатора импорта и экспорта в Дубае: таможня, сертификаты, реэкспорт из свободных зон, практическая проверка документов и зарплаты 2026 от TLNT.",
+  "h1": "Найм координатора импорта и экспорта",
+  "h1em": "в Дубае",
+  "intro": "Координаторы ВЭД нужны трейдинговым компаниям, дистрибьюторам продуктов, косметики, автозапчастей и оборудования, производствам в KIZAD и Dubai Industrial City и брендам, которые ввозят товар в ОАЭ и реэкспортируют его дальше. Задачи: заказы поставщикам, документы, регистрация товаров (ECAS, Dubai Municipality для продуктов и косметики), таможенное оформление, связь с экспедитором и складом. Помогаем описать профиль, даём шорт-лист из нашей живой базы и проверяем кандидатов на реальном пакете документов.",
+  "find_lead": "Человек, который ведёт поставку от заказа у поставщика до прихода на склад и знает, какие разрешения нужны товару, чтобы он не застрял на границе.",
+  "find": [
+   "Внешнеторговые документы: контракт, проформа, инвойс, упаковочный лист, сертификат происхождения, легализация",
+   "Регистрация и разрешения: ECAS и MoIAT, Dubai Municipality для продуктов и косметики, требования к маркировке",
+   "Таможня: Dubai Trade, HS-коды, пошлина 5%, НДС при импорте, режимы свободных зон и реэкспорт",
+   "Оплаты: аккредитив, предоплата, документы для банка, сроки и валютные риски",
+   "Координация: поставщики в Китае, Индии, Европе, экспедитор, склад, отдел продаж, понятный статус по каждой поставке",
+   "Инструменты: ERP (Odoo, SAP B1, Tally), Excel, трекер поставок, письменный английский"
+  ],
+  "check_lead": "Ошибки координатора ВЭД стоят денег: груз на таможне, штрафы, просроченная партия. Поэтому проверка идёт на реальных документах, а решение остаётся за вами.",
+  "steps": [
+   ["Разбор пакета документов", "проформа, инвойс и сертификат по партии косметики из Кореи с намеренными ошибками. Кандидат находит расхождения и говорит, какие разрешения нужны до отгрузки."],
+   ["Таблица поставок", "в Excel 15 открытых заказов с разными статусами. Нужно за час выделить риски по срокам, составить письма поставщикам и короткий отчёт руководителю."],
+   ["Кейс с реэкспортом", "товар пришёл в JAFZA и должен уйти в Оман и Кению. Кандидат описывает документы и шаги, чтобы не платить пошлину в ОАЭ."],
+   ["Рекомендации", "звонки руководителям: объёмы и категории товаров, самостоятельность, случаи задержек по его вине и как он их закрыл."]
+  ],
+  "mistake": "Типичная ошибка: нанять координатора без опыта в вашей категории товара. Продукты, косметика, электроника и медизделия требуют разных разрешений, и новичок узнаёт о них, когда партия уже стоит на таможне. Ещё ошибка: смешать роль координатора и закупщика, тогда никто не отвечает за цену, а сроки страдают.",
+  "sal": [
+   ["Младший координатор ВЭД", "4 500 - 7 000"],
+   ["Координатор импорта и экспорта", "7 000 - 12 000"],
+   ["Старший координатор или руководитель ВЭД", "12 000 - 20 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт регистрации продуктов и косметики, знание аккредитивов и второй язык поставщиков (например, китайский или русский) поднимают пакет.",
+  "faq": [
+   ["Сколько зарабатывает координатор импорта и экспорта в Дубае?", "В 2026 году младший координатор ВЭД в Дубае получает около 4 500 - 7 000 AED в месяц, опытный координатор 7 000 - 12 000 AED, старший координатор или руководитель ВЭД 12 000 - 20 000 AED. Трейдинговые компании с большими объёмами платят выше."],
+   ["Координатор ВЭД или экспедитор: кто мне нужен?", "Экспедитор работает на стороне перевозки: линии, ставки, порт. Координатор ВЭД работает внутри вашей компании: заказы, документы, разрешения, оплаты и связь со всеми участниками. Если вы регулярно импортируете, вам нужен координатор, а экспедитора можно нанять как подрядчика. Поможем определиться до начала поиска."]
+  ],
+  "seek_h2": "Вы координатор ВЭД и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Import export coordinator",
+  "title": "Hire an Import Export Coordinator in Dubai: Salary | TLNT",
+  "desc": "Hire an import export coordinator in Dubai: customs, product registration, free zone re-export, practical document checks and 2026 salaries from TLNT.",
+  "h1": "Hire an import export coordinator",
+  "h1em": "in Dubai",
+  "intro": "Import export coordinators are needed by trading companies, distributors of food, cosmetics, auto parts and equipment, manufacturers in KIZAD and Dubai Industrial City, and brands that bring goods into the UAE and re-export them. The work covers supplier orders, documents, product registration (ECAS, Dubai Municipality for food and cosmetics), customs clearance, and coordination with the forwarder and warehouse. We help define the profile, shortlist from our live database and test candidates on a real document set.",
+  "find_lead": "Someone who runs a shipment from the supplier order to arrival at the warehouse and knows which permits a product needs so it does not get stuck at the border.",
+  "find": [
+   "Trade documents: contract, proforma, invoice, packing list, certificate of origin, legalisation",
+   "Registration and permits: ECAS and MoIAT, Dubai Municipality for food and cosmetics, labelling rules",
+   "Customs: Dubai Trade, HS codes, 5% duty, import VAT, free zone regimes and re-export",
+   "Payments: letters of credit, advance payment, bank documents, deadlines and currency risk",
+   "Coordination: suppliers in China, India and Europe, the forwarder, warehouse and sales team, a clear status per shipment",
+   "Tools: ERP (Odoo, SAP B1, Tally), Excel, a shipment tracker, written English"
+  ],
+  "check_lead": "An import coordinator's mistakes cost money: cargo held at customs, fines, expired stock. So the check uses real documents, and you make the decision.",
+  "steps": [
+   ["Document set review", "a proforma, invoice and certificate for a batch of Korean cosmetics with deliberate errors. The candidate finds the mismatches and says which permits are needed before shipping."],
+   ["Shipment tracker", "an Excel sheet with 15 open orders at different stages. In one hour the candidate flags deadline risks, drafts supplier emails and writes a short report for the manager."],
+   ["Re-export case", "goods arrived in JAFZA and must go to Oman and Kenya. The candidate describes the documents and steps to avoid paying UAE duty."],
+   ["References", "calls with previous managers: volumes and product categories, independence, delays they caused and how they resolved them."]
+  ],
+  "mistake": "Typical mistake: hiring a coordinator with no experience in your product category. Food, cosmetics, electronics and medical devices need different permits, and a newcomer learns about them when the batch is already held at customs. Another one: merging the coordinator and buyer roles, so nobody owns price and deadlines slip.",
+  "sal": [
+   ["Junior import export coordinator", "4,500 - 7,000"],
+   ["Import export coordinator", "7,000 - 12,000"],
+   ["Senior coordinator or import export manager", "12,000 - 20,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Food and cosmetics registration experience, letters of credit and a second supplier language (for example Chinese or Russian) raise the package.",
+  "faq": [
+   ["How much does an import export coordinator earn in Dubai?", "In 2026 a junior import export coordinator in Dubai earns about AED 4,500 - 7,000 per month, an experienced coordinator AED 7,000 - 12,000 and a senior coordinator or import export manager AED 12,000 - 20,000. High-volume trading companies pay more."],
+   ["Import export coordinator or freight forwarder: which do I need?", "A forwarder works on the transport side: carriers, rates, ports. An import export coordinator works inside your company: orders, documents, permits, payments and coordination with everyone involved. If you import regularly you need a coordinator, and the forwarder can be a contractor. We help you decide before the search starts."]
+  ],
+  "seek_h2": "Are you an import export coordinator looking for a job in Dubai?"
+ }
+}

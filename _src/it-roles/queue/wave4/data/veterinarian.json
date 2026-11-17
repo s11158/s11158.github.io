@@ -1,0 +1,135 @@
+{
+ "slug": "veterinarian",
+ "hub": "medical",
+ "related": [
+  "lab-technician",
+  "clinic-receptionist",
+  "clinic-manager"
+ ],
+ "ru": {
+  "name": "Ветеринарный врач",
+  "title": "Найм ветеринара в Дубае: лицензия, клиники, зарплата | TLNT",
+  "desc": "Найм ветеринарного врача в Дубае: лицензия Dubai Municipality или MOCCAE, хирургия и терапия, практическая проверка на случаях, зарплаты 2026 от TLNT.",
+  "h1": "Найм ветеринарного врача",
+  "h1em": "в Дубае",
+  "intro": "Ветеринары нужны частным клиникам для кошек и собак в Дубае, сетевым ветгоспиталям, конюшням и клубам с лошадьми, питомникам, зоомагазинам с груминг-салонами и сервисам выезда на дом. Задачи: приём, вакцинация и чипирование, диагностика, хирургия, стационар, документы на ввоз и вывоз животных. Для практики нужна лицензия ветеринара в эмирате (Dubai Municipality, MOCCAE). Помогаем определить профиль, даём шорт-лист из нашей живой базы и проводим практическую проверку на клинических случаях.",
+  "find_lead": "Врач, который уверенно ведёт приём и хирургию, говорит с владельцами спокойно и понятно и знает местные правила по ввозу и вакцинации.",
+  "find": [
+   "Лицензия: ветеринарная лицензия Dubai Municipality или MOCCAE, либо понятный план её получения",
+   "Терапия: дерматология, ЖКТ, эндокринология мелких животных, климатические проблемы вроде теплового удара",
+   "Хирургия: стерилизация, мягкие ткани, при необходимости ортопедия, анестезия и мониторинг",
+   "Диагностика: рентген, УЗИ, лабораторные анализы, интерпретация без перекладывания на лабораторию",
+   "Документы: паспорта животных, вакцинации от бешенства, титры, справки на перелёт",
+   "Общение с владельцами: смета до лечения, сложные разговоры, отзывы в Google, английский и второй язык"
+  ],
+  "check_lead": "Опыт в резюме у ветеринаров выглядит похоже, а различие видно на случаях и в разговоре с владельцем. Решение принимает ваш главный врач.",
+  "steps": [
+   [
+    "Разбор случаев",
+    "три коротких случая: рвота у кошки, хромота у собаки, тепловой удар. Кандидат описывает диагностику, лечение и смету."
+   ],
+   [
+    "Практика в клинике",
+    "полдня приёма под наблюдением вашего врача или видео операции, которую кандидат комментирует."
+   ],
+   [
+    "Разговор с владельцем",
+    "ролевая сцена: владелец недоволен счётом или прогнозом. Смотрим на спокойствие и ясность."
+   ],
+   [
+    "Проверка лицензии и рекомендаций",
+    "статус лицензии, звонки в прошлые клиники о хирургии и отношении к животным."
+   ]
+  ],
+  "mistake": "Типичная ошибка: брать врача с хорошим резюме из сельскохозяйственной ветеринарии в клинику мелких животных или наоборот. Это разная медицина. Вторая ошибка: не учесть сроки лицензирования, и врач месяцами сидит без права вести приём.",
+  "sal": [
+   [
+    "Ветеринарный врач",
+    "12 000 - 18 000"
+   ],
+   [
+    "Старший ветеринарный врач",
+    "18 000 - 28 000"
+   ],
+   [
+    "Главный врач клиники",
+    "28 000 - 40 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Хирургия, работа с экзотическими животными или лошадьми и процент от выручки поднимают пакет; жильё и транспорт часто идут отдельно.",
+  "faq": [
+   [
+    "Сколько зарабатывает ветеринар в Дубае?",
+    "В 2026 году ветеринарный врач в Дубае получает около 12 000 - 18 000 AED в месяц, старший врач 18 000 - 28 000 AED, главный врач клиники 28 000 - 40 000 AED. Хирурги и специалисты по лошадям зарабатывают по верхней границе."
+   ],
+   [
+    "Какая лицензия нужна ветеринару в ОАЭ?",
+    "Ветеринарная практика в ОАЭ лицензируется на уровне эмирата и федерально: в Дубае это Dubai Municipality, в целом по стране MOCCAE. Процедура включает проверку диплома и опыта. Мы заранее уточняем у кандидата статус документов, чтобы срок выхода был реальным."
+   ]
+  ],
+  "seek_h2": "Вы ветеринар и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Veterinarian",
+  "title": "Hire a Veterinarian in Dubai: Licence, Clinics, Salary | TLNT",
+  "desc": "Hire a veterinarian in Dubai: Dubai Municipality or MOCCAE licence, surgery and medicine, practical checks on real cases, 2026 salaries and a shortlist.",
+  "h1": "Hire a veterinarian",
+  "h1em": "in Dubai",
+  "intro": "Veterinarians are in demand at Dubai small animal clinics, veterinary hospital chains, equestrian stables and clubs, kennels, pet stores with grooming and home visit services. The work covers consultations, vaccination and microchipping, diagnostics, surgery, inpatient care and pet import and export paperwork. Practising requires a veterinary licence (Dubai Municipality, MOCCAE). We help define the profile, shortlist from our live database and run a practical check on clinical cases.",
+  "find_lead": "A vet who handles consultations and surgery with confidence, talks to owners calmly and clearly, and knows local import and vaccination rules.",
+  "find": [
+   "Licence: Dubai Municipality or MOCCAE veterinary licence, or a clear plan to obtain it",
+   "Medicine: small animal dermatology, GI, endocrinology, climate issues such as heatstroke",
+   "Surgery: neutering, soft tissue, orthopaedics where needed, anaesthesia and monitoring",
+   "Diagnostics: X-ray, ultrasound, lab work, interpreting results without leaning on the lab",
+   "Paperwork: pet passports, rabies vaccination, titre tests, travel certificates",
+   "Owner communication: estimates before treatment, hard conversations, Google reviews, English and a second language"
+  ],
+  "check_lead": "Vet CVs look similar; the difference shows in real cases and in the conversation with the owner. Your head vet makes the call.",
+  "steps": [
+   [
+    "Case review",
+    "three short cases: a vomiting cat, a lame dog, heatstroke. The candidate outlines diagnostics, treatment and the estimate."
+   ],
+   [
+    "Clinic trial",
+    "half a day of consultations supervised by your vet, or a surgery video the candidate talks through."
+   ],
+   [
+    "Owner conversation",
+    "role-play: an owner unhappy with the bill or the prognosis. We look for calm and clarity."
+   ],
+   [
+    "Licence and references",
+    "licence status, calls to previous clinics about surgery skills and how they treat animals."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a vet with a strong farm animal background into a small animal clinic or the other way round. It is different medicine. Another one: ignoring licensing time, so the vet waits months without the right to see patients.",
+  "sal": [
+   [
+    "Veterinarian",
+    "12,000 - 18,000"
+   ],
+   [
+    "Senior veterinarian",
+    "18,000 - 28,000"
+   ],
+   [
+    "Head veterinarian",
+    "28,000 - 40,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Surgery, exotics or equine work and a share of revenue raise the package; housing and transport are often separate.",
+  "faq": [
+   [
+    "How much does a veterinarian earn in Dubai?",
+    "In 2026 a veterinarian in Dubai earns about AED 12,000 - 18,000 per month, a senior vet AED 18,000 - 28,000 and a head vet AED 28,000 - 40,000. Surgeons and equine vets are at the top of the range."
+   ],
+   [
+    "What licence does a vet need in the UAE?",
+    "Veterinary practice is licensed at emirate and federal level: Dubai Municipality in Dubai and MOCCAE nationally. The process includes degree and experience verification. We confirm the candidate's document status early so the start date is realistic."
+   ]
+  ],
+  "seek_h2": "Are you a veterinarian looking for a job in Dubai?"
+ }
+}

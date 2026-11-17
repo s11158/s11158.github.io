@@ -1,0 +1,136 @@
+{
+ "slug": "tax-consultant",
+ "hub": "finance",
+ "related": [
+  "vat-accountant",
+  "accountant",
+  "financial-controller",
+  "cfo"
+ ],
+ "ru": {
+  "name": "Налоговый консультант",
+  "title": "Найм налогового консультанта в Дубае: корпоративный налог, НДС | TLNT",
+  "desc": "Найм налогового консультанта в Дубае: корпоративный налог 9%, НДС, трансфертное ценообразование и FTA, проверка на кейсе, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм налогового консультанта",
+  "h1em": "в Дубае",
+  "intro": "Налоговые консультанты нужны консалтинговым и аудиторским фирмам Дубая, холдингам и семейным офисам, компаниям в свободных зонах и международным группам с бизнесом в ОАЭ. После введения корпоративного налога 9% задачи выросли: регистрация и декларации в FTA, статус квалифицированной компании свободной зоны, трансфертное ценообразование, НДС, налоговые резидентства и международные правила. Помогаем определить профиль, даём шорт-лист из нашей живой базы и проверяем кандидата на практическом кейсе.",
+  "find_lead": "Консультант, который знает налоговое законодательство ОАЭ на практике, а не по пересказам, и объясняет руководству последствия решений в цифрах.",
+  "find": [
+   "Корпоративный налог: ставка 9%, порог 375 000 AED, освобождения, налоговые группы, малый бизнес",
+   "Свободные зоны: статус qualifying free zone person, квалифицированный доход, требования к substance",
+   "Трансфертное ценообразование: сделки со связанными лицами, документация, master file и local file",
+   "НДС: регистрация, декларации, возвраты, сложные операции с недвижимостью и экспортом",
+   "Международные правила: соглашения об избежании двойного налогообложения, CRS, Pillar Two для крупных групп",
+   "Квалификации: ACCA, CA, CPA, CTA, регистрация налогового агента в FTA как плюс; портал EmaraTax"
+  ],
+  "check_lead": "Налоговые знания быстро устаревают, поэтому проверяем работу с актуальными правилами на кейсе, решение принимает ваш финансовый директор.",
+  "steps": [
+   [
+    "Кейс на структуру",
+    "группа: компания на материке, компания в свободной зоне, связанные займы. Кандидат определяет налоговые последствия и риски."
+   ],
+   [
+    "Расчёт налога",
+    "упрощённая отчётность: от бухгалтерской прибыли к налогооблагаемой базе с корректировками и расчётом налога."
+   ],
+   [
+    "Письмо клиенту",
+    "краткая записка руководителю о статусе квалифицированной компании свободной зоны: что нужно, чтобы его сохранить."
+   ],
+   [
+    "Рекомендации",
+    "звонки партнёрам или финансовым директорам: какие декларации готовил, споры с FTA, качество консультаций."
+   ]
+  ],
+  "mistake": "Типичная ошибка: брать бухгалтера с опытом НДС как налогового консультанта по корпоративному налогу. Это разные области, и ошибки в структуре и трансфертном ценообразовании обходятся штрафами. Ещё ошибка: не проверить, следит ли кандидат за решениями и разъяснениями FTA, которые выходят регулярно.",
+  "sal": [
+   [
+    "Младший налоговый консультант",
+    "10 000 - 16 000"
+   ],
+   [
+    "Налоговый консультант",
+    "16 000 - 28 000"
+   ],
+   [
+    "Старший консультант или налоговый менеджер",
+    "28 000 - 50 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт в крупной аудиторской фирме, трансфертное ценообразование и международные группы поднимают пакет.",
+  "faq": [
+   [
+    "Сколько зарабатывает налоговый консультант в Дубае?",
+    "В 2026 году младший налоговый консультант в Дубае получает около 10 000 - 16 000 AED в месяц, опытный консультант 16 000 - 28 000 AED, старший консультант или налоговый менеджер 28 000 - 50 000 AED. Трансфертное ценообразование и международный опыт платятся по верхней границе."
+   ],
+   [
+    "Нужен штатный налоговый консультант или внешняя фирма?",
+    "Компаниям с одним юрлицом обычно хватает бухгалтера и внешнего консультанта. Штатный специалист нужен группам с несколькими компаниями, свободными зонами, связанными сделками и регулярными вопросами к FTA. Поможем понять, какой формат подходит вам, до начала поиска."
+   ]
+  ],
+  "seek_h2": "Вы налоговый консультант и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Tax consultant",
+  "title": "Hire a Tax Consultant in Dubai: Corporate Tax, VAT, FTA | TLNT",
+  "desc": "Hire a tax consultant in Dubai: 9% corporate tax, VAT, transfer pricing and the FTA, a practical case check, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a tax consultant",
+  "h1em": "in Dubai",
+  "intro": "Tax consultants are hired by Dubai advisory and audit firms, holding groups and family offices, free zone companies and international groups doing business in the UAE. Since the 9% corporate tax came in, the work has grown: FTA registration and returns, qualifying free zone status, transfer pricing, VAT, tax residency and international rules. We help define the profile, shortlist from our live database and test the candidate on a practical case.",
+  "find_lead": "A consultant who knows UAE tax law in practice, not from summaries, and explains to management what decisions cost in numbers.",
+  "find": [
+   "Corporate tax: the 9% rate, the AED 375,000 threshold, exemptions, tax groups, small business relief",
+   "Free zones: qualifying free zone person status, qualifying income, substance requirements",
+   "Transfer pricing: related-party transactions, documentation, master file and local file",
+   "VAT: registration, returns, refunds, complex property and export transactions",
+   "International: double tax treaties, CRS, Pillar Two for large groups",
+   "Qualifications: ACCA, CA, CPA, CTA, FTA tax agent registration as a plus; the EmaraTax portal"
+  ],
+  "check_lead": "Tax knowledge goes out of date fast, so we test work with current rules on a case, and your finance director makes the decision.",
+  "steps": [
+   [
+    "Structure case",
+    "a group with a mainland company, a free zone company and related-party loans. The candidate sets out the tax consequences and risks."
+   ],
+   [
+    "Tax computation",
+    "simplified accounts: from accounting profit to taxable income with adjustments and the tax due."
+   ],
+   [
+    "Client note",
+    "a short memo to management on qualifying free zone status: what is needed to keep it."
+   ],
+   [
+    "References",
+    "calls with partners or finance directors: returns prepared, disputes with the FTA, quality of advice."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring an accountant with VAT experience as a corporate tax consultant. These are different fields, and mistakes in structure and transfer pricing end in penalties. Another one: not checking whether the candidate follows FTA decisions and public clarifications, which come out regularly.",
+  "sal": [
+   [
+    "Junior tax consultant",
+    "10,000 - 16,000"
+   ],
+   [
+    "Tax consultant",
+    "16,000 - 28,000"
+   ],
+   [
+    "Senior consultant or tax manager",
+    "28,000 - 50,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Big audit firm experience, transfer pricing and international groups raise the package.",
+  "faq": [
+   [
+    "How much does a tax consultant earn in Dubai?",
+    "In 2026 a junior tax consultant in Dubai earns about AED 10,000 - 16,000 per month, an experienced consultant AED 16,000 - 28,000 and a senior consultant or tax manager AED 28,000 - 50,000. Transfer pricing and international experience pay at the top of the range."
+   ],
+   [
+    "Do I need an in-house tax consultant or an external firm?",
+    "A single-entity company usually manages with an accountant and an external advisor. An in-house specialist makes sense for groups with several companies, free zones, related-party transactions and regular FTA questions. We help you choose the right format before the search starts."
+   ]
+  ],
+  "seek_h2": "Are you a tax consultant looking for a job in Dubai?"
+ }
+}

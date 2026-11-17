@@ -1,0 +1,136 @@
+{
+ "slug": "room-attendant",
+ "hub": "hospitality",
+ "related": [
+  "housekeeping-supervisor",
+  "housekeeper",
+  "hotel-receptionist",
+  "concierge"
+ ],
+ "ru": {
+  "name": "Горничная в отель",
+  "title": "Найм горничной в отель в Дубае: стандарты, проверка | TLNT",
+  "desc": "Найм горничных (room attendant) для отелей и апартаментов Дубая: стандарты уборки номера, практическая проверка, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм горничной",
+  "h1em": "для отеля в Дубае",
+  "intro": "Room attendant нужны отелям 4-5 звёзд, сервисным апартаментам, курортам на Пальме и в Дейре, а также операторам краткосрочной аренды. Работа: 12-16 номеров за смену по стандарту бренда, смена белья, мини-бар, отчёт о неисправностях, работа с потерянными вещами и гостями, которые в номере. Помогаем определить профиль под ваш формат (люкс, бизнес, апартаменты), даём шорт-лист из нашей живой базы и проводим практическую проверку на реальном номере, а решение остаётся за вашим executive housekeeper.",
+  "find_lead": "Сотрудник, который убирает номер быстро и по чек-листу бренда, замечает мелочи и умеет вести себя с гостем.",
+  "find": [
+   "Опыт в отелях 4-5 звёзд или сервисных апартаментах: знание стандартов международных сетей",
+   "Скорость и норма: 12-16 номеров за смену без потери качества, понимание разницы между выездом и проживанием",
+   "Химия и безопасность: правильные средства для мрамора, дерева и санузла, базовые правила охраны труда",
+   "Внимание к деталям: волосы, пыль на верхних поверхностях, раскладка аменитис, заправка кровати по стандарту",
+   "Работа с гостем: базовый английский, вежливость, протокол при гостях в номере и табличке DND",
+   "Честность и отчётность: потерянные вещи, мини-бар, заявки в инженерную службу через систему отеля"
+  ],
+  "check_lead": "Резюме горничной почти всегда выглядят одинаково, разница видна только в номере. Поэтому проверка строится вокруг реальной уборки, а оценку ставит ваш супервайзер.",
+  "steps": [
+   [
+    "Пробная уборка номера",
+    "кандидат за отведённые 30-40 минут готовит номер после выезда. Супервайзер смотрит чек-лист: санузел, пыль, кровать, раскладка, время."
+   ],
+   [
+    "Поиск дефектов",
+    "в номере заранее оставлены пять-шесть недочётов: волос на подушке, пятно на зеркале, пустой дозатор. Сколько кандидат найдёт сам."
+   ],
+   [
+    "Ситуации с гостем",
+    "гость в номере просит прийти позже, в номере найден телефон, гость жалуется на запах. Как кандидат действует и кому сообщает."
+   ],
+   [
+    "Рекомендации",
+    "звонок бывшему супервайзеру: норма номеров, пунктуальность, жалобы гостей и случаи с потерянными вещами."
+   ]
+  ],
+  "mistake": "Типичная ошибка: брать горничную только по фото и словам о \"большом опыте\" без пробной уборки. В первую неделю выясняется, что человек не держит норму или не знает стандарт заправки, и супервайзер переделывает за ним. Ещё ошибка: не уточнить график и транспорт до отеля, из-за чего сотрудник уходит в первый месяц.",
+  "sal": [
+   [
+    "Горничная (начальный уровень)",
+    "1 800 - 2 500"
+   ],
+   [
+    "Опытная горничная 5-звёздного отеля",
+    "2 500 - 3 500"
+   ],
+   [
+    "Старшая горничная или turndown attendant",
+    "3 500 - 4 500"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, базовая ставка. Отели обычно дают жильё, транспорт, питание в смену и service charge, поэтому полный пакет заметно выше базы.",
+  "faq": [
+   [
+    "Сколько зарабатывает горничная в отеле в Дубае?",
+    "В 2026 году горничная начального уровня в Дубае получает около 1 800 - 2 500 AED в месяц, опытная горничная 5-звёздного отеля 2 500 - 3 500 AED, старшая горничная до 4 500 AED. Сверху обычно жильё, транспорт, питание и service charge."
+   ],
+   [
+    "Нужен ли горничной опыт именно в Дубае?",
+    "Не обязательно. Важнее опыт в отелях международных сетей и готовность работать по стандарту. Мы проверяем навык на практике, а визу и оформление делает работодатель, сотрудник оформляется напрямую в ваш отель."
+   ]
+  ],
+  "seek_h2": "Вы горничная и ищете работу в отеле в Дубае?"
+ },
+ "en": {
+  "name": "Room attendant",
+  "title": "Hire a Room Attendant in Dubai: Standards, Practical Check | TLNT",
+  "desc": "Hire room attendants for Dubai hotels and serviced apartments: brand cleaning standards, a practical room check, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire a room attendant",
+  "h1em": "for your Dubai hotel",
+  "intro": "Room attendants are needed by 4 and 5 star hotels, serviced apartments, resorts on the Palm and in Deira, and short-let operators. The job: 12-16 rooms per shift to the brand standard, linen changes, minibar, maintenance reports, lost and found and guests who are still in the room. We help you define the profile for your format (luxury, business, apartments), shortlist from our live database and run a practical check in a real room, while your executive housekeeper makes the decision.",
+  "find_lead": "Someone who cleans a room fast and to the brand checklist, notices the details and knows how to behave with a guest.",
+  "find": [
+   "Experience in 4 or 5 star hotels or serviced apartments: knows international chain standards",
+   "Speed and quota: 12-16 rooms per shift without losing quality, knows a departure room from a stay-over",
+   "Chemicals and safety: the right products for marble, wood and bathrooms, basic health and safety rules",
+   "Attention to detail: hair, dust on high surfaces, amenity layout, bed making to standard",
+   "Guest handling: basic English, courtesy, protocol for guests in the room and DND signs",
+   "Honesty and reporting: lost and found, minibar, maintenance requests through the hotel system"
+  ],
+  "check_lead": "Room attendant CVs all look alike; the difference shows only in the room. So the check is built around a real clean, and your supervisor scores it.",
+  "steps": [
+   [
+    "Trial room clean",
+    "in 30-40 minutes the candidate prepares a departure room. The supervisor uses the checklist: bathroom, dust, bed, layout, time."
+   ],
+   [
+    "Spot the defects",
+    "five or six faults are planted in advance: a hair on the pillow, a mark on the mirror, an empty dispenser. How many the candidate finds alone."
+   ],
+   [
+    "Guest situations",
+    "the guest asks to come back later, a phone is found in the room, a guest complains about a smell. What the candidate does and who they tell."
+   ],
+   [
+    "References",
+    "a call with a former supervisor: room quota, punctuality, guest complaints and lost and found cases."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring on a photo and a claim of \"lots of experience\" with no trial clean. In the first week it turns out the person cannot hit the quota or does not know the bed standard, and the supervisor redoes the rooms. Another one: not agreeing shifts and transport to the hotel up front, so the person leaves in the first month.",
+  "sal": [
+   [
+    "Room attendant (entry level)",
+    "1,800 - 2,500"
+   ],
+   [
+    "Experienced 5 star room attendant",
+    "2,500 - 3,500"
+   ],
+   [
+    "Senior room attendant or turndown attendant",
+    "3,500 - 4,500"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, basic salary. Hotels usually add accommodation, transport, duty meals and service charge, so the full package is noticeably higher.",
+  "faq": [
+   [
+    "How much does a room attendant earn in Dubai?",
+    "In 2026 an entry level room attendant in Dubai earns about AED 1,800 - 2,500 per month, an experienced 5 star attendant AED 2,500 - 3,500 and a senior attendant up to AED 4,500. Accommodation, transport, meals and service charge usually come on top."
+   ],
+   [
+    "Does a room attendant need Dubai experience?",
+    "Not necessarily. Experience with international hotel chains and working to a standard matter more. We check the skill in practice; the visa and onboarding are arranged by the employer, and the person is employed directly by your hotel."
+   ]
+  ],
+  "seek_h2": "Are you a room attendant looking for a hotel job in Dubai?"
+ }
+}

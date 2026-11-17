@@ -1,0 +1,136 @@
+{
+ "slug": "optician",
+ "hub": "medical",
+ "related": [
+  "optometrist",
+  "ophthalmologist",
+  "retail-sales-associate",
+  "store-manager"
+ ],
+ "ru": {
+  "name": "Оптик-консультант",
+  "title": "Найм оптика в Дубае: лицензия DHA, салоны оптики, зарплата | TLNT",
+  "desc": "Найм оптика в Дубае: лицензия DHA для оптиков, подбор оправ и линз, продажи в салонах оптики, практическая проверка, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм оптика",
+  "h1em": "в Дубае",
+  "intro": "Оптики нужны сетям салонов оптики в торговых центрах Дубая, премиальным бутикам очков, оптикам при офтальмологических клиниках и онлайн-магазинам линз. Задачи: подбор оправ под лицо и рецепт, замеры, консультация по линзам, контактные линзы, мелкий ремонт и подгонка, продажи и сервис после покупки. Для работы с рецептами в Дубае нужна лицензия DHA (Optician). Помогаем определить профиль, даём шорт-лист из нашей живой базы и проводим практическую проверку замеров и продажи.",
+  "find_lead": "Специалист, который точно снимает замеры, разбирается в линзах и продаёт так, что клиент возвращается за второй парой.",
+  "find": [
+   "Лицензия DHA: Dispensing Optician или готовность её получить, отличие от роли оптометриста",
+   "Замеры: межзрачковое расстояние, высота посадки, углы оправы, работа с прогрессивными линзами",
+   "Линзы: индексы, покрытия, фотохромы, бренды (Essilor, Zeiss, Hoya) и как объяснить разницу в цене",
+   "Контактные линзы: подбор по рецепту, обучение клиента, повторные продажи",
+   "Мастерская: подгонка, замена винтов и носоупоров, контроль заказа из лаборатории",
+   "Продажи: средний чек, KPI салона, CRM, английский и второй язык для клиентов"
+  ],
+  "check_lead": "В оптике важны и точность, и продажи. Проверяем оба навыка руками, а решение принимает ваш управляющий салоном.",
+  "steps": [
+   [
+    "Замеры на модели",
+    "кандидат снимает замеры для прогрессивных линз и объясняет, как проверит готовые очки."
+   ],
+   [
+    "Ролевая продажа",
+    "клиент пришёл с рецептом из клиники и ограниченным бюджетом. Смотрим на подбор, объяснение линз и допродажу без давления."
+   ],
+   [
+    "Разбор жалобы",
+    "клиенту неудобно в новых прогрессивах. Что кандидат проверяет и что предлагает."
+   ],
+   [
+    "Лицензия и рекомендации",
+    "статус DHA, показатели продаж на прошлом месте, отзыв управляющего."
+   ]
+  ],
+  "mistake": "Типичная ошибка: путать оптика и оптометриста. Оптик подбирает и выдаёт очки по рецепту, оптометрист проверяет зрение и выписывает рецепт. Если салону нужна проверка зрения на месте, нанять одного оптика недостаточно.",
+  "sal": [
+   [
+    "Оптик-консультант",
+    "5 000 - 8 000"
+   ],
+   [
+    "Старший оптик",
+    "8 000 - 12 000"
+   ],
+   [
+    "Управляющий салоном оптики",
+    "12 000 - 18 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Комиссия с продаж может добавлять 15-30% к окладу; лицензия DHA и опыт с прогрессивными линзами поднимают пакет.",
+  "faq": [
+   [
+    "Сколько зарабатывает оптик в Дубае?",
+    "В 2026 году оптик-консультант в Дубае получает около 5 000 - 8 000 AED в месяц, старший оптик 8 000 - 12 000 AED, управляющий салоном 12 000 - 18 000 AED. Комиссия с продаж заметно увеличивает итог."
+   ],
+   [
+    "Нужна ли оптику лицензия DHA?",
+    "Для выдачи очков и линз по рецепту в Дубае требуется лицензия DHA для оптиков. Продавец-консультант без лицензии может помогать с выбором оправ, но не работать с рецептом. Проверяем это у кандидатов на первом этапе."
+   ]
+  ],
+  "seek_h2": "Вы оптик и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Optician",
+  "title": "Hire an Optician in Dubai: DHA Licence, Optical Stores, Salary | TLNT",
+  "desc": "Hire an optician in Dubai: DHA optician licence, frame and lens fitting, optical retail sales, practical checks, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire an optician",
+  "h1em": "in Dubai",
+  "intro": "Opticians are in demand at optical chains in Dubai malls, premium eyewear boutiques, opticals inside ophthalmology clinics and online lens retailers. The work covers fitting frames to the face and prescription, measurements, lens advice, contact lenses, small repairs and adjustments, sales and after-sales service. Dispensing against a prescription in Dubai requires a DHA licence (Optician). We help define the profile, shortlist from our live database and run a practical check of measurements and selling.",
+  "find_lead": "A specialist who measures precisely, understands lenses and sells in a way that brings the client back for a second pair.",
+  "find": [
+   "DHA licence: Dispensing Optician or readiness to obtain it, and the difference from an optometrist",
+   "Measurements: PD, fitting height, frame angles, progressive lens fitting",
+   "Lenses: indices, coatings, photochromics, brands (Essilor, Zeiss, Hoya) and explaining price differences",
+   "Contact lenses: fitting to prescription, client training, repeat sales",
+   "Workshop: adjustments, screws and nose pads, checking lab orders",
+   "Sales: average ticket, store KPIs, CRM, English and a second language for clients"
+  ],
+  "check_lead": "Optical retail needs both precision and selling. We test both hands-on, and your store manager makes the call.",
+  "steps": [
+   [
+    "Measurements on a model",
+    "the candidate takes measurements for progressive lenses and explains how they will check the finished glasses."
+   ],
+   [
+    "Sales role-play",
+    "a client arrives with a clinic prescription and a limited budget. We watch frame choice, lens explanation and add-ons without pressure."
+   ],
+   [
+    "Complaint review",
+    "a client is uncomfortable in new progressives. What the candidate checks and offers."
+   ],
+   [
+    "Licence and references",
+    "DHA status, sales numbers at the previous store, manager feedback."
+   ]
+  ],
+  "mistake": "Typical mistake: confusing an optician with an optometrist. An optician dispenses glasses against a prescription, an optometrist tests vision and writes it. If the store needs in-store eye tests, one optician is not enough.",
+  "sal": [
+   [
+    "Optician",
+    "5,000 - 8,000"
+   ],
+   [
+    "Senior optician",
+    "8,000 - 12,000"
+   ],
+   [
+    "Optical store manager",
+    "12,000 - 18,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Sales commission can add 15-30% to the base; a DHA licence and progressive lens experience raise the package.",
+  "faq": [
+   [
+    "How much does an optician earn in Dubai?",
+    "In 2026 an optician in Dubai earns about AED 5,000 - 8,000 per month, a senior optician AED 8,000 - 12,000 and an optical store manager AED 12,000 - 18,000. Sales commission noticeably increases the total."
+   ],
+   [
+    "Does an optician need a DHA licence?",
+    "Dispensing glasses and lenses against a prescription in Dubai requires a DHA optician licence. An unlicensed sales assistant can help with frames but not work with prescriptions. We check this at the first stage."
+   ]
+  ],
+  "seek_h2": "Are you an optician looking for a job in Dubai?"
+ }
+}

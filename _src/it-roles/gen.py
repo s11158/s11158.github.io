@@ -45,6 +45,22 @@ L = {
 }
 
 
+HUB_GUIDE = {'salesmkt': 'hiring-real-estate-brokers-dubai', 'hospitality': 'hotel-restaurant-staffing-dubai',
+             'retail': 'hiring-retail-luxury-staff-dubai', 'finance': 'hiring-finance-compliance-staff-dubai',
+             'education': 'hiring-teachers-dubai-khda', 'construction': 'hiring-engineers-construction-dubai',
+             'logistics': 'hiring-logistics-warehouse-staff-dubai', 'tech': 'hiring-tech-talent-dubai'}
+
+
+def hub_guide(d, lang):
+    """Ссылка на отраслевой гайд роли, если гайд уже опубликован (лежит на диске)."""
+    g = HUB_GUIDE.get(d.get('hub') or 'tech')
+    p = os.path.join(ROOT, *([] if lang == 'ru' else ['en']), 'guides', g or '-', 'index.html')
+    if not g or not os.path.exists(p):
+        return []
+    t = re.search(r'<title>(.*?)</title>', open(p, encoding='utf-8').read(), re.S).group(1)
+    return [(f"{'/en' if lang == 'en' else ''}/guides/{g}/", E(html.unescape(t).replace(' | TLNT', '').replace('TLNT.ae - ', '')))]
+
+
 def names(lang):
     """slug -> короткое имя роли (для чипов похожих позиций) из всех data-файлов."""
     out = {}
@@ -177,7 +193,7 @@ def page(d, lang, allnames):
 
 <section style="max-width:720px;margin:0 auto;padding:6px 22px 30px"><div style="font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:#7a7266;margin-bottom:14px">{l['rel']}</div><div style="display:flex;flex-wrap:wrap;gap:10px">''' + ''.join(
         f'<a href="{l["pre"]}/{r}/" style="{CHIP}">{E(allnames[r])}</a>' for r in d['related'] if r in allnames) + '</div><div style="margin-top:20px">' + ''.join(
-        f'<a href="{u}" style="{GL}">{n}</a>' for u, n in l['guides']) + '</div></section>\n' + sitenav
+        f'<a href="{u}" style="{GL}">{n}</a>' for u, n in hub_guide(d, lang) + l['guides']) + '</div></section>\n' + sitenav
     for ch in [chr(c) for c in (0x2014, 0x2013, 0x2192, 0xbb, 0xab)]:
         assert ch not in h.replace(sitenav, ''), (s, lang, repr(ch))
     return h

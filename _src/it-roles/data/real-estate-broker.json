@@ -1,0 +1,136 @@
+{
+ "slug": "real-estate-broker",
+ "hub": "salesmkt",
+ "related": [
+  "real-estate-agent",
+  "off-plan-sales-consultant",
+  "property-manager",
+  "sales-manager"
+ ],
+ "ru": {
+  "name": "Брокер по недвижимости",
+  "title": "Найм брокера по недвижимости в Дубае: RERA, сделки | TLNT",
+  "desc": "Найм брокера по недвижимости в Дубае: карта брокера DLD и RERA, вторичный рынок и аренда, проверка на реальной сделке, доход 2026 и шорт-лист от TLNT.",
+  "h1": "Найм брокера по недвижимости",
+  "h1em": "в Дубае",
+  "intro": "Брокеры нужны брокерским компаниям Дубая, девелоперам с собственными отделами продаж, семейным офисам и управляющим компаниям. Задачи: поиск продавцов и арендодателей, листинги на Property Finder и Bayut, показы, переговоры, сопровождение сделки через Form A, Form F и трастовый офис, работа с ипотечными клиентами. Для работы нужна карта брокера RERA от Dubai Land Department после курса и экзамена DREI. Помогаем определить профиль (вторичка, аренда, люкс), даём шорт-лист из нашей живой базы и проверяем навык на реальном сценарии сделки.",
+  "find_lead": "Брокер с картой RERA, который сам находит листинги и клиентов, ведёт сделку до трансфера и держит базу контактов.",
+  "find": [
+   "Лицензия: действующая карта брокера RERA или готовность сдать экзамен DREI в первые недели",
+   "Рынок: районы (Dubai Marina, Downtown, JVC, Palm), цены за квадратный фут, отчёты DLD",
+   "Процесс сделки: Form A, Form F, NOC от застройщика, трастовый офис, ипотечные сделки",
+   "Листинги и лиды: Property Finder, Bayut, CRM, правила рекламы и Trakheesi permit",
+   "Переговоры и база: свои покупатели и арендаторы, повторные клиенты, история закрытых сделок",
+   "Языки: английский свободно, русский, арабский или хинди как плюс для отдельных рынков"
+  ],
+  "check_lead": "Брокеры любят цифры, которые нельзя проверить. Мы просим подтверждения закрытых сделок и проверяем навык в деле, а решение принимает ваш директор продаж.",
+  "steps": [
+   [
+    "Разбор закрытых сделок",
+    "три последние сделки: объект, цена, роль кандидата, сроки, откуда пришёл клиент. По возможности с подтверждением из CRM или DLD."
+   ],
+   [
+    "Сценарий сделки",
+    "продажа квартиры в ипотеке покупателю с ипотекой: шаги, документы, сроки и где сделки обычно срываются."
+   ],
+   [
+    "Ролевые переговоры",
+    "владелец хочет цену на 15% выше рынка. Как кандидат аргументирует с данными DLD и берёт эксклюзив."
+   ],
+   [
+    "Рекомендации",
+    "звонки бывшим руководителям: реальный объём сделок, жалобы клиентов, соблюдение правил рекламы."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанимать брокеров \"на поток\" без проверки лицензии и реальных сделок в надежде, что кто-то выстрелит. Без базы и навыка лидогенерации большинство уходит через три месяца. Ещё ошибка: не согласовать заранее схему комиссии и правила по лидам компании.",
+  "sal": [
+   [
+    "Брокер (начальный уровень, база + комиссия)",
+    "5 000 - 10 000"
+   ],
+   [
+    "Опытный брокер",
+    "15 000 - 35 000"
+   ],
+   [
+    "Старший брокер или team leader",
+    "35 000 - 70 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка среднего месячного дохода в Дубае на 2026 год с учётом комиссии. Многие компании работают по схеме только комиссия, доход сильно зависит от сегмента и рынка.",
+  "faq": [
+   [
+    "Сколько зарабатывает брокер по недвижимости в Дубае?",
+    "В 2026 году начинающий брокер в Дубае с базой и комиссией получает около 5 000 - 10 000 AED в месяц, опытный брокер 15 000 - 35 000 AED в среднем, старший брокер или team leader 35 000 - 70 000 AED. Основную часть дохода даёт комиссия."
+   ],
+   [
+    "Нужна ли брокеру карта RERA до выхода на работу?",
+    "Для работы с клиентами и рекламы объектов брокер должен иметь карту RERA от DLD. Кандидат без карты может пройти курс и экзамен DREI в первые недели, оплату и регистрацию обычно берёт на себя работодатель. Мы заранее уточняем статус лицензии."
+   ]
+  ],
+  "seek_h2": "Вы брокер по недвижимости и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Real estate broker",
+  "title": "Hire a Real Estate Broker in Dubai: RERA, Deals, Income | TLNT",
+  "desc": "Hire a real estate broker in Dubai: DLD and RERA broker card, secondary market and leasing, a check on a real deal, 2026 income and a TLNT shortlist.",
+  "h1": "Hire a real estate broker",
+  "h1em": "in Dubai",
+  "intro": "Brokers are needed by Dubai brokerages, developers with in-house sales teams, family offices and property management companies. The work: sourcing sellers and landlords, listings on Property Finder and Bayut, viewings, negotiation, taking the deal through Form A, Form F and the trustee office, and mortgage buyers. A RERA broker card from the Dubai Land Department is required after the DREI course and exam. We help you define the profile (secondary, leasing, luxury), shortlist from our live database and test the skill on a real deal scenario.",
+  "find_lead": "A RERA-licensed broker who sources listings and clients alone, takes the deal through to transfer and keeps a contact base.",
+  "find": [
+   "Licence: a valid RERA broker card or readiness to pass the DREI exam in the first weeks",
+   "Market: areas (Dubai Marina, Downtown, JVC, Palm), price per square foot, DLD reports",
+   "Deal process: Form A, Form F, developer NOC, trustee office, mortgage transactions",
+   "Listings and leads: Property Finder, Bayut, CRM, advertising rules and the Trakheesi permit",
+   "Negotiation and network: own buyers and tenants, repeat clients, a record of closed deals",
+   "Languages: fluent English, Russian, Arabic or Hindi as a plus for specific markets"
+  ],
+  "check_lead": "Brokers love numbers nobody can check. We ask for evidence of closed deals and test the skill in practice, and your sales director makes the decision.",
+  "steps": [
+   [
+    "Closed deal review",
+    "the last three deals: property, price, the candidate's role, timeline, lead source. Where possible confirmed in the CRM or with DLD data."
+   ],
+   [
+    "Deal scenario",
+    "selling a mortgaged flat to a mortgage buyer: steps, documents, timing and where such deals usually fall through."
+   ],
+   [
+    "Negotiation role play",
+    "the owner wants 15% above market. How the candidate argues with DLD data and wins an exclusive."
+   ],
+   [
+    "References",
+    "calls with former managers: real deal volume, client complaints, compliance with advertising rules."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring brokers in bulk with no licence or deal check, hoping someone will take off. Without a network and lead generation skills most leave within three months. Another one: not agreeing the commission split and company lead rules up front.",
+  "sal": [
+   [
+    "Junior broker (basic plus commission)",
+    "5,000 - 10,000"
+   ],
+   [
+    "Experienced broker",
+    "15,000 - 35,000"
+   ],
+   [
+    "Senior broker or team leader",
+    "35,000 - 70,000"
+   ]
+  ],
+  "sal_note": "Market estimate of average monthly income in Dubai in 2026 including commission. Many firms pay commission only, and income depends heavily on segment and market.",
+  "faq": [
+   [
+    "How much does a real estate broker earn in Dubai?",
+    "In 2026 a junior broker in Dubai on basic plus commission earns about AED 5,000 - 10,000 per month, an experienced broker AED 15,000 - 35,000 on average and a senior broker or team leader AED 35,000 - 70,000. Most income comes from commission."
+   ],
+   [
+    "Does a broker need a RERA card before starting?",
+    "To deal with clients and advertise property a broker must hold a RERA card from DLD. A candidate without one can take the DREI course and exam in the first weeks; the employer usually covers fees and registration. We check licence status up front."
+   ]
+  ],
+  "seek_h2": "Are you a real estate broker looking for a job in Dubai?"
+ }
+}

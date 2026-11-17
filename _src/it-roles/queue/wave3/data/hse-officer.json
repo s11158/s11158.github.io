@@ -1,0 +1,77 @@
+{
+ "slug": "hse-officer",
+ "hub": "construction",
+ "related": ["site-engineer", "construction-project-manager", "facility-manager", "security-guard"],
+ "ru": {
+  "name": "Специалист по охране труда (HSE Officer)",
+  "title": "Найм HSE Officer в Дубае: NEBOSH, проверка, зарплата | TLNT",
+  "desc": "Найм HSE Officer в Дубае: NEBOSH, требования Dubai Municipality и OSHAD, допуски и расследования, практическая проверка, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм HSE Officer",
+  "h1em": "в Дубае",
+  "intro": "HSE Officer в Дубае нужен генподрядчикам, MEP и fit-out компаниям, нефтегазовому сервису, логистике, производству и facility management. Он следит, чтобы люди возвращались домой целыми: оценка рисков, допуски на работы, инструктажи, инспекции, расследование инцидентов и отчётность для консультанта и Dubai Municipality. Помогаем понять, нужен вам инспектор на площадку или HSE-менеджер с системой, даём шорт-лист из нашей живой базы и проводим практическую проверку, которую оценивает ваш руководитель проекта.",
+  "find_lead": "Специалист, который останавливает опасную работу без скандала, учит бригады на понятном им языке и ведёт документы так, что их не стыдно показать инспектору.",
+  "find": [
+   "Квалификация: NEBOSH IGC или эквивалент, для старших ролей NEBOSH Diploma или IOSH",
+   "Требования ОАЭ: Dubai Municipality Code of Construction Safety Practice, OSHAD для Абу-Даби, правила Civil Defence",
+   "Аккредитация: регистрация HSE Officer в Dubai Municipality для строительных объектов",
+   "Практика: оценка рисков, method statements, permits to work, работы на высоте, подъёмы, ограниченные пространства",
+   "Тепловой стресс: летний полуденный перерыв, режим воды и отдыха, контроль самочувствия бригад",
+   "Расследования: разбор инцидентов, корректирующие меры, статистика LTI и отчёты заказчику"
+  ],
+  "check_lead": "Сертификат NEBOSH есть у многих, но не все умеют применять его на живой площадке. Проверки построены на реальных ситуациях, решение за вашим руководителем.",
+  "steps": [
+   ["Обход по фото", "серия фото с площадки: за 20 минут найти нарушения, оценить риск и сказать, какие работы остановить немедленно."],
+   ["Оценка рисков", "кандидат пишет оценку рисков и порядок допуска на подъём краном возле действующей дороги."],
+   ["Разбор инцидента", "падение инструмента с лесов, пострадавших нет. Как расследовать, что сообщить и какие меры ввести."],
+   ["Проверка документов", "сверяем NEBOSH и регистрацию в Dubai Municipality, звоним руководителям прошлых проектов."]
+  ],
+  "mistake": "Типичная ошибка: нанимать HSE только ради бумаги для консультанта. Такой специалист заполняет формы, а риски на площадке остаются. Ещё ошибка: не проверить, говорит ли кандидат с бригадами на их языке, хотя инструктаж, который не поняли, не работает.",
+  "sal": [
+   ["HSE Officer", "5 000 - 9 000"],
+   ["Старший HSE Officer или HSE Engineer", "9 000 - 16 000"],
+   ["HSE Manager", "16 000 - 30 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. NEBOSH Diploma, нефтегаз и крупные проекты поднимают пакет; у подрядчиков часто добавляются жильё и транспорт.",
+  "faq": [
+   ["Сколько зарабатывает HSE Officer в Дубае?", "В 2026 году HSE Officer в Дубае получает около 5 000 - 9 000 AED в месяц, старший специалист или HSE Engineer 9 000 - 16 000 AED, HSE Manager 16 000 - 30 000 AED. Нефтегаз и крупные инфраструктурные проекты платят по верхней границе."],
+   ["Нужна ли HSE Officer регистрация в Dubai Municipality?", "Для строительных объектов в Дубае HSE Officer обычно должен быть одобрен Dubai Municipality, а консультант часто проверяет это до допуска на площадку. Уточняем статус кандидата заранее, чтобы не потерять недели после выхода."]
+  ],
+  "seek_h2": "Вы HSE Officer и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "HSE officer",
+  "title": "Hire an HSE Officer in Dubai: NEBOSH, Checks, Salary | TLNT",
+  "desc": "Hire an HSE officer in Dubai: NEBOSH, Dubai Municipality and OSHAD rules, permits and investigations, practical checks, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire an HSE officer",
+  "h1em": "in Dubai",
+  "intro": "HSE officers in Dubai are needed by main contractors, MEP and fit-out companies, oil and gas services, logistics, manufacturing and facility management. They make sure people go home safe: risk assessments, permits to work, inductions, inspections, incident investigations and reporting to the consultant and Dubai Municipality. We help you decide whether you need a site inspector or an HSE manager who builds a system, shortlist from our live database and run a practical check that your project lead scores.",
+  "find_lead": "A professional who stops unsafe work without a fight, trains crews in a language they understand and keeps documents ready for any inspector.",
+  "find": [
+   "Qualification: NEBOSH IGC or equivalent, NEBOSH Diploma or IOSH for senior roles",
+   "UAE rules: Dubai Municipality Code of Construction Safety Practice, OSHAD in Abu Dhabi, Civil Defence requirements",
+   "Approval: Dubai Municipality HSE officer registration for construction sites",
+   "Practice: risk assessments, method statements, permits to work, work at height, lifting, confined spaces",
+   "Heat stress: the summer midday break, water and rest regime, monitoring crew wellbeing",
+   "Investigations: incident analysis, corrective actions, LTI statistics and client reports"
+  ],
+  "check_lead": "Many people hold NEBOSH, not all of them can apply it on a live site. The checks use real situations, and your manager makes the call.",
+  "steps": [
+   ["Photo walk", "a set of site photos: in 20 minutes find the hazards, rate the risk and say which work must stop immediately."],
+   ["Risk assessment", "the candidate writes a risk assessment and permit procedure for a crane lift next to a live road."],
+   ["Incident review", "a tool fell from scaffolding, nobody hurt. How to investigate, what to report and which measures to introduce."],
+   ["Document check", "we verify NEBOSH and Dubai Municipality registration and call managers from past projects."]
+  ],
+  "mistake": "Typical mistake: hiring HSE only to produce paperwork for the consultant. Such a person fills in forms while site risks stay. Another one: not checking whether the candidate can talk to crews in their language, although an induction nobody understood does not work.",
+  "sal": [
+   ["HSE officer", "5,000 - 9,000"],
+   ["Senior HSE officer or HSE engineer", "9,000 - 16,000"],
+   ["HSE manager", "16,000 - 30,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. NEBOSH Diploma, oil and gas and large projects raise the package; contractors often add housing and transport.",
+  "faq": [
+   ["How much does an HSE officer earn in Dubai?", "In 2026 an HSE officer in Dubai earns about AED 5,000 - 9,000 per month, a senior officer or HSE engineer AED 9,000 - 16,000 and an HSE manager AED 16,000 - 30,000. Oil and gas and large infrastructure projects pay at the top of the range."],
+   ["Does an HSE officer need Dubai Municipality registration?", "On Dubai construction sites the HSE officer usually has to be approved by Dubai Municipality, and the consultant often checks it before site access. We confirm the candidate's status in advance so you do not lose weeks after they join."]
+  ],
+  "seek_h2": "Are you an HSE officer looking for a job in Dubai?"
+ }
+}

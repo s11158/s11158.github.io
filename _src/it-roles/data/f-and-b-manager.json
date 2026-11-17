@@ -1,0 +1,77 @@
+{
+ "slug": "f-and-b-manager",
+ "hub": "hospitality",
+ "related": ["restaurant-manager", "executive-chef", "hotel-general-manager", "bartender"],
+ "ru": {
+  "name": "Менеджер F&B",
+  "title": "Найм F&B менеджера в Дубае: food cost, команда, зарплата | TLNT",
+  "desc": "Найм менеджера F&B в Дубае: рестораны, бары и банкеты отеля, food cost и лицензии на алкоголь, практическая проверка на цифрах, зарплаты 2026 от TLNT.",
+  "h1": "Найм менеджера F&B",
+  "h1em": "в Дубае",
+  "intro": "Менеджеры F&B нужны отелям с несколькими ресторанами и барами, ресторанным группам, бич-клубам, кейтерингу и банкетным площадкам. Задачи: выручка и себестоимость по всем точкам, меню и цены вместе с шефом, персонал зала, банкеты и мероприятия, лицензии и гигиена по требованиям Dubai Municipality. Помогаем определить профиль под ваш формат, даём шорт-лист из нашей живой базы и проводим проверку на реальных цифрах, решение принимаете вы.",
+  "find_lead": "Руководитель, который видит выручку и food cost каждой точки, держит сервис на уровне в пятничный бранч и умеет договориться с шефом.",
+  "find": [
+   "Цифры: бюджет F&B, food cost и beverage cost, затраты на персонал, средний чек и выручка на место",
+   "Меню и цены: инжиниринг меню вместе с шефом, сезонные предложения, бранчи и happy hour",
+   "Банкеты и мероприятия: продажа, BEO, расстановка, работа со свадьбами и корпоративными клиентами",
+   "Нормы: гигиена и HACCP, требования Dubai Municipality, лицензии на алкоголь и правила подачи",
+   "Команда: менеджеры точек, официанты и бармены, обучение, график, удержание",
+   "Системы: POS (Micros, Simphony), складской учёт, отзывы и бронирования (SevenRooms, OpenTable)"
+  ],
+  "check_lead": "Опыт в известном отеле не показывает, как человек управлял прибылью. Проверка опирается на цифры и реальные ситуации в зале, а решение принимает ваш GM.",
+  "steps": [
+   ["Разбор отчёта F&B", "отчёт по трём точкам: у одной растёт food cost, у другой падает средний чек. Кандидат находит причины и предлагает конкретные шаги на месяц."],
+   ["Кейс по банкету", "запрос на свадьбу на 250 гостей с ограниченным бюджетом. Кандидат собирает предложение, считает маржу и описывает работу команды в день события."],
+   ["Ситуации в зале", "полный бранч, задержка с кухни и жалоба VIP-гостя. Как кандидат действует в моменте и что меняет после."],
+   ["Рекомендации", "звонки GM и директорам: динамика выручки и себестоимости, результаты аудитов гигиены, текучесть команды."]
+  ],
+  "mistake": "Типичная ошибка: повысить сильного ресторанного менеджера до F&B, не проверив, умеет ли он работать с бюджетом сразу нескольких точек и банкетов. Ещё ошибка: не оговорить, кто отвечает за food cost, F&B или шеф; без этого обе стороны перекладывают ответственность.",
+  "sal": [
+   ["Помощник менеджера F&B", "10 000 - 15 000"],
+   ["Менеджер F&B", "15 000 - 25 000"],
+   ["Директор F&B отеля или группы", "25 000 - 45 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. В отелях часто добавляются жильё, питание и бонус по результатам; в ресторанных группах бывает процент от прибыли.",
+  "faq": [
+   ["Сколько зарабатывает менеджер F&B в Дубае?", "В 2026 году помощник менеджера F&B в Дубае получает около 10 000 - 15 000 AED в месяц, менеджер F&B 15 000 - 25 000 AED, директор F&B отеля или группы 25 000 - 45 000 AED. В отелях к этому часто добавляются жильё и бонус."],
+   ["Чем менеджер F&B отличается от ресторанного менеджера?", "Ресторанный менеджер отвечает за одну точку. Менеджер F&B ведёт сразу несколько ресторанов, баров, room service и банкеты, работает с общим бюджетом и шефом. Поможем понять, какой уровень нужен вашему объекту, и проверить кандидатов на ваших цифрах."]
+  ],
+  "seek_h2": "Вы менеджер F&B и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "F&B manager",
+  "title": "Hire an F&B Manager in Dubai: Food Cost, Team, Salary | TLNT",
+  "desc": "Hire an F&B manager in Dubai: hotel restaurants, bars and banqueting, food cost and liquor licensing, a practical check on real numbers and 2026 salaries.",
+  "h1": "Hire an F&B manager",
+  "h1em": "in Dubai",
+  "intro": "F&B managers are needed by hotels with several restaurants and bars, restaurant groups, beach clubs, catering companies and banqueting venues. The work covers revenue and cost of sales across outlets, menus and pricing with the chef, front-of-house staff, banquets and events, licences and hygiene under Dubai Municipality rules. We help you define the profile for your format, shortlist from our live database and run a check on real numbers, and you make the decision.",
+  "find_lead": "A leader who sees the revenue and food cost of every outlet, keeps service right during a Friday brunch and works well with the chef.",
+  "find": [
+   "Numbers: F&B budget, food and beverage cost, payroll, average check and revenue per seat",
+   "Menu and pricing: menu engineering with the chef, seasonal offers, brunches and happy hours",
+   "Banquets and events: sales, BEOs, set-up, weddings and corporate clients",
+   "Compliance: hygiene and HACCP, Dubai Municipality requirements, liquor licences and service rules",
+   "Team: outlet managers, waiters and bartenders, training, rotas, retention",
+   "Systems: POS (Micros, Simphony), inventory, reviews and bookings (SevenRooms, OpenTable)"
+  ],
+  "check_lead": "Experience at a famous hotel does not show how the person managed profit. The checks rely on numbers and real floor situations, and your GM decides.",
+  "steps": [
+   ["F&B report review", "a report on three outlets: one has rising food cost, another a falling average check. The candidate finds the causes and proposes concrete steps for the month."],
+   ["Banquet case", "an enquiry for a 250-guest wedding on a tight budget. The candidate builds the offer, calculates margin and describes how the team works on the day."],
+   ["Floor situations", "a full brunch, a kitchen delay and a VIP complaint. How the candidate acts in the moment and what they change afterwards."],
+   ["References", "calls with GMs and directors: revenue and cost trends, hygiene audit results, team turnover."]
+  ],
+  "mistake": "Typical mistake: promoting a strong restaurant manager to F&B without checking whether they can run the budget of several outlets and banquets at once. Another one: not agreeing who owns food cost, F&B or the chef; without that both sides pass the responsibility around.",
+  "sal": [
+   ["Assistant F&B manager", "10,000 - 15,000"],
+   ["F&B manager", "15,000 - 25,000"],
+   ["Director of F&B for a hotel or group", "25,000 - 45,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Hotels often add housing, meals and a performance bonus; restaurant groups sometimes offer a profit share.",
+  "faq": [
+   ["How much does an F&B manager earn in Dubai?", "In 2026 an assistant F&B manager in Dubai earns about AED 10,000 - 15,000 per month, an F&B manager AED 15,000 - 25,000 and a director of F&B for a hotel or group AED 25,000 - 45,000. Hotels often add housing and a bonus."],
+   ["How is an F&B manager different from a restaurant manager?", "A restaurant manager runs one outlet. An F&B manager runs several restaurants, bars, room service and banquets at once, with a shared budget and the chef. We help you work out which level your venue needs and test candidates on your numbers."]
+  ],
+  "seek_h2": "Are you an F&B manager looking for a job in Dubai?"
+ }
+}

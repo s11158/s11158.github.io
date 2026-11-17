@@ -1,0 +1,136 @@
+{
+ "slug": "security-guard",
+ "hub": "hospitality",
+ "related": [
+  "private-driver",
+  "concierge",
+  "house-manager",
+  "facility-manager"
+ ],
+ "ru": {
+  "name": "Охранник",
+  "title": "Найм охранника в Дубае: лицензия SIRA, проверка, зарплата | TLNT",
+  "desc": "Найм охранников в Дубае: лицензия SIRA, объекты, виллы и VIP-охрана, практическая проверка, реальные зарплаты 2026 и шорт-лист кандидатов от TLNT.",
+  "h1": "Найм охранника",
+  "h1em": "в Дубае",
+  "intro": "Охранники нужны жилым комплексам и офисным башням, отелям и торговым центрам, частным виллам и семьям, ювелирным бутикам и мероприятиям. В Дубае охрану регулирует SIRA (Security Industry Regulatory Agency): сотрудник должен пройти обучение и получить лицензию, а работать через лицензированную компанию или по правилам SIRA для конкретного объекта. Помогаем определить профиль (объект, вилла, VIP), даём шорт-лист из нашей живой базы и проводим практическую проверку, а лицензирование и оформление делает работодатель.",
+  "find_lead": "Сотрудник с допуском SIRA, который замечает отклонения, ведёт журнал и умеет вежливо, но твёрдо работать с людьми.",
+  "find": [
+   "Лицензия: действующая карта SIRA или готовность пройти обучение и экзамен, чистая история",
+   "Опыт объектов: жилые башни, отели, ТЦ, виллы, ювелирные магазины, мероприятия",
+   "Процедуры: контроль доступа, обходы, журнал смены, работа с CCTV и системами доступа",
+   "Пожарная безопасность и первая помощь: эвакуация, базовая медицинская подготовка",
+   "Поведение: спокойствие в конфликте, вежливость с жильцами и гостями, опрятный вид",
+   "Языки: английский для отчётов и общения, арабский, русский или хинди как плюс для отдельных объектов"
+  ],
+  "check_lead": "Форма и рост ничего не говорят о том, как человек поведёт себя в конфликте или при пожаре. Проверка смотрит на процедуры и поведение, а решение остаётся за вами.",
+  "steps": [
+   [
+    "Документы и лицензия",
+    "проверка статуса карты SIRA, сроков действия и истории работы на объектах."
+   ],
+   [
+    "Ситуации на посту",
+    "посетитель без пропуска настаивает пройти, сработала пожарная сигнализация, жилец жалуется на соседа. Действия по шагам."
+   ],
+   [
+    "Журнал и отчёт",
+    "кандидат пишет запись в журнал смены и короткий отчёт об инциденте на английском."
+   ],
+   [
+    "Рекомендации",
+    "звонок бывшему супервайзеру или менеджеру объекта: дисциплина, опоздания, инциденты."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанять охранника напрямую на виллу или объект, не проверив требования SIRA к лицензии и к тому, кто может его нанимать. Это грозит штрафами владельцу. Ещё ошибка: смотреть только на внешний вид и не проверить английский для журнала и отчётов.",
+  "sal": [
+   [
+    "Охранник объекта",
+    "2 500 - 4 000"
+   ],
+   [
+    "Охранник на виллу или в люкс-ретейл",
+    "4 000 - 7 000"
+   ],
+   [
+    "Супервайзер или личная охрана",
+    "7 000 - 15 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Жильё, транспорт, длина смены и требования к личной охране (подготовка, языки) сильно меняют пакет.",
+  "faq": [
+   [
+    "Сколько зарабатывает охранник в Дубае?",
+    "В 2026 году охранник объекта в Дубае получает около 2 500 - 4 000 AED в месяц, охранник на вилле или в люкс-ретейле 4 000 - 7 000 AED, супервайзер или сотрудник личной охраны 7 000 - 15 000 AED. Сверху часто жильё и транспорт."
+   ],
+   [
+    "Нужна ли охраннику лицензия SIRA?",
+    "Да, для работы охранником в Дубае нужна лицензия SIRA, а нанимать охрану можно в рамках правил SIRA. Перед стартом мы уточняем статус лицензии у кандидатов, а оформление и соответствие требованиям остаются за работодателем."
+   ]
+  ],
+  "seek_h2": "Вы охранник и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Security guard",
+  "title": "Hire a Security Guard in Dubai: SIRA Licence, Checks, Salary | TLNT",
+  "desc": "Hire security guards in Dubai: SIRA licence, sites, villas and VIP protection, a practical check, realistic 2026 salaries and a candidate shortlist from TLNT.",
+  "h1": "Hire a security guard",
+  "h1em": "in Dubai",
+  "intro": "Security guards are needed by residential and office towers, hotels and malls, private villas and families, jewellery boutiques and events. In Dubai security is regulated by SIRA (Security Industry Regulatory Agency): a guard must complete training and hold a licence, and work through a licensed company or under SIRA rules for the specific site. We help you define the profile (site, villa, VIP), shortlist from our live database and run a practical check, while licensing and onboarding are handled by the employer.",
+  "find_lead": "A SIRA-approved guard who spots anything unusual, keeps a proper log and handles people politely but firmly.",
+  "find": [
+   "Licence: a valid SIRA card or readiness to train and pass the exam, a clean record",
+   "Site experience: residential towers, hotels, malls, villas, jewellery stores, events",
+   "Procedures: access control, patrols, shift log, CCTV and access systems",
+   "Fire safety and first aid: evacuation, basic medical training",
+   "Conduct: calm in conflict, courteous with residents and guests, smart appearance",
+   "Languages: English for reports and contact, Arabic, Russian or Hindi as a plus for some sites"
+  ],
+  "check_lead": "Uniform and height say nothing about how someone behaves in a conflict or a fire. The check looks at procedures and conduct, and you make the decision.",
+  "steps": [
+   [
+    "Documents and licence",
+    "checking SIRA card status, expiry and site history."
+   ],
+   [
+    "Post scenarios",
+    "a visitor without a pass insists on entering, the fire alarm goes off, a resident complains about a neighbour. Step by step actions."
+   ],
+   [
+    "Log and report",
+    "the candidate writes a shift log entry and a short incident report in English."
+   ],
+   [
+    "References",
+    "a call with a former supervisor or site manager: discipline, lateness, incidents."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a guard directly for a villa or building without checking SIRA rules on licensing and on who may employ them. That exposes the owner to fines. Another one: looking only at appearance and not testing English for logs and reports.",
+  "sal": [
+   [
+    "Site security guard",
+    "2,500 - 4,000"
+   ],
+   [
+    "Villa or luxury retail guard",
+    "4,000 - 7,000"
+   ],
+   [
+    "Supervisor or close protection",
+    "7,000 - 15,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Accommodation, transport, shift length and close protection requirements (training, languages) change the package a lot.",
+  "faq": [
+   [
+    "How much does a security guard earn in Dubai?",
+    "In 2026 a site security guard in Dubai earns about AED 2,500 - 4,000 per month, a villa or luxury retail guard AED 4,000 - 7,000 and a supervisor or close protection officer AED 7,000 - 15,000. Accommodation and transport often come on top."
+   ],
+   [
+    "Does a security guard need a SIRA licence?",
+    "Yes, working as a guard in Dubai requires a SIRA licence, and security staff may only be engaged within SIRA rules. We check licence status with candidates up front; onboarding and compliance stay with the employer."
+   ]
+  ],
+  "seek_h2": "Are you a security guard looking for a job in Dubai?"
+ }
+}

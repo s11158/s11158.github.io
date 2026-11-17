@@ -1,0 +1,77 @@
+{
+ "slug": "document-controller",
+ "hub": "construction",
+ "related": ["construction-project-manager", "quantity-surveyor", "site-engineer", "administrative-assistant"],
+ "ru": {
+  "name": "Документ-контролёр",
+  "title": "Найм документ-контролёра в Дубае: Aconex, EDMS, зарплата | TLNT",
+  "desc": "Найм документ-контролёра в Дубае: Aconex и EDMS, ревизии чертежей и трансмитталы, практическая проверка, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм документ-контролёра",
+  "h1em": "в Дубае",
+  "intro": "Документ-контролёры нужны девелоперам, генподрядчикам, MEP-подрядчикам, консультантам по надзору, нефтегазовым и инфраструктурным проектам Дубая и Абу-Даби. Задачи: регистрация чертежей и ревизий, трансмитталы, RFI и сабмиталы консультанту, работа в Aconex или другой EDMS, отчёты по просроченным документам. Помогаем понять, нужен вам контролёр на площадку или в головной офис, даём шорт-лист из нашей живой базы и проводим практическую проверку на реальном наборе документов.",
+  "find_lead": "Специалист, у которого на проекте всегда понятно, какая ревизия чертежа действующая, кто её получил и что ждёт ответа консультанта.",
+  "find": [
+   "EDMS: Oracle Aconex, Procore, SharePoint или Asite, настройка workflow и прав доступа",
+   "Контроль ревизий: нумерация по стандарту проекта, статусы A, B, C, замена устаревших чертежей на площадке",
+   "Трансмитталы и сабмиталы: отправка консультанту, сроки ответа, журнал комментариев",
+   "RFI, NCR и переписка: регистрация, отслеживание закрытия, связь с графиком проекта",
+   "Отчётность: Excel и Power BI, еженедельный статус документов для проджект-менеджера и клиента",
+   "Стандарты: ISO 9001 и требования клиента к передаче исполнительной документации при сдаче объекта"
+  ],
+  "check_lead": "Опрятное резюме не говорит о том, как человек справляется с сотней документов в неделю. Проверки построены на реальном потоке, а решение принимает ваш проджект-менеджер.",
+  "steps": [
+   ["Задание на реестр", "кандидат получает папку из 30-40 чертежей с разными ревизиями и за час составляет реестр, находит дубли и устаревшие версии."],
+   ["Разбор workflow", "консультант вернул сабмитал со статусом C. Что кандидат делает дальше, кого уведомляет, как это отражается в журнале и отчёте."],
+   ["Проверка инструментов", "короткая практика в Excel (фильтры, сводная таблица, условное форматирование) и рассказ о настройке Aconex на прошлом проекте."],
+   ["Рекомендации", "звонки проджект-менеджерам и QA/QC с прошлых проектов: объём документов, аккуратность, работа под сроками сдачи."]
+  ],
+  "mistake": "Типичная ошибка: брать на эту роль офис-ассистента без опыта стройки. Он ведёт папки, но не понимает разницы между IFC и shop drawing, и на площадке строят по устаревшей ревизии. Ещё ошибка: не уточнить, в какой EDMS работает консультант, и потерять первые недели на обучение.",
+  "sal": [
+   ["Младший документ-контролёр", "5 000 - 8 000"],
+   ["Документ-контролёр", "8 000 - 13 000"],
+   ["Старший документ-контролёр или руководитель отдела документации", "13 000 - 22 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт в Aconex, нефтегазе и крупных инфраструктурных проектах поднимает пакет; на проектных контрактах часто добавляют жильё и транспорт.",
+  "faq": [
+   ["Сколько зарабатывает документ-контролёр в Дубае?", "В 2026 году младший документ-контролёр в Дубае получает около 5 000 - 8 000 AED в месяц, специалист с опытом 8 000 - 13 000 AED, старший контролёр или руководитель отдела документации 13 000 - 22 000 AED. Нефтегаз и мегапроекты платят по верхней границе."],
+   ["Нужен ли документ-контролёру инженерный диплом?", "Обязательно не нужен, но опыт именно на строительных или инженерных проектах важен: человек должен понимать типы чертежей, статусы консультанта и порядок сабмиталов. Для нефтегаза и инфраструктуры клиенты часто просят опыт работы с конкретной EDMS и их стандартом нумерации."]
+  ],
+  "seek_h2": "Вы документ-контролёр и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Document controller",
+  "title": "Hire a Document Controller in Dubai: Aconex, EDMS, Salary | TLNT",
+  "desc": "Hire a document controller in Dubai: Aconex and EDMS, drawing revisions and transmittals, practical checks, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a document controller",
+  "h1em": "in Dubai",
+  "intro": "Document controllers are needed by developers, main contractors, MEP contractors, supervision consultants, oil and gas and infrastructure projects in Dubai and Abu Dhabi. The work covers registering drawings and revisions, transmittals, RFIs and submittals to the consultant, running Aconex or another EDMS and reporting overdue documents. We help you decide whether you need a site or head office controller, shortlist from our live database and run a practical check on a real document set.",
+  "find_lead": "A specialist who makes it clear at any moment which drawing revision is current, who received it and what is still waiting for the consultant.",
+  "find": [
+   "EDMS: Oracle Aconex, Procore, SharePoint or Asite, workflow and access setup",
+   "Revision control: numbering to the project standard, A, B, C statuses, withdrawing superseded drawings from site",
+   "Transmittals and submittals: issuing to the consultant, response deadlines, comment logs",
+   "RFIs, NCRs and correspondence: registering, tracking closure, linking to the project schedule",
+   "Reporting: Excel and Power BI, a weekly document status for the project manager and the client",
+   "Standards: ISO 9001 and the client's requirements for as-built and handover documentation"
+  ],
+  "check_lead": "A tidy CV does not show how someone handles a hundred documents a week. The checks use a real document flow, and your project manager makes the call.",
+  "steps": [
+   ["Register task", "the candidate gets a folder of 30-40 drawings with mixed revisions and within an hour builds a register, finding duplicates and superseded versions."],
+   ["Workflow walkthrough", "the consultant returned a submittal with status C. What the candidate does next, who they notify and how it shows in the log and report."],
+   ["Tools check", "a short Excel exercise (filters, pivot table, conditional formatting) and a walkthrough of how they set up Aconex on a past project."],
+   ["References", "calls with project managers and QA/QC leads from past projects: document volume, accuracy, work under handover deadlines."]
+  ],
+  "mistake": "Typical mistake: putting an office assistant with no construction background in this role. They keep folders but do not know the difference between IFC and shop drawings, and the site builds from a superseded revision. Another one: not checking which EDMS the consultant uses and losing the first weeks to training.",
+  "sal": [
+   ["Junior document controller", "5,000 - 8,000"],
+   ["Document controller", "8,000 - 13,000"],
+   ["Senior document controller or document control lead", "13,000 - 22,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Aconex, oil and gas and large infrastructure experience raise the package; project contracts often add housing and transport.",
+  "faq": [
+   ["How much does a document controller earn in Dubai?", "In 2026 a junior document controller in Dubai earns about AED 5,000 - 8,000 per month, an experienced controller AED 8,000 - 13,000 and a senior controller or document control lead AED 13,000 - 22,000. Oil and gas and giga-projects pay at the top of the range."],
+   ["Does a document controller need an engineering degree?", "Not necessarily, but experience on construction or engineering projects matters: the person must understand drawing types, consultant statuses and the submittal process. For oil and gas and infrastructure, clients often ask for experience with a specific EDMS and their numbering standard."]
+  ],
+  "seek_h2": "Are you a document controller looking for a job in Dubai?"
+ }
+}

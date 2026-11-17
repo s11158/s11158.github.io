@@ -1,0 +1,136 @@
+{
+ "slug": "investment-advisor",
+ "hub": "finance",
+ "related": [
+  "wealth-manager",
+  "relationship-manager",
+  "financial-analyst",
+  "risk-manager"
+ ],
+ "ru": {
+  "name": "Инвестиционный консультант",
+  "title": "Найм инвестиционного консультанта в Дубае: SCA, DFSA, зарплата | TLNT",
+  "desc": "Найм инвестиционного консультанта в Дубае: лицензии SCA и DFSA, CFA, проверка на портфельном кейсе и комплаенсе, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм инвестиционного консультанта",
+  "h1em": "в Дубае",
+  "intro": "Инвестиционные консультанты нужны частным банкам и брокерам Дубая, управляющим компаниям в DIFC и ADGM, семейным офисам и финансовым платформам. Задачи: оценка профиля риска клиента, подбор и ребалансировка портфеля, объяснение продуктов, регулярные обзоры и строгое соблюдение правил регулятора о пригодности продукта. Помогаем определить профиль и нужную лицензию, даём шорт-лист из нашей живой базы и проводим практическую проверку на портфельном кейсе.",
+  "find_lead": "Консультант, который строит портфель под цели клиента, а не под план продаж продукта, и умеет объяснить риск простыми словами.",
+  "find": [
+   "Регулирование: SCA на материке, DFSA в DIFC, FSRA в ADGM, понимание, под какой лицензией работает ваша компания",
+   "Квалификации: CFA, CISI, CFP или экзамены регулятора, знание правил suitability и KYC",
+   "Продукты: акции, облигации, фонды и ETF, структурные продукты, сукук, альтернативные инвестиции",
+   "Портфель: распределение активов, ребалансировка, валютный риск, налоговые резидентства клиентов",
+   "Клиентская работа: регулярные обзоры, отчёты о доходности, удержание клиента в просадку рынка",
+   "Языки: английский свободно, русский или другой язык ваших клиентов как сильный плюс"
+  ],
+  "check_lead": "Обещания доходности на собеседовании ничего не значат. Проверяем мышление, знание продукта и отношение к правилам, решение принимает ваш руководитель.",
+  "steps": [
+   [
+    "Портфельный кейс",
+    "клиент 45 лет, 2 млн USD, цель - доход и сохранение капитала через 10 лет. Кандидат предлагает распределение активов и объясняет риски."
+   ],
+   [
+    "Пригодность продукта",
+    "клиент с консервативным профилем хочет структурный продукт с высоким купоном. Как кандидат поступит и что задокументирует."
+   ],
+   [
+    "Разговор в просадку",
+    "рынок упал на 15%, клиент звонит в панике. Ролевая игра на 10 минут."
+   ],
+   [
+    "Рекомендации и реестр",
+    "проверка лицензий и истории в реестре регулятора, звонки руководителям про объём активов и жалобы."
+   ]
+  ],
+  "mistake": "Типичная ошибка: оценивать кандидата только по объёму клиентских активов, которые он обещает привести. Клиенты переходят не всегда, а продавец, ставящий план выше пригодности, приносит компании риски регулятора. Ещё ошибка: не проверить, совпадает ли лицензия кандидата с юрисдикцией вашей компании.",
+  "sal": [
+   [
+    "Младший инвестиционный консультант",
+    "12 000 - 20 000"
+   ],
+   [
+    "Инвестиционный консультант",
+    "20 000 - 35 000"
+   ],
+   [
+    "Старший консультант или руководитель направления",
+    "35 000 - 60 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Бонус за привлечённые активы и выручку, работа в DIFC и клиенты высокого уровня поднимают полный доход.",
+  "faq": [
+   [
+    "Сколько зарабатывает инвестиционный консультант в Дубае?",
+    "В 2026 году младший инвестиционный консультант в Дубае получает около 12 000 - 20 000 AED в месяц, опытный консультант 20 000 - 35 000 AED, старший консультант или руководитель направления 35 000 - 60 000 AED. Сверху обычно идёт бонус за привлечённые активы."
+   ],
+   [
+    "Какая лицензия нужна инвестиционному консультанту в ОАЭ?",
+    "Зависит от того, где работает компания: SCA регулирует материк, DFSA - DIFC, FSRA - ADGM. У каждого регулятора свои требования к квалификации и регистрации сотрудника. Мы сверяем опыт кандидата с вашей юрисдикцией ещё до шорт-листа."
+   ]
+  ],
+  "seek_h2": "Вы инвестиционный консультант и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Investment advisor",
+  "title": "Hire an Investment Advisor in Dubai: SCA, DFSA, Salary | TLNT",
+  "desc": "Hire an investment advisor in Dubai: SCA and DFSA licensing, CFA, practical portfolio case and suitability checks, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire an investment advisor",
+  "h1em": "in Dubai",
+  "intro": "Investment advisors are hired by Dubai private banks and brokers, asset managers in DIFC and ADGM, family offices and investment platforms. The job: assess the client's risk profile, build and rebalance the portfolio, explain products, run regular reviews and follow the regulator's suitability rules closely. We help define the profile and the licence you need, shortlist from our live database and run a practical check on a portfolio case.",
+  "find_lead": "An advisor who builds a portfolio around the client's goals rather than a product sales target, and explains risk in plain words.",
+  "find": [
+   "Regulation: SCA onshore, DFSA in DIFC, FSRA in ADGM, and understanding which licence your firm operates under",
+   "Qualifications: CFA, CISI, CFP or regulator exams, knowledge of suitability and KYC rules",
+   "Products: equities, bonds, funds and ETFs, structured products, sukuk, alternative investments",
+   "Portfolio: asset allocation, rebalancing, currency risk, clients' tax residencies",
+   "Client work: regular reviews, performance reports, keeping clients through a market drawdown",
+   "Languages: fluent English, Russian or another language of your clients as a strong plus"
+  ],
+  "check_lead": "Return promises in an interview mean nothing. We test thinking, product knowledge and attitude to the rules, and your manager makes the decision.",
+  "steps": [
+   [
+    "Portfolio case",
+    "client aged 45, USD 2 million, goal: income and capital preservation over 10 years. The candidate proposes an allocation and explains the risks."
+   ],
+   [
+    "Suitability",
+    "a client with a conservative profile wants a high-coupon structured product. What the candidate does and what they document."
+   ],
+   [
+    "Drawdown call",
+    "the market is down 15% and the client calls in a panic. A 10-minute role-play."
+   ],
+   [
+    "References and register",
+    "checking licences and history in the regulator's register, calls with managers about assets under management and complaints."
+   ]
+  ],
+  "mistake": "Typical mistake: judging a candidate only by the client assets they promise to bring. Clients do not always follow, and a salesperson who puts targets above suitability brings regulatory risk. Another one: not checking that the candidate's licence matches your firm's jurisdiction.",
+  "sal": [
+   [
+    "Junior investment advisor",
+    "12,000 - 20,000"
+   ],
+   [
+    "Investment advisor",
+    "20,000 - 35,000"
+   ],
+   [
+    "Senior advisor or head of advisory",
+    "35,000 - 60,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Bonuses on new assets and revenue, a DIFC employer and high-net-worth clients raise total pay.",
+  "faq": [
+   [
+    "How much does an investment advisor earn in Dubai?",
+    "In 2026 a junior investment advisor in Dubai earns about AED 12,000 - 20,000 per month, an experienced advisor AED 20,000 - 35,000 and a senior advisor or head of advisory AED 35,000 - 60,000. A bonus on new assets usually comes on top."
+   ],
+   [
+    "Which licence does an investment advisor need in the UAE?",
+    "It depends on where your firm operates: SCA regulates onshore, DFSA covers DIFC and FSRA covers ADGM. Each regulator has its own qualification and registration rules for staff. We match the candidate's background to your jurisdiction before the shortlist."
+   ]
+  ],
+  "seek_h2": "Are you an investment advisor looking for a job in Dubai?"
+ }
+}

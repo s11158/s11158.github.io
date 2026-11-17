@@ -1,0 +1,77 @@
+{
+ "slug": "luxury-sales-advisor",
+ "hub": "retail",
+ "related": ["jewelry-sales-consultant", "fashion-stylist", "store-manager", "retail-sales-associate"],
+ "ru": {
+  "name": "Консультант по продажам люкса",
+  "title": "Найм консультанта по продажам люкса в Дубае: зарплата | TLNT",
+  "desc": "Найм консультанта по продажам люкса в Дубае: клиентская база, клиентелинг, языки VIP-клиентов, практическая проверка на модели продажи, зарплаты 2026 от TLNT.",
+  "h1": "Найм консультанта по продажам люкса",
+  "h1em": "в Дубае",
+  "intro": "Консультанты по продажам люкса нужны модным домам, часовым и ювелирным брендам, бутикам кожгалантереи и парфюмерии в Dubai Mall Fashion Avenue, Mall of the Emirates и The Galleria, а также мультибрендовым бутикам. Продажи здесь строятся на личных отношениях: клиентелинг, частные показы, звонки и сообщения постоянным клиентам, работа с туристами из СНГ, Европы, Азии и стран Залива. Помогаем определить профиль, даём шорт-лист из нашей живой базы и проводим практическую проверку продажи на модели.",
+  "find_lead": "Консультант, который продаёт через отношения: помнит вкусы клиента, поддерживает контакт между визитами и делает так, чтобы человек возвращался именно к нему.",
+  "find": [
+   "Клиентелинг: собственная клиентская база, CRM бренда, личные сообщения и приглашения на закрытые события",
+   "Сервис уровня люкса: этикет, сдержанность, умение работать с VIP-клиентами и их помощниками",
+   "Языки: свободный английский и язык ключевых клиентов (русский, арабский, китайский, французский)",
+   "Знание продукта: история бренда, материалы, мастерство, сравнение с конкурентами без критики",
+   "Продажи: крупные чеки, предзаказы и лист ожидания, продажа вне бутика, Tax Free для туристов",
+   "Стандарты: внешний вид, конфиденциальность клиентов, точность в отчётах и CRM"
+  ],
+  "check_lead": "В люксе одна неудачная фраза стоит клиента на годы. Поэтому проверка построена вокруг живой продажи и клиентской базы, а решение принимает ваш бутик-менеджер.",
+  "steps": [
+   ["Продажа на модели", "бутик-менеджер играет постоянного клиента, который пришёл за подарком и торопится. Кандидат выясняет повод, предлагает 2-3 варианта и договаривается о следующем контакте."],
+   ["Разбор клиентской базы", "кандидат рассказывает, как ведёт свою базу, сколько у него активных клиентов и как поддерживает контакт между визитами, без раскрытия персональных данных."],
+   ["Письменное сообщение", "задание написать клиенту приглашение на закрытый показ новой коллекции на английском и втором рабочем языке."],
+   ["Рекомендации", "звонки бутик-менеджерам: личный объём продаж, доля повторных клиентов, соблюдение стандартов бренда."]
+  ],
+  "mistake": "Типичная ошибка: верить на слово, что кандидат приведёт свою клиентскую базу. Клиенты часто остаются с брендом, а не с продавцом, поэтому важно проверить, как человек строит отношения, а не только список имён. Ещё ошибка: нанять опытного продавца масс-маркета, который давит на продажу, это отталкивает клиентов люкса.",
+  "sal": [
+   ["Консультант по продажам люкса", "6 000 - 10 000"],
+   ["Опытный консультант с клиентской базой", "10 000 - 16 000"],
+   ["Старший консультант или client advisor VIP", "16 000 - 25 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, оклад без комиссии. Комиссия и бонусы в люксе могут удваивать доход сильного консультанта; часовые и ювелирные бренды платят больше всего.",
+  "faq": [
+   ["Сколько зарабатывает консультант по продажам люкса в Дубае?", "В 2026 году консультант по продажам люкса в Дубае получает около 6 000 - 10 000 AED в месяц, опытный консультант с клиентской базой 10 000 - 16 000 AED, старший консультант для VIP-клиентов 16 000 - 25 000 AED. Комиссия может удваивать доход."],
+   ["Можно ли найти русскоязычного консультанта для бутика?", "Да. Русскоязычные консультанты востребованы в бутиках Дубая: клиенты из СНГ составляют заметную долю продаж люкса. В нашей базе есть кандидаты с английским и русским, часто с опытом в известных модных домах и часовых брендах. Поможем проверить и язык, и стиль продажи."]
+  ],
+  "seek_h2": "Вы консультант по продажам люкса и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Luxury sales advisor",
+  "title": "Hire a Luxury Sales Advisor in Dubai: Clienteling, Salary | TLNT",
+  "desc": "Hire a luxury sales advisor in Dubai: client book, clienteling, VIP client languages, a practical sales check on a model customer and 2026 salaries from TLNT.",
+  "h1": "Hire a luxury sales advisor",
+  "h1em": "in Dubai",
+  "intro": "Luxury sales advisors are needed by fashion houses, watch and jewellery brands, leather goods and fragrance boutiques in Dubai Mall Fashion Avenue, Mall of the Emirates and The Galleria, and by multi-brand boutiques. Sales here are built on personal relationships: clienteling, private viewings, calls and messages to regular clients, and tourists from the CIS, Europe, Asia and the Gulf. We help define the profile, shortlist from our live database and run a practical sales check with a model customer.",
+  "find_lead": "An advisor who sells through relationships: remembers each client's taste, stays in touch between visits and makes clients come back to them personally.",
+  "find": [
+   "Clienteling: an own client book, the brand CRM, personal messages and invitations to private events",
+   "Luxury service: etiquette, discretion, working with VIP clients and their assistants",
+   "Languages: fluent English plus the language of key clients (Russian, Arabic, Chinese, French)",
+   "Product knowledge: brand heritage, materials, craftsmanship, comparing with competitors without criticism",
+   "Selling: high-ticket sales, pre-orders and waiting lists, selling outside the boutique, Tax Free for tourists",
+   "Standards: appearance, client confidentiality, accurate reporting and CRM"
+  ],
+  "check_lead": "In luxury one wrong sentence can lose a client for years. So the check is built around a live sale and the client book, and your boutique manager decides.",
+  "steps": [
+   ["Sale with a model customer", "the boutique manager plays a regular client buying a gift in a hurry. The candidate finds the occasion, offers 2-3 options and agrees the next contact."],
+   ["Client book review", "the candidate explains how they run their client book, how many active clients they have and how they stay in touch between visits, without revealing personal data."],
+   ["Written message", "the candidate writes a client invitation to a private viewing of the new collection in English and a second working language."],
+   ["References", "calls with boutique managers: personal sales volume, share of repeat clients, adherence to brand standards."]
+  ],
+  "mistake": "Typical mistake: taking it on trust that a candidate will bring their client book. Clients often stay with the brand, not the advisor, so check how the person builds relationships, not just a list of names. Another one: hiring an experienced mass-market salesperson who pushes the sale, which drives luxury clients away.",
+  "sal": [
+   ["Luxury sales advisor", "6,000 - 10,000"],
+   ["Experienced advisor with a client book", "10,000 - 16,000"],
+   ["Senior advisor or VIP client advisor", "16,000 - 25,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, base pay without commission. Commission and bonuses in luxury can double a strong advisor's income; watch and jewellery brands pay the most.",
+  "faq": [
+   ["How much does a luxury sales advisor earn in Dubai?", "In 2026 a luxury sales advisor in Dubai earns about AED 6,000 - 10,000 per month, an experienced advisor with a client book AED 10,000 - 16,000 and a senior VIP client advisor AED 16,000 - 25,000. Commission can double the income."],
+   ["Can I find a Russian-speaking advisor for a boutique?", "Yes. Russian-speaking advisors are in demand in Dubai boutiques, as CIS clients make up a noticeable share of luxury sales. Our database has candidates with English and Russian, often with experience at well-known fashion houses and watch brands. We help check both the language and the selling style."]
+  ],
+  "seek_h2": "Are you a luxury sales advisor looking for a job in Dubai?"
+ }
+}

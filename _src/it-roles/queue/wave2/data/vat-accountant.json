@@ -1,0 +1,136 @@
+{
+ "slug": "vat-accountant",
+ "hub": "finance",
+ "related": [
+  "tax-consultant",
+  "accountant",
+  "bookkeeper",
+  "accounts-payable-specialist"
+ ],
+ "ru": {
+  "name": "Бухгалтер по НДС",
+  "title": "Найм бухгалтера по НДС в Дубае: FTA, EmaraTax, зарплата | TLNT",
+  "desc": "Найм бухгалтера по НДС в Дубае: декларации в EmaraTax, сверки и возвраты, практическая проверка на реальных счетах, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм бухгалтера по НДС",
+  "h1em": "в Дубае",
+  "intro": "Бухгалтеры по НДС нужны торговым и дистрибуционным компаниям Дубая, e-commerce, ресторанным группам, девелоперам, клиникам и бухгалтерским фирмам, которые ведут десятки клиентов. Задачи: правильный НДС 5% в каждом счёте, ежеквартальные или ежемесячные декларации в EmaraTax, сверки, возвраты, обратное начисление при импорте и подготовка к проверке FTA. Помогаем определить профиль, даём шорт-лист из нашей живой базы и проверяем кандидата на реальных первичных документах.",
+  "find_lead": "Бухгалтер, у которого декларация сходится с учётом до дирхама, а каждая строка подтверждена налоговым счётом.",
+  "find": [
+   "НДС ОАЭ: ставка 5%, нулевая ставка и освобождения, требования к налоговому счёту, место поставки",
+   "Декларации: VAT 201 в EmaraTax, сроки, добровольные корректировки, штрафы за просрочку",
+   "Сложные случаи: импорт и reverse charge, назначенные зоны, недвижимость, экспорт услуг, частичный вычет",
+   "Сверки: книга продаж и покупок с главной книгой, таможенные декларации, возвраты НДС",
+   "Системы: Zoho Books, QuickBooks, Tally, Xero, Odoo или SAP, Excel для сверок",
+   "Квалификации: ACCA, CMA или бухгалтерское образование, сертификат по НДС ОАЭ как плюс"
+  ],
+  "check_lead": "Слова зачёт и вычет знают все. Проверяем работу на реальных документах, решение принимает ваш главный бухгалтер или финансовый менеджер.",
+  "steps": [
+   [
+    "Задание на счета",
+    "20 счетов поставщиков и клиентов: кандидат находит ошибки в налоговых счетах и определяет, какой НДС можно принять к вычету."
+   ],
+   [
+    "Черновик декларации",
+    "по данным квартала заполнить VAT 201, включая импорт с обратным начислением, и сверить с главной книгой."
+   ],
+   [
+    "Разбор проверки",
+    "FTA запросила документы по возврату: что кандидат соберёт, как объяснит расхождения и как оформит корректировку."
+   ],
+   [
+    "Рекомендации",
+    "звонки финансовым менеджерам: точность деклараций, штрафы при кандидате, сколько компаний вёл одновременно."
+   ]
+  ],
+  "mistake": "Типичная ошибка: доверить НДС бухгалтеру общего профиля, который ни разу не проходил проверку FTA. Ошибки в импорте и вычетах копятся кварталами и превращаются в штрафы. Ещё ошибка: не проверить, умеет ли кандидат работать в вашей учётной системе, и потерять первые месяцы на обучение.",
+  "sal": [
+   [
+    "Младший бухгалтер по НДС",
+    "5 000 - 8 000"
+   ],
+   [
+    "Бухгалтер по НДС",
+    "8 000 - 14 000"
+   ],
+   [
+    "Старший бухгалтер или специалист по налоговому учёту",
+    "14 000 - 22 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт проверок FTA, корпоративного налога и сложных отраслей вроде недвижимости и импорта поднимает пакет.",
+  "faq": [
+   [
+    "Сколько зарабатывает бухгалтер по НДС в Дубае?",
+    "В 2026 году младший бухгалтер по НДС в Дубае получает около 5 000 - 8 000 AED в месяц, опытный бухгалтер 8 000 - 14 000 AED, старший бухгалтер или специалист по налоговому учёту 14 000 - 22 000 AED. Опыт проверок FTA и корпоративного налога платится по верхней границе."
+   ],
+   [
+    "Справится ли бухгалтер по НДС с корпоративным налогом?",
+    "Сильный бухгалтер по НДС может вести учёт под корпоративный налог и готовить данные для декларации, но структура группы, свободные зоны и трансфертное ценообразование требуют налогового консультанта. Поможем понять, хватит ли одной роли или нужны обе."
+   ]
+  ],
+  "seek_h2": "Вы бухгалтер по НДС и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "VAT accountant",
+  "title": "Hire a VAT Accountant in Dubai: FTA, EmaraTax, Salary | TLNT",
+  "desc": "Hire a VAT accountant in Dubai: EmaraTax returns, reconciliations and refunds, a practical check on real invoices, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a VAT accountant",
+  "h1em": "in Dubai",
+  "intro": "VAT accountants are hired by Dubai trading and distribution companies, e-commerce businesses, restaurant groups, developers, clinics and accounting firms that serve dozens of clients. The work: correct 5% VAT on every invoice, quarterly or monthly returns in EmaraTax, reconciliations, refunds, reverse charge on imports and preparing for FTA audits. We help define the profile, shortlist from our live database and test the candidate on real source documents.",
+  "find_lead": "An accountant whose VAT return ties to the ledger to the dirham, with every line backed by a valid tax invoice.",
+  "find": [
+   "UAE VAT: the 5% rate, zero rating and exemptions, tax invoice requirements, place of supply",
+   "Returns: VAT 201 in EmaraTax, deadlines, voluntary disclosures, late filing penalties",
+   "Complex cases: imports and reverse charge, designated zones, real estate, export of services, partial recovery",
+   "Reconciliations: sales and purchase registers to the general ledger, customs declarations, VAT refunds",
+   "Systems: Zoho Books, QuickBooks, Tally, Xero, Odoo or SAP, Excel for reconciliations",
+   "Qualifications: ACCA, CMA or an accounting degree, a UAE VAT certificate as a plus"
+  ],
+  "check_lead": "Everyone knows the words input and output tax. We test work on real documents, and your chief accountant or finance manager makes the decision.",
+  "steps": [
+   [
+    "Invoice task",
+    "20 supplier and customer invoices: the candidate spots errors in the tax invoices and decides which input VAT can be recovered."
+   ],
+   [
+    "Draft return",
+    "from a quarter's data, complete VAT 201 including imports under reverse charge and reconcile it to the ledger."
+   ],
+   [
+    "Audit walkthrough",
+    "the FTA has asked for documents on a refund: what the candidate gathers, how they explain differences and how they file a correction."
+   ],
+   [
+    "References",
+    "calls with finance managers: accuracy of returns, penalties on their watch, how many companies they handled at once."
+   ]
+  ],
+  "mistake": "Typical mistake: handing VAT to a general accountant who has never been through an FTA audit. Errors on imports and recovery build up quarter after quarter and turn into penalties. Another one: not checking whether the candidate knows your accounting system and losing the first months to training.",
+  "sal": [
+   [
+    "Junior VAT accountant",
+    "5,000 - 8,000"
+   ],
+   [
+    "VAT accountant",
+    "8,000 - 14,000"
+   ],
+   [
+    "Senior accountant or tax accounting specialist",
+    "14,000 - 22,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. FTA audit experience, corporate tax and complex sectors such as real estate and imports raise the package.",
+  "faq": [
+   [
+    "How much does a VAT accountant earn in Dubai?",
+    "In 2026 a junior VAT accountant in Dubai earns about AED 5,000 - 8,000 per month, an experienced accountant AED 8,000 - 14,000 and a senior accountant or tax accounting specialist AED 14,000 - 22,000. FTA audit and corporate tax experience pay at the top of the range."
+   ],
+   [
+    "Can a VAT accountant handle corporate tax?",
+    "A strong VAT accountant can keep the books ready for corporate tax and prepare data for the return, but group structure, free zones and transfer pricing need a tax consultant. We help you decide whether one role is enough or you need both."
+   ]
+  ],
+  "seek_h2": "Are you a VAT accountant looking for a job in Dubai?"
+ }
+}

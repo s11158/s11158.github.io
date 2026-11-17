@@ -1,0 +1,136 @@
+{
+ "slug": "ai-engineer",
+ "hub": "tech",
+ "related": [
+  "machine-learning-engineer",
+  "data-scientist",
+  "backend-developer",
+  "cto"
+ ],
+ "ru": {
+  "name": "AI-инженер",
+  "title": "Найм AI-инженера в Дубае: LLM, RAG, агенты, зарплата | TLNT",
+  "desc": "Найм AI-инженера в Дубае: LLM, RAG и агенты в продакшене, практическая проверка на реальной задаче, зарплаты 2026 и шорт-лист из живой базы TLNT.",
+  "h1": "Найм AI-инженера",
+  "h1em": "в Дубае",
+  "intro": "AI-инженеры нужны банкам и финтеху Дубая, госсервисам, ритейлу, девелоперам и стартапам, которые встраивают большие языковые модели в продукт: чат-ассистенты на арабском и английском, поиск по внутренним документам, автоматизацию обращений клиентов. Задачи: RAG, агенты, интеграция API моделей, оценка качества ответов, контроль стоимости и требования к хранению данных в ОАЭ. Помогаем отличить инженера, который выводит решения в продакшен, от автора демо, даём шорт-лист из нашей живой базы и проводим практическую проверку, которую оценивает ваш техлид.",
+  "find_lead": "Инженер, который превращает языковую модель в надёжную функцию продукта: с метриками качества, понятной ценой запроса и защитой данных.",
+  "find": [
+   "LLM и API: OpenAI, Anthropic, Azure OpenAI, открытые модели (Llama, Mistral, Falcon, Jais), выбор модели под задачу и бюджет",
+   "RAG: векторные базы (pgvector, Pinecone, Qdrant), чанкинг, ранжирование, работа с арабскими и смешанными текстами",
+   "Агенты и инструменты: вызов функций, оркестрация (LangGraph, собственный код), ограничения и ручное подтверждение действий",
+   "Оценка качества: наборы тестовых вопросов, автоматические и ручные метрики, регрессионные проверки после смены модели",
+   "Бэкенд: Python, FastAPI, очереди, кэширование, логирование запросов и ответов",
+   "Безопасность и стоимость: защита от prompt injection, маскирование персональных данных, лимиты и отчёт о расходах на токены"
+  ],
+  "check_lead": "Красивое демо за вечер сегодня может собрать почти любой. Проверка показывает, как кандидат измеряет качество, считает стоимость и ведёт себя, когда модель ошибается, а решение принимает ваш инженер.",
+  "steps": [
+   [
+    "Задание на RAG",
+    "набор из 30-50 документов компании и 20 вопросов: за 4-6 часов кандидат собирает поиск с ответами и ссылками на источник и показывает, как измерил точность. Важна честная оценка, а не интерфейс."
+   ],
+   [
+    "Разбор ошибок модели",
+    "даём примеры неверных и выдуманных ответов. Кандидат объясняет причину (поиск, промпт, модель, данные) и предлагает, что поменять и как проверить улучшение."
+   ],
+   [
+    "Архитектура и деньги",
+    "разговор о нагрузке 10 000 запросов в день: какая модель, кэш, где хранить данные клиентов в ОАЭ, сколько это будет стоить в месяц."
+   ],
+   [
+    "Рекомендации",
+    "звонки техлидам с прошлых мест: что именно дошло до продакшена, сколько пользователей, как кандидат работал с бизнесом и безопасностью."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанимать по эффектному демо и списку модных фреймворков, не спросив, как кандидат измерял качество ответов. Через три месяца ассистент уверенно ошибается, а никто не может сказать, стало лучше или хуже. Ещё ошибка: ждать от AI-инженера научных исследований и обучения моделей с нуля, это работа ML-инженера или исследователя.",
+  "sal": [
+   [
+    "Младший AI-инженер",
+    "14 000 - 22 000"
+   ],
+   [
+    "AI-инженер среднего уровня",
+    "22 000 - 35 000"
+   ],
+   [
+    "Старший AI-инженер или лид AI-направления",
+    "35 000 - 60 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт вывода LLM-решений в продакшен, работа с арабским языком и требованиями банков к данным заметно поднимают пакет; опционы в стартапах и бонус меняют полную сумму.",
+  "faq": [
+   [
+    "Сколько зарабатывает AI-инженер в Дубае?",
+    "В 2026 году младший AI-инженер в Дубае получает около 14 000 - 22 000 AED в месяц, инженер среднего уровня 22 000 - 35 000 AED, старший инженер или лид AI-направления 35 000 - 60 000 AED. Банки, госструктуры и хорошо профинансированные стартапы платят по верхней границе."
+   ],
+   [
+    "Чем AI-инженер отличается от ML-инженера?",
+    "AI-инженер чаще строит продукт поверх готовых моделей: RAG, агенты, интеграции, оценка качества и стоимость. ML-инженер обучает и дообучает собственные модели на ваших данных и отвечает за их выкладку и мониторинг. Если у вас нет своих размеченных данных и задачи модели, начинать обычно стоит с AI-инженера. Поможем определить профиль до начала поиска."
+   ]
+  ],
+  "seek_h2": "Вы AI-инженер и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "AI engineer",
+  "title": "Hire an AI Engineer in Dubai: LLM, RAG, Agents, Salary | TLNT",
+  "desc": "Hire an AI engineer in Dubai: LLMs, RAG and agents in production, a practical check on a real task, 2026 salaries and a shortlist from TLNT's live database.",
+  "h1": "Hire an AI engineer",
+  "h1em": "in Dubai",
+  "intro": "AI engineers are in demand at Dubai banks and fintechs, government services, retail, developers and startups that build large language models into their products: chat assistants in Arabic and English, search over internal documents, automated customer requests. The work covers RAG, agents, model API integration, answer quality evaluation, cost control and UAE data residency. We help you tell an engineer who ships to production from a demo builder, shortlist from our live database and run a practical check that your tech lead scores.",
+  "find_lead": "An engineer who turns a language model into a reliable product feature, with quality metrics, a clear cost per request and protected data.",
+  "find": [
+   "LLMs and APIs: OpenAI, Anthropic, Azure OpenAI, open models (Llama, Mistral, Falcon, Jais), choosing a model for the task and budget",
+   "RAG: vector stores (pgvector, Pinecone, Qdrant), chunking, reranking, handling Arabic and mixed-language text",
+   "Agents and tools: function calling, orchestration (LangGraph or custom code), guardrails and human approval of actions",
+   "Evaluation: test question sets, automatic and human metrics, regression checks after a model change",
+   "Backend: Python, FastAPI, queues, caching, logging of prompts and responses",
+   "Security and cost: prompt injection defence, masking personal data, limits and a token spend report"
+  ],
+  "check_lead": "Almost anyone can build a nice demo in an evening today. The check shows how a candidate measures quality, counts cost and reacts when the model is wrong, and your engineer makes the call.",
+  "steps": [
+   [
+    "RAG task",
+    "30-50 company documents and 20 questions: in 4-6 hours the candidate builds search with answers and source links and shows how they measured accuracy. Honest evaluation matters more than the interface."
+   ],
+   [
+    "Model error review",
+    "we show wrong and made-up answers. The candidate explains the cause (retrieval, prompt, model, data) and proposes what to change and how to prove the improvement."
+   ],
+   [
+    "Architecture and cost",
+    "a conversation about 10,000 requests a day: which model, caching, where customer data is stored in the UAE and what it costs per month."
+   ],
+   [
+    "References",
+    "calls with tech leads from previous roles: what actually reached production, how many users, how the candidate worked with business and security teams."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring on an impressive demo and a list of trendy frameworks without asking how the candidate measured answer quality. Three months later the assistant is confidently wrong and nobody can say whether it got better or worse. Another one: expecting an AI engineer to do research and train models from scratch, which is the job of an ML engineer or researcher.",
+  "sal": [
+   [
+    "Junior AI engineer",
+    "14,000 - 22,000"
+   ],
+   [
+    "Mid-level AI engineer",
+    "22,000 - 35,000"
+   ],
+   [
+    "Senior AI engineer or AI lead",
+    "35,000 - 60,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Experience shipping LLM features to production, Arabic language work and bank-grade data requirements noticeably raise the package; startup equity and bonus change the total.",
+  "faq": [
+   [
+    "How much does an AI engineer earn in Dubai?",
+    "In 2026 a junior AI engineer in Dubai earns about AED 14,000 - 22,000 per month, a mid-level engineer AED 22,000 - 35,000 and a senior engineer or AI lead AED 35,000 - 60,000. Banks, government entities and well-funded startups pay at the top of the range."
+   ],
+   [
+    "What is the difference between an AI engineer and an ML engineer?",
+    "An AI engineer usually builds products on top of existing models: RAG, agents, integrations, quality evaluation and cost. An ML engineer trains and fine-tunes your own models on your data and owns their deployment and monitoring. If you have no labelled data or modelling problem of your own, an AI engineer is usually the right start. We help you define the profile before the search."
+   ]
+  ],
+  "seek_h2": "Are you an AI engineer looking for a job in Dubai?"
+ }
+}

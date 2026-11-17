@@ -1,0 +1,136 @@
+{
+ "slug": "hvac-technician",
+ "hub": "construction",
+ "related": [
+  "maintenance-technician",
+  "facility-manager",
+  "electrician",
+  "mep-engineer"
+ ],
+ "ru": {
+  "name": "HVAC-техник",
+  "title": "Найм HVAC-техника в Дубае: кондиционеры, чиллеры, зарплата | TLNT",
+  "desc": "Найм HVAC-техника в Дубае: сплит-системы, VRF, чиллеры и фанкойлы, практическая проверка диагностики и заправки, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм HVAC-техника",
+  "h1em": "в Дубае",
+  "intro": "В Дубае кондиционер работает почти круглый год, поэтому HVAC-техники нужны FM-компаниям, отелям, торговым центрам, клиникам, дата-центрам, подрядчикам по обслуживанию вилл и самим жилым башням. Задачи: сплит-системы, VRF и VRV, фанкойлы на District Cooling, чиллеры, AHU, вентиляция кухонь и плановое обслуживание перед летом. Помогаем понять, нужен ли вам техник по бытовым системам или по центральным, даём шорт-лист из нашей живой базы и проводим практическую проверку диагностики.",
+  "find_lead": "Техник, который находит причину, а не просто доливает фреон: читает давление и температуры, понимает электрику агрегата и соблюдает правила работы с хладагентами.",
+  "find": [
+   "Системы: сплит, ducted, VRF и VRV (Daikin, Mitsubishi, LG, Midea), фанкойлы, AHU, FAHU, чиллеры",
+   "Диагностика: манометры, перегрев и переохлаждение, токоизмерительные клещи, коды ошибок производителей",
+   "Хладагенты: R410A, R32, R134a, вакуумирование, проверка на утечки, пайка, безопасное обращение",
+   "Электрика агрегата: контакторы, конденсаторы, платы, датчики, понимание схем",
+   "Плановое обслуживание: чистка теплообменников и дренажа, качество воздуха, BMS-сигналы, отчёты по PPM",
+   "Сертификаты и навыки: обучение у производителей, сертификаты по холодильному делу, работа на высоте и на кровле в жару"
+  ],
+  "check_lead": "Многие кандидаты умеют чистить фильтры, но не умеют диагностировать. Проверки показывают, как человек думает над неисправностью, а решение принимает ваш инженер.",
+  "steps": [
+   [
+    "Диагностика на агрегате",
+    "кандидату дают сплит-систему с заданной неисправностью: недозаправка, неисправный конденсатор или забитый дренаж. Смотрим, в каком порядке он ищет и что измеряет."
+   ],
+   [
+    "Кейс на VRF или фанкойлы",
+    "в офисе на одном этаже жарко, на другом холодно. Кандидат рассказывает, что проверяет в системе, BMS и воздуховодах."
+   ],
+   [
+    "Хладагенты и безопасность",
+    "вопросы про вакуумирование, поиск утечки, правильную заправку и утилизацию, работу на кровле в 45 градусов."
+   ],
+   [
+    "Рекомендации",
+    "звонки супервайзерам: какие системы обслуживал, сколько повторных вызовов, как работал в летний пик."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанять техника с опытом только на бытовых сплитах на объект с VRF и чиллерами. Он будет заправлять систему вместо поиска причины, и счета за ремонт компрессоров вырастут. Ещё ошибка: искать HVAC-техника в июне, когда весь рынок занят: лучше закрывать позицию до лета.",
+  "sal": [
+   [
+    "HVAC-помощник",
+    "2 500 - 4 000"
+   ],
+   [
+    "HVAC-техник",
+    "4 000 - 7 500"
+   ],
+   [
+    "Старший HVAC-техник или техник по чиллерам",
+    "7 500 - 12 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт с чиллерами, VRF и BMS, а также летние сверхурочные заметно поднимают пакет; жильё и транспорт от работодателя меняют полную сумму.",
+  "faq": [
+   [
+    "Сколько зарабатывает HVAC-техник в Дубае?",
+    "В 2026 году HVAC-помощник в Дубае получает около 2 500 - 4 000 AED в месяц, HVAC-техник 4 000 - 7 500 AED, старший техник или техник по чиллерам 7 500 - 12 000 AED. Летом заметную долю дохода дают сверхурочные."
+   ],
+   [
+    "Когда лучше начинать поиск HVAC-техника?",
+    "Лучше в межсезонье, с октября по март. С мая по сентябрь сильные техники загружены, держатся за текущее место и просят больше. Если нужен человек к лету, начинайте поиск заранее, мы дадим шорт-лист из базы за несколько дней."
+   ]
+  ],
+  "seek_h2": "Вы HVAC-техник и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "HVAC technician",
+  "title": "Hire an HVAC Technician in Dubai: AC, Chillers, VRF, Salary | TLNT",
+  "desc": "Hire an HVAC technician in Dubai: split, VRF, chillers and fan coil units, practical diagnosis and charging checks, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire an HVAC technician",
+  "h1em": "in Dubai",
+  "intro": "In Dubai air conditioning runs almost all year, so HVAC technicians are needed by FM companies, hotels, malls, clinics, data centres, villa maintenance contractors and residential towers. The work covers split units, VRF and VRV, fan coil units on district cooling, chillers, AHUs, kitchen ventilation and preventive maintenance before summer. We help you decide whether you need a technician for residential or central systems, shortlist from our live database and run a practical diagnosis check.",
+  "find_lead": "A technician who finds the cause instead of just topping up refrigerant: reads pressures and temperatures, understands unit electrics and follows refrigerant handling rules.",
+  "find": [
+   "Systems: split, ducted, VRF and VRV (Daikin, Mitsubishi, LG, Midea), fan coil units, AHU, FAHU, chillers",
+   "Diagnosis: gauges, superheat and subcooling, clamp meters, manufacturer error codes",
+   "Refrigerants: R410A, R32, R134a, vacuuming, leak testing, brazing, safe handling",
+   "Unit electrics: contactors, capacitors, PCBs, sensors, reading wiring diagrams",
+   "Preventive maintenance: coil and drain cleaning, indoor air quality, BMS signals, PPM reports",
+   "Training and skills: manufacturer courses, refrigeration certificates, work at height and on rooftops in the heat"
+  ],
+  "check_lead": "Many candidates can clean filters but cannot diagnose. The checks show how a person thinks about a fault, and your engineer makes the decision.",
+  "steps": [
+   [
+    "Diagnosis on a unit",
+    "the candidate gets a split unit with a set fault: undercharge, a failed capacitor or a blocked drain. We watch the order they work in and what they measure."
+   ],
+   [
+    "VRF or fan coil case",
+    "one office floor is hot and another is cold. The candidate explains what they check in the system, the BMS and the ductwork."
+   ],
+   [
+    "Refrigerants and safety",
+    "questions on vacuuming, leak finding, correct charging and recovery, and rooftop work at 45 degrees."
+   ],
+   [
+    "References",
+    "calls with supervisors: which systems they maintained, repeat call rate, how they coped with the summer peak."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a technician with residential split experience only for a site with VRF and chillers. They charge the system instead of finding the cause, and compressor repair bills climb. Another one: starting the search in June when the whole market is busy: it is better to fill the role before summer.",
+  "sal": [
+   [
+    "HVAC helper",
+    "2,500 - 4,000"
+   ],
+   [
+    "HVAC technician",
+    "4,000 - 7,500"
+   ],
+   [
+    "Senior HVAC or chiller technician",
+    "7,500 - 12,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Chiller, VRF and BMS experience and summer overtime noticeably raise the package; employer housing and transport change the total.",
+  "faq": [
+   [
+    "How much does an HVAC technician earn in Dubai?",
+    "In 2026 an HVAC helper in Dubai earns about AED 2,500 - 4,000 per month, an HVAC technician AED 4,000 - 7,500 and a senior or chiller technician AED 7,500 - 12,000. In summer overtime makes up a noticeable share of income."
+   ],
+   [
+    "When is the best time to look for an HVAC technician?",
+    "In the cooler months, October to March. From May to September strong technicians are fully booked, stay with their current employer and ask for more. If you need someone for summer, start early: we can give you a shortlist from our database within a few days."
+   ]
+  ],
+  "seek_h2": "Are you an HVAC technician looking for a job in Dubai?"
+ }
+}

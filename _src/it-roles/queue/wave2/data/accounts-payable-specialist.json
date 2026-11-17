@@ -1,0 +1,77 @@
+{
+ "slug": "accounts-payable-specialist",
+ "hub": "finance",
+ "related": ["accountant", "bookkeeper", "vat-accountant", "payroll-specialist"],
+ "ru": {
+  "name": "Специалист по расчётам с поставщиками",
+  "title": "Найм специалиста AP в Дубае: счета, НДС, зарплата | TLNT",
+  "desc": "Найм специалиста по расчётам с поставщиками (AP) в Дубае: сверка счетов, НДС 5%, ERP и платёжные циклы, практическая проверка и шорт-лист от TLNT.",
+  "h1": "Найм специалиста по расчётам с поставщиками",
+  "h1em": "в Дубае",
+  "intro": "Специалисты AP нужны торговым и дистрибьюторским компаниям Дубая, девелоперам и подрядчикам, гостиничным группам, клиникам и общим сервисным центрам, где за месяц проходят сотни и тысячи счетов поставщиков. Задачи: трёхсторонняя сверка, проверка налоговых счетов по НДС, платёжные циклы, сверка с поставщиками и закрытие месяца. Помогаем определить нужный объём и систему, даём шорт-лист из нашей живой базы и проводим практическую проверку на реальных документах.",
+  "find_lead": "Аккуратный специалист, который не пропустит дубль счёта, знает правила налогового счёта в ОАЭ и держит платёжный календарь без сюрпризов.",
+  "find": [
+   "Процесс: трёхсторонняя сверка заказа, приёмки и счёта, работа с авансами, удержаниями и кредит-нотами",
+   "НДС ОАЭ: обязательные реквизиты налогового счёта, TRN поставщика, обратное начисление при импорте услуг",
+   "Системы: SAP, Oracle, Microsoft Dynamics, Zoho Books или Tally, загрузка платёжных файлов в банк",
+   "Сверки: акт сверки с поставщиком, разбор расхождений, старение кредиторской задолженности",
+   "Контроль: защита от дублей и мошеннических писем со сменой реквизитов, лимиты согласования",
+   "Объём и сроки: стабильная обработка потока счетов, закрытие месяца в срок, Excel с ВПР и сводными"
+  ],
+  "check_lead": "Опыт \"работал с AP\" может означать и ввод счетов, и весь цикл до оплаты. Проверяем на документах, решение принимает ваш финансовый контролёр.",
+  "steps": [
+   ["Пакет счетов", "кандидат получает десять счетов, заказы и накладные: находит дубль, счёт без TRN, расхождение в цене и количестве, объясняет, что делать с каждым."],
+   ["Акт сверки", "выписка поставщика против данных компании: за 40 минут кандидат находит причины разницы и формулирует ответ поставщику."],
+   ["Сценарий смены реквизитов", "письмо от \"поставщика\" с новым банковским счётом. Кандидат описывает проверку до оплаты."],
+   ["Рекомендации", "звонки руководителям: объём счетов в месяц, система, ошибки и сроки закрытия."]
+  ],
+  "mistake": "Типичная ошибка: нанимать на AP по скорости ввода, не проверив знание НДС. Ошибки в налоговых счетах всплывают при проверке Налоговой службы ОАЭ и стоят штрафов. Ещё ошибка: не проверить реакцию на письмо о смене реквизитов, самый частый путь мошенничества.",
+  "sal": [
+   ["Специалист AP начального уровня", "5 000 - 8 000"],
+   ["Специалист AP с опытом ERP", "8 000 - 13 000"],
+   ["Старший специалист или руководитель группы AP", "13 000 - 20 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт SAP или Oracle, общие сервисные центры и знание НДС ОАЭ поднимают пакет; жильё и транспорт обычно входят в общий пакет.",
+  "faq": [
+   ["Сколько зарабатывает специалист по расчётам с поставщиками в Дубае?", "Начальный уровень получает около 5 000 - 8 000 AED в месяц, специалист с опытом ERP 8 000 - 13 000 AED, старший специалист или руководитель группы 13 000 - 20 000 AED."],
+   ["Нужна ли специалисту AP бухгалтерская квалификация?", "Для обработки счетов достаточно профильного образования и опыта в ERP. Для старших ролей полезны CMA или ACCA частично, но важнее практическое знание НДС ОАЭ и сверок."]
+  ],
+  "seek_h2": "Вы специалист по расчётам с поставщиками и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Accounts payable specialist",
+  "title": "Hire an Accounts Payable Specialist in Dubai: VAT, ERP | TLNT",
+  "desc": "Hire an accounts payable specialist in Dubai: invoice matching, 5% VAT, ERP and payment runs, practical checks on real documents and a TLNT shortlist.",
+  "h1": "Hire an accounts payable specialist",
+  "h1em": "in Dubai",
+  "intro": "AP specialists are needed by Dubai trading and distribution companies, developers and contractors, hotel groups, clinics and shared service centres that process hundreds or thousands of supplier invoices a month. The work covers three-way matching, checking VAT tax invoices, payment runs, supplier reconciliations and month-end close. We help define volume and system needs, shortlist from our live database and run a practical check on real documents.",
+  "find_lead": "A careful specialist who never pays a duplicate, knows UAE tax invoice rules and keeps the payment calendar free of surprises.",
+  "find": [
+   "Process: three-way matching of PO, receipt and invoice, advances, retentions and credit notes",
+   "UAE VAT: mandatory tax invoice fields, supplier TRN, reverse charge on imported services",
+   "Systems: SAP, Oracle, Microsoft Dynamics, Zoho Books or Tally, bank payment file uploads",
+   "Reconciliations: supplier statements, resolving differences, payables ageing",
+   "Controls: duplicate prevention, fraud emails with changed bank details, approval limits",
+   "Volume and timing: steady invoice throughput, on-time month-end, Excel with lookups and pivots"
+  ],
+  "check_lead": "\"AP experience\" can mean data entry or the full cycle to payment. We check on documents, and your financial controller decides.",
+  "steps": [
+   ["Invoice pack", "ten invoices with POs and delivery notes: the candidate finds a duplicate, a missing TRN, price and quantity variances and explains the action for each."],
+   ["Supplier statement", "the supplier's statement against company records: in 40 minutes the candidate finds the differences and drafts a reply."],
+   ["Bank detail change case", "an email from a \"supplier\" with a new bank account. The candidate describes the checks before paying."],
+   ["References", "calls to former managers about invoice volume, system, errors and close deadlines."]
+  ],
+  "mistake": "A typical mistake: hiring for AP on data entry speed without testing VAT knowledge. Tax invoice errors surface in a Federal Tax Authority audit and lead to penalties. Another mistake is not testing the response to a bank detail change email, the most common fraud route.",
+  "sal": [
+   ["Junior AP specialist", "5,000 - 8,000"],
+   ["AP specialist with ERP experience", "8,000 - 13,000"],
+   ["Senior AP specialist or team lead", "13,000 - 20,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. SAP or Oracle, shared service centre experience and UAE VAT knowledge raise the package; housing and transport are usually part of the overall package.",
+  "faq": [
+   ["How much does an accounts payable specialist earn in Dubai?", "A junior earns around AED 5,000 - 8,000 a month, a specialist with ERP experience AED 8,000 - 13,000 and a senior specialist or team lead AED 13,000 - 20,000."],
+   ["Does an AP specialist need an accounting qualification?", "For invoice processing a relevant degree and ERP experience are enough. For senior roles CMA or part-qualified ACCA helps, but practical UAE VAT and reconciliation skills matter more."]
+  ],
+  "seek_h2": "Are you an accounts payable specialist looking for a job in Dubai?"
+ }
+}

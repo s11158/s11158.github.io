@@ -1,0 +1,77 @@
+{
+ "slug": "special-needs-teacher",
+ "hub": "education",
+ "related": ["teacher", "kindergarten-teacher", "private-tutor", "governess"],
+ "ru": {
+  "name": "Педагог для детей с особыми потребностями",
+  "title": "Найм SEN-педагога в Дубае: инклюзия, ABA, зарплата | TLNT",
+  "desc": "Найм педагога для детей с особыми потребностями в Дубае: инклюзия в школах, ABA и IEP, требования KHDA, практическая проверка и зарплаты 2026 от TLNT.",
+  "h1": "Найм педагога для детей с особыми потребностями",
+  "h1em": "в Дубае",
+  "intro": "SEN-педагоги и shadow teachers нужны частным школам Дубая, которые по требованиям KHDA обязаны обеспечивать инклюзию, центрам развития и терапии, а также семьям, которым нужен сопровождающий ребёнка в классе. Задачи: индивидуальные образовательные планы (IEP), адаптация уроков, работа с аутизмом, СДВГ и дислексией, связь с терапевтами и родителями. Помогаем определить профиль, даём шорт-лист из нашей живой базы и проводим практическую проверку с вашим координатором инклюзии.",
+  "find_lead": "Педагог, который видит потребности конкретного ребёнка, пишет понятный план и доводит его до результата вместе с командой школы.",
+  "find": [
+   "Квалификация: специальное образование, SENCO, сертификат RBT или BCBA для ABA, аттестация документов для KHDA",
+   "IEP и данные: постановка целей, измерение прогресса, отчёты для родителей и школы",
+   "Опыт: аутизм, СДВГ, дислексия, задержки речи, поведенческие трудности",
+   "Инклюзия: адаптация урока в общем классе, работа в паре с учителем, shadow teaching",
+   "Команда: координация с логопедами, эрготерапевтами и психологами",
+   "Языки и безопасность: английский, при необходимости русский или арабский, справка о несудимости, safeguarding"
+  ],
+  "check_lead": "Сертификаты важны, но решает то, как человек ведёт себя рядом с ребёнком. Проверки построены вокруг реальных ситуаций, а решение принимает ваш координатор инклюзии или семья.",
+  "steps": [
+   ["Кейс IEP", "кандидат получает обезличенное описание ребёнка и пишет три цели на четверть с методами и способом измерения прогресса."],
+   ["Наблюдение в работе", "короткая сессия с ребёнком или разбор видео: как кандидат устанавливает контакт и реагирует на поведенческий срыв."],
+   ["Разговор с родителем", "ролевой разговор о медленном прогрессе ребёнка: честность, поддержка, конкретный план."],
+   ["Документы и рекомендации", "проверка квалификации и справки о несудимости, звонки координаторам инклюзии и семьям, с которыми работал кандидат."]
+  ],
+  "mistake": "Типичная ошибка: искать shadow teacher по минимальной цене и брать человека без подготовки. Ребёнок проводит в классе весь день с сопровождающим, который не знает методик, и прогресса нет. Ещё ошибка: не согласовать заранее роли педагога, учителя класса и терапевтов.",
+  "sal": [
+   ["Shadow teacher или помощник", "5 000 - 8 000"],
+   ["SEN-педагог", "9 000 - 15 000"],
+   ["Координатор инклюзии (SENCO) или BCBA", "15 000 - 26 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Сертификат BCBA, опыт координации инклюзии в британской или IB школе и русский язык для семей поднимают пакет.",
+  "faq": [
+   ["Сколько зарабатывает педагог для детей с особыми потребностями в Дубае?", "В 2026 году shadow teacher или помощник в Дубае получает около 5 000 - 8 000 AED в месяц, SEN-педагог 9 000 - 15 000 AED, координатор инклюзии (SENCO) или BCBA 15 000 - 26 000 AED. Опыт ABA и сертификаты поднимают пакет."],
+   ["Кто нанимает shadow teacher: школа или семья?", "Бывает по-разному: иногда школа нанимает сопровождающего сама, иногда семья нанимает его напрямую с согласия школы. Важно заранее договориться о правилах работы в классе. Поможем найти и оценить кандидатов, а решение и оформление остаются за работодателем."]
+  ],
+  "seek_h2": "Вы SEN-педагог и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Special needs teacher",
+  "title": "Hire a Special Needs Teacher in Dubai: SEN, ABA, Salary | TLNT",
+  "desc": "Hire a special needs teacher in Dubai: school inclusion, ABA and IEPs, KHDA requirements, practical checks and 2026 salaries, with a shortlist from TLNT.",
+  "h1": "Hire a special needs teacher",
+  "h1em": "in Dubai",
+  "intro": "SEN teachers and shadow teachers are needed by private schools in Dubai, which KHDA requires to provide inclusion, by development and therapy centres, and by families who need a support teacher for their child in class. The work covers individual education plans (IEPs), adapting lessons, working with autism, ADHD and dyslexia, and liaising with therapists and parents. We help you define the profile, shortlist from our live database and run a practical check with your inclusion coordinator.",
+  "find_lead": "A teacher who sees a specific child's needs, writes a clear plan and delivers results together with the school team.",
+  "find": [
+   "Qualifications: special education, SENCO, RBT or BCBA for ABA, documents attested for KHDA",
+   "IEPs and data: setting goals, measuring progress, reports for parents and the school",
+   "Experience: autism, ADHD, dyslexia, speech delays, behavioural difficulties",
+   "Inclusion: adapting lessons in a mainstream class, co-teaching, shadow teaching",
+   "Team: coordinating with speech, occupational therapists and psychologists",
+   "Languages and safety: English, plus Russian or Arabic if needed, police clearance, safeguarding"
+  ],
+  "check_lead": "Certificates matter, but what counts is how the person behaves next to a child. The checks use real situations, and your inclusion coordinator or the family makes the call.",
+  "steps": [
+   ["IEP case", "the candidate gets an anonymised profile of a child and writes three goals for the term with methods and a way to measure progress."],
+   ["Observed session", "a short session with a child or a video review: how the candidate builds rapport and responds to a behavioural episode."],
+   ["Parent conversation", "a role-play about a child's slow progress: honesty, support, a concrete plan."],
+   ["Documents and references", "qualifications and police clearance checked, calls with inclusion coordinators and families the candidate worked with."]
+  ],
+  "mistake": "Typical mistake: looking for the cheapest shadow teacher and hiring someone with no training. The child spends the whole day in class with a support person who does not know the methods, and there is no progress. Another one: not agreeing the roles of the SEN teacher, the class teacher and the therapists upfront.",
+  "sal": [
+   ["Shadow teacher or learning assistant", "5,000 - 8,000"],
+   ["SEN teacher", "9,000 - 15,000"],
+   ["Inclusion coordinator (SENCO) or BCBA", "15,000 - 26,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. BCBA certification, inclusion leadership in a British or IB school and Russian for families raise the package.",
+  "faq": [
+   ["How much does a special needs teacher earn in Dubai?", "In 2026 a shadow teacher or learning assistant in Dubai earns about AED 5,000 - 8,000 per month, an SEN teacher AED 9,000 - 15,000 and an inclusion coordinator (SENCO) or BCBA AED 15,000 - 26,000. ABA experience and certifications raise the package."],
+   ["Who hires a shadow teacher: the school or the family?", "It varies: sometimes the school hires the support teacher, sometimes the family hires them directly with the school's agreement. It is important to agree classroom rules upfront. We help find and assess candidates, while the decision and employment stay with the employer."]
+  ],
+  "seek_h2": "Are you a special needs teacher looking for a job in Dubai?"
+ }
+}

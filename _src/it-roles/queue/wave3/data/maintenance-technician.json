@@ -1,0 +1,136 @@
+{
+ "slug": "maintenance-technician",
+ "hub": "construction",
+ "related": [
+  "facility-manager",
+  "hvac-technician",
+  "electrician",
+  "plumber"
+ ],
+ "ru": {
+  "name": "Техник по обслуживанию",
+  "title": "Найм техника по обслуживанию зданий в Дубае: MEP, зарплата | TLNT",
+  "desc": "Найм техника по обслуживанию в Дубае: электрика, сантехника и кондиционеры, практическая проверка на объекте, зарплаты 2026 и шорт-лист кандидатов от TLNT.",
+  "h1": "Найм техника по обслуживанию",
+  "h1em": "в Дубае",
+  "intro": "Мультитехники нужны отелям, жилым башням и управляющим компаниям, торговым центрам, клиникам, школам и частным виллам. Задачи: заявки жильцов и гостей, мелкий ремонт электрики и сантехники, обслуживание сплит-систем и фанкойлов, покраска, плитка, плановое обслуживание по графику. Помогаем определить, нужен ли вам универсал или техник с сильной специализацией, даём шорт-лист из нашей живой базы и проводим практическую проверку руками, а не только по резюме.",
+  "find_lead": "Аккуратный универсал, который закрывает заявки с первого раза, работает безопасно и оставляет после себя чистоту в квартире жильца или номере гостя.",
+  "find": [
+   "Электрика: розетки, выключатели, освещение, автоматы, поиск простой неисправности с мультиметром",
+   "Сантехника: смесители, сифоны, бачки, засоры, замена шлангов и мелкие протечки",
+   "Кондиционирование: чистка фильтров и дренажа, фанкойлы, термостаты, понимание District Cooling",
+   "Отделка: покраска, силикон, плитка, двери и фурнитура, мелкий столярный ремонт",
+   "Порядок работы: заявки в CAFM или в приложении, фото до и после, отчёт о расходных материалах",
+   "Безопасность и сервис: LOTO, работа на высоте, СИЗ, вежливое поведение в доме жильца или номере гостя"
+  ],
+  "check_lead": "В резюме мультитехника пишут всё подряд. Проверка показывает, что человек реально умеет руками и как ведёт себя у клиента, а решение принимает ваш главный инженер.",
+  "steps": [
+   [
+    "Практика на стенде",
+    "кандидат за час меняет смеситель, подключает светильник и находит неисправность в розетке. Смотрим на порядок действий, безопасность и аккуратность."
+   ],
+   [
+    "Диагностика по описанию",
+    "жилец пишет, что кондиционер дует тёплым и капает. Кандидат рассказывает, что проверит по шагам и когда вызовет HVAC-специалиста."
+   ],
+   [
+    "Сервисная ситуация",
+    "заявка в квартире, где хозяин недоволен и спорит. Как кандидат себя ведёт, что фиксирует в заявке и что говорит супервайзеру."
+   ],
+   [
+    "Рекомендации",
+    "звонки супервайзерам или главным инженерам с прошлых мест: количество заявок в смену, повторные вызовы, дисциплина."
+   ]
+  ],
+  "mistake": "Типичная ошибка: брать техника только по количеству лет и списку систем, без проверки руками. Повторные вызовы и испорченная отделка стоят дороже разницы в зарплате. Ещё ошибка: отправить на заявки в элитные виллы человека без опыта работы в домах клиентов: жалобы приходят не на ремонт, а на поведение.",
+  "sal": [
+   [
+    "Помощник техника",
+    "2 500 - 4 000"
+   ],
+   [
+    "Мультитехник",
+    "4 000 - 7 000"
+   ],
+   [
+    "Старший техник или бригадир смены",
+    "7 000 - 11 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Жильё, транспорт и питание часто предоставляет работодатель, и они меняют полную сумму; отели и премиальные виллы платят выше, сертификаты по электрике и холодильному делу поднимают пакет.",
+  "faq": [
+   [
+    "Сколько зарабатывает техник по обслуживанию в Дубае?",
+    "В 2026 году помощник техника в Дубае получает около 2 500 - 4 000 AED в месяц, мультитехник 4 000 - 7 000 AED, старший техник или бригадир смены 7 000 - 11 000 AED. Часто к этому добавляются жильё, транспорт и сверхурочные."
+   ],
+   [
+    "Нужен мультитехник или отдельные электрик и сантехник?",
+    "Для объекта со множеством мелких заявок обычно выгоднее мультитехник плюс подрядчики на сложные работы. Если на объекте много электрики, насосов или своя котельная, нужны узкие специалисты. Поможем разложить заявки за прошлые месяцы и понять, кто нужен."
+   ]
+  ],
+  "seek_h2": "Вы техник по обслуживанию и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Maintenance technician",
+  "title": "Hire a Maintenance Technician in Dubai: MEP Skills, Salary | TLNT",
+  "desc": "Hire a maintenance technician in Dubai: electrical, plumbing and AC work, a hands-on practical check on site, 2026 salaries and a candidate shortlist from TLNT.",
+  "h1": "Hire a maintenance technician",
+  "h1em": "in Dubai",
+  "intro": "Multi-skilled technicians are needed by hotels, residential towers and management companies, malls, clinics, schools and private villas. The work covers resident and guest work orders, minor electrical and plumbing repairs, split and fan coil unit servicing, painting, tiling and scheduled preventive maintenance. We help you decide whether you need a generalist or a technician with a strong specialism, shortlist from our live database and run a hands-on check, not just a CV review.",
+  "find_lead": "A tidy all-rounder who closes work orders the first time, works safely and leaves the resident apartment or guest room clean.",
+  "find": [
+   "Electrical: sockets, switches, lighting, breakers, finding a simple fault with a multimeter",
+   "Plumbing: mixers, traps, cisterns, blockages, hose replacement and small leaks",
+   "Air conditioning: filter and drain cleaning, fan coil units, thermostats, a basic grasp of district cooling",
+   "Finishing: painting, silicone, tiles, doors and hardware, small carpentry repairs",
+   "Workflow: work orders in CAFM or an app, before and after photos, materials used reported",
+   "Safety and service: LOTO, work at height, PPE, polite conduct in a resident home or guest room"
+  ],
+  "check_lead": "A multi-technician CV lists everything. The check shows what the person can actually do with their hands and how they behave with a client, and your chief engineer makes the decision.",
+  "steps": [
+   [
+    "Bench practical",
+    "in one hour the candidate replaces a mixer, connects a light fitting and finds a fault in a socket. We look at sequence, safety and neatness."
+   ],
+   [
+    "Diagnosis from a description",
+    "a resident says the AC blows warm air and drips. The candidate explains what they check step by step and when they call an HVAC specialist."
+   ],
+   [
+    "Service situation",
+    "a work order in an apartment where the owner is unhappy and argues. How the candidate behaves, what they record and what they tell the supervisor."
+   ],
+   [
+    "References",
+    "calls with supervisors or chief engineers from previous roles: work orders per shift, repeat calls, discipline."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a technician on years of experience and a list of systems with no hands-on check. Repeat calls and damaged finishes cost more than the salary difference. Another one: sending someone with no experience in client homes to premium villas: the complaints are about behaviour, not the repair.",
+  "sal": [
+   [
+    "Assistant technician",
+    "2,500 - 4,000"
+   ],
+   [
+    "Multi-skilled technician",
+    "4,000 - 7,000"
+   ],
+   [
+    "Senior technician or shift lead",
+    "7,000 - 11,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Housing, transport and meals are often provided by the employer and change the total; hotels and premium villas pay more, and electrical or refrigeration certificates raise the package.",
+  "faq": [
+   [
+    "How much does a maintenance technician earn in Dubai?",
+    "In 2026 an assistant technician in Dubai earns about AED 2,500 - 4,000 per month, a multi-skilled technician AED 4,000 - 7,000 and a senior technician or shift lead AED 7,000 - 11,000. Housing, transport and overtime are often added."
+   ],
+   [
+    "Do I need a multi-skilled technician or a separate electrician and plumber?",
+    "For a site with many small work orders a multi-skilled technician plus contractors for complex jobs is usually more efficient. If the site has heavy electrical load, pump rooms or its own plant, you need specialists. We help you review past work orders and work out who you need."
+   ]
+  ],
+  "seek_h2": "Are you a maintenance technician looking for a job in Dubai?"
+ }
+}

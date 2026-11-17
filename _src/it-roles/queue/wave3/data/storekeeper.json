@@ -1,0 +1,136 @@
+{
+ "slug": "storekeeper",
+ "hub": "logistics",
+ "related": [
+  "warehouse-manager",
+  "procurement-manager",
+  "delivery-driver",
+  "logistics-coordinator"
+ ],
+ "ru": {
+  "name": "Кладовщик",
+  "title": "Найм кладовщика в Дубае: учёт, приёмка, инвентаризация | TLNT",
+  "desc": "Найм кладовщика в Дубае: приёмка и выдача, учёт в ERP, инвентаризация и сроки годности, практическая проверка точности, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм кладовщика",
+  "h1em": "в Дубае",
+  "intro": "Кладовщики нужны отелям и ресторанам, строительным подрядчикам на объектах, FM-компаниям, клиникам, торговым и дистрибьюторским складам. Задачи: приёмка товара по накладной и заказу, хранение, выдача по заявкам, учёт в системе, инвентаризации, контроль сроков годности и минимальных остатков. Помогаем определить, какой опыт нужен под ваш склад, даём шорт-лист из нашей живой базы и проводим практическую проверку на точность и аккуратность.",
+  "find_lead": "Внимательный и честный сотрудник, у которого каждая единица товара проходит через систему, а остатки совпадают при любой проверке.",
+  "find": [
+   "Приёмка: сверка с заказом и накладной, количество и качество, оформление расхождений с поставщиком",
+   "Учёт: ERP или складская программа (SAP, Oracle, Fidelio Materials Control, Tally), приходы, расходы, перемещения",
+   "Хранение: FIFO и FEFO, температурные режимы для продуктов, маркировка, порядок на полках",
+   "Выдача: по подписанным заявкам, контроль лимитов, учёт возвратов",
+   "Инвентаризации: регулярные пересчёты, поиск расхождений, отчёт по списаниям",
+   "Навыки: Excel, английский для документов, базовая безопасность при работе с грузами"
+  ],
+  "check_lead": "В этой роли главное - точность и честность. Проверки показывают, как человек работает с документами и цифрами, а решение принимает ваш руководитель.",
+  "steps": [
+   [
+    "Приёмка по документам",
+    "кандидат сверяет накладную с заказом и фактической поставкой, где есть недостача и пересорт. Смотрим, что заметит и как оформит."
+   ],
+   [
+    "Тест на учёт",
+    "небольшая таблица движения товара за неделю: найти, почему остаток не сходится, и посчитать правильный."
+   ],
+   [
+    "Ситуация с выдачей",
+    "шеф или прораб просит выдать товар без заявки, срочно. Как кандидат поступит и что зафиксирует."
+   ],
+   [
+    "Рекомендации",
+    "звонки руководителям: результаты инвентаризаций, дисциплина, доверие."
+   ]
+  ],
+  "mistake": "Типичная ошибка: брать кладовщика без проверки рекомендаций, потому что позиция кажется простой. Через кладовую проходят деньги, и недостачи стоят дороже любой экономии на найме. Ещё ошибка: нанять человека без опыта с продуктами в ресторан или отель: сроки годности и температурные режимы там критичны.",
+  "sal": [
+   [
+    "Помощник кладовщика",
+    "2 000 - 3 500"
+   ],
+   [
+    "Кладовщик",
+    "3 500 - 6 000"
+   ],
+   [
+    "Старший кладовщик или контролёр склада",
+    "6 000 - 9 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Отели и крупные строительные проекты, опыт с SAP или Materials Control поднимают пакет; жильё, транспорт и питание от работодателя меняют полную сумму.",
+  "faq": [
+   [
+    "Сколько зарабатывает кладовщик в Дубае?",
+    "В 2026 году помощник кладовщика в Дубае получает около 2 000 - 3 500 AED в месяц, кладовщик 3 500 - 6 000 AED, старший кладовщик или контролёр склада 6 000 - 9 000 AED. Часто работодатель дополнительно даёт жильё, транспорт и питание."
+   ],
+   [
+    "Как проверить честность кладовщика при найме?",
+    "Лучше всего работают звонки прошлым руководителям с конкретными вопросами про инвентаризации и недостачи, практический тест на учёт и чёткие правила выдачи с первого дня. Мы проводим эти проверки до того, как вы увидите кандидата в шорт-листе."
+   ]
+  ],
+  "seek_h2": "Вы кладовщик и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Storekeeper",
+  "title": "Hire a Storekeeper in Dubai: Stock Control, Receiving, Counts | TLNT",
+  "desc": "Hire a storekeeper in Dubai: receiving and issuing, ERP stock control, counts and expiry, a practical accuracy check, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a storekeeper",
+  "h1em": "in Dubai",
+  "intro": "Storekeepers are needed by hotels and restaurants, construction contractors on site, FM companies, clinics, trading and distribution warehouses. The work covers receiving goods against delivery notes and purchase orders, storage, issuing against requisitions, system records, stock counts, expiry date control and minimum stock levels. We help you define the experience your store needs, shortlist from our live database and run a practical check for accuracy and care.",
+  "find_lead": "A careful and honest person whose every unit goes through the system and whose stock matches at any count.",
+  "find": [
+   "Receiving: checking against PO and delivery note, quantity and quality, recording supplier discrepancies",
+   "Records: ERP or store software (SAP, Oracle, Fidelio Materials Control, Tally), receipts, issues, transfers",
+   "Storage: FIFO and FEFO, food temperature control, labelling, tidy shelves",
+   "Issuing: against signed requisitions, limit control, returns recorded",
+   "Counts: regular stock counts, finding variances, write-off reports",
+   "Skills: Excel, English for documents, basic safety when handling goods"
+  ],
+  "check_lead": "In this role accuracy and honesty matter most. The checks show how a person works with documents and numbers, and your manager makes the decision.",
+  "steps": [
+   [
+    "Receiving against documents",
+    "the candidate checks a delivery note against the PO and the actual delivery, which has a shortage and a wrong item. We see what they notice and how they record it."
+   ],
+   [
+    "Stock records test",
+    "a small table of a week of stock movements: find why the balance does not match and calculate the correct one."
+   ],
+   [
+    "Issuing situation",
+    "a chef or site foreman wants stock urgently without a requisition. What the candidate does and what they record."
+   ],
+   [
+    "References",
+    "calls with managers: stock count results, discipline, trust."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a storekeeper without checking references because the role looks simple. Money passes through the store, and shortages cost more than any saving on hiring. Another one: hiring someone with no food experience for a restaurant or hotel: expiry dates and temperature control are critical there.",
+  "sal": [
+   [
+    "Assistant storekeeper",
+    "2,000 - 3,500"
+   ],
+   [
+    "Storekeeper",
+    "3,500 - 6,000"
+   ],
+   [
+    "Senior storekeeper or store controller",
+    "6,000 - 9,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Hotels and large construction projects, and SAP or Materials Control experience raise the package; employer housing, transport and meals change the total.",
+  "faq": [
+   [
+    "How much does a storekeeper earn in Dubai?",
+    "In 2026 an assistant storekeeper in Dubai earns about AED 2,000 - 3,500 per month, a storekeeper AED 3,500 - 6,000 and a senior storekeeper or store controller AED 6,000 - 9,000. Employers often add housing, transport and meals."
+   ],
+   [
+    "How can I check a storekeeper's honesty when hiring?",
+    "What works best is calling previous managers with specific questions about counts and shortages, a practical stock records test and clear issuing rules from day one. We run these checks before you see a candidate on the shortlist."
+   ]
+  ],
+  "seek_h2": "Are you a storekeeper looking for a job in Dubai?"
+ }
+}

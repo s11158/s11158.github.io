@@ -1,0 +1,77 @@
+{
+ "slug": "hotel-general-manager",
+ "hub": "hospitality",
+ "related": ["front-office-manager", "f-and-b-manager", "general-manager", "housekeeping-supervisor"],
+ "ru": {
+  "name": "Генеральный менеджер отеля",
+  "title": "Найм генерального менеджера отеля в Дубае: зарплата | TLNT",
+  "desc": "Найм генерального менеджера отеля в Дубае: P&L, RevPAR, команда и стандарты бренда, проверка на кейсах владельца, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм генерального менеджера отеля",
+  "h1em": "в Дубае",
+  "intro": "Генеральные менеджеры нужны отелям международных сетей и их владельцам, бутик-отелям и апарт-отелям в Downtown, Business Bay и на Palm, курортам на побережье и новым проектам до открытия. Задачи: P&L и бюджет, доход на номер, отзывы гостей, команда всех отделов, стандарты бренда и отношения с владельцем, работа с DET и классификацией. Помогаем определить профиль под ваш отель, даём шорт-лист из нашей живой базы и проводим проверку на кейсах владельца, решение принимаете вы.",
+  "find_lead": "Руководитель, который отвечает за прибыль отеля так же, как за впечатление гостя, и умеет говорить и с владельцем, и с горничной.",
+  "find": [
+   "Финансы: P&L, бюджет, GOP, контроль затрат на персонал и закупки",
+   "Доход: RevPAR, ADR и загрузка, работа с revenue-менеджером, каналами и корпоративными контрактами",
+   "Гости: отзывы на TripAdvisor и Booking, разбор жалоб, программы лояльности бренда",
+   "Команда: руководители всех отделов, обучение, удержание персонала, график в сезон и в лето",
+   "Регуляторика: DET (Dubai Department of Economy and Tourism), классификация, Tourism Dirham, безопасность и Civil Defence",
+   "Владелец: ежемесячная отчётность, капитальные расходы, реновации, предоткрытие"
+  ],
+  "check_lead": "Название сети в резюме не показывает, как человек управлял прибылью конкретного отеля. Проверка строится на реальных цифрах и кейсах, решение за владельцем.",
+  "steps": [
+   ["Разбор P&L", "кандидату даём упрощённый P&L отеля с падающим GOP. Он находит причины, предлагает план на квартал и объясняет, что не будет резать, чтобы не потерять гостя."],
+   ["Кейс по доходу", "летний спад загрузки в Дубае: как кандидат будет работать с ценой, каналами, местным рынком и пакетами, чтобы удержать RevPAR."],
+   ["Разговор с владельцем", "ролевая встреча: владелец недоволен результатом и хочет сократить персонал. Смотрим на аргументы, цифры и умение договориться."],
+   ["Рекомендации", "звонки владельцам и региональным директорам: динамика GOP и отзывов, текучесть команды, честность в отчётах."]
+  ],
+  "mistake": "Типичная ошибка: брать менеджера только из крупной сети в независимый отель без поддержки корпоративного офиса. Без готовых систем, revenue-команды и маркетинга бренда такой руководитель может растеряться. Ещё ошибка: не проверить опыт летнего сезона в ОАЭ, когда загрузка падает и нужна совсем другая тактика.",
+  "sal": [
+   ["Генеральный менеджер небольшого отеля или апарт-отеля", "25 000 - 40 000"],
+   ["Генеральный менеджер отеля 4-5 звёзд", "40 000 - 70 000"],
+   ["Генеральный менеджер курорта или флагманского отеля", "70 000 - 120 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Бонус по GOP, жильё, школа для детей и проживание в отеле заметно меняют полный пакет.",
+  "faq": [
+   ["Сколько зарабатывает генеральный менеджер отеля в Дубае?", "В 2026 году генеральный менеджер небольшого отеля или апарт-отеля в Дубае получает около 25 000 - 40 000 AED в месяц, отеля 4-5 звёзд 40 000 - 70 000 AED, курорта или флагманского отеля 70 000 - 120 000 AED. К этому часто добавляются бонус по результатам и жильё."],
+   ["Брать GM из сети или из независимых отелей?", "Зависит от модели: под управлением бренда нужен человек, который знает стандарты и отчётность сети. В независимом отеле важнее умение самому выстроить revenue, продажи и маркетинг. Поможем определить профиль и проверить кандидатов на задачах именно вашего отеля."]
+  ],
+  "seek_h2": "Вы генеральный менеджер отеля и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Hotel general manager",
+  "title": "Hire a Hotel General Manager in Dubai: Salary | TLNT",
+  "desc": "Hire a hotel general manager in Dubai: P&L, RevPAR, team and brand standards, checks built on owner cases, 2026 salary ranges and a shortlist from TLNT.",
+  "h1": "Hire a hotel general manager",
+  "h1em": "in Dubai",
+  "intro": "Hotel general managers are needed by international chains and their owners, boutique and serviced apartment hotels in Downtown, Business Bay and the Palm, beach resorts and new projects in pre-opening. The work covers P&L and budget, revenue per room, guest reviews, every department's team, brand standards, owner relations and DET classification. We help you define the profile for your hotel, shortlist from our live database and run checks built on owner cases, and you make the decision.",
+  "find_lead": "A leader who owns the hotel's profit as much as the guest experience and can talk to both the owner and the room attendant.",
+  "find": [
+   "Finance: P&L, budget, GOP, payroll and purchasing cost control",
+   "Revenue: RevPAR, ADR and occupancy, working with the revenue manager, channels and corporate contracts",
+   "Guests: TripAdvisor and Booking reviews, complaint handling, brand loyalty programmes",
+   "Team: all heads of department, training, retention, rotas for peak season and summer",
+   "Regulation: DET (Dubai Department of Economy and Tourism), classification, Tourism Dirham, safety and Civil Defence",
+   "Owner: monthly reporting, capex, renovations, pre-opening"
+  ],
+  "check_lead": "A chain name on the CV does not show how the person managed one hotel's profit. The checks are built on real numbers and cases, and the owner decides.",
+  "steps": [
+   ["P&L review", "the candidate gets a simplified hotel P&L with falling GOP. They find the causes, propose a quarter plan and explain what they would not cut to keep guests."],
+   ["Revenue case", "the Dubai summer drop in occupancy: how the candidate works with rate, channels, the local market and packages to hold RevPAR."],
+   ["Owner conversation", "a role-play meeting: the owner is unhappy with results and wants to cut staff. We look at arguments, numbers and the ability to reach agreement."],
+   ["References", "calls with owners and regional directors: GOP and review trends, team turnover, honesty in reporting."]
+  ],
+  "mistake": "Typical mistake: placing a manager from a big chain into an independent hotel with no corporate office support. Without ready systems, a revenue team and brand marketing, that leader can struggle. Another one: not checking experience of a UAE summer, when occupancy drops and a very different approach is needed.",
+  "sal": [
+   ["GM of a small hotel or serviced apartments", "25,000 - 40,000"],
+   ["GM of a 4-5 star hotel", "40,000 - 70,000"],
+   ["GM of a resort or flagship hotel", "70,000 - 120,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. GOP bonus, housing, school fees and living in the hotel noticeably change the full package.",
+  "faq": [
+   ["How much does a hotel general manager earn in Dubai?", "In 2026 a GM of a small hotel or serviced apartments in Dubai earns about AED 25,000 - 40,000 per month, a GM of a 4-5 star hotel AED 40,000 - 70,000 and a GM of a resort or flagship hotel AED 70,000 - 120,000. A performance bonus and housing are often added."],
+   ["Should I hire a GM from a chain or from independent hotels?", "It depends on the model: under a brand you need someone who knows the chain's standards and reporting. In an independent hotel the ability to build revenue, sales and marketing yourself matters more. We help you define the profile and test candidates on your hotel's real tasks."]
+  ],
+  "seek_h2": "Are you a hotel general manager looking for a job in Dubai?"
+ }
+}

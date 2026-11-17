@@ -1,0 +1,77 @@
+{
+ "slug": "executive-chef",
+ "hub": "hospitality",
+ "related": ["sous-chef", "chef-de-partie", "f-and-b-manager", "pastry-chef"],
+ "ru": {
+  "name": "Шеф-повар",
+  "title": "Найм шеф-повара в Дубае: меню, food cost, зарплата | TLNT",
+  "desc": "Найм шеф-повара в Дубае: рестораны, отели и кейтеринг, меню и food cost, требования Dubai Municipality, практическая проверка на кухне и зарплаты 2026.",
+  "h1": "Найм шеф-повара",
+  "h1em": "в Дубае",
+  "intro": "Шеф-повара нужны отелям, ресторанным группам и концептам на DIFC и Jumeirah, бич-клубам, кейтерингу и облачным кухням для доставки. Задачи: концепция и меню, себестоимость и закупки, команда кухни, стабильное качество на каждой тарелке, гигиена и аудиты Dubai Municipality, открытие новых точек. Помогаем определить профиль под вашу кухню, даём шорт-лист из нашей живой базы и проводим практическую проверку на кухне, решение принимаете вы.",
+  "find_lead": "Шеф, который создаёт меню под вашу аудиторию, держит food cost и выстраивает кухню, где блюдо одинаково и в понедельник, и в пятничный бранч.",
+  "find": [
+   "Кухня и концепция: специализация (европейская, азиатская, арабская, фьюжн), авторские блюда, тренды Дубая",
+   "Себестоимость: технологические карты, food cost, работа с поставщиками и сезонными продуктами",
+   "Команда: су-шефы и повара, график, обучение, дисциплина и удержание людей",
+   "Нормы: HACCP, PIC-сертификат и требования Dubai Municipality, аллергены и маркировка, халяль",
+   "Масштаб: банкеты, бранчи, доставка, открытие новых ресторанов",
+   "Системы: складской учёт, заказы, кухонные экраны, расчёт выхода блюд"
+  ],
+  "check_lead": "Красивые фото блюд в портфолио не показывают, как шеф держит кухню в загрузке и считает деньги. Поэтому проверка на кухне, а дегустацию ведёте вы.",
+  "steps": [
+   ["Дегустация", "кандидат готовит три-четыре блюда под вашу концепцию из согласованной корзины. Оцениваете вкус, подачу, технику и время."],
+   ["Расчёт технологической карты", "кандидат считает себестоимость одного блюда и предлагает цену. Смотрим, как он ищет экономию без потери качества."],
+   ["Разговор о кухне и команде", "как устроить станции, график и контроль качества, что делать перед аудитом Dubai Municipality, как уменьшать списания."],
+   ["Рекомендации", "звонки владельцам и F&B директорам: food cost по факту, результаты аудитов, текучесть кухни, отзывы гостей."]
+  ],
+  "mistake": "Типичная ошибка: нанимать шефа за громкое имя и ресторан из гида, не проверив его опыт с себестоимостью и масштабом вашего формата. Такой шеф может сделать прекрасное меню, которое не приносит прибыли. Ещё ошибка: не оговорить заранее, кто владеет рецептами и меню после ухода шефа.",
+  "sal": [
+   ["Шеф небольшого ресторана или кафе", "12 000 - 20 000"],
+   ["Шеф-повар ресторана или кухни отеля", "20 000 - 35 000"],
+   ["Executive chef отеля или ресторанной группы", "35 000 - 60 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Шефы с опытом открытия ресторанов и признанием в гидах получают больше; жильё, бонус и процент от прибыли меняют полный пакет.",
+  "faq": [
+   ["Сколько зарабатывает шеф-повар в Дубае?", "В 2026 году шеф небольшого ресторана или кафе в Дубае получает около 12 000 - 20 000 AED в месяц, шеф-повар ресторана или кухни отеля 20 000 - 35 000 AED, executive chef отеля или группы 35 000 - 60 000 AED. Опыт открытий и известность в гидах поднимают пакет."],
+   ["Как проверить шефа до выхода?", "Лучший способ - оплачиваемая дегустация на вашей кухне и разбор себестоимости одного блюда. Так вы видите и вкус, и экономику. Поможем подготовить корзину, критерии оценки и организовать проверку кандидатов из шорт-листа."]
+  ],
+  "seek_h2": "Вы шеф-повар и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Executive chef",
+  "title": "Hire an Executive Chef in Dubai: Menu, Food Cost, Salary | TLNT",
+  "desc": "Hire an executive chef in Dubai: restaurants, hotels and catering, menus and food cost, Dubai Municipality rules, a practical kitchen check, 2026 salaries.",
+  "h1": "Hire an executive chef",
+  "h1em": "in Dubai",
+  "intro": "Executive chefs are needed by hotels, restaurant groups and concepts in DIFC and Jumeirah, beach clubs, catering and cloud kitchens for delivery. The work covers concept and menu, food cost and purchasing, the kitchen team, consistent quality on every plate, hygiene and Dubai Municipality audits and new openings. We help you define the profile for your kitchen, shortlist from our live database and run a practical kitchen check, and you make the decision.",
+  "find_lead": "A chef who builds a menu for your guests, holds food cost and runs a kitchen where a dish is the same on Monday and at Friday brunch.",
+  "find": [
+   "Cuisine and concept: specialisation (European, Asian, Arabic, fusion), signature dishes, Dubai trends",
+   "Cost: recipe cards, food cost, suppliers and seasonal produce",
+   "Team: sous chefs and cooks, rotas, training, discipline and retention",
+   "Compliance: HACCP, PIC certificate and Dubai Municipality requirements, allergens and labelling, halal",
+   "Scale: banquets, brunches, delivery, new restaurant openings",
+   "Systems: inventory, ordering, kitchen display screens, yield calculations"
+  ],
+  "check_lead": "Beautiful dish photos in a portfolio do not show how a chef runs a busy kitchen and counts money. So the check is in the kitchen, and you lead the tasting.",
+  "steps": [
+   ["Tasting", "the candidate cooks three or four dishes for your concept from an agreed basket. You score taste, plating, technique and timing."],
+   ["Recipe costing", "the candidate costs one dish and proposes a price. We look at how they find savings without losing quality."],
+   ["Kitchen and team conversation", "how to set up stations, rotas and quality control, what to do before a Dubai Municipality audit, how to cut waste."],
+   ["References", "calls with owners and F&B directors: actual food cost, audit results, kitchen turnover, guest reviews."]
+  ],
+  "mistake": "Typical mistake: hiring a chef for a big name and a guide-listed restaurant without checking their experience with cost and the scale of your format. That chef may create a wonderful menu that makes no profit. Another one: not agreeing upfront who owns the recipes and menu after the chef leaves.",
+  "sal": [
+   ["Chef of a small restaurant or cafe", "12,000 - 20,000"],
+   ["Head chef of a restaurant or hotel kitchen", "20,000 - 35,000"],
+   ["Executive chef of a hotel or restaurant group", "35,000 - 60,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Chefs with opening experience and guide recognition earn more; housing, bonus and profit share change the full package.",
+  "faq": [
+   ["How much does an executive chef earn in Dubai?", "In 2026 a chef of a small restaurant or cafe in Dubai earns about AED 12,000 - 20,000 per month, a head chef of a restaurant or hotel kitchen AED 20,000 - 35,000 and an executive chef of a hotel or group AED 35,000 - 60,000. Opening experience and guide recognition raise the package."],
+   ["How can I test a chef before they start?", "The best way is a paid tasting in your kitchen plus costing one dish. You see both the taste and the economics. We help prepare the basket and scoring criteria and organise the checks for shortlisted candidates."]
+  ],
+  "seek_h2": "Are you an executive chef looking for a job in Dubai?"
+ }
+}

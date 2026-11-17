@@ -1,0 +1,136 @@
+{
+ "slug": "network-engineer",
+ "hub": "tech",
+ "related": [
+  "system-administrator",
+  "it-manager",
+  "cybersecurity-specialist",
+  "it-support-specialist"
+ ],
+ "ru": {
+  "name": "Сетевой инженер",
+  "title": "Найм сетевого инженера в Дубае: Cisco, Fortinet, зарплата | TLNT",
+  "desc": "Найм сетевого инженера в Дубае: Cisco, Fortinet, SD-WAN и Wi-Fi, практическая проверка на лабораторной схеме, зарплаты 2026 и шорт-лист из базы TLNT.",
+  "h1": "Найм сетевого инженера",
+  "h1em": "в Дубае",
+  "intro": "Сетевые инженеры нужны в Дубае системным интеграторам, банкам, отелям и торговым центрам, больницам, аэропорту и логистике, девелоперам с умными зданиями и компаниям с несколькими филиалами в ОАЭ. Инженер проектирует и поддерживает локальную сеть, Wi-Fi, межсетевые экраны, VPN и связь между офисами, следит за доступностью и безопасностью. Помогаем определить, нужен ли вам инженер поддержки или проектировщик, даём шорт-лист из нашей живой базы и проводим практическую проверку на лабораторной схеме, которую оценивает ваш ИТ-руководитель.",
+  "find_lead": "Инженер, который держит сеть предсказуемой: документирует её, находит неисправность по фактам и меняет конфигурацию без простоя бизнеса.",
+  "find": [
+   "Маршрутизация и коммутация: VLAN, STP, OSPF, BGP, оборудование Cisco, Aruba, Juniper или Huawei",
+   "Безопасность: межсетевые экраны Fortinet, Palo Alto или Cisco, VPN, сегментация, NAC",
+   "Wi-Fi: проектирование покрытия для отелей, офисов и складов, контроллеры, гостевые сети",
+   "SD-WAN и провайдеры: связь филиалов, каналы etisalat by e& и du, резервирование",
+   "Мониторинг и документация: PRTG, Zabbix или SolarWinds, схемы сети, журнал изменений",
+   "Сертификаты: CCNA или CCNP, NSE от Fortinet, понимание облачных сетей в Azure и AWS"
+  ],
+  "check_lead": "Сертификат CCNP говорит о сданных экзаменах, но не о том, как человек ведёт себя, когда в отеле пропал Wi-Fi во время конференции. Проверка строится на практике, решение принимает ваш ИТ-руководитель.",
+  "steps": [
+   [
+    "Лабораторная схема",
+    "в симуляторе (Packet Tracer, GNS3 или EVE-NG) кандидат за 2-3 часа настраивает VLAN, маршрутизацию между двумя офисами и правила межсетевого экрана по короткому ТЗ."
+   ],
+   [
+    "Поиск неисправности",
+    "сценарий: у части сотрудников нет интернета, у остальных всё работает. Кандидат вслух рассказывает порядок проверки и какие команды запускает."
+   ],
+   [
+    "Разговор о проекте",
+    "новый офис на 80 человек или отель на 200 номеров: какое оборудование, как организовать Wi-Fi и гостевую сеть, сколько это примерно стоит."
+   ],
+   [
+    "Рекомендации",
+    "звонки руководителям с прошлых мест: размер сетей, работа ночью при изменениях, оставлял ли кандидат схемы и документацию."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанять сетевого инженера, а потом нагрузить его поддержкой пользователей, принтерами и закупками. Через несколько месяцев сеть остаётся без документации, а специалист уходит. Ещё ошибка: не проверить навык работы с межсетевыми экранами, хотя в большинстве компаний это половина работы.",
+  "sal": [
+   [
+    "Младший сетевой инженер",
+    "7 000 - 12 000"
+   ],
+   [
+    "Сетевой инженер среднего уровня",
+    "12 000 - 20 000"
+   ],
+   [
+    "Старший сетевой инженер или архитектор",
+    "20 000 - 32 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Сертификаты CCNP или NSE, опыт в банках и у системных интеграторов, а также дежурства заметно поднимают пакет; жильё и транспорт меняют полную сумму.",
+  "faq": [
+   [
+    "Сколько зарабатывает сетевой инженер в Дубае?",
+    "В 2026 году младший сетевой инженер в Дубае получает около 7 000 - 12 000 AED в месяц, инженер среднего уровня 12 000 - 20 000 AED, старший инженер или сетевой архитектор 20 000 - 32 000 AED. Банки и крупные интеграторы платят по верхней границе."
+   ],
+   [
+    "Нужен свой сетевой инженер или хватит подрядчика?",
+    "Для одного офиса без сложной сети обычно хватает договора с интегратором. Свой инженер окупается, когда у вас несколько филиалов, склад или отель с большим Wi-Fi, собственные межсетевые экраны и требования к безопасности. Поможем оценить нагрузку и составить профиль роли."
+   ]
+  ],
+  "seek_h2": "Вы сетевой инженер и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Network engineer",
+  "title": "Hire a Network Engineer in Dubai: Cisco, Fortinet, Salary | TLNT",
+  "desc": "Hire a network engineer in Dubai: Cisco, Fortinet, SD-WAN and Wi-Fi, a practical check on a lab topology, 2026 salaries and a shortlist from TLNT's database.",
+  "h1": "Hire a network engineer",
+  "h1em": "in Dubai",
+  "intro": "Network engineers are in demand in Dubai at system integrators, banks, hotels and malls, hospitals, the airport and logistics, developers with smart buildings and companies with several branches across the UAE. The engineer designs and maintains the LAN, Wi-Fi, firewalls, VPNs and links between offices, and keeps the network available and secure. We help you decide whether you need a support engineer or a designer, shortlist from our live database and run a practical check on a lab topology that your IT head scores.",
+  "find_lead": "An engineer who keeps the network predictable: documents it, finds faults from facts and changes configuration without business downtime.",
+  "find": [
+   "Routing and switching: VLAN, STP, OSPF, BGP, Cisco, Aruba, Juniper or Huawei equipment",
+   "Security: Fortinet, Palo Alto or Cisco firewalls, VPN, segmentation, NAC",
+   "Wi-Fi: coverage design for hotels, offices and warehouses, controllers, guest networks",
+   "SD-WAN and carriers: branch connectivity, etisalat by e& and du links, redundancy",
+   "Monitoring and documentation: PRTG, Zabbix or SolarWinds, network diagrams, change log",
+   "Certifications: CCNA or CCNP, Fortinet NSE, understanding of cloud networking in Azure and AWS"
+  ],
+  "check_lead": "A CCNP certificate shows passed exams, not how someone behaves when hotel Wi-Fi drops during a conference. The check is practical, and your IT head makes the call.",
+  "steps": [
+   [
+    "Lab topology",
+    "in a simulator (Packet Tracer, GNS3 or EVE-NG) the candidate spends 2-3 hours configuring VLANs, routing between two offices and firewall rules from a short brief."
+   ],
+   [
+    "Troubleshooting",
+    "scenario: some staff have no internet while everyone else is fine. The candidate talks through the order of checks and the commands they run."
+   ],
+   [
+    "Project conversation",
+    "a new 80-person office or a 200-room hotel: what equipment, how to set up Wi-Fi and a guest network, roughly what it costs."
+   ],
+   [
+    "References",
+    "calls with managers from previous roles: network size, night-time change work, whether the candidate left diagrams and documentation."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a network engineer and then loading them with user support, printers and purchasing. A few months later the network has no documentation and the specialist leaves. Another one: not testing firewall skills, even though in most companies that is half the job.",
+  "sal": [
+   [
+    "Junior network engineer",
+    "7,000 - 12,000"
+   ],
+   [
+    "Mid-level network engineer",
+    "12,000 - 20,000"
+   ],
+   [
+    "Senior network engineer or architect",
+    "20,000 - 32,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. CCNP or NSE certifications, banking and system integrator experience and on-call duty noticeably raise the package; housing and transport change the total.",
+  "faq": [
+   [
+    "How much does a network engineer earn in Dubai?",
+    "In 2026 a junior network engineer in Dubai earns about AED 7,000 - 12,000 per month, a mid-level engineer AED 12,000 - 20,000 and a senior engineer or network architect AED 20,000 - 32,000. Banks and large integrators pay at the top of the range."
+   ],
+   [
+    "Do I need an in-house network engineer or is a contractor enough?",
+    "For one office with a simple network, a contract with an integrator is usually enough. An in-house engineer pays off when you have several branches, a warehouse or hotel with large Wi-Fi, your own firewalls and security requirements. We help you assess the workload and define the role."
+   ]
+  ],
+  "seek_h2": "Are you a network engineer looking for a job in Dubai?"
+ }
+}

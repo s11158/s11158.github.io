@@ -1,0 +1,77 @@
+{
+ "slug": "teacher",
+ "hub": "education",
+ "related": ["english-teacher", "kindergarten-teacher", "school-principal", "private-tutor"],
+ "ru": {
+  "name": "Учитель",
+  "title": "Найм учителя в Дубае: KHDA, британская и IB программы | TLNT",
+  "desc": "Найм учителя в Дубае: требования KHDA, британская, американская и IB программы, пробный урок и проверка документов, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм учителя",
+  "h1em": "в Дубае",
+  "intro": "Учителя нужны частным школам Дубая с британской, американской, IB, индийской и российской программами, учебным центрам и онлайн-школам. Задачи: уроки по программе, планирование, оценивание, работа с родителями и подготовка к инспекции KHDA. Помогаем определить профиль под вашу программу и предмет, даём шорт-лист из нашей живой базы, проверяем документы под требования KHDA и организуем пробный урок, который оценивает ваш завуч.",
+  "find_lead": "Учитель с квалификацией, подходящей вашей программе, который ведёт сильный урок в классе с разным уровнем детей.",
+  "find": [
+   "Квалификация: педагогический диплом или PGCE, QTS, американская лицензия учителя, для KHDA нужна аттестация документов",
+   "Программа: британская (EYFS, KS1-KS5, IGCSE, A-Level), американская, IB (PYP, MYP, DP) или российская",
+   "Предмет и уровень: опыт преподавания именно вашего предмета в нужных классах",
+   "Дифференциация: работа с детьми с разным уровнем английского и особыми образовательными потребностями",
+   "Оценивание и данные: трекинг прогресса, отчёты родителям, подготовка к инспекции KHDA",
+   "Безопасность детей: справка о несудимости, понимание правил safeguarding"
+  ],
+  "check_lead": "Хорошее интервью не гарантирует сильный урок. Проверки построены вокруг реального класса, а решение принимает ваше руководство школы.",
+  "steps": [
+   ["Пробный урок", "кандидат проводит 30-40 минут с вашим классом или онлайн-урок с группой, завуч оценивает структуру, вовлечение и проверку понимания."],
+   ["План и оценивание", "кандидат присылает план урока и пример обратной связи по работе ученика под вашу программу."],
+   ["Кейс с родителем", "ролевой разговор с недовольным родителем о низкой оценке ребёнка: тон, факты, план действий."],
+   ["Документы и рекомендации", "проверка диплома и опыта под требования KHDA, звонки директорам прошлых школ, справка о несудимости."]
+  ],
+  "mistake": "Типичная ошибка: нанять учителя и только потом узнать, что его диплом не проходит аттестацию для KHDA, и выход на работу откладывается на месяцы. Ещё ошибка: не проверить опыт именно в вашей программе, учителю без британского опыта трудно сразу вести IGCSE.",
+  "sal": [
+   ["Учитель без большого опыта", "8 000 - 13 000"],
+   ["Опытный учитель", "13 000 - 20 000"],
+   ["Ведущий учитель или руководитель кафедры", "20 000 - 30 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Школы премиум-сегмента с британской и IB программами платят больше и часто добавляют жильё, авиабилет и обучение детей сотрудника; в бюджетных школах пакет ниже.",
+  "faq": [
+   ["Сколько зарабатывает учитель в Дубае?", "В 2026 году учитель без большого опыта в Дубае получает около 8 000 - 13 000 AED в месяц, опытный учитель 13 000 - 20 000 AED, ведущий учитель или руководитель кафедры 20 000 - 30 000 AED. Премиальные британские и IB школы платят больше и добавляют жильё."],
+   ["Какие документы нужны учителю для работы в Дубае?", "Обычно нужен диплом бакалавра и педагогическая квалификация, аттестованные в ОАЭ, справка о несудимости и подтверждение опыта. Для частных школ требования проверяет KHDA. Поможем заранее проверить документы кандидата, чтобы не терять время на оформление."]
+  ],
+  "seek_h2": "Вы учитель и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Teacher",
+  "title": "Hire a Teacher in Dubai: KHDA, British and IB Schools | TLNT",
+  "desc": "Hire a teacher in Dubai: KHDA requirements, British, American and IB curricula, a trial lesson and document checks, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire a teacher",
+  "h1em": "in Dubai",
+  "intro": "Teachers are needed by private schools in Dubai running British, American, IB, Indian and Russian curricula, as well as learning centres and online schools. The work covers lessons to the curriculum, planning, assessment, parent communication and preparing for KHDA inspection. We help you define the profile for your curriculum and subject, shortlist from our live database, check documents against KHDA requirements and arrange a trial lesson scored by your head of department.",
+  "find_lead": "A teacher with qualifications that fit your curriculum who runs a strong lesson in a mixed-ability class.",
+  "find": [
+   "Qualifications: teaching degree or PGCE, QTS, a US teaching licence, attested documents for KHDA",
+   "Curriculum: British (EYFS, KS1-KS5, IGCSE, A-Level), American, IB (PYP, MYP, DP) or Russian",
+   "Subject and phase: experience teaching your subject at the right grades",
+   "Differentiation: working with children with different English levels and special educational needs",
+   "Assessment and data: progress tracking, parent reports, KHDA inspection readiness",
+   "Child safeguarding: a police clearance certificate and understanding of safeguarding policy"
+  ],
+  "check_lead": "A good interview does not guarantee a strong lesson. The checks are built around a real class, and your school leadership makes the call.",
+  "steps": [
+   ["Trial lesson", "the candidate teaches 30-40 minutes with your class or an online group; the head of department scores structure, engagement and checks for understanding."],
+   ["Plan and assessment", "the candidate sends a lesson plan and an example of feedback on student work for your curriculum."],
+   ["Parent case", "a role-play with an unhappy parent about a child's low grade: tone, facts, an action plan."],
+   ["Documents and references", "degree and experience checked against KHDA requirements, calls with previous principals, police clearance."]
+  ],
+  "mistake": "Typical mistake: hiring a teacher and only then finding that their degree cannot be attested for KHDA, delaying the start by months. Another one: not checking experience in your exact curriculum; a teacher with no British background will struggle to teach IGCSE straight away.",
+  "sal": [
+   ["Early-career teacher", "8,000 - 13,000"],
+   ["Experienced teacher", "13,000 - 20,000"],
+   ["Lead teacher or head of department", "20,000 - 30,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Premium British and IB schools pay more and often add housing, flights and tuition for staff children; budget schools offer lower packages.",
+  "faq": [
+   ["How much does a teacher earn in Dubai?", "In 2026 an early-career teacher in Dubai earns about AED 8,000 - 13,000 per month, an experienced teacher AED 13,000 - 20,000 and a lead teacher or head of department AED 20,000 - 30,000. Premium British and IB schools pay more and add housing."],
+   ["What documents does a teacher need to work in Dubai?", "Usually a bachelor's degree and a teaching qualification attested in the UAE, a police clearance certificate and proof of experience. For private schools the requirements are checked by KHDA. We help check a candidate's documents early so no time is lost on paperwork."]
+  ],
+  "seek_h2": "Are you a teacher looking for a job in Dubai?"
+ }
+}

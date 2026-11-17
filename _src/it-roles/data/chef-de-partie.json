@@ -1,0 +1,77 @@
+{
+ "slug": "chef-de-partie",
+ "hub": "hospitality",
+ "related": ["sous-chef", "executive-chef", "pastry-chef"],
+ "ru": {
+  "name": "Повар (chef de partie)",
+  "title": "Найм chef de partie в Дубае: станция, скорость, зарплата | TLNT",
+  "desc": "Найм повара chef de partie в Дубае: работа на станции, скорость и стабильность, гигиена по нормам Dubai Municipality, проверка на кухне и зарплаты 2026.",
+  "h1": "Найм повара chef de partie",
+  "h1em": "в Дубае",
+  "intro": "Повара уровня chef de partie нужны ресторанам и отелям, бранч-площадкам, кейтерингу и облачным кухням Дубая. Это старший повар станции: гриль, горячий цех, холодный цех, соусы или паста. Он готовит заготовки, держит качество в пиковые часы, ведёт младших поваров и соблюдает гигиену по требованиям Dubai Municipality. Помогаем определить, какая станция и уровень вам нужны, даём шорт-лист из нашей живой базы и проводим практическую проверку на кухне, решение принимает ваш шеф.",
+  "find_lead": "Повар, который отвечает за свою станцию целиком: заготовки, скорость, одинаковую подачу и чистоту, и может вести одного-двух помощников.",
+  "find": [
+   "Станция: гриль, горячий или холодный цех, соусы, паста, азиатская или арабская кухня",
+   "Скорость: работа в пик на бранче и в пятницу, порядок заказов, связь с раздачей",
+   "Стабильность: блюдо по технологической карте, вес и подача одинаковы у каждого гостя",
+   "Гигиена: HACCP, температура хранения, маркировка, аллергены, требования Dubai Municipality",
+   "Заготовки и списания: план заготовок, ротация продуктов, учёт остатков",
+   "Команда: обучение commis, работа в связке с су-шефом"
+  ],
+  "check_lead": "В резюме все пишут о скорости и чистоте, поэтому проверка проходит на кухне в рабочую смену, а решение принимает ваш шеф или су-шеф.",
+  "steps": [
+   ["Практическая проверка на станции", "практическая проверка на станции в рабочие часы. Шеф смотрит на организацию рабочего места, скорость, подачу и поведение под давлением."],
+   ["Блюдо по карте", "кандидат готовит два блюда из вашего меню по технологической карте. Важно точное попадание в вес, вкус и вид."],
+   ["Вопросы по гигиене", "хранение, температуры, перекрёстное загрязнение, аллергены. Ответы показывают, готов ли человек к аудиту Dubai Municipality."],
+   ["Рекомендации", "звонки шефам с прошлых мест: надёжность, опоздания, отношение к команде и продуктам."]
+  ],
+  "mistake": "Типичная ошибка: брать повара с громким опытом в отеле, не проверив его на нужной станции. Сильный повар холодного цеха не обязательно справится с грилем в загрузку. Ещё ошибка: обходиться без практической проверки на кухне, а именно она за несколько часов показывает больше, чем любое интервью.",
+  "sal": [
+   ["Demi chef de partie", "3 500 - 5 000"],
+   ["Chef de partie", "5 000 - 7 500"],
+   ["Senior chef de partie", "7 500 - 10 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. В отелях часто добавляются жильё, питание и транспорт; ресторанные группы премиум-класса платят по верхней границе.",
+  "faq": [
+   ["Сколько зарабатывает chef de partie в Дубае?", "В 2026 году demi chef de partie в Дубае получает около 3 500 - 5 000 AED в месяц, chef de partie 5 000 - 7 500 AED, senior chef de partie 7 500 - 10 000 AED. В отелях к этому часто добавляются жильё, питание и транспорт."],
+   ["Нужен ли повару сертификат по гигиене?", "Да, для работы с продуктами в Дубае требуется обучение по пищевой безопасности, а на кухне должен быть сотрудник с сертификатом PIC. Поможем проверить, какие сертификаты уже есть у кандидатов, и учесть сроки обучения при выходе."]
+  ],
+  "seek_h2": "Вы повар и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Chef de partie",
+  "title": "Hire a Chef de Partie in Dubai: Station, Speed, Salary | TLNT",
+  "desc": "Hire a chef de partie in Dubai: station work, speed and consistency, hygiene under Dubai Municipality rules, a practical kitchen check and 2026 salaries.",
+  "h1": "Hire a chef de partie",
+  "h1em": "in Dubai",
+  "intro": "Chefs de partie are needed by restaurants and hotels, brunch venues, catering companies and cloud kitchens in Dubai. This is the senior cook of a station: grill, hot kitchen, cold kitchen, sauces or pasta. They do the mise en place, hold quality at peak hours, lead junior cooks and follow hygiene rules set by Dubai Municipality. We help you define the station and level you need, shortlist from our live database and run a practical kitchen check, and your chef decides.",
+  "find_lead": "A cook who owns the whole station: prep, speed, consistent plating and cleanliness, and can lead one or two helpers.",
+  "find": [
+   "Station: grill, hot or cold kitchen, sauces, pasta, Asian or Arabic cuisine",
+   "Speed: peak service at brunch and on Fridays, ticket order, communication with the pass",
+   "Consistency: dishes to the recipe card, the same weight and plating for every guest",
+   "Hygiene: HACCP, storage temperatures, labelling, allergens, Dubai Municipality requirements",
+   "Prep and waste: prep plans, stock rotation, tracking leftovers",
+   "Team: training commis cooks, working closely with the sous chef"
+  ],
+  "check_lead": "Every CV mentions speed and cleanliness, so the check happens in the kitchen during service, and your chef or sous chef decides.",
+  "steps": [
+   ["Practical check on the station", "a practical station check during busy hours. The chef looks at workstation set-up, speed, plating and behaviour under pressure."],
+   ["Dish to the card", "the candidate cooks two dishes from your menu to the recipe card. Hitting the weight, taste and look exactly is what counts."],
+   ["Hygiene questions", "storage, temperatures, cross-contamination, allergens. The answers show whether the person is ready for a Dubai Municipality audit."],
+   ["References", "calls with chefs from previous kitchens: reliability, lateness, attitude to the team and produce."]
+  ],
+  "mistake": "Typical mistake: hiring a cook with impressive hotel experience without testing them on the right station. A strong cold kitchen cook will not necessarily cope with the grill at peak. Another one: skipping the practical kitchen check, which shows more in a few hours than any interview.",
+  "sal": [
+   ["Demi chef de partie", "3,500 - 5,000"],
+   ["Chef de partie", "5,000 - 7,500"],
+   ["Senior chef de partie", "7,500 - 10,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Hotels often add housing, meals and transport; premium restaurant groups pay at the top of the range.",
+  "faq": [
+   ["How much does a chef de partie earn in Dubai?", "In 2026 a demi chef de partie in Dubai earns about AED 3,500 - 5,000 per month, a chef de partie AED 5,000 - 7,500 and a senior chef de partie AED 7,500 - 10,000. Hotels often add housing, meals and transport."],
+   ["Does a cook need a hygiene certificate?", "Yes, food handlers in Dubai need food safety training, and each kitchen needs a staff member with a PIC certificate. We help check which certificates candidates already hold and plan training time around the start date."]
+  ],
+  "seek_h2": "Are you a chef looking for a job in Dubai?"
+ }
+}

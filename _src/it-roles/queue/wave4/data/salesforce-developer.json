@@ -1,0 +1,136 @@
+{
+ "slug": "salesforce-developer",
+ "hub": "tech",
+ "related": [
+  "crm-administrator",
+  "backend-developer",
+  "business-analyst",
+  "erp-consultant"
+ ],
+ "ru": {
+  "name": "Salesforce-разработчик",
+  "title": "Найм Salesforce-разработчика в Дубае: Apex, LWC, зарплата | TLNT",
+  "desc": "Найм Salesforce-разработчика в Дубае: Apex, Lightning Web Components, интеграции и Flow, проверка на задаче в sandbox, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм Salesforce-разработчика",
+  "h1em": "в Дубае",
+  "intro": "Salesforce-разработчики нужны в Дубае банкам и страховым, девелоперам и брокерам недвижимости, автодилерам, авиакомпаниям, частным клиникам и партнёрам-внедренцам Salesforce. Разработчик пишет Apex и Lightning Web Components, строит интеграции с банковскими системами, телефонией и WhatsApp, автоматизирует процессы продаж и сервиса и следит за лимитами платформы. Помогаем понять, нужен вам администратор, разработчик или архитектор, даём шорт-лист из нашей живой базы и проводим проверку на задаче в sandbox, которую оценивает ваш техлид.",
+  "find_lead": "Разработчик, который знает, когда хватит Flow без кода, а когда нужен Apex, и пишет так, чтобы платформа не упиралась в лимиты.",
+  "find": [
+   "Apex: триггеры с одной точкой входа, пакетная обработка, асинхронные задачи, тесты с покрытием выше 75% не ради цифры",
+   "Интерфейс: Lightning Web Components, Experience Cloud для порталов клиентов и брокеров",
+   "Автоматизация: Flow, правила согласования, понимание, когда код не нужен",
+   "Интеграции: REST и SOAP API, Platform Events, MuleSoft, телефония и WhatsApp",
+   "Облака: Sales Cloud, Service Cloud, Financial Services Cloud для банков, Marketing Cloud",
+   "Процесс: sandbox, деплой через SFDX и Git, сертификаты Platform Developer I и II"
+  ],
+  "check_lead": "Сертификаты Salesforce легко накопить, а лимиты платформы проявляются только на реальных объёмах. Проверка показывает, как кандидат пишет код под нагрузку, решение принимает ваш техлид.",
+  "steps": [
+   [
+    "Задание в sandbox",
+    "кандидат за 3-4 часа пишет триггер и небольшой LWC-компонент по ТЗ (например, распределение лидов брокерам по проекту и языку клиента) вместе с тестами."
+   ],
+   [
+    "Разбор кода",
+    "даём фрагмент Apex с запросом в цикле и ошибкой лимитов. Кандидат находит проблему и объясняет, как переписать для 50 000 записей."
+   ],
+   [
+    "Разговор об интеграции",
+    "синхронизация с банковской системой или ERP: как обрабатывать ошибки, повторы и дубли, где хранить ключи."
+   ],
+   [
+    "Рекомендации",
+    "звонки руководителям или клиентам: размер организаций Salesforce, сложность интеграций, качество кода и документации."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанять администратора с парой курсов по Apex на роль разработчика или, наоборот, разработчика, который пишет код там, где хватило бы Flow. В первом случае ломаются интеграции, во втором растёт стоимость поддержки. Ещё ошибка: не проверить работу с лимитами платформы, проблемы всплывают только при росте базы.",
+  "sal": [
+   [
+    "Младший Salesforce-разработчик",
+    "10 000 - 16 000"
+   ],
+   [
+    "Salesforce-разработчик среднего уровня",
+    "16 000 - 26 000"
+   ],
+   [
+    "Старший разработчик или технический архитектор",
+    "26 000 - 42 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Сертификаты Platform Developer II и архитектора, опыт Financial Services Cloud и MuleSoft заметно поднимают пакет; бонус и жильё меняют полную сумму.",
+  "faq": [
+   [
+    "Сколько зарабатывает Salesforce-разработчик в Дубае?",
+    "В 2026 году младший Salesforce-разработчик в Дубае получает около 10 000 - 16 000 AED в месяц, разработчик среднего уровня 16 000 - 26 000 AED, старший разработчик или технический архитектор 26 000 - 42 000 AED. Банки и партнёры-внедренцы с крупными клиентами платят по верхней границе."
+   ],
+   [
+    "Нужен Salesforce-разработчик или администратор?",
+    "Администратор настраивает объекты, поля, права, отчёты и Flow, обучает пользователей. Разработчик нужен, когда стандартных инструментов не хватает: сложная логика, интеграции, свои компоненты и порталы. Многие компании начинают с сильного администратора и добавляют разработчика позже. Поможем определить роль до поиска."
+   ]
+  ],
+  "seek_h2": "Вы Salesforce-разработчик и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Salesforce developer",
+  "title": "Hire a Salesforce Developer in Dubai: Apex, LWC, Salary | TLNT",
+  "desc": "Hire a Salesforce developer in Dubai: Apex, Lightning Web Components, integrations and Flow, a sandbox task check, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a Salesforce developer",
+  "h1em": "in Dubai",
+  "intro": "Salesforce developers are in demand in Dubai at banks and insurers, real estate developers and brokerages, car dealers, airlines, private clinics and Salesforce implementation partners. The developer writes Apex and Lightning Web Components, builds integrations with core banking, telephony and WhatsApp, automates sales and service processes and keeps an eye on platform limits. We help you decide whether you need an admin, a developer or an architect, shortlist from our live database and run a sandbox task that your tech lead scores.",
+  "find_lead": "A developer who knows when Flow without code is enough and when Apex is needed, and writes so the platform does not hit its limits.",
+  "find": [
+   "Apex: single-entry triggers, bulk processing, async jobs, tests with real coverage above 75%, not coverage for its own sake",
+   "UI: Lightning Web Components, Experience Cloud for customer and broker portals",
+   "Automation: Flow, approval processes, knowing when code is not needed",
+   "Integrations: REST and SOAP APIs, Platform Events, MuleSoft, telephony and WhatsApp",
+   "Clouds: Sales Cloud, Service Cloud, Financial Services Cloud for banks, Marketing Cloud",
+   "Process: sandboxes, deployment with SFDX and Git, Platform Developer I and II certifications"
+  ],
+  "check_lead": "Salesforce certificates are easy to collect, and platform limits show up only at real volumes. The check shows how a candidate writes code for load, and your tech lead makes the call.",
+  "steps": [
+   [
+    "Sandbox task",
+    "in 3-4 hours the candidate writes a trigger and a small LWC component from a brief (for example, routing leads to brokers by project and client language) with tests."
+   ],
+   [
+    "Code review",
+    "we show an Apex snippet with a query inside a loop and a limit error. The candidate finds the problem and explains how to rewrite it for 50,000 records."
+   ],
+   [
+    "Integration conversation",
+    "sync with a core banking system or ERP: how to handle errors, retries and duplicates, where to keep credentials."
+   ],
+   [
+    "References",
+    "calls with managers or clients: org size, integration complexity, code and documentation quality."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring an admin with a couple of Apex courses as a developer, or a developer who writes code where Flow would do. In the first case integrations break, in the second support costs grow. Another one: not testing knowledge of platform limits; the problems appear only as the database grows.",
+  "sal": [
+   [
+    "Junior Salesforce developer",
+    "10,000 - 16,000"
+   ],
+   [
+    "Mid-level Salesforce developer",
+    "16,000 - 26,000"
+   ],
+   [
+    "Senior developer or technical architect",
+    "26,000 - 42,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Platform Developer II and architect certifications, Financial Services Cloud and MuleSoft experience noticeably raise the package; bonus and housing change the total.",
+  "faq": [
+   [
+    "How much does a Salesforce developer earn in Dubai?",
+    "In 2026 a junior Salesforce developer in Dubai earns about AED 10,000 - 16,000 per month, a mid-level developer AED 16,000 - 26,000 and a senior developer or technical architect AED 26,000 - 42,000. Banks and implementation partners with large clients pay at the top of the range."
+   ],
+   [
+    "Do I need a Salesforce developer or an admin?",
+    "An admin configures objects, fields, permissions, reports and Flow and trains users. A developer is needed when standard tools are not enough: complex logic, integrations, custom components and portals. Many companies start with a strong admin and add a developer later. We help you define the role before the search."
+   ]
+  ],
+  "seek_h2": "Are you a Salesforce developer looking for a job in Dubai?"
+ }
+}

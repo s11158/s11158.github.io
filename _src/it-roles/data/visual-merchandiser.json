@@ -1,0 +1,77 @@
+{
+ "slug": "visual-merchandiser",
+ "hub": "retail",
+ "related": ["store-manager", "category-manager", "interior-designer", "brand-manager"],
+ "ru": {
+  "name": "Визуальный мерчендайзер",
+  "title": "Найм визуального мерчендайзера в Дубае: витрины, зарплата | TLNT",
+  "desc": "Найм визуального мерчендайзера в Дубае: витрины и выкладка, гайдлайны бренда, сезонные кампании, практическая проверка на планограмме, зарплаты 2026 от TLNT.",
+  "h1": "Найм визуального мерчендайзера",
+  "h1em": "в Дубае",
+  "intro": "Визуальные мерчендайзеры нужны брендам одежды, обуви, косметики, ювелирных изделий и товаров для дома, универмагам и сетям в торговых центрах Дубая, а также ритейл-группам с десятками магазинов по GCC. Задачи: витрины, выкладка в зале по гайдлайнам бренда, смены коллекций, кампании к Рамадану, DSF, Национальному дню и Рождеству, обучение команд магазинов. Помогаем определить профиль, даём шорт-лист из нашей живой базы и проверяем кандидатов на практическом задании.",
+  "find_lead": "Специалист, у которого выкладка не просто красивая, а продаёт: он знает, где покупатель останавливается и что берёт в руки.",
+  "find": [
+   "Витрины и зал: композиция, свет, цвет, фокусные точки, сезонные и праздничные концепции",
+   "Коммерческая логика: выкладка по продажам и остаткам, зоны горячих и холодных товаров, работа с категорийным менеджером",
+   "Гайдлайны бренда: точное выполнение стандартов, фотоотчёты, адаптация под размеры конкретного магазина",
+   "Инструменты: планограммы, SketchUp, Adobe Illustrator и Photoshop, Excel, приложения для фотоотчётов",
+   "Операции: бюджет на реквизит, работа с подрядчиками и правилами торгового центра, ночные смены перед открытием",
+   "Обучение: инструкции и визиты в магазины, обучение продавцов поддерживать выкладку"
+  ],
+  "check_lead": "Портфолио показывает вкус, но не умение работать с вашим ассортиментом и площадью. Проверка построена на реальном магазине, решение принимает ваш бренд-менеджер или руководитель ритейла.",
+  "steps": [
+   ["Задание на выкладку", "план зала, фото магазина и отчёт о продажах по категориям. За 3-4 часа кандидат предлагает новую выкладку и витрину и объясняет, как она поднимет продажи."],
+   ["Разбор портфолио", "кандидат показывает 2-3 проекта до и после и рассказывает, что изменилось в продажах и что пришлось менять под ограничения бюджета или площади."],
+   ["Практика в магазине", "кандидат за час перестраивает один стол или стойку по гайдлайну. Смотрим скорость, аккуратность и общение с командой магазина."],
+   ["Рекомендации", "звонки руководителям: количество магазинов, соблюдение сроков запуска кампаний, отношения с управляющими."]
+  ],
+  "mistake": "Типичная ошибка: выбрать мерчендайзера только по красивому портфолио, без вопросов о продажах. Витрина, которая собирает лайки, но не приводит покупателей в зал, не окупается. Ещё ошибка: нанять одного специалиста на 15 магазинов без системы гайдлайнов и фотоотчётов, тогда стандарты держатся только в магазинах, где он был вчера.",
+  "sal": [
+   ["Младший визуальный мерчендайзер", "4 500 - 7 000"],
+   ["Визуальный мерчендайзер", "7 000 - 12 000"],
+   ["Руководитель визуального мерчендайзинга", "13 000 - 25 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Люксовый сегмент, ответственность за несколько стран GCC и опыт открытия новых магазинов поднимают пакет; часто к окладу добавляется транспорт.",
+  "faq": [
+   ["Сколько зарабатывает визуальный мерчендайзер в Дубае?", "В 2026 году младший визуальный мерчендайзер в Дубае получает около 4 500 - 7 000 AED в месяц, опытный специалист 7 000 - 12 000 AED, руководитель визуального мерчендайзинга 13 000 - 25 000 AED. Люкс и региональная роль платят выше."],
+   ["Нужен штатный мерчендайзер или подрядчик?", "Если у вас один-два магазина и смена концепции раз в сезон, часто достаточно подрядчика под кампании. Если магазинов больше пяти или коллекции меняются каждый месяц, штатный специалист дешевле и держит стандарты постоянно. Поможем посчитать, что выгоднее для вашей сети."]
+  ],
+  "seek_h2": "Вы визуальный мерчендайзер и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Visual merchandiser",
+  "title": "Hire a Visual Merchandiser in Dubai: Windows, Salary | TLNT",
+  "desc": "Hire a visual merchandiser in Dubai: windows and floor layout, brand guidelines, seasonal campaigns, a practical planogram check and 2026 salaries from TLNT.",
+  "h1": "Hire a visual merchandiser",
+  "h1em": "in Dubai",
+  "intro": "Visual merchandisers are needed by fashion, footwear, beauty, jewellery and home brands, department stores and chains in Dubai malls, and retail groups with dozens of stores across the GCC. The work covers windows, floor layout to brand guidelines, collection changes, campaigns for Ramadan, DSF, National Day and Christmas, and training store teams. We help define the profile, shortlist from our live database and test candidates on a practical task.",
+  "find_lead": "A specialist whose displays do not just look good but sell: they know where shoppers stop and what they pick up.",
+  "find": [
+   "Windows and floor: composition, lighting, colour, focal points, seasonal and holiday concepts",
+   "Commercial logic: layout driven by sales and stock, hot and cold zones, working with the category manager",
+   "Brand guidelines: precise standards, photo reports, adapting to each store's dimensions",
+   "Tools: planograms, SketchUp, Adobe Illustrator and Photoshop, Excel, photo reporting apps",
+   "Operations: props budget, contractors and mall rules, night shifts before opening",
+   "Training: guides and store visits, teaching sales staff to maintain the layout"
+  ],
+  "check_lead": "A portfolio shows taste, not the ability to work with your range and floor space. The check is built on a real store, and your brand or retail head makes the call.",
+  "steps": [
+   ["Layout task", "a floor plan, store photos and a sales report by category. In 3-4 hours the candidate proposes a new layout and window and explains how it will lift sales."],
+   ["Portfolio review", "the candidate shows 2-3 before and after projects and explains what changed in sales and what they adjusted for budget or space limits."],
+   ["In-store practice", "in one hour the candidate resets a table or rail to a guideline. We watch speed, precision and communication with the store team."],
+   ["References", "calls with previous managers: number of stores, campaign launch deadlines met, relationships with store managers."]
+  ],
+  "mistake": "Typical mistake: choosing a merchandiser on a beautiful portfolio alone without asking about sales. A window that gets likes but does not bring shoppers inside does not pay off. Another one: hiring one person for 15 stores with no guideline and photo report system, so standards only hold in the store they visited yesterday.",
+  "sal": [
+   ["Junior visual merchandiser", "4,500 - 7,000"],
+   ["Visual merchandiser", "7,000 - 12,000"],
+   ["Visual merchandising manager", "13,000 - 25,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Luxury, responsibility for several GCC countries and new store openings raise the package; transport is often added to the base.",
+  "faq": [
+   ["How much does a visual merchandiser earn in Dubai?", "In 2026 a junior visual merchandiser in Dubai earns about AED 4,500 - 7,000 per month, an experienced visual merchandiser AED 7,000 - 12,000 and a visual merchandising manager AED 13,000 - 25,000. Luxury and regional roles pay more."],
+   ["Should I hire in-house or use a contractor?", "With one or two stores and a concept change once a season, a campaign contractor is often enough. With more than five stores or monthly collection changes, an in-house specialist costs less and keeps standards consistent. We help you work out what makes sense for your chain."]
+  ],
+  "seek_h2": "Are you a visual merchandiser looking for a job in Dubai?"
+ }
+}

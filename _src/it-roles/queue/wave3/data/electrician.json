@@ -1,0 +1,136 @@
+{
+ "slug": "electrician",
+ "hub": "construction",
+ "related": [
+  "maintenance-technician",
+  "electrical-engineer",
+  "facility-manager",
+  "hvac-technician"
+ ],
+ "ru": {
+  "name": "Электрик",
+  "title": "Найм электрика в Дубае: DEWA, щиты, практическая проверка | TLNT",
+  "desc": "Найм электрика в Дубае: правила DEWA, щиты и кабельные линии, практическая проверка безопасности и диагностики, зарплаты 2026 и шорт-лист кандидатов от TLNT.",
+  "h1": "Найм электрика",
+  "h1em": "в Дубае",
+  "intro": "Электрики нужны подрядчикам по fit-out и строительству, FM-компаниям, отелям, торговым центрам, производствам, складам и владельцам вилл. Задачи: монтаж и обслуживание щитов, кабельные линии, освещение, розеточные группы, подключение оборудования, поиск неисправностей, работа по правилам DEWA. Помогаем определить, нужен ли вам монтажник на стройку или электрик по эксплуатации, даём шорт-лист из нашей живой базы и проводим практическую проверку с упором на безопасность.",
+  "find_lead": "Электрик, который работает по правилам DEWA и BS 7671, читает схемы, безопасно отключает линии и находит неисправность, а не меняет всё подряд.",
+  "find": [
+   "Нормы: DEWA Regulations for Electrical Installations, BS 7671, требования к заземлению и защите",
+   "Щиты и линии: DB, SMDB, автоматы, УЗО, кабели и лотки, маркировка, сечения",
+   "Монтаж: освещение, розетки, подключение кондиционеров, насосов, кухонного оборудования",
+   "Диагностика: мультиметр, мегомметр, тестер УЗО, поиск утечек и перегрева",
+   "Чертежи и документы: однолинейные схемы, as-built, тест-листы при сдаче",
+   "Безопасность: LOTO, разрешения на работы, СИЗ, работа под напряжением только по процедуре"
+  ],
+  "check_lead": "По электрику опасно ошибиться: цена ошибки - пожар или травма. Проверки начинаются с безопасности, а решение принимает ваш инженер.",
+  "steps": [
+   [
+    "Чтение схемы",
+    "кандидат получает однолинейную схему щита квартиры и объясняет, что защищает каждый автомат, где ошибка в подборе и что бы он поменял."
+   ],
+   [
+    "Практика",
+    "собрать небольшую линию с автоматом и УЗО, подключить светильник и розетку, затем проверить приборами. Смотрим на порядок, затяжку и маркировку."
+   ],
+   [
+    "Неисправность",
+    "в квартире выбивает УЗО после дождя или при включении кондиционера. Кандидат рассказывает, как будет искать причину."
+   ],
+   [
+    "Рекомендации",
+    "звонки супервайзерам: на каких объектах работал, были ли нарушения безопасности, как сдавал работы инспекции."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанять электрика с опытом только в стране, где другие стандарты, и не проверить знание британских норм, принятых в ОАЭ. Работа не пройдёт инспекцию, и её переделывают. Ещё ошибка: брать на эксплуатацию монтажника со стройки без опыта поиска неисправностей.",
+  "sal": [
+   [
+    "Помощник электрика",
+    "2 000 - 3 500"
+   ],
+   [
+    "Электрик",
+    "3 500 - 6 500"
+   ],
+   [
+    "Старший электрик или бригадир",
+    "6 500 - 10 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт с низковольтными системами, генераторами и щитами больших объектов, а также лицензия DEWA или Civil Defence у бригадира поднимают пакет; жильё и транспорт меняют полную сумму.",
+  "faq": [
+   [
+    "Сколько зарабатывает электрик в Дубае?",
+    "В 2026 году помощник электрика в Дубае получает около 2 000 - 3 500 AED в месяц, электрик 3 500 - 6 500 AED, старший электрик или бригадир 6 500 - 10 000 AED. Часто работодатель дополнительно даёт жильё, транспорт и платит сверхурочные."
+   ],
+   [
+    "Нужна ли электрику лицензия в Дубае?",
+    "Компания, которая выполняет электромонтажные работы, должна быть зарегистрирована как подрядчик DEWA, а на крупных работах нужен ответственный инженер. Самому электрику важнее документы о квалификации и знание норм DEWA. Поможем сформулировать требования под ваш тип работ."
+   ]
+  ],
+  "seek_h2": "Вы электрик и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Electrician",
+  "title": "Hire an Electrician in Dubai: DEWA Rules, Panels, Salary | TLNT",
+  "desc": "Hire an electrician in Dubai: DEWA regulations, panels and cabling, practical safety and fault-finding checks, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire an electrician",
+  "h1em": "in Dubai",
+  "intro": "Electricians are needed by fit-out and construction contractors, FM companies, hotels, malls, factories, warehouses and villa owners. The work covers installing and maintaining panels, cabling, lighting, power circuits, equipment connections, fault-finding and working to DEWA rules. We help you decide whether you need an installation electrician for a project or a maintenance electrician, shortlist from our live database and run a practical check with a focus on safety.",
+  "find_lead": "An electrician who works to DEWA rules and BS 7671, reads drawings, isolates circuits safely and finds the fault instead of replacing everything.",
+  "find": [
+   "Standards: DEWA Regulations for Electrical Installations, BS 7671, earthing and protection requirements",
+   "Panels and circuits: DBs, SMDBs, MCBs, RCDs, cables and trays, labelling, cable sizing",
+   "Installation: lighting, sockets, AC units, pumps and kitchen equipment connections",
+   "Fault-finding: multimeter, insulation tester, RCD tester, tracing leakage and overheating",
+   "Drawings and documents: single-line diagrams, as-built drawings, test sheets at handover",
+   "Safety: LOTO, permits to work, PPE, live work only under a written procedure"
+  ],
+  "check_lead": "With an electrician a mistake is costly: it means a fire or an injury. The checks start with safety, and your engineer makes the decision.",
+  "steps": [
+   [
+    "Reading a drawing",
+    "the candidate gets a single-line diagram of an apartment DB and explains what each breaker protects, where the sizing is wrong and what they would change."
+   ],
+   [
+    "Practical",
+    "build a small circuit with an MCB and an RCD, connect a light and a socket, then test it with instruments. We look at sequence, terminations and labelling."
+   ],
+   [
+    "Fault",
+    "an RCD trips in an apartment after rain or when the AC starts. The candidate explains how they find the cause."
+   ],
+   [
+    "References",
+    "calls with supervisors: which sites they worked on, any safety breaches, how they handed over work to inspection."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring an electrician whose experience is only from a country with different standards and not checking knowledge of the British-based rules used in the UAE. The work fails inspection and has to be redone. Another one: putting a construction installer on maintenance with no fault-finding experience.",
+  "sal": [
+   [
+    "Electrician helper",
+    "2,000 - 3,500"
+   ],
+   [
+    "Electrician",
+    "3,500 - 6,500"
+   ],
+   [
+    "Senior electrician or foreman",
+    "6,500 - 10,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Low-voltage systems, generators and large-site panels, plus a DEWA or Civil Defence licence for a foreman, raise the package; housing and transport change the total.",
+  "faq": [
+   [
+    "How much does an electrician earn in Dubai?",
+    "In 2026 an electrician helper in Dubai earns about AED 2,000 - 3,500 per month, an electrician AED 3,500 - 6,500 and a senior electrician or foreman AED 6,500 - 10,000. Employers often add housing, transport and overtime."
+   ],
+   [
+    "Does an electrician need a licence in Dubai?",
+    "A company doing electrical works must be registered as a DEWA contractor, and larger works need a responsible engineer. For the electrician personally, proof of qualification and knowledge of DEWA rules matter more. We help you set the requirements for your type of work."
+   ]
+  ],
+  "seek_h2": "Are you an electrician looking for a job in Dubai?"
+ }
+}

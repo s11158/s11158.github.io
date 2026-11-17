@@ -1,0 +1,136 @@
+{
+ "slug": "warehouse-manager",
+ "hub": "logistics",
+ "related": [
+  "storekeeper",
+  "supply-chain-manager",
+  "logistics-coordinator",
+  "delivery-driver"
+ ],
+ "ru": {
+  "name": "Менеджер склада",
+  "title": "Найм менеджера склада в Дубае: WMS, точность запасов, зарплата | TLNT",
+  "desc": "Найм менеджера склада в Дубае: WMS, точность запасов, безопасность, свободные зоны, проверка на кейсах, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм менеджера склада",
+  "h1em": "в Дубае",
+  "intro": "Менеджеры складов нужны 3PL-операторам в JAFZA, Dubai South и Al Quoz, дистрибьюторам, e-commerce и быстрой доставке, ритейлу, ресторанным группам и фармкомпаниям. Задачи: приёмка, хранение и отгрузка, точность запасов, WMS, смены и производительность, безопасность техники, холодовая цепь и требования свободных зон. Помогаем понять, нужен ли вам руководитель небольшого склада или крупного распределительного центра, даём шорт-лист из нашей живой базы и проводим практическую проверку на складских кейсах.",
+  "find_lead": "Руководитель, у которого запасы в системе совпадают с полкой, отгрузки уходят вовремя, а погрузчики не въезжают в стеллажи.",
+  "find": [
+   "WMS и ERP: SAP EWM, Oracle WMS, Infor, Manhattan или облачные решения, сканеры и штрихкоды",
+   "Точность запасов: цикловые инвентаризации, расхождения, списания, FIFO и FEFO по срокам годности",
+   "Операции: приёмка, размещение, комплектация, упаковка, отгрузка, кросс-докинг для e-commerce",
+   "Люди и производительность: смены, нормы, KPI по строкам в час, обучение и удержание персонала",
+   "Безопасность: погрузчики и их операторы, стеллажи, Civil Defence, жара на рампе, отчёты об инцидентах",
+   "Специфика ОАЭ: склады в свободных зонах, таможенные склады, холодовая цепь для фармы и продуктов, требования Dubai Municipality"
+  ],
+  "check_lead": "Склад виден по цифрам. Проверки показывают, как кандидат держит точность и людей, а решение принимает ваш операционный директор.",
+  "steps": [
+   [
+    "Разбор KPI",
+    "кандидат получает месячный отчёт склада: точность запасов, производительность, ошибки отгрузки. Находит главные проблемы и предлагает план на 90 дней."
+   ],
+   [
+    "Расхождение запасов",
+    "по итогам инвентаризации недостача 2% по дорогой категории. Кандидат рассказывает, как ищет причину и что меняет в процессе."
+   ],
+   [
+    "Пиковая нагрузка",
+    "распродажа или Рамадан, объём заказов вырос втрое. Как кандидат планирует смены, временный персонал и место на складе."
+   ],
+   [
+    "Рекомендации",
+    "звонки руководителям: размер склада и команды, реальные KPI, были ли серьёзные инциденты."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанять менеджера по резюме с громким 3PL-брендом без проверки, чем именно он управлял: возможно, одной сменой из десяти. Ещё ошибка: не уточнить опыт с вашей спецификой, например, холодовой цепью или e-commerce с тысячами мелких заказов: это совсем другая операционка, чем паллетный склад.",
+  "sal": [
+   [
+    "Супервайзер склада",
+    "6 000 - 10 000"
+   ],
+   [
+    "Менеджер склада",
+    "12 000 - 22 000"
+   ],
+   [
+    "Руководитель распределительного центра",
+    "22 000 - 38 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Крупный РЦ, холодовая цепь, фарма и опыт внедрения WMS поднимают пакет; машина, жильё и бонус меняют полную сумму.",
+  "faq": [
+   [
+    "Сколько зарабатывает менеджер склада в Дубае?",
+    "В 2026 году супервайзер склада в Дубае получает около 6 000 - 10 000 AED в месяц, менеджер склада 12 000 - 22 000 AED, руководитель распределительного центра 22 000 - 38 000 AED. Крупные 3PL, фарма и холодовая цепь платят по верхней границе."
+   ],
+   [
+    "Что важнее при найме: опыт в отрасли или с WMS?",
+    "Конкретную WMS сильный менеджер осваивает за несколько недель. Труднее перестроиться между типами операций: паллеты для дистрибуции, мелкая штучная комплектация для e-commerce или холодовая цепь. Поможем расставить приоритеты в профиле."
+   ]
+  ],
+  "seek_h2": "Вы менеджер склада и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Warehouse manager",
+  "title": "Hire a Warehouse Manager in Dubai: WMS, Stock Accuracy, Salary | TLNT",
+  "desc": "Hire a warehouse manager in Dubai: WMS, stock accuracy, safety and free zone rules, practical warehouse cases, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a warehouse manager",
+  "h1em": "in Dubai",
+  "intro": "Warehouse managers are in demand at 3PLs in JAFZA, Dubai South and Al Quoz, distributors, e-commerce and quick commerce, retailers, restaurant groups and pharma companies. The work covers receiving, storage and dispatch, stock accuracy, WMS, shifts and productivity, equipment safety, cold chain and free zone requirements. We help you decide whether you need someone for a small warehouse or a large distribution centre, shortlist from our live database and run a practical check on warehouse cases.",
+  "find_lead": "A manager whose system stock matches the shelf, whose dispatches leave on time and whose forklifts stay out of the racking.",
+  "find": [
+   "WMS and ERP: SAP EWM, Oracle WMS, Infor, Manhattan or cloud systems, scanners and barcodes",
+   "Stock accuracy: cycle counts, variances, write-offs, FIFO and FEFO by expiry date",
+   "Operations: receiving, putaway, picking, packing, dispatch, cross-docking for e-commerce",
+   "People and productivity: shifts, standards, lines-per-hour KPIs, training and retention",
+   "Safety: forklifts and operators, racking, Civil Defence, heat on the loading dock, incident reports",
+   "UAE specifics: free zone and bonded warehouses, cold chain for pharma and food, Dubai Municipality requirements"
+  ],
+  "check_lead": "A warehouse shows up in numbers. The checks show how a candidate holds accuracy and people, and your operations director makes the decision.",
+  "steps": [
+   [
+    "KPI review",
+    "the candidate gets a monthly warehouse report: stock accuracy, productivity, dispatch errors. They find the main problems and propose a 90-day plan."
+   ],
+   [
+    "Stock variance",
+    "a count shows a 2% shortage in a high-value category. The candidate explains how they find the cause and what they change in the process."
+   ],
+   [
+    "Peak load",
+    "a sale or Ramadan triples order volume. How the candidate plans shifts, temporary staff and warehouse space."
+   ],
+   [
+    "References",
+    "calls with managers: warehouse and team size, real KPIs, any serious incidents."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring on a CV with a big 3PL brand without checking what exactly the person ran: maybe one shift out of ten. Another one: not checking experience with your specifics, such as cold chain or e-commerce with thousands of small orders: that is a different operation from a pallet warehouse.",
+  "sal": [
+   [
+    "Warehouse supervisor",
+    "6,000 - 10,000"
+   ],
+   [
+    "Warehouse manager",
+    "12,000 - 22,000"
+   ],
+   [
+    "Distribution centre manager",
+    "22,000 - 38,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. A large DC, cold chain, pharma and WMS implementation experience raise the package; car, housing and bonus change the total.",
+  "faq": [
+   [
+    "How much does a warehouse manager earn in Dubai?",
+    "In 2026 a warehouse supervisor in Dubai earns about AED 6,000 - 10,000 per month, a warehouse manager AED 12,000 - 22,000 and a distribution centre manager AED 22,000 - 38,000. Large 3PLs, pharma and cold chain pay at the top of the range."
+   ],
+   [
+    "What matters more: industry experience or WMS experience?",
+    "A strong manager learns a specific WMS within weeks. Switching between operation types is harder: pallets for distribution, each-picking for e-commerce or cold chain. We help you set priorities in the profile."
+   ]
+  ],
+  "seek_h2": "Are you a warehouse manager looking for a job in Dubai?"
+ }
+}

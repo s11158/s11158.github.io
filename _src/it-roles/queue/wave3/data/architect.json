@@ -1,0 +1,77 @@
+{
+ "slug": "architect",
+ "hub": "construction",
+ "related": ["interior-designer", "civil-engineer", "construction-project-manager", "3d-artist"],
+ "ru": {
+  "name": "Архитектор",
+  "title": "Найм архитектора в Дубае: портфолио, проверка, зарплата | TLNT",
+  "desc": "Найм архитектора в Дубае: Revit и BIM, Dubai Building Code и согласования, практическая проверка портфолио и задания, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм архитектора",
+  "h1em": "в Дубае",
+  "intro": "Архитекторы нужны проектным бюро и консультантам Дубая, девелоперам, дизайн-студиям, генподрядчикам с design and build и частным клиентам вилл. Задачи: концепция, рабочая документация, согласования в Dubai Municipality, Trakhees, DDA и у мастер-девелоперов, авторский надзор. Помогаем определить, нужен вам концептуальный архитектор, специалист по рабочке и BIM или руководитель проекта, даём шорт-лист из нашей живой базы и проводим практическую проверку, которую оценивает ваш главный архитектор.",
+  "find_lead": "Архитектор, чьё портфолио подтверждается реальной работой, который знает нормы Дубая и доводит проект от красивой картинки до разрешения на строительство.",
+  "find": [
+   "Софт: Revit и BIM на уровне рабочей документации, AutoCAD, Rhino или SketchUp, Enscape или Lumion",
+   "Нормы: Dubai Building Code, Al Sa'fat, требования Civil Defence, правила мастер-девелоперов (Emaar, Nakheel, Meraas)",
+   "Согласования: подачи в Dubai Municipality, Trakhees, DDA, DSO, NOC инженерных служб",
+   "Рабочая документация: планы, разрезы, узлы, спецификации, координация с конструкторами и MEP",
+   "Регистрация: UAE Society of Engineers, для подписи проектов классификация в Dubai Municipality",
+   "Портфолио: проекты, где роль кандидата понятна, а не только командные рендеры бюро"
+  ],
+  "check_lead": "Портфолио архитектора часто показывает работу всего бюро. Проверяем, что сделал сам кандидат, решение принимает ваш главный архитектор.",
+  "steps": [
+   ["Разбор портфолио", "кандидат проводит по двум проектам и объясняет свою роль, решения, ограничения бюджета и норм, что изменилось после согласований."],
+   ["Задание", "планировка виллы на участке в мастер-комьюнити: за три-четыре часа набросать схему с учётом отступов, ориентации на солнце и правил девелопера."],
+   ["Кейс согласования", "Dubai Municipality вернула проект с замечаниями по пожарным путям эвакуации. Как кандидат исправляет и повторно подаёт."],
+   ["Рекомендации", "звонки руководителям бюро: реальная роль в проектах, сроки, работа с клиентами."]
+  ],
+  "mistake": "Типичная ошибка: нанять архитектора по красивым рендерам и обнаружить, что он не умеет вести рабочую документацию и подачи в Дубае. Ещё ошибка: не проверить знание правил мастер-девелоперов, без которых проект виллы не проходит согласование.",
+  "sal": [
+   ["Младший архитектор", "7 000 - 12 000"],
+   ["Архитектор", "12 000 - 22 000"],
+   ["Старший архитектор или руководитель проекта", "22 000 - 40 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Международные бюро и девелоперы платят выше, опыт гостиниц и сильный BIM поднимают пакет.",
+  "faq": [
+   ["Сколько зарабатывает архитектор в Дубае?", "В 2026 году младший архитектор в Дубае получает около 7 000 - 12 000 AED в месяц, архитектор с опытом 12 000 - 22 000 AED, старший архитектор или руководитель проекта 22 000 - 40 000 AED. Международные бюро и девелоперы платят по верхней границе."],
+   ["Нужен ли архитектору опыт именно в ОАЭ?", "Для концепции не обязательно, сильный архитектор быстро осваивается. Для рабочки и согласований опыт подач в Dubai Municipality и у мастер-девелоперов экономит месяцы. Отмечаем это в шорт-листе и помогаем решить, что важнее для вашего проекта."]
+  ],
+  "seek_h2": "Вы архитектор и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Architect",
+  "title": "Hire an Architect in Dubai: Portfolio, Checks, Salary | TLNT",
+  "desc": "Hire an architect in Dubai: Revit and BIM, Dubai Building Code and approvals, practical portfolio and design task checks, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire an architect",
+  "h1em": "in Dubai",
+  "intro": "Architects are needed by Dubai design practices and consultants, developers, design studios, design and build contractors and private villa clients. The work covers concept, construction documents, approvals at Dubai Municipality, Trakhees, DDA and master developers, and site supervision. We help you decide whether you need a concept architect, a technical and BIM architect or a project lead, shortlist from our live database and run a practical check that your lead architect scores.",
+  "find_lead": "An architect whose portfolio is backed by real work, who knows Dubai codes and takes a project from a nice render to a building permit.",
+  "find": [
+   "Software: Revit and BIM at construction documents level, AutoCAD, Rhino or SketchUp, Enscape or Lumion",
+   "Codes: Dubai Building Code, Al Sa'fat, Civil Defence rules, master developer guidelines (Emaar, Nakheel, Meraas)",
+   "Approvals: Dubai Municipality, Trakhees, DDA and DSO submissions, utility NOCs",
+   "Technical drawings: plans, sections, details, specifications, coordination with structure and MEP",
+   "Registration: UAE Society of Engineers, and Dubai Municipality classification for signing designs",
+   "Portfolio: projects where the candidate's role is clear, not just studio team renders"
+  ],
+  "check_lead": "An architect's portfolio often shows the work of the whole studio. We check what the candidate did personally, and your lead architect makes the call.",
+  "steps": [
+   ["Portfolio walkthrough", "the candidate takes you through two projects and explains their role, decisions, budget and code constraints and what changed after approvals."],
+   ["Design task", "a villa layout on a master community plot: in three to four hours sketch a scheme with setbacks, sun orientation and developer rules."],
+   ["Approval case", "Dubai Municipality returned the design with comments on fire escape routes. How the candidate fixes and resubmits."],
+   ["References", "calls with studio leads: real role on projects, deadlines, client work."]
+  ],
+  "mistake": "Typical mistake: hiring an architect for beautiful renders and finding out they cannot produce construction documents or Dubai submissions. Another one: not checking knowledge of master developer guidelines, without which a villa design does not get approved.",
+  "sal": [
+   ["Junior architect", "7,000 - 12,000"],
+   ["Architect", "12,000 - 22,000"],
+   ["Senior architect or project lead", "22,000 - 40,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. International practices and developers pay more, hospitality experience and strong BIM raise the package.",
+  "faq": [
+   ["How much does an architect earn in Dubai?", "In 2026 a junior architect in Dubai earns about AED 7,000 - 12,000 per month, an experienced architect AED 12,000 - 22,000 and a senior architect or project lead AED 22,000 - 40,000. International practices and developers pay at the top of the range."],
+   ["Does an architect need UAE experience?", "Not for concept work, a strong architect adapts quickly. For technical drawings and approvals, Dubai Municipality and master developer submission experience saves months. We flag it in the shortlist and help you decide what matters more for your project."]
+  ],
+  "seek_h2": "Are you an architect looking for a job in Dubai?"
+ }
+}

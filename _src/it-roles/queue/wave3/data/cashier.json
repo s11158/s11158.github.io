@@ -1,0 +1,77 @@
+{
+ "slug": "cashier",
+ "hub": "retail",
+ "related": ["retail-sales-associate", "store-manager", "storekeeper"],
+ "ru": {
+  "name": "Кассир",
+  "title": "Найм кассира в Дубае: POS, сверка кассы, зарплата | TLNT",
+  "desc": "Найм кассира в Дубае: POS и оплаты, сверка кассы, сервис для покупателей, практическая проверка на точность и скорость, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм кассира",
+  "h1em": "в Дубае",
+  "intro": "Кассиры нужны супермаркетам и гипермаркетам, магазинам одежды и электроники, аптекам, ресторанам и кафе, кинотеатрам и паркам развлечений Дубая. Задачи: быстрое и точное обслуживание, наличные, карты и Apple Pay, возвраты, программы лояльности, сверка кассы в конце смены и порядок у прилавка. Помогаем определить профиль под ваш поток покупателей, даём шорт-лист из нашей живой базы и проверяем кандидатов на точность и спокойствие в пиковые часы.",
+  "find_lead": "Аккуратный и спокойный сотрудник, у которого касса сходится каждый день, а очередь двигается быстро даже в выходные.",
+  "find": [
+   "POS-системы: Oracle, LS Retail, Square, Foodics или аналоги, сканирование, скидки и акции",
+   "Оплаты: наличные, карты, бесконтактные платежи, рассрочка Tabby и Tamara, правила проверки купюр",
+   "Сверка: закрытие смены, расхождения, инкассация, ответственность за кассу",
+   "Сервис: вежливость, английский для общения с покупателями, арабский или другой язык как плюс",
+   "Процедуры: возвраты и обмены по политике магазина, НДС в чеке, Tax Free для туристов",
+   "Надёжность: пунктуальность, честность, готовность к сменам, выходным и праздникам"
+  ],
+  "check_lead": "Ошибки кассира сразу превращаются в недостачи и жалобы. Поэтому проверка короткая, но практическая, а решение принимает управляющий.",
+  "steps": [
+   ["Тест на счёт", "10 минут: сдача, скидки в процентах, разделённая оплата наличными и картой. Важны точность и скорость без калькулятора для простых операций."],
+   ["Сценарий у кассы", "покупатель спорит из-за акции, которая не применилась, а за ним очередь. Смотрим на тон и знание того, когда звать старшего."],
+   ["Практическая проверка на кассе", "кандидат на учебной кассе проводит серию покупок на модели с наставником: скорость, аккуратность, сверка в конце."],
+   ["Рекомендации", "звонки прошлым руководителям: были ли недостачи, пунктуальность, отношение к покупателям."]
+  ],
+  "mistake": "Типичная ошибка: нанимать кассира только по цене, без проверки надёжности и рекомендаций. Одна серьёзная недостача может обойтись магазину дороже, чем сам наём. Ещё ошибка: не обучить политике возвратов и акциям, тогда кассир импровизирует, а магазин получает жалобы.",
+  "sal": [
+   ["Кассир без опыта", "2 500 - 3 500"],
+   ["Опытный кассир", "3 500 - 5 000"],
+   ["Старший кассир или контролёр касс", "5 000 - 7 500"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Часто к окладу добавляются жильё или жилищная надбавка, транспорт и питание; премиальные магазины и рестораны платят выше.",
+  "faq": [
+   ["Сколько зарабатывает кассир в Дубае?", "В 2026 году кассир без опыта в Дубае получает около 2 500 - 3 500 AED в месяц, опытный кассир 3 500 - 5 000 AED, старший кассир или контролёр касс 5 000 - 7 500 AED. Часто работодатель дополнительно даёт жильё или надбавку и транспорт."],
+   ["Можно ли совместить роль кассира и продавца?", "Да, в небольших магазинах и бутиках это обычная практика: сотрудник консультирует и сам проводит оплату. Тогда в проверку добавляем продажу на модели. В супермаркетах и при большом потоке лучше держать кассиров отдельно, чтобы не росли очереди. Поможем решить, что подходит вашему формату."]
+  ],
+  "seek_h2": "Вы кассир и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Cashier",
+  "title": "Hire a Cashier in Dubai: POS, Cash Reconciliation, Salary | TLNT",
+  "desc": "Hire a cashier in Dubai: POS and payments, cash reconciliation, customer service, practical accuracy and speed checks, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire a cashier",
+  "h1em": "in Dubai",
+  "intro": "Cashiers are needed by supermarkets and hypermarkets, fashion and electronics stores, pharmacies, restaurants and cafes, cinemas and entertainment parks in Dubai. The work covers fast and accurate service, cash, cards and Apple Pay, returns, loyalty programmes, end-of-shift reconciliation and an orderly counter. We help define the profile for your customer flow, shortlist from our live database and test candidates on accuracy and calm at peak hours.",
+  "find_lead": "A careful, calm person whose till balances every day and whose queue keeps moving even at the weekend.",
+  "find": [
+   "POS systems: Oracle, LS Retail, Square, Foodics or similar, scanning, discounts and promotions",
+   "Payments: cash, cards, contactless, Tabby and Tamara instalments, banknote checks",
+   "Reconciliation: closing the shift, discrepancies, cash collection, responsibility for the till",
+   "Service: courtesy, English with customers, Arabic or another language as a plus",
+   "Procedures: returns and exchanges under store policy, VAT on receipts, Tax Free for tourists",
+   "Reliability: punctuality, honesty, readiness for shifts, weekends and holidays"
+  ],
+  "check_lead": "A cashier's mistakes immediately turn into shortages and complaints. So the check is short but practical, and the store manager decides.",
+  "steps": [
+   ["Numeracy test", "10 minutes: change, percentage discounts, a split cash and card payment. Accuracy and speed matter, without a calculator for simple operations."],
+   ["Till scenario", "a customer argues about a promotion that did not apply while a queue builds up. We watch tone and whether they know when to call a supervisor."],
+   ["Practical till check", "on a training till the candidate rings up a series of model purchases with a mentor: speed, accuracy, reconciliation at the end."],
+   ["References", "calls with previous managers: any cash shortages, punctuality, attitude to customers."]
+  ],
+  "mistake": "Typical mistake: hiring a cashier on cost alone without checking reliability and references. One serious cash shortage can cost the store more than the hire itself. Another one: skipping training on returns policy and promotions, so the cashier improvises and the store gets complaints.",
+  "sal": [
+   ["Entry-level cashier", "2,500 - 3,500"],
+   ["Experienced cashier", "3,500 - 5,000"],
+   ["Senior cashier or cash office supervisor", "5,000 - 7,500"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Accommodation or a housing allowance, transport and meals are often added to the base; premium stores and restaurants pay more.",
+  "faq": [
+   ["How much does a cashier earn in Dubai?", "In 2026 an entry-level cashier in Dubai earns about AED 2,500 - 3,500 per month, an experienced cashier AED 3,500 - 5,000 and a senior cashier or cash office supervisor AED 5,000 - 7,500. Employers often add accommodation or an allowance and transport."],
+   ["Can one person be both cashier and sales associate?", "Yes, in small stores and boutiques this is common: the same person advises and takes payment. In that case we add a sale with a model customer to the check. In supermarkets and high-traffic stores it is better to keep cashiers separate so queues do not grow. We help you decide what fits your format."]
+  ],
+  "seek_h2": "Are you a cashier looking for a job in Dubai?"
+ }
+}

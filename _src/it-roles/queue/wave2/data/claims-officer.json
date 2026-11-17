@@ -1,0 +1,77 @@
+{
+ "slug": "claims-officer",
+ "hub": "finance",
+ "related": ["insurance-advisor", "medical-insurance-officer", "medical-coder", "customer-service-agent"],
+ "ru": {
+  "name": "Специалист по урегулированию убытков",
+  "title": "Найм специалиста по убыткам в Дубае: claims, зарплата | TLNT",
+  "desc": "Найм специалиста по урегулированию убытков в Дубае: медицинские, авто и имущественные претензии, проверка на реальных делах, зарплаты 2026 от TLNT.",
+  "h1": "Найм специалиста по урегулированию убытков",
+  "h1em": "в Дубае",
+  "intro": "Специалисты по убыткам нужны страховым компаниям Дубая, TPA-администраторам медицинских полисов, брокерам и крупным клиникам, где через отдел претензий проходят тысячи обращений в месяц. Задачи: проверка покрытия, предварительные одобрения, оценка документов, выявление мошенничества, переписка с клиниками, автосервисами и клиентами. Помогаем определить линию (медицина, авто, имущество), даём шорт-лист из нашей живой базы и проводим практическую проверку на реальных делах.",
+  "find_lead": "Внимательный специалист, который быстро решает простые дела, замечает странное в сложных и понятно объясняет клиенту отказ.",
+  "find": [
+   "Линия: медицинские претензии и предодобрения, автострахование, имущество, грузы или ответственность",
+   "Медицина: коды ICD-10 и CPT, требования DHA к медицинскому страхованию, работа с сетью клиник",
+   "Системы: платформы страховщиков и TPA, eClaimLink в Дубае, Excel для отчётов по резервам",
+   "Оценка: проверка покрытия и исключений, работа с сюрвейерами и оценщиками, расчёт выплаты",
+   "Мошенничество: признаки завышенных счетов, повторных обращений, подмены документов",
+   "Коммуникация: письменный английский для решений, спокойный тон в спорных разговорах"
+  ],
+  "check_lead": "Скорость обработки легко назвать на интервью, сложно подтвердить. Проверяем на обезличенных делах, решение принимает ваш руководитель отдела претензий.",
+  "steps": [
+   ["Пакет дел", "кандидат получает пять обезличенных претензий с полисом: решает, что одобрить, что запросить, что отклонить, и объясняет основание по условиям."],
+   ["Подозрительный случай", "счёт клиники с необычным набором процедур. Кандидат перечисляет, что проверить и кого подключить."],
+   ["Письмо об отказе", "за 20 минут кандидат пишет клиенту понятный отказ со ссылкой на условие полиса и путём обжалования."],
+   ["Рекомендации", "звонки руководителям: объём дел, точность решений, жалобы клиентов."]
+  ],
+  "mistake": "Типичная ошибка: брать специалиста из медицинских претензий на авто или имущество и наоборот. Логика оценки, документы и партнёры разные, адаптация занимает месяцы. Ещё ошибка: смотреть только на скорость и не проверять долю пересмотренных решений.",
+  "sal": [
+   ["Специалист по убыткам начального уровня", "6 000 - 10 000"],
+   ["Опытный специалист", "10 000 - 16 000"],
+   ["Старший специалист или руководитель группы", "16 000 - 26 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Медицинское образование или опыт кодирования для медицинских претензий, а также квалификация CII поднимают пакет.",
+  "faq": [
+   ["Сколько зарабатывает специалист по урегулированию убытков в Дубае?", "Начальный уровень получает около 6 000 - 10 000 AED в месяц, опытный специалист 10 000 - 16 000 AED, старший специалист или руководитель группы 16 000 - 26 000 AED."],
+   ["Нужно ли медицинское образование для медицинских претензий?", "Для оценки сложных медицинских претензий и предодобрений страховщики и TPA часто ищут людей с медицинским или фармацевтическим образованием. Для первичной обработки достаточно опыта и знания кодировки."]
+  ],
+  "seek_h2": "Вы специалист по урегулированию убытков и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Claims officer",
+  "title": "Hire a Claims Officer in Dubai: Insurance Claims, Salary | TLNT",
+  "desc": "Hire a claims officer in Dubai: medical, motor and property claims, practical checks on real anonymised cases, 2026 salary ranges and a TLNT shortlist.",
+  "h1": "Hire a claims officer",
+  "h1em": "in Dubai",
+  "intro": "Claims officers are needed by Dubai insurers, TPAs administering health plans, brokers and large clinics where the claims desk handles thousands of cases a month. The work covers coverage checks, pre-approvals, document assessment, fraud detection and correspondence with clinics, garages and clients. We help you define the line (medical, motor, property), shortlist from our live database and run a practical check on real cases.",
+  "find_lead": "A careful officer who settles simple cases fast, spots the odd detail in complex ones and explains a rejection clearly.",
+  "find": [
+   "Line: medical claims and pre-approvals, motor, property, cargo or liability",
+   "Medical: ICD-10 and CPT codes, DHA health insurance rules, provider network handling",
+   "Systems: insurer and TPA platforms, eClaimLink in Dubai, Excel for reserve reporting",
+   "Assessment: coverage and exclusions, working with surveyors and loss adjusters, settlement calculation",
+   "Fraud: signs of inflated bills, repeat claims, altered documents",
+   "Communication: clear written English for decisions, a calm tone in disputes"
+  ],
+  "check_lead": "Processing speed is easy to claim and hard to verify. We test on anonymised cases, and your claims manager decides.",
+  "steps": [
+   ["Case pack", "five anonymised claims with the policy: the candidate decides what to approve, request or decline and cites the policy terms."],
+   ["Suspicious case", "a clinic bill with an unusual set of procedures. The candidate lists what to check and whom to involve."],
+   ["Rejection letter", "in 20 minutes the candidate writes a clear decline citing the policy clause and the appeal route."],
+   ["References", "calls to former managers about case volume, decision accuracy and complaints."]
+  ],
+  "mistake": "A typical mistake: moving a medical claims officer to motor or property, or the other way round. Assessment logic, documents and partners differ, and adaptation takes months. Another mistake is looking only at speed and not at the share of overturned decisions.",
+  "sal": [
+   ["Junior claims officer", "6,000 - 10,000"],
+   ["Experienced claims officer", "10,000 - 16,000"],
+   ["Senior claims officer or team lead", "16,000 - 26,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. A medical background or coding experience for health claims and a CII qualification raise the package.",
+  "faq": [
+   ["How much does a claims officer earn in Dubai?", "A junior earns around AED 6,000 - 10,000 a month, an experienced officer AED 10,000 - 16,000 and a senior officer or team lead AED 16,000 - 26,000."],
+   ["Is a medical background needed for medical claims?", "For complex medical claims and pre-approvals, insurers and TPAs often look for people with a medical or pharmacy background. For first-line processing, experience and coding knowledge are enough."]
+  ],
+  "seek_h2": "Are you a claims officer looking for a job in Dubai?"
+ }
+}

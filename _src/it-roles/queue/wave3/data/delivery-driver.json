@@ -1,0 +1,136 @@
+{
+ "slug": "delivery-driver",
+ "hub": "logistics",
+ "related": [
+  "warehouse-manager",
+  "storekeeper",
+  "logistics-coordinator",
+  "fleet-manager"
+ ],
+ "ru": {
+  "name": "Водитель доставки",
+  "title": "Найм водителя доставки в Дубае: права ОАЭ, маршруты, зарплата | TLNT",
+  "desc": "Найм водителя доставки в Дубае: права ОАЭ, знание города, работа с приложениями и наличными, практическая проверка маршрута, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм водителя доставки",
+  "h1em": "в Дубае",
+  "intro": "Водители доставки нужны дистрибьюторам, e-commerce и быстрой доставке, ресторанам и кейтерингу, аптекам и клиникам, мебельным и строительным магазинам, химчисткам. Задачи: развоз по маршруту на легковом авто или фургоне, работа с приложением доставки, оплата при получении, вежливое общение с клиентом, сохранность груза и машины. Помогаем определить, какая категория прав и какой опыт нужен, даём шорт-лист из нашей живой базы и проводим практическую проверку знания города и аккуратности.",
+  "find_lead": "Водитель с правами ОАЭ нужной категории, чистой историей нарушений и знанием города, который доставляет вовремя и бережно, а с клиентом ведёт себя как лицо компании.",
+  "find": [
+   "Права: действующие права ОАЭ нужной категории (легковой, фургон, лёгкий грузовик), опыт вождения в Дубае",
+   "Город: Дубай и соседние эмираты, Salik, парковки, ограничения для грузовиков по времени и районам",
+   "Приложения: навигация, приложения доставки и маршрутизации, фото подтверждения, электронная подпись",
+   "Деньги: оплата при получении, POS-терминал, ежедневная сдача выручки",
+   "Груз: погрузка, крепление, холодовая цепь для продуктов и лекарств, хрупкие и крупногабаритные товары",
+   "Сервис и безопасность: вежливость, звонок клиенту заранее, уход за машиной, отсутствие штрафов"
+  ],
+  "check_lead": "Водитель отвечает за машину, груз и деньги компании. Проверки смотрят на историю вождения, город и поведение, а решение принимаете вы.",
+  "steps": [
+   [
+    "Проверка прав и нарушений",
+    "кандидат показывает права ОАЭ и выписку о штрафах и чёрных точках из приложения RTA или полиции. Смотрим на частоту и тип нарушений."
+   ],
+   [
+    "Маршрут",
+    "список из 15 адресов в разных районах на день. Кандидат расставляет порядок с учётом пробок и времени доставки и объясняет логику."
+   ],
+   [
+    "Поездка с супервайзером",
+    "короткий маршрут на вашей машине: стиль вождения, парковка, погрузка и выгрузка, разговор с клиентом."
+   ],
+   [
+    "Рекомендации",
+    "звонки прошлым работодателям: аварии, недостачи по наличным, жалобы клиентов."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанять водителя только по наличию прав и не проверить историю штрафов и аварий. Штрафы приходят на компанию, а аварии бьют по страховке и графику. Ещё ошибка: не договориться заранее о правилах работы с наличными и сдаче выручки: потом это источник конфликтов.",
+  "sal": [
+   [
+    "Водитель на мотоцикле или легковом авто",
+    "2 500 - 4 000"
+   ],
+   [
+    "Водитель фургона",
+    "3 500 - 5 500"
+   ],
+   [
+    "Старший водитель или водитель лёгкого грузовика",
+    "5 000 - 7 500"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Сверхурочные, бонус за доставки, жильё и машина от работодателя меняют полную сумму; премиальные бренды, фарма и холодовая цепь платят выше.",
+  "faq": [
+   [
+    "Сколько зарабатывает водитель доставки в Дубае?",
+    "В 2026 году водитель доставки на мотоцикле или легковом авто в Дубае получает около 2 500 - 4 000 AED в месяц, водитель фургона 3 500 - 5 500 AED, старший водитель или водитель лёгкого грузовика 5 000 - 7 500 AED. Часто есть бонус за количество доставок и сверхурочные."
+   ],
+   [
+    "Обязательны ли права ОАЭ при найме водителя?",
+    "Да, для работы водителем нужны права ОАЭ, иностранные права для этого не подходят. Кандидат без прав ОАЭ может получить их, но это несколько месяцев и расходы, которые надо заранее учитывать. Мы ищем кандидатов с действующими правами нужной категории."
+   ]
+  ],
+  "seek_h2": "Вы водитель доставки и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Delivery driver",
+  "title": "Hire a Delivery Driver in Dubai: UAE Licence, Routes, Salary | TLNT",
+  "desc": "Hire a delivery driver in Dubai: UAE licence, city knowledge, delivery apps and cash handling, a practical route check, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a delivery driver",
+  "h1em": "in Dubai",
+  "intro": "Delivery drivers are needed by distributors, e-commerce and quick commerce, restaurants and caterers, pharmacies and clinics, furniture and building supply stores and laundries. The work covers driving a route in a car or van, delivery apps, cash on delivery, polite customer contact and keeping goods and the vehicle safe. We help you define the licence category and experience you need, shortlist from our live database and run a practical check on city knowledge and care.",
+  "find_lead": "A driver with the right UAE licence category, a clean violations record and city knowledge, who delivers on time and carefully and represents your company well at the door.",
+  "find": [
+   "Licence: a valid UAE licence in the right category (car, van, light truck), driving experience in Dubai",
+   "City: Dubai and neighbouring emirates, Salik, parking, time and area restrictions for trucks",
+   "Apps: navigation, delivery and routing apps, photo proof of delivery, e-signature",
+   "Cash: cash on delivery, POS terminals, handing over takings daily",
+   "Goods: loading and securing, cold chain for food and medicines, fragile and bulky items",
+   "Service and safety: courtesy, calling the customer ahead, vehicle care, no fines"
+  ],
+  "check_lead": "A driver is responsible for the company vehicle, goods and cash. The checks look at driving history, city knowledge and conduct, and you make the decision.",
+  "steps": [
+   [
+    "Licence and violations check",
+    "the candidate shows a UAE licence and a record of fines and black points from the RTA or police app. We look at how often and what type."
+   ],
+   [
+    "Route",
+    "a list of 15 addresses across different areas for one day. The candidate orders the stops around traffic and delivery windows and explains the logic."
+   ],
+   [
+    "Ride with a supervisor",
+    "a short route in your vehicle: driving style, parking, loading and unloading, talking to the customer."
+   ],
+   [
+    "References",
+    "calls with previous employers: accidents, cash shortages, customer complaints."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a driver on the licence alone without checking fines and accident history. Fines land on the company, and accidents hit insurance and the schedule. Another one: not agreeing cash handling and takings rules up front: later they become a source of conflict.",
+  "sal": [
+   [
+    "Motorbike or car delivery driver",
+    "2,500 - 4,000"
+   ],
+   [
+    "Van driver",
+    "3,500 - 5,500"
+   ],
+   [
+    "Senior driver or light truck driver",
+    "5,000 - 7,500"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Overtime, delivery bonuses, housing and a company vehicle change the total; premium brands, pharma and cold chain pay more.",
+  "faq": [
+   [
+    "How much does a delivery driver earn in Dubai?",
+    "In 2026 a motorbike or car delivery driver in Dubai earns about AED 2,500 - 4,000 per month, a van driver AED 3,500 - 5,500 and a senior or light truck driver AED 5,000 - 7,500. There is often a per-delivery bonus and overtime."
+   ],
+   [
+    "Is a UAE driving licence required to hire a driver?",
+    "Yes, working as a driver requires a UAE licence; a foreign licence is not enough for this. A candidate without one can obtain it, but it takes a few months and costs that need to be planned. We look for candidates with a valid licence in the right category."
+   ]
+  ],
+  "seek_h2": "Are you a delivery driver looking for a job in Dubai?"
+ }
+}

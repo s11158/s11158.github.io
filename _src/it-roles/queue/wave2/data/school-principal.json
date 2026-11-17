@@ -1,0 +1,77 @@
+{
+ "slug": "school-principal",
+ "hub": "education",
+ "related": ["teacher", "kindergarten-teacher", "hr-manager", "special-needs-teacher"],
+ "ru": {
+  "name": "Директор школы",
+  "title": "Найм директора школы в Дубае: KHDA, инспекции, зарплата | TLNT",
+  "desc": "Найм директора школы в Дубае: рейтинги KHDA, британская и IB программы, кейсы по инспекции и бюджету, зарплаты 2026 и конфиденциальный поиск от TLNT.",
+  "h1": "Найм директора школы",
+  "h1em": "в Дубае",
+  "intro": "Директора и завучи нужны частным школам Дубая, школьным группам, новым кампусам и детским садам, которые растут в школу. Задачи: качество обучения, рейтинг инспекции KHDA, набор и удержание учителей, бюджет и наполняемость, отношения с родителями и учредителями. Помогаем описать, какой лидер нужен на вашем этапе, проводим конфиденциальный поиск по нашей живой базе и структурные кейсы, по которым решение принимает совет учредителей.",
+  "find_lead": "Руководитель, который поднимает качество уроков и рейтинг школы и при этом держит бюджет и наполняемость.",
+  "find": [
+   "Опыт руководства: директор или заместитель в школе с вашей программой, лучше в ОАЭ или регионе Залива",
+   "Инспекции: опыт подготовки к KHDA, Ofsted, BSO или аккредитации CIS, NEASC, IB",
+   "Качество обучения: наблюдения уроков, развитие учителей, работа с данными прогресса",
+   "Команда: найм и удержание учителей, культура, сложные кадровые решения",
+   "Бизнес школы: бюджет, наполняемость, политика оплаты, работа с учредителями",
+   "Требования ОАЭ: одобрение кандидатуры директора KHDA, квалификация NPQH или эквивалент, safeguarding"
+  ],
+  "check_lead": "Красивая презентация видения не показывает, как человек проведёт школу через инспекцию. Проверки строятся на реальных ситуациях, а решение остаётся за учредителями.",
+  "steps": [
+   ["Кейс по инспекции", "кандидат получает отчёт KHDA с рейтингом Acceptable и за неделю готовит план на год: приоритеты, сроки, измеримые результаты."],
+   ["Наблюдение урока", "совместный просмотр урока или видео: кандидат даёт учителю обратную связь, а комиссия оценивает её точность и тон."],
+   ["Разговор о бюджете", "наполняемость упала на 10%. Что директор делает с наймом, маркетингом и расходами, как говорит с учредителем."],
+   ["Рекомендации", "конфиденциальные звонки председателям советов и коллегам прошлых школ, проверка результатов инспекций в период работы кандидата."]
+  ],
+  "mistake": "Типичная ошибка: нанять сильного педагога без опыта управления бюджетом и людьми, и через год у школы хорошие уроки, но растёт текучесть и падает наполняемость. Ещё ошибка: не учесть, что кандидатуру директора одобряет KHDA, и объявить о назначении раньше времени.",
+  "sal": [
+   ["Заместитель директора", "25 000 - 40 000"],
+   ["Директор школы", "40 000 - 65 000"],
+   ["Директор премиальной школы или школьной группы", "65 000 - 100 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Пакет обычно включает жильё, обучение детей, медицинскую страховку и бонус за рейтинг или наполняемость; премиальные британские и IB школы платят по верхней границе.",
+  "faq": [
+   ["Сколько зарабатывает директор школы в Дубае?", "В 2026 году заместитель директора в Дубае получает около 25 000 - 40 000 AED в месяц, директор школы 40 000 - 65 000 AED, директор премиальной школы или школьной группы 65 000 - 100 000 AED. Жильё и обучение детей обычно идут сверху."],
+   ["Можно ли искать директора конфиденциально?", "Да. Часто действующий директор ещё работает, а школа не хочет тревожить родителей и учителей. Мы ведём поиск без публичной вакансии и показываем кандидатов только совету учредителей."]
+  ],
+  "seek_h2": "Вы директор школы и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "School principal",
+  "title": "Hire a School Principal in Dubai: KHDA, Inspection, Salary | TLNT",
+  "desc": "Hire a school principal in Dubai: KHDA ratings, British and IB curricula, inspection and budget case studies, 2026 salaries and a confidential TLNT search.",
+  "h1": "Hire a school principal",
+  "h1em": "in Dubai",
+  "intro": "Principals and vice principals are needed by private schools in Dubai, school groups, new campuses and nurseries growing into schools. The role covers teaching quality, the KHDA inspection rating, recruiting and retaining teachers, budget and enrolment, and relations with parents and owners. We help you describe the leader you need at your stage, run a confidential search across our live database and structured case studies, and the board of owners makes the decision.",
+  "find_lead": "A leader who lifts lesson quality and the school's rating while keeping budget and enrolment on track.",
+  "find": [
+   "Leadership experience: principal or deputy in a school with your curriculum, ideally in the UAE or the Gulf",
+   "Inspections: preparing for KHDA, Ofsted, BSO or CIS, NEASC, IB accreditation",
+   "Teaching quality: lesson observations, teacher development, using progress data",
+   "Team: recruiting and retaining teachers, culture, difficult staffing decisions",
+   "School business: budget, enrolment, fee policy, working with owners",
+   "UAE requirements: KHDA approval of the principal, NPQH or equivalent, safeguarding"
+  ],
+  "check_lead": "A polished vision presentation does not show how someone will lead a school through inspection. The checks use real situations, and the owners make the decision.",
+  "steps": [
+   ["Inspection case", "the candidate receives a KHDA report rated Acceptable and within a week prepares a one-year plan: priorities, timelines, measurable outcomes."],
+   ["Lesson observation", "a joint observation of a lesson or video: the candidate gives the teacher feedback and the panel scores its accuracy and tone."],
+   ["Budget conversation", "enrolment fell 10%. What the principal does with hiring, marketing and costs, and how they talk to the owner."],
+   ["References", "confidential calls with previous board chairs and colleagues, checking inspection results during the candidate's tenure."]
+  ],
+  "mistake": "Typical mistake: hiring a strong educator with no experience managing budget and people, and a year later lessons are good but staff turnover is up and enrolment is down. Another one: forgetting that KHDA approves the principal and announcing the appointment too early.",
+  "sal": [
+   ["Vice principal", "25,000 - 40,000"],
+   ["School principal", "40,000 - 65,000"],
+   ["Principal of a premium school or school group", "65,000 - 100,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Packages usually include housing, children's tuition, medical insurance and a bonus tied to rating or enrolment; premium British and IB schools pay at the top of the range.",
+  "faq": [
+   ["How much does a school principal earn in Dubai?", "In 2026 a vice principal in Dubai earns about AED 25,000 - 40,000 per month, a school principal AED 40,000 - 65,000 and the principal of a premium school or school group AED 65,000 - 100,000. Housing and children's tuition usually come on top."],
+   ["Can the principal search be confidential?", "Yes. Often the current principal is still in post and the school does not want to unsettle parents and teachers. We search without a public vacancy and present candidates only to the board of owners."]
+  ],
+  "seek_h2": "Are you a school principal looking for a job in Dubai?"
+ }
+}

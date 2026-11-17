@@ -1,0 +1,77 @@
+{
+ "slug": "hr-generalist",
+ "hub": "management",
+ "related": ["hr-manager", "hr-business-partner", "payroll-specialist", "pro-officer"],
+ "ru": {
+  "name": "HR-генералист",
+  "title": "Найм HR-генералиста в Дубае: кадры, WPS, зарплата | TLNT",
+  "desc": "Найм HR-генералиста в Дубае: трудовой закон ОАЭ, MOHRE, WPS, онбординг и кадровые документы, практическая проверка и шорт-лист от TLNT.",
+  "h1": "Найм HR-генералиста",
+  "h1em": "в Дубае",
+  "intro": "HR-генералисты нужны компаниям Дубая на 30-300 сотрудников: клиникам, салонам, ресторанным группам, торговым и IT-компаниям, где один специалист закрывает весь кадровый цикл. Задачи: трудовые договоры по закону ОАЭ, кадровые записи, зарплатная ведомость через WPS, онбординг, отпуска, дисциплинарные процедуры, увольнения и расчёт выходного пособия. Помогаем определить нужный уровень, даём шорт-лист из нашей живой базы и проводим практическую проверку на реальных кейсах.",
+  "find_lead": "Специалист, который знает трудовой закон ОАЭ на практике, держит кадровые документы в порядке и спокойно разбирает конфликт.",
+  "find": [
+   "Право: федеральный закон о трудовых отношениях, срочные договоры, испытательный срок, уведомления, выходное пособие",
+   "MOHRE и WPS: оформление договоров, зарплата через Wage Protection System, требования по эмиратизации для материка",
+   "Документы: кадровые файлы, письма, предупреждения, политика компании, справочник сотрудника",
+   "Цикл: онбординг, отпуска и больничные, оценка эффективности, увольнение и окончательный расчёт",
+   "Системы: Bayzat, Zenhr, Darwinbox, SAP SuccessFactors или Excel с аккуратной структурой",
+   "Взаимодействие: координация с PRO по визам и Emirates ID, медицинская страховка сотрудников"
+  ],
+  "check_lead": "Многие HR знают теорию, но путаются в расчётах по закону ОАЭ. Проверяем на реальных кейсах, решение принимает ваш руководитель.",
+  "steps": [
+   ["Расчёт увольнения", "сотрудник с пятью годами стажа уходит по собственному желанию: кандидат считает выходное пособие, неиспользованный отпуск и сроки выплаты."],
+   ["Конфликт", "сотрудник опаздывает третий месяц подряд. Кандидат описывает шаги по закону и документы."],
+   ["Пакет онбординга", "кандидат за час составляет план первой недели и список документов для нового сотрудника."],
+   ["Рекомендации", "звонки руководителям: размер компании, споры в MOHRE, порядок в документах."]
+  ],
+  "mistake": "Типичная ошибка: нанимать HR-генералиста по опыту в другой стране без знания закона ОАЭ. Ошибки в расчётах и уведомлениях приводят к жалобам в MOHRE. Ещё ошибка: ждать от генералиста и полного подбора, и всей кадровой работы одновременно при быстром росте.",
+  "sal": [
+   ["Младший HR-специалист", "6 000 - 10 000"],
+   ["HR-генералист", "10 000 - 17 000"],
+   ["Старший HR-генералист", "17 000 - 25 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Сертификаты CIPD или SHRM, опыт с WPS и эмиратизацией и знание русского для русскоязычных команд поднимают пакет.",
+  "faq": [
+   ["Сколько зарабатывает HR-генералист в Дубае?", "Младший специалист получает около 6 000 - 10 000 AED в месяц, HR-генералист 10 000 - 17 000 AED, старший генералист 17 000 - 25 000 AED."],
+   ["Чем HR-генералист отличается от HR-менеджера?", "Генералист сам ведёт кадровые операции: договоры, расчёты, онбординг. HR-менеджер отвечает за политику, бюджет и команду. В компаниях до 100 человек генералист часто единственный HR."]
+  ],
+  "seek_h2": "Вы HR-генералист и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "HR generalist",
+  "title": "Hire an HR Generalist in Dubai: UAE Labour Law, WPS | TLNT",
+  "desc": "Hire an HR generalist in Dubai: UAE labour law, MOHRE, WPS payroll, onboarding and HR records, practical checks on real cases and a TLNT shortlist.",
+  "h1": "Hire an HR generalist",
+  "h1em": "in Dubai",
+  "intro": "HR generalists are needed by Dubai companies with 30 to 300 employees: clinics, salons, restaurant groups, trading and tech firms where one person covers the whole HR cycle. The work covers employment contracts under UAE law, HR records, payroll through WPS, onboarding, leave, disciplinary procedures, terminations and end-of-service gratuity. We help define the level, shortlist from our live database and run a practical check on real cases.",
+  "find_lead": "A professional who applies UAE labour law in practice, keeps HR records in order and handles conflict calmly.",
+  "find": [
+   "Law: UAE labour relations law, fixed-term contracts, probation, notice, end-of-service gratuity",
+   "MOHRE and WPS: contract registration, salaries through the Wage Protection System, Emiratisation rules for mainland companies",
+   "Documents: personnel files, letters, warnings, policies, employee handbook",
+   "Cycle: onboarding, leave and sick leave, performance reviews, exit and final settlement",
+   "Systems: Bayzat, ZenHR, Darwinbox, SAP SuccessFactors or well-structured Excel",
+   "Coordination: working with the PRO on visas and Emirates ID, employee health insurance"
+  ],
+  "check_lead": "Many HR people know the theory but trip on UAE calculations. We test on real cases, and your manager decides.",
+  "steps": [
+   ["Exit calculation", "an employee with five years of service resigns: the candidate calculates gratuity, unused leave and payment deadlines."],
+   ["Conflict case", "an employee has been late for three months. The candidate describes the legal steps and documents."],
+   ["Onboarding pack", "in an hour the candidate drafts a first-week plan and a document checklist for a new hire."],
+   ["References", "calls to former managers about company size, MOHRE disputes and record keeping."]
+  ],
+  "mistake": "A typical mistake: hiring an HR generalist with experience abroad but no UAE labour law knowledge. Calculation and notice errors lead to MOHRE complaints. Another mistake is expecting one generalist to run full recruitment and all HR operations during rapid growth.",
+  "sal": [
+   ["Junior HR specialist", "6,000 - 10,000"],
+   ["HR generalist", "10,000 - 17,000"],
+   ["Senior HR generalist", "17,000 - 25,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. CIPD or SHRM certification, WPS and Emiratisation experience and Russian for Russian-speaking teams raise the package.",
+  "faq": [
+   ["How much does an HR generalist earn in Dubai?", "A junior HR specialist earns around AED 6,000 - 10,000 a month, an HR generalist AED 10,000 - 17,000 and a senior HR generalist AED 17,000 - 25,000."],
+   ["How is an HR generalist different from an HR manager?", "A generalist runs HR operations hands-on: contracts, calculations, onboarding. An HR manager owns policy, budget and the team. In companies under 100 people the generalist is often the only HR person."]
+  ],
+  "seek_h2": "Are you an HR generalist looking for a job in Dubai?"
+ }
+}

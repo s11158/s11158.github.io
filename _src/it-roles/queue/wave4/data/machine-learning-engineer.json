@@ -1,0 +1,136 @@
+{
+ "slug": "machine-learning-engineer",
+ "hub": "tech",
+ "related": [
+  "ai-engineer",
+  "data-scientist",
+  "data-engineer",
+  "devops-engineer"
+ ],
+ "ru": {
+  "name": "ML-инженер",
+  "title": "Найм ML-инженера в Дубае: модели, MLOps, зарплата | TLNT",
+  "desc": "Найм ML-инженера в Дубае: обучение и выкладка моделей, MLOps, практическая проверка на ваших данных, зарплаты 2026 и шорт-лист из живой базы TLNT.",
+  "h1": "Найм ML-инженера",
+  "h1em": "в Дубае",
+  "intro": "ML-инженеры нужны банкам и страховым компаниям Дубая (скоринг, антифрод), ритейлу и доставке (прогноз спроса, рекомендации), авиации, телекому и логистике. Инженер готовит данные, обучает и дообучает модели, выводит их в продакшен и следит, чтобы качество не падало со временем. Помогаем определить, нужен вам специалист по моделям или по MLOps, даём шорт-лист из нашей живой базы и проводим практическую проверку на задаче, близкой к вашей, которую оценивает ваш техлид.",
+  "find_lead": "Инженер, у которого модель не остаётся в ноутбуке: она обучается воспроизводимо, работает в продакшене и измеряется бизнес-метрикой.",
+  "find": [
+   "Python и библиотеки: pandas, scikit-learn, XGBoost или LightGBM, PyTorch для нейросетей",
+   "Работа с данными: SQL, признаки, утечки данных, честная валидация по времени",
+   "MLOps: MLflow или Weights & Biases, пайплайны обучения, реестр моделей, Docker и Kubernetes",
+   "Выкладка: REST или батч-сервисы, SageMaker, Azure ML или Vertex AI, задержка и стоимость предсказания",
+   "Мониторинг: дрейф данных, падение качества, переобучение по расписанию или по событию",
+   "Связь с бизнесом: перевод метрики модели в деньги, A/B-тесты, объяснимость для риск-комитета банка"
+  ],
+  "check_lead": "Высокий балл на Kaggle не равен работающей модели в продакшене. Проверка показывает, как кандидат обращается с грязными данными, валидацией и выкладкой, а решение принимает ваш техлид.",
+  "steps": [
+   [
+    "Задание на данных",
+    "обезличенный набор данных и бизнес-вопрос (отток, мошенничество, спрос): за 4-6 часов кандидат строит базовую модель, объясняет выбор метрики и валидации и показывает, где могла быть утечка."
+   ],
+   [
+    "Разбор продакшена",
+    "модель полгода работала хорошо, а теперь качество упало. Кандидат рассказывает, что проверяет, как находит дрейф и как устроено переобучение."
+   ],
+   [
+    "Архитектура выкладки",
+    "как вывести модель в сервис с задержкой до 100 мс, где хранить признаки, как версионировать модели и откатываться."
+   ],
+   [
+    "Рекомендации",
+    "звонки руководителям с прошлых мест: какие модели дошли до продакшена, какой эффект дали в деньгах, как кандидат работал с данными и командой."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанять ML-инженера, когда у компании ещё нет собранных и чистых данных. Первые полгода он будет заниматься инженерией данных, а не моделями, и уйдёт разочарованным. Ещё ошибка: оценивать кандидата по точности модели без вопроса, как она проверялась, завышенный результат из-за утечки данных встречается постоянно.",
+  "sal": [
+   [
+    "Младший ML-инженер",
+    "13 000 - 20 000"
+   ],
+   [
+    "ML-инженер среднего уровня",
+    "20 000 - 33 000"
+   ],
+   [
+    "Старший ML-инженер или лид",
+    "33 000 - 55 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт MLOps, моделей в банковском скоринге и антифроде, а также работа с большими нагрузками заметно поднимают пакет; бонус и жильё меняют полную сумму.",
+  "faq": [
+   [
+    "Сколько зарабатывает ML-инженер в Дубае?",
+    "В 2026 году младший ML-инженер в Дубае получает около 13 000 - 20 000 AED в месяц, инженер среднего уровня 20 000 - 33 000 AED, старший ML-инженер или лид 33 000 - 55 000 AED. Банки, телеком и крупные технологические компании платят по верхней границе."
+   ],
+   [
+    "Нужен ML-инженер или data scientist?",
+    "Data scientist чаще исследует данные, строит гипотезы и прототипы моделей, отвечает на бизнес-вопросы. ML-инженер делает так, чтобы модель стабильно работала в продукте: пайплайны, выкладка, мониторинг, переобучение. В небольшой команде нужен человек с обоими навыками, в зрелой роли разделяют. Поможем понять, кто нужен вам сейчас."
+   ]
+  ],
+  "seek_h2": "Вы ML-инженер и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Machine learning engineer",
+  "title": "Hire a Machine Learning Engineer in Dubai: MLOps, Salary | TLNT",
+  "desc": "Hire a machine learning engineer in Dubai: model training and deployment, MLOps, a practical check on your data, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a machine learning engineer",
+  "h1em": "in Dubai",
+  "intro": "Machine learning engineers are in demand at Dubai banks and insurers (credit scoring, fraud), retail and delivery (demand forecasting, recommendations), aviation, telecom and logistics. The engineer prepares data, trains and fine-tunes models, deploys them to production and makes sure quality does not degrade over time. We help you decide whether you need a modelling specialist or an MLOps profile, shortlist from our live database and run a practical check close to your own problem that your tech lead scores.",
+  "find_lead": "An engineer whose model does not stay in a notebook: it trains reproducibly, runs in production and is measured by a business metric.",
+  "find": [
+   "Python and libraries: pandas, scikit-learn, XGBoost or LightGBM, PyTorch for neural networks",
+   "Data work: SQL, feature engineering, data leakage, honest time-based validation",
+   "MLOps: MLflow or Weights & Biases, training pipelines, model registry, Docker and Kubernetes",
+   "Deployment: REST or batch services, SageMaker, Azure ML or Vertex AI, latency and cost per prediction",
+   "Monitoring: data drift, quality decay, retraining on a schedule or on events",
+   "Business link: turning model metrics into money, A/B tests, explainability for a bank risk committee"
+  ],
+  "check_lead": "A high Kaggle score is not a working model in production. The check shows how a candidate handles messy data, validation and deployment, and your tech lead makes the call.",
+  "steps": [
+   [
+    "Data task",
+    "an anonymised dataset and a business question (churn, fraud, demand): in 4-6 hours the candidate builds a baseline model, explains the metric and validation choice and shows where leakage could happen."
+   ],
+   [
+    "Production review",
+    "a model worked well for six months and now quality has dropped. The candidate explains what they check, how they detect drift and how retraining is set up."
+   ],
+   [
+    "Deployment architecture",
+    "how to serve a model under 100 ms latency, where to store features, how to version models and roll back."
+   ],
+   [
+    "References",
+    "calls with managers from previous roles: which models reached production, what money impact they had, how the candidate worked with data and the team."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring an ML engineer before the company has collected and cleaned its data. For the first six months they do data engineering instead of models and leave disappointed. Another one: judging a candidate by model accuracy without asking how it was validated; inflated results from data leakage are very common.",
+  "sal": [
+   [
+    "Junior ML engineer",
+    "13,000 - 20,000"
+   ],
+   [
+    "Mid-level ML engineer",
+    "20,000 - 33,000"
+   ],
+   [
+    "Senior ML engineer or lead",
+    "33,000 - 55,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. MLOps experience, bank scoring and fraud models and high-load systems noticeably raise the package; bonus and housing change the total.",
+  "faq": [
+   [
+    "How much does a machine learning engineer earn in Dubai?",
+    "In 2026 a junior machine learning engineer in Dubai earns about AED 13,000 - 20,000 per month, a mid-level engineer AED 20,000 - 33,000 and a senior ML engineer or lead AED 33,000 - 55,000. Banks, telecom and large tech companies pay at the top of the range."
+   ],
+   [
+    "Do I need an ML engineer or a data scientist?",
+    "A data scientist usually explores data, tests hypotheses, prototypes models and answers business questions. An ML engineer makes the model run reliably in the product: pipelines, deployment, monitoring, retraining. A small team needs someone with both skills; mature teams split the roles. We help you work out which one you need now."
+   ]
+  ],
+  "seek_h2": "Are you a machine learning engineer looking for a job in Dubai?"
+ }
+}

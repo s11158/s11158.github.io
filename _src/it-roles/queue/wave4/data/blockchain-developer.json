@@ -1,0 +1,136 @@
+{
+ "slug": "blockchain-developer",
+ "hub": "tech",
+ "related": [
+  "backend-developer",
+  "cybersecurity-specialist",
+  "fullstack-developer",
+  "cto"
+ ],
+ "ru": {
+  "name": "Блокчейн-разработчик",
+  "title": "Найм блокчейн-разработчика в Дубае: Solidity, Web3 | TLNT",
+  "desc": "Найм блокчейн-разработчика в Дубае: Solidity, смарт-контракты, безопасность и требования VARA, проверка на задаче с аудитом, зарплаты 2026 и шорт-лист TLNT.",
+  "h1": "Найм блокчейн-разработчика",
+  "h1em": "в Дубае",
+  "intro": "Дубай с регулятором VARA, свободными зонами DMCC и DIFC и программами для Web3-компаний стал одним из центров блокчейн-разработки. Разработчики нужны биржам и кастодианам, платёжным сервисам, проектам токенизации недвижимости, игровым и инфраструктурным стартапам. Задачи: смарт-контракты, интеграция с кошельками, бэкенд для работы с сетями, безопасность и соответствие требованиям регулятора. Помогаем отличить инженера с контрактами в основной сети от автора учебных проектов, даём шорт-лист из нашей живой базы и проводим практическую проверку, которую оценивает ваш CTO или аудитор.",
+  "find_lead": "Разработчик, который пишет смарт-контракты так, будто каждая строка будет атакована, потому что так и будет.",
+  "find": [
+   "Смарт-контракты: Solidity, стандарты ERC-20, ERC-721, ERC-1155, обновляемые контракты, оптимизация газа",
+   "Инструменты: Foundry или Hardhat, OpenZeppelin, тесты, фаззинг, статический анализ (Slither)",
+   "Безопасность: реентерабельность, оракулы, права доступа, работа с внешним аудитом и баг-баунти",
+   "Сети: Ethereum и L2 (Arbitrum, Optimism, Base), при необходимости Solana на Rust",
+   "Бэкенд и интеграции: ethers.js или viem, индексаторы, кошельки, кастодиальные решения",
+   "Регуляторика: понимание требований VARA, KYC и AML для виртуальных активов, токенизации в DLD"
+  ],
+  "check_lead": "Ошибка в смарт-контракте стоит денег пользователей и необратима. Проверка сосредоточена на безопасности и тестах, а решение принимает ваш CTO или внешний аудитор.",
+  "steps": [
+   [
+    "Задание на контракт",
+    "за 4-6 часов кандидат пишет небольшой контракт (например, вестинг токенов или эскроу) с тестами в Foundry и объясняет, какие атаки предусмотрел."
+   ],
+   [
+    "Поиск уязвимостей",
+    "даём контракт с несколькими уязвимостями. Кандидат находит их, объясняет, как ими воспользоваться, и предлагает исправление."
+   ],
+   [
+    "Разговор об архитектуре",
+    "что держать в блокчейне, а что на сервере, как обновлять контракты, как хранить ключи и кто подписывает транзакции."
+   ],
+   [
+    "Рекомендации",
+    "звонки бывшим CTO и ссылки на код в публичных репозиториях и адреса контрактов в сети: что реально работало с деньгами пользователей, были ли инциденты."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанять опытного бэкенд-разработчика, который недавно освоил Solidity, и выпустить контракт без внешнего аудита. Цена такой экономии обычно больше годовой зарплаты. Ещё ошибка: оценивать кандидата по участию в громких проектах без проверки, какой код он писал сам.",
+  "sal": [
+   [
+    "Младший блокчейн-разработчик",
+    "14 000 - 22 000"
+   ],
+   [
+    "Блокчейн-разработчик среднего уровня",
+    "22 000 - 35 000"
+   ],
+   [
+    "Старший разработчик или лид смарт-контрактов",
+    "35 000 - 60 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Контракты в основной сети с заметным объёмом средств, опыт аудита и знание требований VARA заметно поднимают пакет; токены и опционы меняют полную сумму, их стоит оценивать отдельно от зарплаты.",
+  "faq": [
+   [
+    "Сколько зарабатывает блокчейн-разработчик в Дубае?",
+    "В 2026 году младший блокчейн-разработчик в Дубае получает около 14 000 - 22 000 AED в месяц, разработчик среднего уровня 22 000 - 35 000 AED, старший разработчик или лид смарт-контрактов 35 000 - 60 000 AED. Биржи, кастодианы и хорошо профинансированные протоколы платят по верхней границе."
+   ],
+   [
+    "Можно ли платить блокчейн-разработчику в криптовалюте?",
+    "Компании в ОАЭ оформляют сотрудника по трудовому договору и выплачивают зарплату в дирхамах через систему защиты заработной платы, если она применима. Токены и опционы обычно дают сверх зарплаты отдельным соглашением. Порядок оформления и выплат стоит согласовать с вашим юристом, а мы поможем подобрать кандидатов под ваши условия."
+   ]
+  ],
+  "seek_h2": "Вы блокчейн-разработчик и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Blockchain developer",
+  "title": "Hire a Blockchain Developer in Dubai: Solidity, Web3 | TLNT",
+  "desc": "Hire a blockchain developer in Dubai: Solidity, smart contracts, security and VARA rules, a practical task with code audit, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire a blockchain developer",
+  "h1em": "in Dubai",
+  "intro": "With the VARA regulator, the DMCC and DIFC free zones and dedicated Web3 programmes, Dubai has become a hub for blockchain development. Developers are in demand at exchanges and custodians, payment services, real estate tokenisation projects, gaming and infrastructure startups. The work covers smart contracts, wallet integration, backend services that talk to chains, security and regulatory compliance. We help you tell an engineer with mainnet contracts from an author of tutorial projects, shortlist from our live database and run a practical check that your CTO or auditor scores.",
+  "find_lead": "A developer who writes smart contracts as if every line will be attacked, because it will be.",
+  "find": [
+   "Smart contracts: Solidity, ERC-20, ERC-721 and ERC-1155 standards, upgradeable contracts, gas optimisation",
+   "Tools: Foundry or Hardhat, OpenZeppelin, tests, fuzzing, static analysis (Slither)",
+   "Security: reentrancy, oracles, access control, working with external audits and bug bounties",
+   "Chains: Ethereum and L2s (Arbitrum, Optimism, Base), Solana with Rust where needed",
+   "Backend and integrations: ethers.js or viem, indexers, wallets, custody solutions",
+   "Regulation: understanding of VARA rules, KYC and AML for virtual assets, DLD tokenisation"
+  ],
+  "check_lead": "A smart contract bug costs users money and cannot be undone. The check focuses on security and tests, and your CTO or external auditor makes the call.",
+  "steps": [
+   [
+    "Contract task",
+    "in 4-6 hours the candidate writes a small contract (for example, token vesting or escrow) with Foundry tests and explains which attacks they guarded against."
+   ],
+   [
+    "Vulnerability hunt",
+    "we provide a contract with several vulnerabilities. The candidate finds them, explains how they could be exploited and proposes fixes."
+   ],
+   [
+    "Architecture conversation",
+    "what goes on-chain and what stays on the server, how to upgrade contracts, how keys are stored and who signs transactions."
+   ],
+   [
+    "References",
+    "calls with former CTOs plus public repositories and deployed contract addresses: what really handled user funds and whether there were incidents."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring an experienced backend developer who recently learned Solidity and shipping a contract without an external audit. The cost of that saving is usually more than a year's salary. Another one: judging a candidate by famous projects on the CV without checking which code they actually wrote.",
+  "sal": [
+   [
+    "Junior blockchain developer",
+    "14,000 - 22,000"
+   ],
+   [
+    "Mid-level blockchain developer",
+    "22,000 - 35,000"
+   ],
+   [
+    "Senior developer or smart contract lead",
+    "35,000 - 60,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Mainnet contracts holding significant funds, audit experience and knowledge of VARA rules noticeably raise the package; tokens and equity change the total and are worth assessing separately from salary.",
+  "faq": [
+   [
+    "How much does a blockchain developer earn in Dubai?",
+    "In 2026 a junior blockchain developer in Dubai earns about AED 14,000 - 22,000 per month, a mid-level developer AED 22,000 - 35,000 and a senior developer or smart contract lead AED 35,000 - 60,000. Exchanges, custodians and well-funded protocols pay at the top of the range."
+   ],
+   [
+    "Can a blockchain developer be paid in crypto?",
+    "Companies in the UAE employ staff under a labour contract and pay salary in dirhams through the wage protection system where it applies. Tokens and equity are usually granted on top of salary under a separate agreement. Agree the employment and payment setup with your lawyer, and we help you find candidates who fit your terms."
+   ]
+  ],
+  "seek_h2": "Are you a blockchain developer looking for a job in Dubai?"
+ }
+}

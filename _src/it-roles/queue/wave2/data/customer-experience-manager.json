@@ -1,0 +1,136 @@
+{
+ "slug": "customer-experience-manager",
+ "hub": "business",
+ "related": [
+  "customer-success-manager",
+  "customer-service-agent",
+  "operations-manager",
+  "front-office-manager"
+ ],
+ "ru": {
+  "name": "Менеджер по клиентскому опыту",
+  "title": "Найм менеджера по клиентскому опыту (CX) в Дубае, зарплата | TLNT",
+  "desc": "Найм менеджера по клиентскому опыту (CX) в Дубае: NPS, CSAT, путь клиента и работа с жалобами, практическая проверка на кейсе, зарплаты 2026 от TLNT.",
+  "h1": "Найм менеджера по клиентскому опыту",
+  "h1em": "в Дубае",
+  "intro": "Менеджеры по клиентскому опыту нужны девелоперам и брокерским компаниям Дубая, сетям клиник и салонов, ритейлу и e-commerce, отелям, банкам и телеком-компаниям. Задачи: карта пути клиента, NPS и CSAT, разбор жалоб, стандарты сервиса для фронт-офиса и колл-центра, отзывы в Google, работа с данными CRM и обучение команд. Помогаем определить, нужен ли вам стратег или операционный руководитель сервиса, даём шорт-лист из нашей живой базы и проводим практическую проверку на вашем кейсе.",
+  "find_lead": "Руководитель, который превращает жалобы и отзывы в изменения процессов и показывает результат в цифрах.",
+  "find": [
+   "Метрики: NPS, CSAT, CES, время ответа и решения, связь сервиса с повторными продажами",
+   "Путь клиента: карта точек контакта от заявки до повторной покупки, поиск мест, где теряются клиенты",
+   "Инструменты: Salesforce, HubSpot, Zendesk, Freshdesk, Medallia или Qualtrics, отчёты в Power BI",
+   "Жалобы и отзывы: эскалации, ответы в Google и соцсетях, работа с недовольным VIP-клиентом",
+   "Стандарты и обучение: скрипты, mystery shopping, обучение фронт-офиса и колл-центра",
+   "Многоязычный сервис: английский, арабский, русский и другие языки клиентов Дубая"
+  ],
+  "check_lead": "Про клиентский опыт хорошо говорят многие, а результат виден только по данным и изменённым процессам. Проверка строится на вашем кейсе, решение принимаете вы.",
+  "steps": [
+   [
+    "Кейс по данным",
+    "выгрузка отзывов и NPS за квартал. Кандидат за два часа находит три главные причины недовольства и предлагает план на 90 дней."
+   ],
+   [
+    "Карта пути клиента",
+    "кандидат рисует путь вашего клиента и показывает точки, где компания теряет деньги."
+   ],
+   [
+    "Эскалация",
+    "ролевая сцена с недовольным VIP-клиентом и разговор о том, как изменить процесс, чтобы ситуация не повторилась."
+   ],
+   [
+    "Рекомендации",
+    "звонки бывшим руководителям: какие метрики реально выросли и за счёт чего."
+   ]
+  ],
+  "mistake": "Типичная ошибка: назвать менеджером по клиентскому опыту старшего оператора колл-центра и ждать от него изменений по всей компании. Без доступа к данным и права менять процессы CX-менеджер превращается в отдел ответов на жалобы.",
+  "sal": [
+   [
+    "Специалист по клиентскому опыту",
+    "10 000 - 16 000"
+   ],
+   [
+    "Менеджер по клиентскому опыту",
+    "16 000 - 28 000"
+   ],
+   [
+    "Руководитель направления CX",
+    "28 000 - 45 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Банки, девелоперы и авиакомпании платят по верхней границе; бонус за NPS и удержание клиентов меняет полную сумму.",
+  "faq": [
+   [
+    "Сколько зарабатывает менеджер по клиентскому опыту в Дубае?",
+    "В 2026 году специалист по клиентскому опыту в Дубае получает около 10 000 - 16 000 AED в месяц, менеджер 16 000 - 28 000 AED, руководитель направления CX 28 000 - 45 000 AED. Бонус за NPS и удержание клиентов часто идёт сверху."
+   ],
+   [
+    "Чем CX-менеджер отличается от менеджера по работе с клиентами?",
+    "Менеджер по работе с клиентами ведёт конкретных клиентов и их задачи. CX-менеджер отвечает за опыт всех клиентов: метрики, процессы, стандарты и изменения между отделами. Поможем понять, какая роль нужна вашей компании, до начала поиска."
+   ]
+  ],
+  "seek_h2": "Вы менеджер по клиентскому опыту и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Customer experience manager",
+  "title": "Hire a Customer Experience (CX) Manager in Dubai, Salary | TLNT",
+  "desc": "Hire a customer experience (CX) manager in Dubai: NPS, CSAT, customer journey and complaints, a practical case check, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire a customer experience manager",
+  "h1em": "in Dubai",
+  "intro": "Customer experience managers are in demand at Dubai developers and brokerages, clinic and salon groups, retail and e-commerce, hotels, banks and telecoms. The work covers customer journey mapping, NPS and CSAT, complaint analysis, service standards for front office and call centre, Google reviews, CRM data and team training. We help you decide whether you need a CX strategist or an operational service leader, shortlist from our live database and run a practical check on your own case.",
+  "find_lead": "A leader who turns complaints and reviews into process changes and shows the result in numbers.",
+  "find": [
+   "Metrics: NPS, CSAT, CES, response and resolution time, linking service to repeat sales",
+   "Customer journey: touchpoints from enquiry to repeat purchase, finding where customers drop off",
+   "Tools: Salesforce, HubSpot, Zendesk, Freshdesk, Medallia or Qualtrics, Power BI reports",
+   "Complaints and reviews: escalations, replies on Google and social media, handling an unhappy VIP",
+   "Standards and training: scripts, mystery shopping, front office and call centre training",
+   "Multilingual service: English, Arabic, Russian and other languages of Dubai customers"
+  ],
+  "check_lead": "Many people talk well about customer experience; results show only in data and changed processes. The check is built on your case, and you make the call.",
+  "steps": [
+   [
+    "Data case",
+    "a quarter of reviews and NPS data. In two hours the candidate finds the three main drivers of dissatisfaction and proposes a 90-day plan."
+   ],
+   [
+    "Customer journey map",
+    "the candidate maps your customer journey and shows where the company loses money."
+   ],
+   [
+    "Escalation",
+    "a role-play with an unhappy VIP client and a discussion of how to change the process so it does not happen again."
+   ],
+   [
+    "References",
+    "calls with former managers: which metrics actually improved and why."
+   ]
+  ],
+  "mistake": "Typical mistake: giving a senior call centre agent the CX manager title and expecting company-wide change. Without access to data and the right to change processes, a CX manager becomes a complaints desk.",
+  "sal": [
+   [
+    "Customer experience specialist",
+    "10,000 - 16,000"
+   ],
+   [
+    "Customer experience manager",
+    "16,000 - 28,000"
+   ],
+   [
+    "Head of CX",
+    "28,000 - 45,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Banks, developers and airlines pay at the top of the range; bonuses tied to NPS and retention change the total.",
+  "faq": [
+   [
+    "How much does a customer experience manager earn in Dubai?",
+    "In 2026 a customer experience specialist in Dubai earns about AED 10,000 - 16,000 per month, a CX manager AED 16,000 - 28,000 and a head of CX AED 28,000 - 45,000. NPS and retention bonuses are often on top."
+   ],
+   [
+    "How is a CX manager different from an account manager?",
+    "An account manager looks after specific clients and their requests. A CX manager owns the experience of all customers: metrics, processes, standards and changes across departments. We help you work out which role you need before the search starts."
+   ]
+  ],
+  "seek_h2": "Are you a customer experience manager looking for a job in Dubai?"
+ }
+}

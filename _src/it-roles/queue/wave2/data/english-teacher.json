@@ -1,0 +1,77 @@
+{
+ "slug": "english-teacher",
+ "hub": "education",
+ "related": ["teacher", "private-tutor", "translator", "school-principal"],
+ "ru": {
+  "name": "Учитель английского",
+  "title": "Найм учителя английского в Дубае: CELTA, IELTS, зарплата | TLNT",
+  "desc": "Найм учителя английского в Дубае: школы и языковые центры, CELTA и подготовка к IELTS, пробный урок и проверка документов, зарплаты 2026 от TLNT.",
+  "h1": "Найм учителя английского",
+  "h1em": "в Дубае",
+  "intro": "Учителя английского нужны частным школам Дубая, языковым центрам с лицензией KHDA, корпоративным программам обучения, онлайн-школам и семьям. Задачи: английский как предмет по британской или американской программе, EAL-поддержка детей с другим родным языком, подготовка к IELTS, Cambridge и SAT, бизнес-английский для сотрудников. Помогаем определить формат и уровень, даём шорт-лист из нашей живой базы и организуем пробный урок, который оценивает ваш методист.",
+  "find_lead": "Учитель, который ведёт живой урок с измеримым прогрессом и знает требования экзаменов, к которым готовит.",
+  "find": [
+   "Квалификация: CELTA, DELTA, TESOL или PGCE по английскому, для школ аттестация документов для KHDA",
+   "Формат: английский как предмет (IGCSE, A-Level), EAL, общий или бизнес-английский для взрослых",
+   "Экзамены: IELTS, Cambridge (KET, PET, FCE, CAE), TOEFL, SAT, знание критериев оценки",
+   "Уровень языка: C2 или носитель, чистое произношение, грамотная письменная речь",
+   "Методика: коммуникативный подход, дифференциация по уровням, онлайн-инструменты",
+   "Для детей: справка о несудимости и правила safeguarding"
+  ],
+  "check_lead": "Свободный английский ещё не делает человека сильным учителем. Проверки построены вокруг реального урока, а решение принимает ваш методист или руководитель.",
+  "steps": [
+   ["Пробный урок", "30-40 минут с группой или учеником вашего уровня: структура, время говорения учеников, исправление ошибок."],
+   ["Письменная задача", "кандидат проверяет эссе IELTS или Cambridge по официальным критериям и пишет обратную связь ученику."],
+   ["План курса", "краткий план на 8 недель под конкретную цель, например IELTS 6.5 для поступления."],
+   ["Документы и рекомендации", "проверка сертификатов и диплома, звонки руководителям прошлых школ и центров."]
+  ],
+  "mistake": "Типичная ошибка: нанимать носителя языка без преподавательской квалификации, полагаясь только на акцент. Уроки превращаются в разговоры без плана, и прогресс учеников не виден. Ещё ошибка: не проверить, что документы кандидата подходят для KHDA, если это школа или лицензированный центр.",
+  "sal": [
+   ["Учитель английского без большого опыта", "7 000 - 11 000"],
+   ["Опытный учитель или экзаменационный специалист", "11 000 - 18 000"],
+   ["Руководитель кафедры английского или методист", "18 000 - 28 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Школы с британской программой и корпоративные программы платят больше; DELTA и опыт подготовки к IELTS поднимают пакет, в языковых центрах часть оплаты бывает почасовой.",
+  "faq": [
+   ["Сколько зарабатывает учитель английского в Дубае?", "В 2026 году учитель английского без большого опыта в Дубае получает около 7 000 - 11 000 AED в месяц, опытный учитель или экзаменационный специалист 11 000 - 18 000 AED, руководитель кафедры или методист 18 000 - 28 000 AED. Британские школы и корпоративные программы платят больше."],
+   ["Обязательно ли искать носителя языка?", "Нет. Важнее уровень C2, преподавательская квалификация и результаты учеников. Требование о родном языке по происхождению - это дискриминационный критерий, поэтому мы проверяем фактический уровень языка и навыки преподавания."]
+  ],
+  "seek_h2": "Вы учитель английского и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "English teacher",
+  "title": "Hire an English Teacher in Dubai: CELTA, IELTS, Salary | TLNT",
+  "desc": "Hire an English teacher in Dubai: schools and language centres, CELTA and IELTS preparation, a trial lesson and document checks, 2026 salaries from TLNT.",
+  "h1": "Hire an English teacher",
+  "h1em": "in Dubai",
+  "intro": "English teachers are needed by private schools in Dubai, KHDA-licensed language centres, corporate training programmes, online schools and families. The work covers English as a subject in British or American curricula, EAL support for children with another first language, IELTS, Cambridge and SAT preparation, and business English for staff. We help you define the format and level, shortlist from our live database and arrange a trial lesson scored by your academic lead.",
+  "find_lead": "A teacher who runs a lively lesson with measurable progress and knows the requirements of the exams they prepare for.",
+  "find": [
+   "Qualifications: CELTA, DELTA, TESOL or a PGCE in English, documents attested for KHDA for schools",
+   "Format: English as a subject (IGCSE, A-Level), EAL, general or business English for adults",
+   "Exams: IELTS, Cambridge (KET, PET, FCE, CAE), TOEFL, SAT, knowing the marking criteria",
+   "Language level: C2 or native-level, clear pronunciation, accurate writing",
+   "Method: communicative approach, differentiation by level, online tools",
+   "For children: police clearance and safeguarding policy"
+  ],
+  "check_lead": "Fluent English does not by itself make someone a strong teacher. The checks are built around a real lesson, and your academic lead or manager makes the call.",
+  "steps": [
+   ["Trial lesson", "30-40 minutes with a group or student at your level: structure, student talking time, error correction."],
+   ["Marking task", "the candidate marks an IELTS or Cambridge essay against the official criteria and writes feedback to the student."],
+   ["Course plan", "a short 8-week plan for a specific goal, for example IELTS 6.5 for university entry."],
+   ["Documents and references", "certificates and degree checked, calls with previous school and centre managers."]
+  ],
+  "mistake": "Typical mistake: hiring a fluent speaker with no teaching qualification and relying on the accent alone. Lessons turn into unplanned conversations and student progress is not visible. Another one: not checking that the candidate's documents meet KHDA requirements for a school or licensed centre.",
+  "sal": [
+   ["Early-career English teacher", "7,000 - 11,000"],
+   ["Experienced teacher or exam specialist", "11,000 - 18,000"],
+   ["Head of English or academic lead", "18,000 - 28,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. British-curriculum schools and corporate programmes pay more; DELTA and IELTS preparation experience raise the package, and language centres often pay partly by the hour.",
+  "faq": [
+   ["How much does an English teacher earn in Dubai?", "In 2026 an early-career English teacher in Dubai earns about AED 7,000 - 11,000 per month, an experienced teacher or exam specialist AED 11,000 - 18,000 and a head of English or academic lead AED 18,000 - 28,000. British schools and corporate programmes pay more."],
+   ["Do I have to hire a native speaker?", "No. A C2 level, a teaching qualification and student results matter more. Requiring a particular origin is a discriminatory criterion, so we check actual language level and teaching skills instead."]
+  ],
+  "seek_h2": "Are you an English teacher looking for a job in Dubai?"
+ }
+}

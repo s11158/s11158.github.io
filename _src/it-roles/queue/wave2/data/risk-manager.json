@@ -1,0 +1,136 @@
+{
+ "slug": "risk-manager",
+ "hub": "finance",
+ "related": [
+  "credit-analyst",
+  "compliance-officer",
+  "internal-auditor",
+  "cfo"
+ ],
+ "ru": {
+  "name": "Риск-менеджер",
+  "title": "Найм риск-менеджера в Дубае: кредитный, рыночный риск, зарплата | TLNT",
+  "desc": "Найм риск-менеджера в Дубае: кредитный, рыночный и операционный риск, требования ЦБ ОАЭ и DFSA, проверка на кейсе, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм риск-менеджера",
+  "h1em": "в Дубае",
+  "intro": "Риск-менеджеры нужны банкам и страховым компаниям Дубая, финансовым компаниям в DIFC и ADGM, финтехам, крупным холдингам и девелоперам. Задачи: система управления рисками, лимиты и аппетит к риску, стресс-тесты, отчётность для регулятора и совета директоров, операционные риски и непрерывность бизнеса. Помогаем определить, какой риск в фокусе и какой уровень нужен, даём шорт-лист из нашей живой базы и проверяем кандидата на практическом кейсе.",
+  "find_lead": "Специалист, который переводит риски в цифры и лимиты, понятные руководству, и говорит бизнесу нет, когда это нужно.",
+  "find": [
+   "Виды риска: кредитный, рыночный, ликвидности, операционный, в зависимости от бизнеса",
+   "Регулирование: требования ЦБ ОАЭ, DFSA или FSRA, Basel III, ICAAP и ILAAP для банков",
+   "Методы: стресс-тесты, VaR, PD, LGD, EAD, сценарный анализ, IFRS 9",
+   "Операционный риск: карта рисков, RCSA, учёт инцидентов, непрерывность бизнеса",
+   "Инструменты: Excel и Python или SQL для анализа, GRC-системы, отчётность для совета",
+   "Квалификации: FRM, PRM, CFA, опыт в регулируемой организации ОАЭ или региона"
+  ],
+  "check_lead": "Риск-менеджер виден по тому, как он объясняет цифры руководству. Проверяем методы и суждение на практике, решение принимает ваш CFO или CRO.",
+  "steps": [
+   [
+    "Кейс на аппетит к риску",
+    "компания растёт и хочет удвоить кредитный портфель. Кандидат предлагает лимиты, показатели для мониторинга и стресс-сценарии."
+   ],
+   [
+    "Стресс-тест",
+    "простая модель в Excel: падение цен на недвижимость в Дубае на 25%. Как это бьёт по портфелю, капиталу и ликвидности."
+   ],
+   [
+    "Презентация совету",
+    "кандидат за 10 минут объясняет результаты нетехническим членам совета и отвечает на вопросы."
+   ],
+   [
+    "Рекомендации",
+    "звонки CRO и CFO: замечания регулятора, как кандидат выстраивал систему и отношения с бизнесом."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанимать сильного аналитика моделей без опыта общения с руководством. Модели правильные, но выводы не доходят до решений. Ещё ошибка: не уточнить вид риска: специалист по рыночному риску не заменит эксперта по операционному риску.",
+  "sal": [
+   [
+    "Риск-аналитик",
+    "12 000 - 20 000"
+   ],
+   [
+    "Риск-менеджер",
+    "20 000 - 35 000"
+   ],
+   [
+    "Руководитель риск-менеджмента или CRO небольшой организации",
+    "35 000 - 65 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Банки и страховщики с требованиями регулятора, DIFC и сертификат FRM поднимают пакет; бонус и жильё меняют полную сумму.",
+  "faq": [
+   [
+    "Сколько зарабатывает риск-менеджер в Дубае?",
+    "В 2026 году риск-аналитик в Дубае получает около 12 000 - 20 000 AED в месяц, риск-менеджер 20 000 - 35 000 AED, руководитель риск-менеджмента 35 000 - 65 000 AED. Банки и страховые компании платят по верхней границе."
+   ],
+   [
+    "Нужен ли риск-менеджер нерегулируемой компании?",
+    "Холдингу, девелоперу или торговой компании полноценный отдел рисков нужен не всегда, но риск-менеджер помогает увидеть концентрации, валютный и кредитный риск контрагентов и непрерывность бизнеса. Поможем понять, нужен ли штатный специалист или достаточно роли внутри финансового отдела."
+   ]
+  ],
+  "seek_h2": "Вы риск-менеджер и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Risk manager",
+  "title": "Hire a Risk Manager in Dubai: Credit, Market Risk, Salary | TLNT",
+  "desc": "Hire a risk manager in Dubai: credit, market and operational risk, UAE Central Bank and DFSA rules, a practical case check, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire a risk manager",
+  "h1em": "in Dubai",
+  "intro": "Risk managers are hired by Dubai banks and insurers, financial firms in DIFC and ADGM, fintechs, large holding groups and developers. The job: the risk management framework, limits and risk appetite, stress testing, reporting to the regulator and the board, operational risk and business continuity. We help work out which risk is in focus and what level you need, shortlist from our live database and test the candidate on a practical case.",
+  "find_lead": "A professional who turns risks into numbers and limits management understands, and tells the business no when needed.",
+  "find": [
+   "Risk types: credit, market, liquidity and operational, depending on the business",
+   "Regulation: UAE Central Bank, DFSA or FSRA rules, Basel III, ICAAP and ILAAP for banks",
+   "Methods: stress testing, VaR, PD, LGD, EAD, scenario analysis, IFRS 9",
+   "Operational risk: risk register, RCSA, incident tracking, business continuity",
+   "Tools: Excel and Python or SQL for analysis, GRC systems, board reporting",
+   "Qualifications: FRM, PRM, CFA, experience in a UAE or regional regulated firm"
+  ],
+  "check_lead": "A risk manager shows in how they explain numbers to management. We test methods and judgement in practice, and your CFO or CRO makes the decision.",
+  "steps": [
+   [
+    "Risk appetite case",
+    "the company is growing and wants to double its loan book. The candidate proposes limits, monitoring indicators and stress scenarios."
+   ],
+   [
+    "Stress test",
+    "a simple Excel model: Dubai property prices fall 25%. How this hits the portfolio, capital and liquidity."
+   ],
+   [
+    "Board presentation",
+    "in 10 minutes the candidate explains the results to non-technical board members and takes questions."
+   ],
+   [
+    "References",
+    "calls with CROs and CFOs: regulator findings, how the candidate built the framework and worked with the business."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a strong modeller with no experience of talking to management. The models are right, but the conclusions never reach decisions. Another one: not specifying the risk type: a market risk specialist will not replace an operational risk expert.",
+  "sal": [
+   [
+    "Risk analyst",
+    "12,000 - 20,000"
+   ],
+   [
+    "Risk manager",
+    "20,000 - 35,000"
+   ],
+   [
+    "Head of risk or CRO of a smaller firm",
+    "35,000 - 65,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Regulated banks and insurers, DIFC employers and the FRM qualification raise the package; bonus and housing change the total.",
+  "faq": [
+   [
+    "How much does a risk manager earn in Dubai?",
+    "In 2026 a risk analyst in Dubai earns about AED 12,000 - 20,000 per month, a risk manager AED 20,000 - 35,000 and a head of risk AED 35,000 - 65,000. Banks and insurers pay at the top of the range."
+   ],
+   [
+    "Does an unregulated company need a risk manager?",
+    "A holding group, developer or trading company does not always need a full risk team, but a risk manager helps you see concentrations, currency and counterparty credit risk and business continuity. We help you decide whether you need a dedicated hire or a role within the finance team."
+   ]
+  ],
+  "seek_h2": "Are you a risk manager looking for a job in Dubai?"
+ }
+}

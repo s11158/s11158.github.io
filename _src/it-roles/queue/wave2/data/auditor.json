@@ -1,0 +1,77 @@
+{
+ "slug": "auditor",
+ "hub": "finance",
+ "related": ["internal-auditor", "accountant", "financial-controller", "vat-accountant"],
+ "ru": {
+  "name": "Аудитор",
+  "title": "Найм аудитора в Дубае: внешний аудит, IFRS, зарплата | TLNT",
+  "desc": "Найм аудитора в Дубае: IFRS и ISA, аудит фризон и холдингов, практическая проверка на реальной выборке, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм аудитора",
+  "h1em": "в Дубае",
+  "intro": "Аудиторы нужны аудиторским фирмам Дубая, от Big Four до средних практик, а также холдингам, семейным офисам и группам компаний, где отчётность по IFRS сдают в фризоны (DMCC, JAFZA, DIFC) и банкам. Задачи: планирование аудита, тестирование выборок, работа с оценками и резервами, подготовка к корпоративному налогу ОАЭ. Помогаем определить, нужен ли вам полевой аудитор или менеджер задания, даём шорт-лист из нашей живой базы и проводим практическую проверку, результат которой оценивает ваш партнёр.",
+  "find_lead": "Специалист, который знает стандарты ISA и IFRS, умеет строить выборку по риску и аргументированно спорит с клиентом о корректировках.",
+  "find": [
+   "Стандарты: ISA, IFRS, включая IFRS 9, 15 и 16, понимание требований фризон к аудиторскому заключению",
+   "Квалификация: ACCA, CPA или CA, для старших ролей регистрация аудитора в Министерстве экономики ОАЭ",
+   "Инструменты: CaseWare, TeamMate или собственные платформы Big Four, сильный Excel, базовая аналитика данных",
+   "Налоги ОАЭ: корпоративный налог 9%, НДС 5%, трансфертное ценообразование на уровне проверки расчётов",
+   "Отрасли: недвижимость, торговля, строительство, финансовые компании в DIFC и ADGM",
+   "Коммуникация: письмо руководству, разговор с финдиректором клиента, ведение младших аудиторов"
+  ],
+  "check_lead": "Сертификат ACCA говорит о сданных экзаменах, но не о том, как человек находит ошибку в выручке. Проверки построены вокруг реального аудиторского файла, решение принимает ваш партнёр или менеджер.",
+  "steps": [
+   ["Задание на выборку", "кандидату дают оборотно-сальдовую ведомость и реестр продаж: за два часа он определяет существенность, выбирает области риска и строит выборку с объяснением логики."],
+   ["Разбор корректировки", "сценарий: клиент признал выручку по контракту на стройку целиком в первом году. Кандидат объясняет позицию по IFRS 15 и как разговаривать с финдиректором."],
+   ["Проверка рабочих документов", "кандидат читает фрагмент файла младшего коллеги и находит, чего не хватает: доказательства, вывод, ссылки."],
+   ["Рекомендации", "звонки менеджерам с прошлых мест: размер заданий, сроки, качество файлов при ревью."]
+  ],
+  "mistake": "Типичная ошибка: смотреть только на бренд прошлой фирмы. Человек из Big Four мог годами тестировать одну область и не вести задание целиком, а аудитору из средней фирмы приходилось делать всё. Ещё ошибка: не проверить готовность к пиковому сезону с января по апрель.",
+  "sal": [
+   ["Аудитор (associate)", "8 000 - 13 000"],
+   ["Старший аудитор", "13 000 - 22 000"],
+   ["Менеджер аудита", "22 000 - 38 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Квалификация ACCA или CPA, опыт в Big Four и отрасли с высоким риском поднимают пакет; бонусы за сезон и учебные отпуска на экзамены обсуждаются отдельно.",
+  "faq": [
+   ["Сколько зарабатывает аудитор в Дубае?", "Аудитор начального уровня получает около 8 000 - 13 000 AED в месяц, старший аудитор 13 000 - 22 000 AED, менеджер аудита 22 000 - 38 000 AED. Сумма зависит от квалификации, фирмы и отрасли клиентов."],
+   ["Нужна ли аудитору регистрация в ОАЭ?", "Подписывать заключения может только зарегистрированный аудитор фирмы, это требование Министерства экономики и регуляторов фризон. Для полевых ролей регистрация не нужна, важны квалификация и опыт по IFRS."]
+  ],
+  "seek_h2": "Вы аудитор и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Auditor",
+  "title": "Hire an Auditor in Dubai: External Audit, IFRS, Salary | TLNT",
+  "desc": "Hire an auditor in Dubai: IFRS and ISA, free zone and group audits, practical checks on a real sample, 2026 salary ranges and a shortlist from TLNT.",
+  "h1": "Hire an auditor",
+  "h1em": "in Dubai",
+  "intro": "Auditors are needed by Dubai audit firms, from the Big Four to mid-size practices, and by holdings, family offices and groups that file IFRS statements with free zones (DMCC, JAFZA, DIFC) and banks. The work covers audit planning, sample testing, estimates and provisions, and readiness for UAE corporate tax. We help you decide whether you need a field auditor or an engagement manager, shortlist from our live database and run a practical check that your partner evaluates.",
+  "find_lead": "A professional who knows ISA and IFRS, builds risk-based samples and can argue an adjustment with a client calmly.",
+  "find": [
+   "Standards: ISA, IFRS including IFRS 9, 15 and 16, free zone requirements for the audit report",
+   "Qualification: ACCA, CPA or CA, and for senior roles registration as an auditor with the UAE Ministry of Economy",
+   "Tools: CaseWare, TeamMate or Big Four platforms, strong Excel, basic data analytics",
+   "UAE tax: 9% corporate tax, 5% VAT, transfer pricing at the level of reviewing calculations",
+   "Sectors: real estate, trading, construction, financial firms in DIFC and ADGM",
+   "Communication: management letters, conversations with the client's CFO, coaching junior staff"
+  ],
+  "check_lead": "An ACCA certificate shows passed exams, not how someone finds a revenue error. Our checks are built around a real audit file, and your partner or manager makes the decision.",
+  "steps": [
+   ["Sampling task", "the candidate gets a trial balance and a sales register and, in two hours, sets materiality, picks risk areas and builds a sample with the reasoning written down."],
+   ["Adjustment case", "a client recognised all revenue on a construction contract in year one. The candidate explains the IFRS 15 position and how to raise it with the CFO."],
+   ["Working paper review", "the candidate reads part of a junior's file and spots what is missing: evidence, conclusion, references."],
+   ["References", "calls to former managers about engagement size, deadlines and file quality at review."]
+  ],
+  "mistake": "A typical mistake: judging only by the former firm's brand. A Big Four associate may have tested one area for years without running a whole engagement, while a mid-tier auditor did everything. Another mistake is not checking readiness for the January to April busy season.",
+  "sal": [
+   ["Audit associate", "8,000 - 13,000"],
+   ["Senior auditor", "13,000 - 22,000"],
+   ["Audit manager", "22,000 - 38,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. ACCA or CPA, Big Four experience and high-risk sectors raise the package; busy season bonuses and exam study leave are agreed separately.",
+  "faq": [
+   ["How much does an auditor earn in Dubai?", "An entry-level auditor earns around AED 8,000 - 13,000 a month, a senior auditor AED 13,000 - 22,000 and an audit manager AED 22,000 - 38,000, depending on qualification, firm and client sectors."],
+   ["Does an auditor need UAE registration?", "Only a registered auditor of the firm can sign audit reports, as required by the Ministry of Economy and free zone regulators. Field roles do not need registration; qualification and IFRS experience matter more."]
+  ],
+  "seek_h2": "Are you an auditor looking for a job in Dubai?"
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "slug": "store-manager",
+ "hub": "retail",
+ "related": ["retail-sales-associate", "visual-merchandiser", "cashier", "luxury-sales-advisor"],
+ "ru": {
+  "name": "Управляющий магазином",
+  "title": "Найм управляющего магазином в Дубае: KPI, команда, зарплата | TLNT",
+  "desc": "Найм управляющего магазином в Дубае: продажи и KPI, команда и графики, запасы и потери, практическая проверка на отчёте магазина, зарплаты 2026 от TLNT.",
+  "h1": "Найм управляющего магазином",
+  "h1em": "в Дубае",
+  "intro": "Управляющие магазинами нужны брендам одежды, косметики, электроники и товаров для дома в Dubai Mall, Mall of the Emirates и City Centre, франчайзи крупных групп и независимым бутикам. Задачи: план продаж, конверсия и средний чек, графики смен, обучение продавцов, запасы и потери, стандарты бренда и отчёт региональному менеджеру. Помогаем определить профиль под формат вашего магазина, даём шорт-лист из нашей живой базы и проверяем кандидатов на реальных цифрах.",
+  "find_lead": "Руководитель, который читает отчёт по продажам за пять минут, видит, где теряются покупатели, и выводит команду на план без текучки.",
+  "find": [
+   "Продажи: план, конверсия, средний чек, UPT, работа с трафиком торгового центра и сезонами (Рамадан, DSF, White Friday)",
+   "Команда: графики смен, обучение, мотивация, разговоры о результатах, снижение текучести",
+   "Запасы: приёмка, инвентаризация, потери и кражи, заказы с учётом продаж",
+   "Стандарты: визуальная выкладка, сервис, правила торгового центра, чистота и безопасность",
+   "Клиенты: сложные возвраты, жалобы, клиентская база и повторные покупки",
+   "Инструменты: POS и ERP (Oracle Retail, SAP, LS Retail), Excel, отчёты для регионального офиса, английский"
+  ],
+  "check_lead": "Красивое резюме с известными брендами не показывает, как человек управляет плохой неделей. Проверка построена на реальных задачах магазина, решение принимает ваш региональный менеджер.",
+  "steps": [
+   ["Разбор отчёта магазина", "недельный отчёт с падением продаж на 15% при росте трафика. Кандидат находит причину по конверсии, среднему чеку и графику смен и предлагает план на следующую неделю."],
+   ["График смен", "команда из 8 человек, пиковые часы вечером и в выходные, двое в отпуске. Кандидат составляет график и объясняет логику."],
+   ["Ролевая игра", "разговор с сильным продавцом, который третью неделю не выполняет план и опаздывает. Смотрим на тон, факты и договорённости."],
+   ["Рекомендации", "звонки региональным менеджерам: выполнение плана, текучесть в команде, результаты инвентаризаций."]
+  ],
+  "mistake": "Типичная ошибка: повысить лучшего продавца до управляющего без проверки управленческих навыков. Он продолжает продавать сам, а команда остаётся без руководства. Ещё ошибка: нанять управляющего из люкса в масс-маркет или наоборот, темп, объёмы и стиль сервиса там совсем разные.",
+  "sal": [
+   ["Заместитель управляющего", "6 000 - 10 000"],
+   ["Управляющий магазином", "10 000 - 18 000"],
+   ["Управляющий флагманом или люксовым бутиком", "18 000 - 35 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Бонус за выполнение плана обычно составляет заметную часть дохода; размер магазина, флагманский статус и люксовый сегмент поднимают пакет.",
+  "faq": [
+   ["Сколько зарабатывает управляющий магазином в Дубае?", "В 2026 году заместитель управляющего в Дубае получает около 6 000 - 10 000 AED в месяц, управляющий магазином 10 000 - 18 000 AED, управляющий флагманом или люксовым бутиком 18 000 - 35 000 AED. Плюс бонус за выполнение плана продаж."],
+   ["Нужен управляющий с опытом в торговых центрах ОАЭ?", "Это сильно помогает: правила ТЦ, сезонность Рамадана и DSF, туристический трафик и многоязычные покупатели влияют на работу магазина. Но сильного руководителя из другого рынка можно адаптировать за 1-2 месяца, если он умеет работать с цифрами и командой. Поможем сравнить оба варианта на шорт-листе."]
+  ],
+  "seek_h2": "Вы управляющий магазином и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Store manager",
+  "title": "Hire a Store Manager in Dubai: KPIs, Team, Salary | TLNT",
+  "desc": "Hire a store manager in Dubai: sales and KPIs, team and rosters, stock and shrinkage, practical checks on a real store report, 2026 salaries from TLNT.",
+  "h1": "Hire a store manager",
+  "h1em": "in Dubai",
+  "intro": "Store managers are needed by fashion, beauty, electronics and home brands in Dubai Mall, Mall of the Emirates and City Centre, franchisees of large retail groups and independent boutiques. The work covers the sales target, conversion and basket size, shift rosters, staff training, stock and shrinkage, brand standards and reporting to the area manager. We help define the profile for your store format, shortlist from our live database and test candidates on real numbers.",
+  "find_lead": "A manager who reads a sales report in five minutes, sees where customers are lost and gets the team to target without constant turnover.",
+  "find": [
+   "Sales: target, conversion, average transaction, UPT, mall footfall and seasons (Ramadan, DSF, White Friday)",
+   "Team: shift rosters, training, motivation, performance conversations, lower turnover",
+   "Stock: receiving, stock counts, shrinkage and theft, replenishment based on sales",
+   "Standards: visual merchandising, service, mall rules, cleanliness and safety",
+   "Customers: difficult returns, complaints, a client book and repeat purchases",
+   "Tools: POS and ERP (Oracle Retail, SAP, LS Retail), Excel, reports for head office, English"
+  ],
+  "check_lead": "A CV full of famous brands does not show how someone manages a bad week. The check is built on real store tasks, and your area manager makes the call.",
+  "steps": [
+   ["Store report review", "a weekly report where sales fell 15% while footfall grew. The candidate finds the cause through conversion, average transaction and rosters and proposes a plan for next week."],
+   ["Shift roster", "a team of 8, peak hours in the evenings and weekends, two people on leave. The candidate builds the roster and explains the logic."],
+   ["Role play", "a conversation with a strong salesperson who has missed target for three weeks and keeps arriving late. We look at tone, facts and agreed next steps."],
+   ["References", "calls with area managers: target achievement, team turnover, stock count results."]
+  ],
+  "mistake": "Typical mistake: promoting the best salesperson to store manager without checking management skills. They keep selling themselves and the team is left without leadership. Another one: hiring a luxury manager for mass market or the other way round, as pace, volumes and service style are completely different.",
+  "sal": [
+   ["Assistant store manager", "6,000 - 10,000"],
+   ["Store manager", "10,000 - 18,000"],
+   ["Flagship or luxury boutique manager", "18,000 - 35,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. The target bonus is usually a significant part of income; store size, flagship status and the luxury segment raise the package.",
+  "faq": [
+   ["How much does a store manager earn in Dubai?", "In 2026 an assistant store manager in Dubai earns about AED 6,000 - 10,000 per month, a store manager AED 10,000 - 18,000 and a flagship or luxury boutique manager AED 18,000 - 35,000, plus a sales target bonus."],
+   ["Do I need a manager with UAE mall experience?", "It helps a lot: mall rules, Ramadan and DSF seasonality, tourist footfall and multilingual shoppers all shape store operations. But a strong manager from another market can adapt in 1-2 months if they are good with numbers and people. We help you compare both options on the shortlist."]
+  ],
+  "seek_h2": "Are you a store manager looking for a job in Dubai?"
+ }
+}

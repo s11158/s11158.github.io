@@ -1,0 +1,136 @@
+{
+ "slug": "procurement-manager",
+ "hub": "logistics",
+ "related": [
+  "supply-chain-manager",
+  "warehouse-manager",
+  "logistics-coordinator",
+  "finance-manager"
+ ],
+ "ru": {
+  "name": "Менеджер по закупкам",
+  "title": "Найм менеджера по закупкам в Дубае: тендеры, ERP, зарплата | TLNT",
+  "desc": "Найм менеджера по закупкам в Дубае: тендеры, переговоры с поставщиками, SAP и Oracle, практический кейс по экономии, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм менеджера по закупкам",
+  "h1em": "в Дубае",
+  "intro": "Менеджеры по закупкам нужны девелоперам и подрядчикам, отелям и ресторанным группам, ритейлу, клиникам, производствам и торговым компаниям в JAFZA и других свободных зонах. Задачи: поиск и оценка поставщиков, тендеры, переговоры о цене и условиях, контракты, контроль сроков и качества, работа в ERP. Помогаем определить, нужен ли вам закупщик по прямым или косвенным закупкам, даём шорт-лист из нашей живой базы и проводим практический кейс на ваших категориях.",
+  "find_lead": "Специалист, который экономит не на бумаге, а в итоговой стоимости владения: умеет вести тендер, держит поставщиков по срокам и не ставит под риск качество.",
+  "find": [
+   "Тендеры и RFQ: техническое и коммерческое сравнение, прозрачная оценка, документирование решений",
+   "Переговоры: цена, Incoterms, сроки оплаты, штрафы, рамочные контракты",
+   "Поставщики: поиск в ОАЭ, Китае, Индии и Европе, аудит, оценка рисков, ICV-сертификаты для госзаказчиков",
+   "ERP: SAP MM или Ariba, Oracle, Microsoft Dynamics, заказы, согласования, отчёты по расходам",
+   "Аналитика: анализ расходов по категориям, TCO, экономия против бюджета, KPI поставщиков",
+   "Комплаенс: политика закупок, конфликт интересов, антикоррупционные правила, работа с аудитом"
+  ],
+  "check_lead": "Цифры экономии в резюме проверить трудно. Проверки строятся вокруг реальных категорий закупок, а решение принимает ваш финансовый директор или COO.",
+  "steps": [
+   [
+    "Кейс на сравнение предложений",
+    "три коммерческих предложения на одну позицию с разными Incoterms, сроками оплаты и гарантией. Кандидат приводит их к сопоставимому виду и выбирает с обоснованием."
+   ],
+   [
+    "Ролевые переговоры",
+    "поставщик поднимает цену на 15% из-за фрахта. Кандидат ведёт переговоры: что просит взамен, какие альтернативы показывает, где граница."
+   ],
+   [
+    "Разбор процесса",
+    "как кандидат выстроит процесс закупки от заявки до оплаты в компании без ERP и с конфликтами между отделами."
+   ],
+   [
+    "Рекомендации",
+    "звонки финансовым директорам или руководителям: объём закупок, реальная экономия, были ли конфликты интересов."
+   ]
+  ],
+  "mistake": "Типичная ошибка: оценивать закупщика по проценту экономии без проверки базы, от которой он считал, и без учёта сроков и качества. Дешёвый поставщик с задержками часто обходится дороже. Ещё ошибка: нанять закупщика из розницы на строительный проект: категории, риски и документы совсем другие.",
+  "sal": [
+   [
+    "Специалист по закупкам",
+    "8 000 - 14 000"
+   ],
+   [
+    "Менеджер по закупкам",
+    "15 000 - 28 000"
+   ],
+   [
+    "Руководитель закупок",
+    "28 000 - 50 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт в строительстве, нефтегазе и госзакупках, сертификат CIPS и сильный SAP поднимают пакет; бонус и жильё меняют полную сумму.",
+  "faq": [
+   [
+    "Сколько зарабатывает менеджер по закупкам в Дубае?",
+    "В 2026 году специалист по закупкам в Дубае получает около 8 000 - 14 000 AED в месяц, менеджер по закупкам 15 000 - 28 000 AED, руководитель закупок 28 000 - 50 000 AED. Строительство, нефтегаз и крупные группы платят по верхней границе."
+   ],
+   [
+    "Насколько важен сертификат CIPS?",
+    "CIPS ценится в крупных группах и госсекторе, потому что показывает знание процессов и этики закупок. Но в торговой или ресторанной компании важнее реальные переговоры и знание поставщиков. Поможем решить, делать ли CIPS обязательным требованием."
+   ]
+  ],
+  "seek_h2": "Вы менеджер по закупкам и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Procurement manager",
+  "title": "Hire a Procurement Manager in Dubai: Tenders, ERP, Salary | TLNT",
+  "desc": "Hire a procurement manager in Dubai: tenders, supplier negotiation, SAP and Oracle, a practical savings case, 2026 salaries and a shortlist from TLNT.",
+  "h1": "Hire a procurement manager",
+  "h1em": "in Dubai",
+  "intro": "Procurement managers are in demand at developers and contractors, hotel and restaurant groups, retailers, clinics, manufacturers and trading companies in JAFZA and other free zones. The work covers sourcing and vetting suppliers, tenders, price and terms negotiation, contracts, delivery and quality control, and work in the ERP. We help you decide whether you need direct or indirect procurement, shortlist from our live database and run a practical case on your categories.",
+  "find_lead": "A specialist who saves on total cost of ownership, not on paper: runs a tender, keeps suppliers on schedule and does not put quality at risk.",
+  "find": [
+   "Tenders and RFQs: technical and commercial comparison, transparent scoring, documented decisions",
+   "Negotiation: price, Incoterms, payment terms, penalties, framework agreements",
+   "Suppliers: sourcing in the UAE, China, India and Europe, audits, risk assessment, ICV certificates for government clients",
+   "ERP: SAP MM or Ariba, Oracle, Microsoft Dynamics, purchase orders, approvals, spend reports",
+   "Analytics: spend analysis by category, TCO, savings against budget, supplier KPIs",
+   "Compliance: procurement policy, conflicts of interest, anti-bribery rules, working with audit"
+  ],
+  "check_lead": "Savings figures on a CV are hard to verify. The checks are built around real purchasing categories, and your CFO or COO makes the decision.",
+  "steps": [
+   [
+    "Quotation comparison case",
+    "three quotations for one item with different Incoterms, payment terms and warranties. The candidate brings them to a comparable basis and chooses with a rationale."
+   ],
+   [
+    "Negotiation role play",
+    "a supplier raises the price 15% because of freight. The candidate negotiates: what they ask in return, which alternatives they show, where the line is."
+   ],
+   [
+    "Process review",
+    "how the candidate would build a request-to-pay process in a company with no ERP and friction between departments."
+   ],
+   [
+    "References",
+    "calls with CFOs or managers: spend under management, real savings, any conflict of interest issues."
+   ]
+  ],
+  "mistake": "Typical mistake: judging a buyer by savings percentage without checking the baseline it was measured against, or ignoring delivery and quality. A cheap supplier with delays often costs more. Another one: hiring a retail buyer for a construction project: categories, risks and documents are completely different.",
+  "sal": [
+   [
+    "Procurement specialist",
+    "8,000 - 14,000"
+   ],
+   [
+    "Procurement manager",
+    "15,000 - 28,000"
+   ],
+   [
+    "Head of procurement",
+    "28,000 - 50,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Construction, oil and gas and government procurement experience, CIPS and strong SAP raise the package; bonus and housing change the total.",
+  "faq": [
+   [
+    "How much does a procurement manager earn in Dubai?",
+    "In 2026 a procurement specialist in Dubai earns about AED 8,000 - 14,000 per month, a procurement manager AED 15,000 - 28,000 and a head of procurement AED 28,000 - 50,000. Construction, oil and gas and large groups pay at the top of the range."
+   ],
+   [
+    "How important is a CIPS qualification?",
+    "CIPS is valued in large groups and the public sector because it shows process and ethics knowledge. In a trading or restaurant business, real negotiation results and supplier knowledge matter more. We help you decide whether CIPS should be a hard requirement."
+   ]
+  ],
+  "seek_h2": "Are you a procurement manager looking for a job in Dubai?"
+ }
+}

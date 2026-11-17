@@ -1,0 +1,77 @@
+{
+ "slug": "pastry-chef",
+ "hub": "hospitality",
+ "related": ["executive-chef", "chef-de-partie", "sous-chef", "barista"],
+ "ru": {
+  "name": "Кондитер",
+  "title": "Найм кондитера в Дубае: десерты, выпечка, зарплата | TLNT",
+  "desc": "Найм кондитера в Дубае: рестораны, отели, кофейни и кондитерские, десерты и выпечка в жарком климате, проверка на практике, зарплаты 2026 и шорт-лист.",
+  "h1": "Найм кондитера",
+  "h1em": "в Дубае",
+  "intro": "Кондитеры нужны отелям с банкетами и бранчами, ресторанам, кофейням и пекарням, кондитерским с тортами на заказ и кейтерингу. Задачи: десертное меню, выпечка и хлеб, торты для свадеб и праздников, шоколад и витрины, стабильный результат при жаре и влажности и контроль себестоимости. Помогаем определить профиль под ваш формат, даём шорт-лист из нашей живой базы и проводим практическую проверку, решение принимает ваш шеф или владелец.",
+  "find_lead": "Кондитер, который делает красивые и стабильные десерты, считает их себестоимость и знает, как ведут себя крем и шоколад в климате Дубая.",
+  "find": [
+   "Десерты: ресторанная подача, муссовые торты, petit fours, авторские десерты под меню",
+   "Выпечка и хлеб: ламинированное тесто, круассаны, закваска, ночные и ранние смены",
+   "Торты на заказ: свадебные и праздничные, декор, работа с клиентом по эскизу",
+   "Шоколад и сахар: темперирование, декор, хранение при жаре и влажности",
+   "Нормы: HACCP, аллергены, маркировка и срок годности по требованиям Dubai Municipality",
+   "Экономика: технологические карты, себестоимость, план производства и списания"
+  ],
+  "check_lead": "Фото в Instagram показывают лучший торт, а не стабильность на потоке. Поэтому проверяем руками, а решение принимает ваш шеф.",
+  "steps": [
+   ["Практическое задание", "кандидат готовит два-три десерта или изделия из выпечки под ваш формат. Оцениваются вкус, техника, аккуратность и время."],
+   ["Тест на стабильность", "серия одинаковых изделий: размер, вес и вид должны совпадать. Это показывает, готов ли человек к витрине и банкетам."],
+   ["Расчёт себестоимости", "кандидат считает себестоимость торта на заказ и предлагает цену с учётом декора и времени."],
+   ["Рекомендации", "звонки шефам и владельцам: надёжность, качество на потоке, отношение к гигиене и продуктам."]
+  ],
+  "mistake": "Типичная ошибка: брать кондитера-художника для потоковой выпечки или наоборот. Мастер тортов на заказ и пекарь на круассаны - разные профили. Ещё ошибка: не проверить опыт работы с шоколадом и кремами в жару, из-за чего десерты теряют вид ещё до подачи.",
+  "sal": [
+   ["Младший кондитер (commis)", "3 000 - 4 500"],
+   ["Кондитер (chef de partie)", "4 500 - 8 000"],
+   ["Шеф-кондитер", "10 000 - 20 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Шеф-кондитеры отелей и известных кондитерских получают больше; в отелях часто добавляются жильё и питание.",
+  "faq": [
+   ["Сколько зарабатывает кондитер в Дубае?", "В 2026 году младший кондитер в Дубае получает около 3 000 - 4 500 AED в месяц, кондитер уровня chef de partie 4 500 - 8 000 AED, шеф-кондитер 10 000 - 20 000 AED. Отели часто добавляют жильё и питание."],
+   ["Можно ли проверить кондитера без своей кухни?", "Да, проверку можно провести на арендованной кухне или в формате практической проверки на вашей кухне. Поможем подготовить задание под ваш ассортимент и критерии, чтобы сравнить кандидатов на равных."]
+  ],
+  "seek_h2": "Вы кондитер и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Pastry chef",
+  "title": "Hire a Pastry Chef in Dubai: Desserts, Bakery, Salary | TLNT",
+  "desc": "Hire a pastry chef in Dubai: hotels, restaurants, cafes and patisseries, desserts and baking in a hot climate, a practical check, 2026 salaries, shortlist.",
+  "h1": "Hire a pastry chef",
+  "h1em": "in Dubai",
+  "intro": "Pastry chefs are needed by hotels with banquets and brunches, restaurants, cafes and bakeries, patisseries making custom cakes and catering companies. The work covers the dessert menu, viennoiserie and bread, wedding and celebration cakes, chocolate and display counters, consistent results in heat and humidity and cost control. We help you define the profile for your format, shortlist from our live database and run a practical check, and your chef or owner decides.",
+  "find_lead": "A pastry chef who makes beautiful, consistent desserts, knows their cost and understands how cream and chocolate behave in the Dubai climate.",
+  "find": [
+   "Desserts: restaurant plating, mousse cakes, petit fours, signature desserts for the menu",
+   "Bakery and bread: laminated dough, croissants, sourdough, night and early shifts",
+   "Custom cakes: wedding and celebration cakes, decoration, working with clients from a sketch",
+   "Chocolate and sugar: tempering, decoration, storage in heat and humidity",
+   "Compliance: HACCP, allergens, labelling and shelf life under Dubai Municipality rules",
+   "Economics: recipe cards, cost, production plans and waste"
+  ],
+  "check_lead": "Instagram photos show the best cake, not consistency at volume. So we test hands-on, and your chef decides.",
+  "steps": [
+   ["Practical task", "the candidate makes two or three desserts or bakery items for your format. Taste, technique, neatness and timing are scored."],
+   ["Consistency test", "a batch of identical items: size, weight and look must match. This shows whether the person is ready for the counter and banquets."],
+   ["Costing", "the candidate costs a custom cake and proposes a price that covers decoration and time."],
+   ["References", "calls with chefs and owners: reliability, quality at volume, attitude to hygiene and produce."]
+  ],
+  "mistake": "Typical mistake: hiring a cake artist for volume baking or the other way round. A custom cake specialist and a croissant baker are different profiles. Another one: not checking experience with chocolate and creams in the heat, so desserts lose their shape before they reach the guest.",
+  "sal": [
+   ["Commis pastry", "3,000 - 4,500"],
+   ["Pastry chef de partie", "4,500 - 8,000"],
+   ["Head pastry chef", "10,000 - 20,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Head pastry chefs at hotels and known patisseries earn more; hotels often add housing and meals.",
+  "faq": [
+   ["How much does a pastry chef earn in Dubai?", "In 2026 a commis pastry cook in Dubai earns about AED 3,000 - 4,500 per month, a pastry chef de partie AED 4,500 - 8,000 and a head pastry chef AED 10,000 - 20,000. Hotels often add housing and meals."],
+   ["Can I test a pastry chef without my own kitchen?", "Yes, the check can run in a rented kitchen or as a practical skills check at your venue. We help prepare a task for your range and scoring criteria so you compare candidates fairly."]
+  ],
+  "seek_h2": "Are you a pastry chef looking for a job in Dubai?"
+ }
+}

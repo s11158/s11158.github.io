@@ -1,0 +1,77 @@
+{
+ "slug": "insurance-advisor",
+ "hub": "finance",
+ "related": ["claims-officer", "medical-insurance-officer", "relationship-manager", "sales-executive"],
+ "ru": {
+  "name": "Страховой консультант",
+  "title": "Найм страхового консультанта в Дубае: лицензия, зарплата | TLNT",
+  "desc": "Найм страхового консультанта в Дубае: медицинское страхование, жизнь и имущество, лицензия ЦБ ОАЭ, практическая проверка продаж и шорт-лист от TLNT.",
+  "h1": "Найм страхового консультанта",
+  "h1em": "в Дубае",
+  "intro": "Страховые консультанты нужны брокерам и страховым компаниям Дубая, банкам с банкострахованием и корпоративным брокерам, которые продают медицинские полисы для сотрудников, страхование жизни, имущества и автомобилей. В Дубае медицинская страховка обязательна для работников, поэтому спрос стабилен. Помогаем определить, нужен ли вам консультант для частных клиентов или корпоративного сегмента, даём шорт-лист из нашей живой базы и проводим практическую проверку продажи и знания продукта.",
+  "find_lead": "Консультант, который честно подбирает покрытие под задачу клиента, знает правила ЦБ ОАЭ и не обещает того, чего нет в полисе.",
+  "find": [
+   "Лицензия: регистрация консультанта в Центральном банке ОАЭ через брокера или страховщика, знание требований к раскрытию информации",
+   "Продукты: медицинское страхование по требованиям DHA, жизнь и сбережения, имущество, авто, групповые полисы",
+   "Сравнение: сети клиник, лимиты, франшизы, исключения, разница между планами разных страховщиков",
+   "Продажи: собственная база, работа с рекомендациями, CRM, план по премиям и продлениям",
+   "Языки: английский для документов, русский или арабский для своей аудитории клиентов",
+   "Сервис: сопровождение при продлении и первом страховом случае, а не только при продаже"
+  ],
+  "check_lead": "Цифры продаж из прошлой компании проверить трудно, поэтому смотрим на реальный разговор с клиентом и знание полиса. Решение принимает ваш руководитель продаж.",
+  "steps": [
+   ["Ролевая продажа", "кандидат проводит встречу с \"семьёй\", переезжающей в Дубай: выясняет потребности, предлагает два плана и объясняет разницу в покрытии и цене."],
+   ["Разбор полиса", "таблица условий медицинского плана: кандидат за 20 минут находит ограничения, которые важно назвать клиенту до подписания."],
+   ["Возражения", "клиент считает, что страховка у работодателя уже всё покрывает. Кандидат отвечает без давления."],
+   ["Рекомендации", "звонки руководителям: доля продлений, жалобы клиентов, соблюдение требований регулятора."]
+  ],
+  "mistake": "Типичная ошибка: нанимать по громким цифрам продаж без проверки, сколько клиентов продлили полис. Высокие продажи с низким продлением часто означают завышенные обещания. Ещё ошибка: не уточнить статус регистрации в ЦБ ОАЭ, без неё консультировать нельзя.",
+  "sal": [
+   ["Страховой консультант начального уровня", "5 000 - 9 000 плюс комиссия"],
+   ["Опытный консультант", "9 000 - 16 000 плюс комиссия"],
+   ["Старший консультант или корпоративный менеджер", "16 000 - 28 000 плюс бонус"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, без комиссии. Комиссия и бонус за продления у сильных консультантов могут удваивать доход; корпоративный сегмент оплачивается выше розничного.",
+  "faq": [
+   ["Сколько зарабатывает страховой консультант в Дубае?", "Фиксированная часть обычно 5 000 - 9 000 AED в месяц на старте, 9 000 - 16 000 AED у опытных и 16 000 - 28 000 AED у старших и корпоративных менеджеров, плюс комиссия и бонусы."],
+   ["Нужна ли страховому консультанту лицензия в ОАЭ?", "Да, страховые консультанты регистрируются в Центральном банке ОАЭ через компанию, в которой работают. Регистрацию оформляет работодатель, поэтому важно заранее проверить опыт и документы кандидата."]
+  ],
+  "seek_h2": "Вы страховой консультант и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Insurance advisor",
+  "title": "Hire an Insurance Advisor in Dubai: Licensing, Salary | TLNT",
+  "desc": "Hire an insurance advisor in Dubai: health, life and property cover, UAE Central Bank registration, practical sales checks and a shortlist from TLNT.",
+  "h1": "Hire an insurance advisor",
+  "h1em": "in Dubai",
+  "intro": "Insurance advisors are needed by Dubai brokers and insurers, banks with bancassurance and corporate brokers selling employee health plans, life, property and motor cover. Health insurance is mandatory for employees in Dubai, so demand is steady. We help you decide whether you need an advisor for private clients or the corporate segment, shortlist from our live database and run a practical check of sales skills and product knowledge.",
+  "find_lead": "An advisor who matches cover to the client's real needs, knows UAE Central Bank rules and never promises what the policy does not include.",
+  "find": [
+   "Licensing: registration with the UAE Central Bank through a broker or insurer, disclosure requirements",
+   "Products: health insurance under DHA rules, life and savings, property, motor, group policies",
+   "Comparison: clinic networks, limits, deductibles, exclusions, differences between insurers' plans",
+   "Sales: own client base, referrals, CRM, premium and renewal targets",
+   "Languages: English for documents, plus Russian or Arabic for the client audience",
+   "Service: support at renewal and at the first claim, not only at the sale"
+  ],
+  "check_lead": "Past sales figures are hard to verify, so we look at a real client conversation and policy knowledge. Your sales head makes the decision.",
+  "steps": [
+   ["Role-play sale", "the candidate meets a \"family\" relocating to Dubai: finds out needs, proposes two plans and explains differences in cover and price."],
+   ["Policy review", "a health plan's table of benefits: in 20 minutes the candidate finds the limits a client must hear before signing."],
+   ["Objections", "the client thinks the employer's insurance already covers everything. The candidate answers without pressure."],
+   ["References", "calls to former managers about renewal rate, complaints and regulatory compliance."]
+  ],
+  "mistake": "A typical mistake: hiring on big sales numbers without asking how many clients renewed. High sales with low renewals often mean overpromising. Another mistake is not checking Central Bank registration status, without which advising is not allowed.",
+  "sal": [
+   ["Junior insurance advisor", "5,000 - 9,000 plus commission"],
+   ["Experienced advisor", "9,000 - 16,000 plus commission"],
+   ["Senior advisor or corporate account manager", "16,000 - 28,000 plus bonus"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, excluding commission. Commission and renewal bonuses can double income for strong advisors; the corporate segment pays more than retail.",
+  "faq": [
+   ["How much does an insurance advisor earn in Dubai?", "The fixed part is usually AED 5,000 - 9,000 a month at entry level, AED 9,000 - 16,000 for experienced advisors and AED 16,000 - 28,000 for senior and corporate managers, plus commission and bonuses."],
+   ["Does an insurance advisor need a licence in the UAE?", "Yes, insurance advisors are registered with the UAE Central Bank through their employing company. The employer handles registration, so it is worth checking the candidate's experience and documents early."]
+  ],
+  "seek_h2": "Are you an insurance advisor looking for a job in Dubai?"
+ }
+}

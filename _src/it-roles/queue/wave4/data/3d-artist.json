@@ -1,0 +1,136 @@
+{
+ "slug": "3d-artist",
+ "hub": "education",
+ "related": [
+  "motion-designer",
+  "interior-designer",
+  "architect",
+  "game-developer"
+ ],
+ "ru": {
+  "name": "3D-художник",
+  "title": "Найм 3D-художника в Дубае: визуализация, Blender, зарплата | TLNT",
+  "desc": "Найм 3D-художника в Дубае: архитектурная визуализация, 3ds Max, Blender, Unreal, продуктовый 3D, практическая проверка тестом, зарплаты 2026 от TLNT.",
+  "h1": "Найм 3D-художника",
+  "h1em": "в Дубае",
+  "intro": "3D-художники нужны девелоперам Дубая для рендеров и туров по off-plan проектам, студиям интерьеров и архитектурным бюро, e-commerce и брендам для продуктовых визуализаций, игровым и AR-студиям, ивент-компаниям. Задачи: моделирование, текстуры, свет и рендер, интерактивные туры в Unreal Engine, анимация пролётов. Помогаем определить нужную специализацию, даём шорт-лист из нашей живой базы и проводим практическую проверку тестом.",
+  "find_lead": "Художник, который делает фотореалистичную картинку в срок и умеет вносить правки девелопера без пересборки всей сцены.",
+  "find": [
+   "Специализация: архвиз, интерьеры, продуктовый 3D, персонажи или игровые ассеты",
+   "Инструменты: 3ds Max, Blender, Cinema 4D, SketchUp, Revit для импорта",
+   "Рендер: Corona, V-Ray, Redshift, Unreal Engine и Twinmotion для real-time",
+   "Материалы и свет: PBR, Substance, реалистичный свет под солнце и вечерний Дубай",
+   "Постобработка: Photoshop, анимация пролётов, оптимизация под веб и VR",
+   "Процесс: работа с чертежами, сроки к запуску продаж, организация библиотек"
+  ],
+  "check_lead": "В 3D портфолио легко собрать из чужих ассетов. Проверяем, что человек делает сам и как быстро вносит правки, решение принимает ваш дизайн-лид.",
+  "steps": [
+   [
+    "Тестовая сцена",
+    "по вашим чертежам или фото кандидат делает одну комнату или фасад за один-два дня."
+   ],
+   [
+    "Правки",
+    "вы меняете материал и свет, смотрим скорость и аккуратность пересборки."
+   ],
+   [
+    "Разбор портфолио",
+    "исходники одной работы: сетка, материалы, что было своим, что из библиотеки."
+   ],
+   [
+    "Рекомендации",
+    "звонки руководителям студий о сроках и качестве."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанять 3D-художника из игр на архитектурную визуализацию или наоборот. Инструменты и требования к реализму разные. Вторая ошибка: не учесть мощность рабочей станции и лицензии рендера, и сильный художник неделями ждёт рендеров.",
+  "sal": [
+   [
+    "3D-художник",
+    "6 000 - 11 000"
+   ],
+   [
+    "Старший 3D-художник",
+    "11 000 - 18 000"
+   ],
+   [
+    "Руководитель 3D-визуализации",
+    "18 000 - 28 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Unreal Engine, анимация и опыт с крупными девелоперами поднимают пакет.",
+  "faq": [
+   [
+    "Сколько зарабатывает 3D-художник в Дубае?",
+    "В 2026 году 3D-художник в Дубае получает около 6 000 - 11 000 AED в месяц, старший 3D-художник 11 000 - 18 000 AED, руководитель 3D-визуализации 18 000 - 28 000 AED. Unreal Engine и анимация поднимают оплату."
+   ],
+   [
+    "Штатный 3D-художник или аутсорс-студия?",
+    "Если визуализации нужны постоянно, например для запусков девелопера, штатный художник дешевле и быстрее вносит правки. Для разовых проектов удобнее студия. Поможем посчитать объём и выбрать формат."
+   ]
+  ],
+  "seek_h2": "Вы 3D-художник и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "3D artist",
+  "title": "Hire a 3D Artist in Dubai: Visualisation, Blender, Salary | TLNT",
+  "desc": "Hire a 3D artist in Dubai: architectural visualisation, 3ds Max, Blender, Unreal, product 3D, a practical test task, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire a 3D artist",
+  "h1em": "in Dubai",
+  "intro": "3D artists are in demand at Dubai developers for renders and tours of off-plan projects, interior studios and architecture firms, e-commerce and brands for product visuals, game and AR studios and event companies. The work covers modelling, texturing, lighting and rendering, interactive tours in Unreal Engine and fly-through animation. We help define the specialisation you need, shortlist from our live database and run a practical test.",
+  "find_lead": "An artist who delivers photorealistic images on time and handles developer revisions without rebuilding the whole scene.",
+  "find": [
+   "Specialisation: archviz, interiors, product 3D, characters or game assets",
+   "Tools: 3ds Max, Blender, Cinema 4D, SketchUp, Revit import",
+   "Rendering: Corona, V-Ray, Redshift, Unreal Engine and Twinmotion for real-time",
+   "Materials and light: PBR, Substance, realistic Dubai sun and evening light",
+   "Post-production: Photoshop, fly-through animation, optimisation for web and VR",
+   "Process: working from drawings, deadlines tied to sales launches, organised libraries"
+  ],
+  "check_lead": "A 3D portfolio is easy to build from other people's assets. We check what the person makes themselves and how fast they revise, and your design lead makes the call.",
+  "steps": [
+   [
+    "Test scene",
+    "from your drawings or photos the candidate builds one room or facade in one to two days."
+   ],
+   [
+    "Revisions",
+    "you change materials and lighting; we look at speed and accuracy of the rebuild."
+   ],
+   [
+    "Portfolio review",
+    "source files of one project: mesh, materials, what was their own and what came from a library."
+   ],
+   [
+    "References",
+    "calls with studio heads about deadlines and quality."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a game 3D artist for architectural visualisation or the other way round. Tools and realism requirements differ. Another one: ignoring workstation power and render licences, so a strong artist waits weeks for renders.",
+  "sal": [
+   [
+    "3D artist",
+    "6,000 - 11,000"
+   ],
+   [
+    "Senior 3D artist",
+    "11,000 - 18,000"
+   ],
+   [
+    "Head of 3D visualisation",
+    "18,000 - 28,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Unreal Engine, animation and experience with major developers raise the package.",
+  "faq": [
+   [
+    "How much does a 3D artist earn in Dubai?",
+    "In 2026 a 3D artist in Dubai earns about AED 6,000 - 11,000 per month, a senior 3D artist AED 11,000 - 18,000 and a head of 3D visualisation AED 18,000 - 28,000. Unreal Engine and animation raise the pay."
+   ],
+   [
+    "In-house 3D artist or an outsourced studio?",
+    "If you need visuals constantly, for example for developer launches, an in-house artist is cheaper and revises faster. For one-off projects a studio is easier. We help you estimate the volume and choose the format."
+   ]
+  ],
+  "seek_h2": "Are you a 3D artist looking for a job in Dubai?"
+ }
+}

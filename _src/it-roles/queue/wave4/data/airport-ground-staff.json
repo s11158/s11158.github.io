@@ -1,0 +1,136 @@
+{
+ "slug": "airport-ground-staff",
+ "hub": "hospitality",
+ "related": [
+  "cabin-crew",
+  "customer-service-agent",
+  "guest-relations-officer",
+  "logistics-coordinator"
+ ],
+ "ru": {
+  "name": "Наземный персонал аэропорта",
+  "title": "Найм наземного персонала аэропорта в Дубае: проверка | TLNT",
+  "desc": "Найм наземного персонала аэропорта в Дубае: check-in, VIP-терминалы и FBO, пропуска, системы DCS, практическая проверка, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм наземного персонала",
+  "h1em": "аэропорта в Дубае",
+  "intro": "Наземный персонал нужен хендлинговым компаниям, VIP-терминалам и FBO в DXB и DWC, авиакомпаниям с представительствами, сервисам meet and greet и бизнес-авиации. Задачи: регистрация и посадка пассажиров, оформление багажа, сопровождение VIP, работа с задержками и отменами, координация с экипажем и службами аэропорта. Помогаем определить профиль под ваш терминал и формат, даём шорт-лист из нашей живой базы и проводим практическую проверку, а получение пропусков в зону аэропорта организует работодатель.",
+  "find_lead": "Сотрудник, который спокойно работает в потоке пассажиров, не ошибается в документах и умеет разговаривать с недовольным гостем.",
+  "find": [
+   "Опыт в аэропорту: check-in, gate, transfer, lost and found или VIP-терминал",
+   "Системы: Amadeus Altea, Sabre или другие DCS, понимание документов и требований к въезду",
+   "Безопасность и допуск: готовность к проверке для получения пропуска, знание правил airside",
+   "Сервис: работа с задержками, отменами и жалобами, VIP и пассажиры с особыми потребностями",
+   "Сменный график: ночные смены, праздники, работа на ногах",
+   "Языки: английский свободно, русский, арабский или китайский как плюс для отдельных направлений"
+  ],
+  "check_lead": "Работа в аэропорту прощает мало ошибок: пропущенная виза или неверный багажный тег сразу стоят денег. Проверка смотрит на точность и поведение под давлением.",
+  "steps": [
+   [
+    "Проверка документов",
+    "набор паспортов и виз (учебные копии): кандидат определяет, кого можно регистрировать на рейс и почему."
+   ],
+   [
+    "Задержка рейса",
+    "рейс задерживается на четыре часа, у стойки 30 пассажиров и один VIP. План действий и разговор с гостями."
+   ],
+   [
+    "Тест в системе",
+    "базовые операции в тренировочной DCS или разбор экранов: регистрация, багаж, смена места."
+   ],
+   [
+    "Рекомендации",
+    "звонок бывшему супервайзеру: точность, смены, жалобы пассажиров."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанять обаятельного сотрудника без проверки знания документов и требований к въезду. Ошибка на регистрации стоит штрафов авиакомпании. Ещё ошибка: не учесть время на получение пропуска в зону аэропорта при планировании старта.",
+  "sal": [
+   [
+    "Агент наземного обслуживания (начальный уровень)",
+    "4 000 - 6 000"
+   ],
+   [
+    "Опытный агент или VIP-агент",
+    "6 000 - 9 000"
+   ],
+   [
+    "Супервайзер смены",
+    "9 000 - 14 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Хендлинговые компании обычно дают жильё или надбавку, транспорт и доплаты за ночные смены.",
+  "faq": [
+   [
+    "Сколько зарабатывает наземный персонал аэропорта в Дубае?",
+    "В 2026 году агент наземного обслуживания начального уровня в Дубае получает около 4 000 - 6 000 AED в месяц, опытный или VIP-агент 6 000 - 9 000 AED, супервайзер смены 9 000 - 14 000 AED. Сверху часто жильё, транспорт и доплаты за ночные смены."
+   ],
+   [
+    "Кто оформляет пропуск в зону аэропорта?",
+    "Пропуск и проверки безопасности оформляет работодатель по правилам аэропорта. Мы помогаем найти и оценить кандидатов и заранее уточняем, готовы ли они к проверке и сменному графику."
+   ]
+  ],
+  "seek_h2": "Вы работаете в наземном обслуживании и ищете работу в аэропорту Дубая?"
+ },
+ "en": {
+  "name": "Airport ground staff",
+  "title": "Hire Airport Ground Staff in Dubai: Check-in, VIP, FBO | TLNT",
+  "desc": "Hire airport ground staff in Dubai: check-in, VIP terminals and FBOs, airport passes, DCS systems, a practical check, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire airport ground staff",
+  "h1em": "in Dubai",
+  "intro": "Ground staff are needed by handling companies, VIP terminals and FBOs at DXB and DWC, airline stations, meet and greet services and business aviation. The work: passenger check-in and boarding, baggage, VIP escort, delays and cancellations, coordination with crew and airport services. We help you define the profile for your terminal and format, shortlist from our live database and run a practical check, while airport pass applications are arranged by the employer.",
+  "find_lead": "Someone who works calmly in a passenger flow, makes no document errors and can talk to an unhappy guest.",
+  "find": [
+   "Airport experience: check-in, gate, transfer, lost and found or a VIP terminal",
+   "Systems: Amadeus Altea, Sabre or another DCS, travel documents and entry requirements",
+   "Security and access: willing to pass airport pass vetting, knows airside rules",
+   "Service: delays, cancellations and complaints, VIPs and passengers with special needs",
+   "Shift pattern: night shifts, holidays, long hours on their feet",
+   "Languages: fluent English, Russian, Arabic or Chinese as a plus for some routes"
+  ],
+  "check_lead": "Airport work forgives few mistakes: a missed visa or a wrong bag tag costs money immediately. The check looks at accuracy and behaviour under pressure.",
+  "steps": [
+   [
+    "Document check",
+    "a set of passports and visas (training copies): the candidate decides who can be checked in and why."
+   ],
+   [
+    "Flight delay",
+    "a flight is delayed four hours, 30 passengers and a VIP are at the desk. The action plan and the conversation with guests."
+   ],
+   [
+    "System test",
+    "basic tasks in a training DCS or a screen walkthrough: check-in, baggage, seat change."
+   ],
+   [
+    "References",
+    "a call with a former supervisor: accuracy, shifts, passenger complaints."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a charming person without testing documents and entry requirements. A check-in error means fines for the airline. Another one: not allowing time for the airport pass when planning the start date.",
+  "sal": [
+   [
+    "Ground services agent (entry level)",
+    "4,000 - 6,000"
+   ],
+   [
+    "Experienced or VIP agent",
+    "6,000 - 9,000"
+   ],
+   [
+    "Shift supervisor",
+    "9,000 - 14,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Handling companies usually add accommodation or an allowance, transport and night shift pay.",
+  "faq": [
+   [
+    "How much does airport ground staff earn in Dubai?",
+    "In 2026 an entry level ground services agent in Dubai earns about AED 4,000 - 6,000 per month, an experienced or VIP agent AED 6,000 - 9,000 and a shift supervisor AED 9,000 - 14,000. Accommodation, transport and night shift pay often come on top."
+   ],
+   [
+    "Who arranges the airport pass?",
+    "The pass and security vetting are arranged by the employer under airport rules. We help find and assess candidates and check up front that they are ready for vetting and shift work."
+   ]
+  ],
+  "seek_h2": "Are you airport ground staff looking for a job in Dubai?"
+ }
+}

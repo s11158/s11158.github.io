@@ -1,0 +1,77 @@
+{
+ "slug": "retail-sales-associate",
+ "hub": "retail",
+ "related": ["store-manager", "cashier", "luxury-sales-advisor", "visual-merchandiser"],
+ "ru": {
+  "name": "Продавец-консультант",
+  "title": "Найм продавца-консультанта в Дубае: проверка, зарплата | TLNT",
+  "desc": "Найм продавца-консультанта в Дубае: продажи в торговых центрах, языки покупателей, практическая проверка на модели продажи, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм продавца-консультанта",
+  "h1em": "в Дубае",
+  "intro": "Продавцы-консультанты нужны магазинам одежды, обуви, косметики, парфюмерии, электроники и мебели в торговых центрах Дубая, а также шоурумам и бутикам. Покупатели здесь со всего мира, поэтому языки (английский, арабский, русский, хинди) напрямую влияют на продажи. Задачи: консультация, продажа и допродажа, выкладка, касса, клиентская база. Помогаем описать профиль под ваш формат, даём шорт-лист из нашей живой базы и проводим практическую проверку продажи на модели.",
+  "find_lead": "Человек, который сам начинает разговор, понимает, что нужно покупателю, и закрывает продажу без давления.",
+  "find": [
+   "Продажа: установление контакта, вопросы, презентация, работа с возражениями, закрытие",
+   "Допродажа: сопутствующие товары, программа лояльности, рост среднего чека и UPT",
+   "Языки: свободный английский, плюс арабский, русский или другой язык ваших покупателей",
+   "Знание товара: материалы, размеры, составы, умение быстро выучить новую коллекцию",
+   "Операции: касса и POS, возвраты, приёмка товара, выкладка и порядок в зале",
+   "Выносливость и сервис: смены по 9-10 часов на ногах, пиковые дни DSF и праздников, вежливость с трудными клиентами"
+  ],
+  "check_lead": "На собеседовании все хорошо говорят о сервисе, но продажу видно только в действии. Поэтому главная часть проверки практическая, а решение остаётся за управляющим.",
+  "steps": [
+   ["Продажа на модели", "управляющий играет покупателя, который зашёл просто посмотреть. Кандидат за 5-7 минут выясняет потребность, предлагает товар и пробует допродажу."],
+   ["Работа с возражением", "покупатель говорит, что в соседнем магазине дешевле, или хочет вернуть товар без чека. Смотрим, как кандидат держит тон и правила."],
+   ["Практическая проверка в зале", "кандидат 30-40 минут работает в зале вместе с наставником на модели покупателя: инициатива, знание товара, порядок, работа в команде."],
+   ["Рекомендации", "звонки прошлым управляющим: выполнение личного плана, пунктуальность, отношения в команде."]
+  ],
+  "mistake": "Типичная ошибка: выбирать продавца только по внешнему виду и опыту в известном бренде. Важнее, умеет ли человек начинать разговор и закрывать продажу. Ещё ошибка: не уточнить график и пиковые сезоны заранее, тогда новый сотрудник уходит после первого DSF.",
+  "sal": [
+   ["Продавец-консультант без опыта", "3 000 - 4 500"],
+   ["Опытный продавец-консультант", "4 500 - 7 000"],
+   ["Старший продавец или ключевой консультант", "7 000 - 10 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год, оклад без комиссии. Комиссия с продаж может добавлять 1 000 - 5 000 AED в месяц; электроника, парфюмерия и мебель платят больше комиссий, чем масс-маркет одежды.",
+  "faq": [
+   ["Сколько зарабатывает продавец-консультант в Дубае?", "В 2026 году продавец-консультант без опыта в Дубае получает около 3 000 - 4 500 AED в месяц, опытный продавец 4 500 - 7 000 AED, старший продавец 7 000 - 10 000 AED. Сверху обычно идёт комиссия с продаж."],
+   ["Можно ли найти русскоязычного продавца-консультанта?", "Да. Русскоязычные продавцы востребованы в бутиках, парфюмерии, ювелирных и мебельных магазинах, где много покупателей из СНГ. В нашей базе есть кандидаты с английским и русским, часто с арабским или другим третьим языком. Поможем подобрать языки под реальный поток ваших покупателей."]
+  ],
+  "seek_h2": "Вы продавец-консультант и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Retail sales associate",
+  "title": "Hire a Retail Sales Associate in Dubai: Checks, Salary | TLNT",
+  "desc": "Hire a retail sales associate in Dubai: mall retail, customer languages, a practical sales check on a model customer, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire a retail sales associate",
+  "h1em": "in Dubai",
+  "intro": "Retail sales associates are needed by fashion, footwear, beauty, fragrance, electronics and furniture stores in Dubai malls, as well as showrooms and boutiques. Shoppers come from all over the world, so languages (English, Arabic, Russian, Hindi) directly affect sales. The work covers advice, selling and upselling, merchandising, the till and a client book. We help define the profile for your format, shortlist from our live database and run a practical sales check with a model customer.",
+  "find_lead": "Someone who starts the conversation, understands what the shopper needs and closes the sale without pressure.",
+  "find": [
+   "Selling: opening, questions, presentation, handling objections, closing",
+   "Upselling: add-on items, the loyalty programme, higher average transaction and UPT",
+   "Languages: fluent English, plus Arabic, Russian or another language your shoppers speak",
+   "Product knowledge: fabrics, sizing, ingredients, learning a new collection fast",
+   "Operations: till and POS, returns, receiving stock, merchandising and a tidy floor",
+   "Stamina and service: 9-10 hour shifts on their feet, peak DSF and holiday days, courtesy with difficult customers"
+  ],
+  "check_lead": "Everyone talks well about service in an interview, but selling only shows in action. So the main part of the check is practical, and the store manager decides.",
+  "steps": [
+   ["Sale with a model customer", "the manager plays a shopper who is just browsing. In 5-7 minutes the candidate finds the need, suggests a product and tries an upsell."],
+   ["Objection handling", "the shopper says the store next door is cheaper, or wants to return an item without a receipt. We watch how the candidate keeps tone and follows the rules."],
+   ["Practical floor check", "30-40 minutes on the shop floor with a mentor and a model customer: initiative, product knowledge, tidiness, teamwork."],
+   ["References", "calls with previous store managers: personal target achievement, punctuality, team relationships."]
+  ],
+  "mistake": "Typical mistake: choosing a salesperson only on appearance and a famous brand on the CV. What matters more is whether they can start a conversation and close a sale. Another one: not discussing rosters and peak seasons upfront, so the new hire leaves after their first DSF.",
+  "sal": [
+   ["Entry-level sales associate", "3,000 - 4,500"],
+   ["Experienced sales associate", "4,500 - 7,000"],
+   ["Senior sales associate or key consultant", "7,000 - 10,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026, base pay without commission. Sales commission can add AED 1,000 - 5,000 per month; electronics, fragrance and furniture pay more commission than mass-market fashion.",
+  "faq": [
+   ["How much does a retail sales associate earn in Dubai?", "In 2026 an entry-level retail sales associate in Dubai earns about AED 3,000 - 4,500 per month, an experienced associate AED 4,500 - 7,000 and a senior associate AED 7,000 - 10,000. Sales commission usually comes on top."],
+   ["Can I find a Russian-speaking sales associate?", "Yes. Russian-speaking associates are in demand in boutiques, fragrance, jewellery and furniture stores with many CIS shoppers. Our database has candidates with English and Russian, often with Arabic or another third language. We help match languages to your actual customer flow."]
+  ],
+  "seek_h2": "Are you a retail sales associate looking for a job in Dubai?"
+ }
+}

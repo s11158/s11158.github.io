@@ -1,0 +1,77 @@
+{
+ "slug": "mechanical-engineer",
+ "hub": "construction",
+ "related": ["mep-engineer", "hvac-technician", "electrical-engineer", "facility-manager"],
+ "ru": {
+  "name": "Инженер-механик",
+  "title": "Найм инженера-механика в Дубае: HVAC, проверка, зарплата | TLNT",
+  "desc": "Найм инженера-механика в Дубае: HVAC, сантехника и пожарка, Civil Defence и DEWA, практическая проверка расчётов, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм инженера-механика",
+  "h1em": "в Дубае",
+  "intro": "Инженеры-механики в Дубае работают у MEP-подрядчиков, консультантов, девелоперов, в facility management и на производстве. Основная часть задач в строительстве: кондиционирование и вентиляция, district cooling, водоснабжение и канализация, пожаротушение с согласованием в Dubai Civil Defence. Помогаем понять, нужен вам проектировщик, инженер площадки или инженер эксплуатации, даём шорт-лист из нашей живой базы и проводим практическую проверку расчётов и документации, результат которой оценивает ваш технический руководитель.",
+  "find_lead": "Инженер, который считает тепловую нагрузку для климата Дубая, знает требования Civil Defence и доводит систему до сдачи, а не только до чертежа.",
+  "find": [
+   "HVAC: чиллеры, district cooling (Empower, Emicool), FCU и AHU, расчёт нагрузок в HAP или IES",
+   "Пожарная безопасность: спринклеры, насосные, UAE Fire and Life Safety Code, согласования Dubai Civil Defence",
+   "Водоснабжение и канализация: нормы DEWA и Dubai Municipality, насосы, баки, дренаж",
+   "Софт: AutoCAD MEP, Revit MEP, Navisworks для координации и поиска коллизий",
+   "Сдача объекта: testing and commissioning, балансировка воздуха и воды, as-built и O&M мануалы",
+   "Регистрация: UAE Society of Engineers, для подписи проектов классификация в Dubai Municipality"
+  ],
+  "check_lead": "В резюме инженера-механика почти всегда написано HVAC, но за этим может стоять и проектирование, и только монтаж. Проверяем, что именно человек делал, решение за вашим инженером.",
+  "steps": [
+   ["Расчётное задание", "офис 400 м2 в Дубае с остеклением на запад: за час прикинуть холодильную нагрузку, выбрать тип системы и объяснить допущения."],
+   ["Разбор коллизии", "модель в Navisworks или набор чертежей, где воздуховод пересекает балку и спринклерную магистраль. Как решить и с кем согласовать."],
+   ["Кейс сдачи", "Civil Defence не принял систему пожаротушения на инспекции. Какие документы и испытания кандидат готовит к повторной подаче."],
+   ["Рекомендации", "звонки руководителям MEP: типы объектов, объём систем, участие в T&C и сдаче."]
+  ],
+  "mistake": "Типичная ошибка: взять инженера с опытом только в проектировании на объект, где нужно вести монтажников и сдавать системы инспекторам, или наоборот. Ещё ошибка: не уточнить опыт с Civil Defence, хотя именно на пожарке проекты в Дубае теряют больше всего времени.",
+  "sal": [
+   ["Младший инженер-механик", "7 000 - 11 000"],
+   ["Инженер-механик среднего уровня", "11 000 - 18 000"],
+   ["Старший инженер-механик или лид MEP-механики", "18 000 - 30 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт с Civil Defence, district cooling и крупными объектами поднимает пакет; подрядчики часто добавляют жильё, транспорт и машину.",
+  "faq": [
+   ["Сколько зарабатывает инженер-механик в Дубае?", "В 2026 году младший инженер-механик в Дубае получает около 7 000 - 11 000 AED в месяц, инженер среднего уровня 11 000 - 18 000 AED, старший инженер или лид 18 000 - 30 000 AED. Консультанты и крупные MEP-подрядчики платят по верхней границе."],
+   ["Чем инженер-механик отличается от MEP-инженера?", "Инженер-механик ведёт механическую часть: HVAC, сантехнику и пожаротушение. MEP-инженер координирует все инженерные системы вместе с электрикой и слаботочкой. На небольшом объекте это может быть один человек; на крупном нужна команда. Поможем определить профиль до начала поиска."]
+  ],
+  "seek_h2": "Вы инженер-механик и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Mechanical engineer",
+  "title": "Hire a Mechanical Engineer in Dubai: HVAC, Checks, Salary | TLNT",
+  "desc": "Hire a mechanical engineer in Dubai: HVAC, plumbing and fire fighting, Civil Defence and DEWA, practical calculation checks, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire a mechanical engineer",
+  "h1em": "in Dubai",
+  "intro": "Mechanical engineers in Dubai work for MEP contractors, consultants, developers, facility management companies and manufacturers. In construction most of the work is air conditioning and ventilation, district cooling, water supply and drainage, and fire fighting approved by Dubai Civil Defence. We help you decide whether you need a design engineer, a site engineer or an operations engineer, shortlist from our live database and run a practical check of calculations and documents that your technical lead scores.",
+  "find_lead": "An engineer who calculates cooling loads for the Dubai climate, knows Civil Defence requirements and takes a system through handover, not just to a drawing.",
+  "find": [
+   "HVAC: chillers, district cooling (Empower, Emicool), FCUs and AHUs, load calculations in HAP or IES",
+   "Fire safety: sprinklers, pump rooms, UAE Fire and Life Safety Code, Dubai Civil Defence approvals",
+   "Plumbing and drainage: DEWA and Dubai Municipality rules, pumps, tanks, drainage",
+   "Software: AutoCAD MEP, Revit MEP, Navisworks for coordination and clash detection",
+   "Handover: testing and commissioning, air and water balancing, as-built drawings and O&M manuals",
+   "Registration: UAE Society of Engineers, and Dubai Municipality classification for signing designs"
+  ],
+  "check_lead": "Almost every mechanical engineer CV says HVAC, but behind it can be design or only installation. We check what the person actually did, and your engineer makes the call.",
+  "steps": [
+   ["Calculation task", "a 400 m2 office in Dubai with west-facing glazing: in one hour estimate the cooling load, choose a system type and explain the assumptions."],
+   ["Clash review", "a Navisworks model or drawing set where a duct crosses a beam and a sprinkler main. How to solve it and who to agree it with."],
+   ["Handover case", "Civil Defence rejected the fire fighting system at inspection. Which documents and tests the candidate prepares for resubmission."],
+   ["References", "calls with MEP managers: types of projects, system sizes, involvement in T&C and handover."]
+  ],
+  "mistake": "Typical mistake: putting an engineer with design-only experience on a site where they must lead installers and hand over systems to inspectors, or the other way round. Another one: not asking about Civil Defence experience, although fire systems are where Dubai projects lose the most time.",
+  "sal": [
+   ["Junior mechanical engineer", "7,000 - 11,000"],
+   ["Mid-level mechanical engineer", "11,000 - 18,000"],
+   ["Senior mechanical engineer or MEP mechanical lead", "18,000 - 30,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Civil Defence, district cooling and large project experience raise the package; contractors often add housing, transport or a car.",
+  "faq": [
+   ["How much does a mechanical engineer earn in Dubai?", "In 2026 a junior mechanical engineer in Dubai earns about AED 7,000 - 11,000 per month, a mid-level engineer AED 11,000 - 18,000 and a senior engineer or lead AED 18,000 - 30,000. Consultants and major MEP contractors pay at the top of the range."],
+   ["How is a mechanical engineer different from an MEP engineer?", "A mechanical engineer covers the mechanical side: HVAC, plumbing and fire fighting. An MEP engineer coordinates all building services together with electrical and low current. On a small project it can be one person; a large one needs a team. We help define the profile before the search starts."]
+  ],
+  "seek_h2": "Are you a mechanical engineer looking for a job in Dubai?"
+ }
+}

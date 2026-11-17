@@ -1,0 +1,77 @@
+{
+ "slug": "talent-acquisition-specialist",
+ "hub": "management",
+ "related": ["it-recruiter", "hr-generalist", "hr-business-partner", "hr-manager"],
+ "ru": {
+  "name": "Специалист по подбору персонала",
+  "title": "Найм специалиста по подбору в Дубае: in-house TA, зарплата | TLNT",
+  "desc": "Найм специалиста по подбору (talent acquisition) в штат компании в Дубае: сорсинг, ATS, интервью по компетенциям, практическая проверка от TLNT.",
+  "h1": "Найм специалиста по подбору персонала",
+  "h1em": "в Дубае",
+  "intro": "Специалисты по подбору в штат нужны растущим компаниям Дубая: клиникам и сетям салонов, ресторанным группам, ритейлу, финтеху и IT, где вакансий больше, чем может закрыть руководитель. Задачи: профиль вакансии вместе с нанимающим менеджером, сорсинг в LinkedIn и базах, первичные интервью, организация проверок, предложение и выход кандидата. Помогаем определить, нужен ли вам массовый или точечный рекрутер, даём шорт-лист из нашей живой базы и проводим практическую проверку сорсинга и интервью.",
+  "find_lead": "Специалист, который находит людей сам, а не ждёт откликов, и умеет сказать нанимающему менеджеру, что профиль нереален.",
+  "find": [
+   "Сорсинг: LinkedIn Recruiter, булевы запросы, Bayt, Naukri Gulf, профессиональные сообщества и рекомендации",
+   "Интервью: структурированные вопросы по компетенциям, оценка мотивации, проверка рекомендаций",
+   "ATS и данные: Greenhouse, Workable, Zoho Recruit или Lever, воронка, время закрытия, источник найма",
+   "Рынок ОАЭ: уровни зарплат, переходы между визами, сроки уведомления, требования эмиратизации",
+   "Бренд работодателя: тексты вакансий без дискриминационных требований, отзывы кандидатов, LinkedIn страница",
+   "Партнёрство: работа с нанимающими менеджерами, внешними консультантами по подбору и HR"
+  ],
+  "check_lead": "Цифры \"закрыл 200 вакансий\" ничего не говорят без контекста. Проверяем на вашей реальной вакансии, решение принимает ваш HR-руководитель.",
+  "steps": [
+   ["Задание на сорсинг", "ваша реальная вакансия: кандидат за два часа пишет булевы запросы, находит 10 профилей и объясняет, почему именно они."],
+   ["Интервью", "кандидат проводит 20-минутное интервью с \"соискателем\" по компетенциям, затем пишет краткую оценку."],
+   ["Разговор с менеджером", "нанимающий менеджер хочет специалиста с пятью навыками за половину рыночной зарплаты. Кандидат проводит разговор и предлагает варианты."],
+   ["Рекомендации", "звонки HR-руководителям: объём вакансий, качество наймов через полгода, отношения с менеджерами."]
+  ],
+  "mistake": "Типичная ошибка: нанимать рекрутера из массового подбора на точечные экспертные роли или наоборот. Ещё ошибка: не проверить, умеет ли кандидат писать вакансии без требований к возрасту, полу или национальности, которые запрещены и отталкивают сильных людей.",
+  "sal": [
+   ["Младший специалист по подбору", "7 000 - 11 000"],
+   ["Специалист по подбору", "11 000 - 18 000"],
+   ["Старший специалист или руководитель подбора", "18 000 - 32 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Опыт IT и финансового подбора, LinkedIn Recruiter и знание нескольких языков поднимают пакет; бонус за закрытые вакансии встречается в растущих компаниях.",
+  "faq": [
+   ["Сколько зарабатывает специалист по подбору персонала в Дубае?", "Младший специалист получает около 7 000 - 11 000 AED в месяц, специалист 11 000 - 18 000 AED, старший специалист или руководитель подбора 18 000 - 32 000 AED."],
+   ["Когда нанимать рекрутера в штат, а когда работать с консалтингом по подбору?", "Свой рекрутер выгоден при постоянном потоке похожих вакансий. Для редких, срочных или экспертных ролей удобнее консалтинг по подбору: мы помогаем найти и оценить кандидатов, а решение о найме принимаете вы."]
+  ],
+  "seek_h2": "Вы специалист по подбору персонала и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Talent acquisition specialist",
+  "title": "Hire a Talent Acquisition Specialist in Dubai: Salary | TLNT",
+  "desc": "Hire an in-house talent acquisition specialist in Dubai: sourcing, ATS, competency interviews, practical checks on a real vacancy and a TLNT shortlist.",
+  "h1": "Hire a talent acquisition specialist",
+  "h1em": "in Dubai",
+  "intro": "In-house talent acquisition specialists are needed by growing Dubai companies: clinic and salon chains, restaurant groups, retail, fintech and tech, where open roles outnumber what managers can handle. The work covers defining the role with the hiring manager, sourcing on LinkedIn and databases, first interviews, organising assessments, offers and start dates. We help you decide whether you need a volume or a specialist recruiter, shortlist from our live database and run a practical check of sourcing and interviewing.",
+  "find_lead": "A specialist who finds people proactively instead of waiting for applicants, and can tell a hiring manager when a profile is unrealistic.",
+  "find": [
+   "Sourcing: LinkedIn Recruiter, Boolean search, Bayt, Naukri Gulf, professional communities and referrals",
+   "Interviews: structured competency questions, motivation assessment, reference checks",
+   "ATS and data: Greenhouse, Workable, Zoho Recruit or Lever, funnel, time to fill, source of hire",
+   "UAE market: salary levels, visa transfers, notice periods, Emiratisation requirements",
+   "Employer brand: job ads without discriminatory requirements, candidate experience, LinkedIn page",
+   "Partnership: work with hiring managers, external hiring consultancies and HR"
+  ],
+  "check_lead": "\"Closed 200 roles\" means little without context. We test on your real vacancy, and your HR lead decides.",
+  "steps": [
+   ["Sourcing task", "your real vacancy: in two hours the candidate writes Boolean strings, finds 10 profiles and explains the choice."],
+   ["Interview", "the candidate runs a 20-minute competency interview with a mock applicant and writes a short assessment."],
+   ["Hiring manager talk", "a manager wants five skills at half the market salary. The candidate handles the conversation and offers options."],
+   ["References", "calls to HR leads about role volume, quality of hires after six months and relations with managers."]
+  ],
+  "mistake": "A typical mistake: hiring a volume recruiter for specialist roles or the reverse. Another mistake is not checking that the candidate writes job ads without age, gender or nationality requirements, which are prohibited and put strong people off.",
+  "sal": [
+   ["Junior talent acquisition specialist", "7,000 - 11,000"],
+   ["Talent acquisition specialist", "11,000 - 18,000"],
+   ["Senior specialist or head of talent acquisition", "18,000 - 32,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Tech and finance hiring experience, LinkedIn Recruiter and several languages raise the package; a bonus per filled role is common in growing companies.",
+  "faq": [
+   ["How much does a talent acquisition specialist earn in Dubai?", "A junior earns around AED 7,000 - 11,000 a month, a specialist AED 11,000 - 18,000 and a senior specialist or head of talent acquisition AED 18,000 - 32,000."],
+   ["When is an in-house recruiter better than a hiring consultancy?", "An in-house recruiter pays off with a steady flow of similar roles. For rare, urgent or expert roles a hiring consultancy is often easier: we help you find and assess candidates, and you make the hiring decision."]
+  ],
+  "seek_h2": "Are you a talent acquisition specialist looking for a job in Dubai?"
+ }
+}

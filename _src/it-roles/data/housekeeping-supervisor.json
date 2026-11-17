@@ -1,0 +1,77 @@
+{
+ "slug": "housekeeping-supervisor",
+ "hub": "hospitality",
+ "related": ["room-attendant", "housekeeper", "front-office-manager", "hotel-general-manager"],
+ "ru": {
+  "name": "Супервайзер службы хаускипинга",
+  "title": "Найм супервайзера хаускипинга в Дубае: зарплата | TLNT",
+  "desc": "Найм супервайзера хаускипинга в Дубае: отели, апарт-отели и резиденции, стандарты чистоты и проверка номеров, практический тест и зарплаты 2026 от TLNT.",
+  "h1": "Найм супервайзера хаускипинга",
+  "h1em": "в Дубае",
+  "intro": "Супервайзеры хаускипинга нужны отелям и апарт-отелям, резиденциям с гостиничным сервисом, операторам краткосрочной аренды и клубам. Задачи: распределение номеров между горничными, проверка готовности номеров, стандарты чистоты бренда, бельё и расходники, связь с ресепшен и техслужбой, обучение команды. Помогаем определить профиль под ваш объект, даём шорт-лист из нашей живой базы и проводим практическую проверку, решение принимает ваш executive housekeeper или управляющий.",
+  "find_lead": "Супервайзер, который видит каждую мелочь в номере, вовремя отдаёт номера ресепшен и умеет держать команду горничных в ритме при полной загрузке.",
+  "find": [
+   "Проверка номеров: чек-листы бренда, детали, которые замечает гость, повторная уборка до заселения",
+   "Планирование: распределение номеров, приоритеты на ранний заезд и VIP, работа в пиковые дни",
+   "Системы: Opera или другая PMS, статусы номеров, заявки в техслужбу",
+   "Запасы: бельё, химия и amenities, учёт и контроль расхода",
+   "Безопасность и гигиена: безопасная химия, забытые вещи гостей, стандарты Dubai Municipality",
+   "Команда: обучение горничных, график, мотивация, разбор жалоб гостей"
+  ],
+  "check_lead": "Опыт в отеле не показывает, насколько внимательно человек проверяет номера. Поэтому проверяем на реальном номере, а решение принимает ваш executive housekeeper.",
+  "steps": [
+   ["Проверка номера", "кандидат проверяет подготовленный номер с заложенными недочётами. Смотрим, сколько он найдёт за отведённое время и как оформит замечания."],
+   ["Планирование смены", "180 номеров, 12 горничных, 30 ранних заездов и два VIP. Кандидат распределяет работу и объясняет приоритеты."],
+   ["Ситуации", "гость жалуется на чистоту, горничная не вышла на смену, найдена забытая вещь. Как кандидат действует."],
+   ["Рекомендации", "звонки executive housekeeper и управляющим: оценки чистоты в отзывах, результаты аудитов бренда, отношения с командой."]
+  ],
+  "mistake": "Типичная ошибка: повысить лучшую горничную до супервайзера без проверки навыков планирования и управления людьми. Хороший исполнитель не всегда умеет распределять работу и требовать с коллег. Ещё ошибка: не согласовать с ресепшен время передачи номеров, тогда гости ждут заселения в лобби.",
+  "sal": [
+   ["Младший супервайзер", "3 500 - 5 000"],
+   ["Супервайзер хаускипинга", "5 000 - 7 500"],
+   ["Старший супервайзер или assistant housekeeper", "7 500 - 11 000"]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. В отелях обычно добавляются жильё, питание и транспорт; в люксовых брендах ставки выше.",
+  "faq": [
+   ["Сколько зарабатывает супервайзер хаускипинга в Дубае?", "В 2026 году младший супервайзер хаускипинга в Дубае получает около 3 500 - 5 000 AED в месяц, супервайзер 5 000 - 7 500 AED, старший супервайзер или assistant housekeeper 7 500 - 11 000 AED. Отели обычно добавляют жильё, питание и транспорт."],
+   ["Нужен ли супервайзер небольшому апарт-отелю?", "Если у вас больше 40-50 юнитов и частые заезды, да: без супервайзера качество начинает зависеть от каждой горничной. На меньших объектах эту роль часто совмещает управляющий. Поможем оценить нагрузку и выбрать подходящий формат роли."]
+  ],
+  "seek_h2": "Вы супервайзер хаускипинга и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Housekeeping supervisor",
+  "title": "Hire a Housekeeping Supervisor in Dubai: Salary | TLNT",
+  "desc": "Hire a housekeeping supervisor in Dubai: hotels, serviced apartments and residences, cleanliness standards and room checks, a practical test, 2026 salaries.",
+  "h1": "Hire a housekeeping supervisor",
+  "h1em": "in Dubai",
+  "intro": "Housekeeping supervisors are needed by hotels and serviced apartments, branded residences, short-term rental operators and clubs. The work covers assigning rooms to attendants, inspecting rooms before arrival, brand cleanliness standards, linen and supplies, coordination with front office and engineering and training the team. We help you define the profile for your property, shortlist from our live database and run a practical check, and your executive housekeeper or manager decides.",
+  "find_lead": "A supervisor who spots every detail in a room, releases rooms to front office on time and keeps the attendant team moving at full occupancy.",
+  "find": [
+   "Room inspection: brand checklists, details guests notice, re-cleaning before check-in",
+   "Planning: room allocation, priorities for early arrivals and VIPs, peak days",
+   "Systems: Opera or another PMS, room statuses, engineering requests",
+   "Stock: linen, chemicals and amenities, tracking and usage control",
+   "Safety and hygiene: safe chemicals, lost and found, Dubai Municipality standards",
+   "Team: training attendants, rotas, motivation, handling guest complaints"
+  ],
+  "check_lead": "Hotel experience does not show how carefully someone inspects rooms. So we test on a real room, and your executive housekeeper decides.",
+  "steps": [
+   ["Room inspection", "the candidate inspects a prepared room with planted faults. We see how many they find in the time given and how they record them."],
+   ["Shift planning", "180 rooms, 12 attendants, 30 early arrivals and two VIPs. The candidate assigns the work and explains the priorities."],
+   ["Situations", "a guest complains about cleanliness, an attendant does not show up, a lost item is found. How the candidate acts."],
+   ["References", "calls with executive housekeepers and managers: cleanliness scores in reviews, brand audit results, relations with the team."]
+  ],
+  "mistake": "Typical mistake: promoting the best room attendant to supervisor without checking planning and people management skills. A great performer cannot always assign work and hold colleagues to standard. Another one: not agreeing room release times with front office, so guests wait in the lobby to check in.",
+  "sal": [
+   ["Junior supervisor", "3,500 - 5,000"],
+   ["Housekeeping supervisor", "5,000 - 7,500"],
+   ["Senior supervisor or assistant housekeeper", "7,500 - 11,000"]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Hotels usually add housing, meals and transport; luxury brands pay more.",
+  "faq": [
+   ["How much does a housekeeping supervisor earn in Dubai?", "In 2026 a junior housekeeping supervisor in Dubai earns about AED 3,500 - 5,000 per month, a supervisor AED 5,000 - 7,500 and a senior supervisor or assistant housekeeper AED 7,500 - 11,000. Hotels usually add housing, meals and transport."],
+   ["Does a small serviced apartment building need a supervisor?", "With more than 40-50 units and frequent check-ins, yes: without a supervisor quality depends on each attendant. In smaller properties the manager often covers this role. We help assess the workload and choose the right format for the role."]
+  ],
+  "seek_h2": "Are you a housekeeping supervisor looking for a job in Dubai?"
+ }
+}

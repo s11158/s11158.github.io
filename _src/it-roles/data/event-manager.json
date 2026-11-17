@@ -1,0 +1,136 @@
+{
+ "slug": "event-manager",
+ "hub": "hospitality",
+ "related": [
+  "event-coordinator",
+  "marketing-manager",
+  "project-manager",
+  "pr-manager"
+ ],
+ "ru": {
+  "name": "Ивент-менеджер",
+  "title": "Найм ивент-менеджера в Дубае: бюджет, подрядчики, зарплата | TLNT",
+  "desc": "Найм ивент-менеджера в Дубае: корпоративные события, выставки и запуски, разрешения DET, проверка на реальном брифе, зарплаты 2026 и шорт-лист от TLNT.",
+  "h1": "Найм ивент-менеджера",
+  "h1em": "в Дубае",
+  "intro": "Ивент-менеджеры нужны event-компаниям и DMC, отелям с конференц-залами, застройщикам для запусков проектов, брендам класса люкс и организаторам выставок в DWTC и Expo City. Задачи: бриф и концепция, бюджет и маржа, подрядчики (сцена, свет, кейтеринг, AV), разрешения Dubai Department of Economy and Tourism и площадки, работа в день события. Помогаем определить нужный масштаб и тип событий, даём шорт-лист из нашей живой базы и проводим проверку на реальном брифе.",
+  "find_lead": "Менеджер, который превращает бриф в смету и тайминг, держит подрядчиков и бюджет и спокойно решает проблемы в день события.",
+  "find": [
+   "Портфолио событий: тип (корпоратив, гала, выставка, запуск), количество гостей, бюджет и своя роль в каждом",
+   "Бюджет и маржа: смета в Excel, контроль перерасхода, работа с наценкой и предоплатами подрядчиков",
+   "Подрядчики в ОАЭ: база поставщиков сцены, AV, декора, кейтеринга и умение торговаться",
+   "Разрешения: permits DET для мероприятий, требования площадки, Civil Defence, страхование и тайминг монтажа",
+   "Ведение проекта: run of show, production schedule, координация команды и клиента в одном документе",
+   "Языки и клиенты: английский свободно, русский или арабский как плюс для отдельных клиентов"
+  ],
+  "check_lead": "Красивое портфолио часто собрано из чужих событий. Проверка показывает, что кандидат делал сам и как он считает деньги, а решение принимаете вы.",
+  "steps": [
+   [
+    "Бриф на смету",
+    "реальный бриф: гала-ужин на 300 гостей в отеле. За два-три часа кандидат готовит концепцию, структуру сметы и ключевые сроки."
+   ],
+   [
+    "Разбор кризиса",
+    "за четыре часа до начала отменился AV-подрядчик, а клиент меняет программу. Кандидат рассказывает план по шагам."
+   ],
+   [
+    "Разбор портфолио",
+    "два события из портфолио: бюджет, маржа, что пошло не так, кто был подрядчиками, какие разрешения получали."
+   ],
+   [
+    "Рекомендации",
+    "звонки клиентам или руководителям: выдерживал ли бюджет, как вёл себя в день события, повторные заказы."
+   ]
+  ],
+  "mistake": "Типичная ошибка: нанять креативного человека с ярким портфолио, который не умеет считать смету. События получаются красивыми, но в минус. Ещё ошибка: не проверить знание местных разрешений, из-за чего монтаж задерживают на площадке.",
+  "sal": [
+   [
+    "Ивент-менеджер (начальный уровень)",
+    "9 000 - 14 000"
+   ],
+   [
+    "Ивент-менеджер",
+    "14 000 - 22 000"
+   ],
+   [
+    "Старший ивент-менеджер или head of events",
+    "22 000 - 35 000"
+   ]
+  ],
+  "sal_note": "Рыночная оценка для Дубая на 2026 год. Масштаб событий, свой пул клиентов и бонус от маржи проектов заметно меняют пакет.",
+  "faq": [
+   [
+    "Сколько зарабатывает ивент-менеджер в Дубае?",
+    "В 2026 году ивент-менеджер начального уровня в Дубае получает около 9 000 - 14 000 AED в месяц, опытный менеджер 14 000 - 22 000 AED, старший менеджер или head of events 22 000 - 35 000 AED. Часто есть бонус от маржи проектов."
+   ],
+   [
+    "Чем ивент-менеджер отличается от ивент-координатора?",
+    "Менеджер отвечает за клиента, концепцию, бюджет и маржу события. Координатор ведёт логистику, подрядчиков и тайминг по уже утверждённому плану. Небольшой команде часто хватает сильного координатора, мы поможем определить, кто вам нужен."
+   ]
+  ],
+  "seek_h2": "Вы ивент-менеджер и ищете работу в Дубае?"
+ },
+ "en": {
+  "name": "Event manager",
+  "title": "Hire an Event Manager in Dubai: Budget, Suppliers, Salary | TLNT",
+  "desc": "Hire an event manager in Dubai: corporate events, exhibitions and launches, DET permits, a check on a real brief, 2026 salaries and a TLNT shortlist.",
+  "h1": "Hire an event manager",
+  "h1em": "in Dubai",
+  "intro": "Event managers are needed by event companies and DMCs, hotels with conference space, developers for project launches, luxury brands and exhibition organisers at DWTC and Expo City. The work: brief and concept, budget and margin, suppliers (stage, lighting, catering, AV), Dubai Department of Economy and Tourism and venue permits, and running the day itself. We help you define the scale and type of events, shortlist from our live database and run a check on a real brief.",
+  "find_lead": "A manager who turns a brief into a budget and timeline, keeps suppliers and costs in line and stays calm on show day.",
+  "find": [
+   "Event portfolio: type (corporate, gala, exhibition, launch), guest count, budget and their own role in each",
+   "Budget and margin: Excel costing, overspend control, mark-up and supplier deposits",
+   "UAE suppliers: a network for stage, AV, decor and catering, and the ability to negotiate",
+   "Permits: DET event permits, venue rules, Civil Defence, insurance and build-up timing",
+   "Project control: run of show and production schedule, team and client aligned in one document",
+   "Languages and clients: fluent English, Russian or Arabic as a plus for some clients"
+  ],
+  "check_lead": "A glossy portfolio is often built from other people's events. The check shows what the candidate did personally and how they handle money, and you make the decision.",
+  "steps": [
+   [
+    "Brief to budget",
+    "a real brief: a gala dinner for 300 guests in a hotel. In two to three hours the candidate prepares a concept, budget structure and key deadlines."
+   ],
+   [
+    "Crisis walkthrough",
+    "four hours before doors the AV supplier cancels and the client changes the programme. The candidate explains the plan step by step."
+   ],
+   [
+    "Portfolio review",
+    "two events from the portfolio: budget, margin, what went wrong, who the suppliers were, which permits were needed."
+   ],
+   [
+    "References",
+    "calls with clients or managers: did they hold the budget, how they handled show day, repeat business."
+   ]
+  ],
+  "mistake": "Typical mistake: hiring a creative person with a striking portfolio who cannot build a budget. The events look great but lose money. Another one: not checking knowledge of local permits, so the build-up is held at the venue.",
+  "sal": [
+   [
+    "Junior event manager",
+    "9,000 - 14,000"
+   ],
+   [
+    "Event manager",
+    "14,000 - 22,000"
+   ],
+   [
+    "Senior event manager or head of events",
+    "22,000 - 35,000"
+   ]
+  ],
+  "sal_note": "Market estimate for Dubai in 2026. Event scale, an existing client base and a bonus on project margin noticeably change the package.",
+  "faq": [
+   [
+    "How much does an event manager earn in Dubai?",
+    "In 2026 a junior event manager in Dubai earns about AED 9,000 - 14,000 per month, an experienced manager AED 14,000 - 22,000 and a senior manager or head of events AED 22,000 - 35,000. A bonus on project margin is common."
+   ],
+   [
+    "What is the difference between an event manager and an event coordinator?",
+    "The manager owns the client, concept, budget and margin. The coordinator runs logistics, suppliers and timing against an approved plan. A small team often needs a strong coordinator first; we help you work out which one you need."
+   ]
+  ],
+  "seek_h2": "Are you an event manager looking for a job in Dubai?"
+ }
+}
